@@ -1,0 +1,177 @@
+
+Allgemeine Beobachtungen
+------------------------
+
+1.  Kommen nicht ohne den Begriff der projezierbaren Prädikate aus.
+   
+    Grund: Vereinheitlichung sollte rein formal definiert werden
+    (TODO: zu begründen) und Sprachanpassungen nicht verbieten (siehe
+    [Kitcher1989@TODO]). Sie sind damit offen für trivialisierung,
+    indem entsprechende Prädikate konstruiert werden (TODO:genauer,
+    klarer).
+
+Spezifische VT
+--------------
+
+1.  Kitcher [Kitcher1989] [Klarner2003@ cap. 2.3]
+   
+    Am besten ausgearbeitet. Siehe eigenes Kapitel.
+
+2.  Friedman [Klarner2003@ cap. 2.2]
+   
+    Problem von Salmon [Klarner2003@TODO] schwerwiegend. Ev. lässt sich
+    das grundsätzliche Program jedoch retten:
+   
+    A. logischer Atomismus definieren, d.h. kleinste Aussageneinheit
+    definieren, d.h. logische Formeln messbar machen (d.h. Probleme
+    von K-atomar nach Friedman beheben).
+
+    B. Reduktion dieser Messbarkeit auf empirische Ädaquatheit
+    verhindern durch Gesetzesbegriff (d.h. nicht kleinste Aussagen
+    sondern kleinste Gesetze zum messen verwenden)
+   
+    C. Grösste Vereinheitlichung = kleinste Gesetzesmenge aus welcher
+    sämtliche Gesetze folgen
+   
+    Anwendung auf KT: kleinste KT-artigen-Gesetzmenge, aus welcher
+    sämtliche KT-artigen Gesetze folgen?
+   
+   
+3.  Schurz und Lambert (erwähnt in [Gijsbers2007]) [Schurz1999]
+   
+    Fügen eine KT explizit in ihrer VT ein nach [Gijsbers2007], sind
+    also für mein Ansatz nicht verwendbar. TODO: direkte Ref
+    finden/überprüfen, was passiert wenn die KT einfach weggelassen
+    wird?
+
+
+Kausaltheorien (KT) TODO
+========================
+
+1. Regularitätstheorien
+2. kontrafaktische Theorien
+3. ...
+
+Kitcher nach [Kitcher1989]
+==========================
+
+Nach Kitcher könnte eine empirische KT aus einer VT folgen, indem
+Ursachen mit erklärenden Ereignissen gleichgesetzt werden (S.430)
+(zu Kausalität/Empirismus: S.460).
+
+Geht Kitcher davon aus das sein Begriff der Erklärung in jedem Fall
+empirisch ist? Oder ist das eine weitere Bedingung die Klärner an K
+und E(K) stellt? (Spielt die verwendete Sprache L da auch eine Rolle?)
+
+These
+-----
+
+Eine solche KT muss  die der Minimalen Theorien sein
+(unter den Annahmen die Minimale Theorien selbst über die Welt macht
+und unter Auschliessung gewisser entarteter Fälle)
+
+Argumentskizze
+--------------
+
+1. Eine solche KT muss eine Regularitätstheorie sein, da sie
+empirisch ist und mit einer VT als Grundlage Kausalität global
+(d.h. anhand von Typen) definiert. 
+
+2. Nach Kitcher sind Disjunktionen von projezierbaren Prädikaten
+(im allg.?) keine projezierbaren Prädikate (S.483 2.Ab., S.487, S.493
+1.Ab., gibt noch eine klarere Stelle, TODO:wo?)
+
+3. (aus 1.) Ein Argumentschemata kann nicht mehr als eine
+vollständige Ursache enthalten. Ansonsten benutzt man entweder ein
+nicht projezierbares Prädikat, welches die Ursachen zusammenfasst, oder
+das Argumentschema enthält "idle clauses" (S.484 2.Ab)
+
+4. Ein Argumentschemata muss eine vollständige Ursache enthalten,
+da ansonsten das Explanandum nicht mehr deduktiv folgt. (Da spielt
+wohl K.5 eine Rolle, TODO:referenzen).
+
+5. Das im Argumentschemata verwendete projezierbare Prädikat muss
+minimal sein, gleiche Argumentation wie K.7.3.1, irrelevante
+Faktoren. D.h. das verwendete projezierbare Prädikat ist eine minimal
+hinreichende Bedingung.
+
+6. Die Anzahl der Argumentschemata zu einem gewissen Ereignisstyp
+muss minimal sein (Bed C1 S.478, skiziert S.434) ohne Ereignisse
+unerklärt zu lassen. D.h. alle Argumentschemata zusammen bilden eine
+minimal notwendige Bedingung.
+
+7. Ketten werden bevorzugt, da insgesamt weniger Ursachen angegeben
+werden müssen, d.h. Kitcher kann das minimal notwendige Disjunktiv
+zählen => Ketten besser.
+
+Probleme/Lücken/Todos in der Argumentskizze
+-------------------------------------------
+
+1.  Das ein Argumentschemata zum erklären von Ereignissen in erster
+    Linie (TODO:was heisst das genau) auf ein anderes Ereigniss bezug
+    nehmen muss, geht bereits aus dem Programm von Kitcher
+    hervor. Sind nach Kitcher (und nach mir?) besser vereinheitlichte
+    Erklärungen von Ereignissen, welche nicht auf andere Ereignisse
+    bezug nehmen, ausgeschlossen? Im Allg. sicher nicht (siehe
+    entartete Fälle). Könnte ein Argumentschemata mehr enthalten als
+    ein hinreichendes Ereigniss, was von den Minimalen Theorien nicht
+    erfasst wird?
+
+    Kurz: Einschränkung auf Argumentschemata, welche von hinreichenden
+    Ereignissen auf das Explanandum schliessen, für meine
+    Argumentskizze nötig.
+
+2.  Unterscheidung direkte/indirekte Verursachung. Kitcher beschreibt
+    hierarchische Argumentschemata (d.h. spezifische Argumentschemata
+    welche wiederum Instanzen von allgemeineren Argumentschemata sind)
+    (TODO Ref finden). Ev. auch Meta-Argumentschemata?
+    D.h. Argumentschemata welche auf (Instanzen von?) anderen
+    Argumentschemata bezug nehmen. Damit könnte man zeigen, dass sich
+    indirekte Verursachung auch unter Kitcher auf direkte Verursachung
+    reduzieren lässt. Noch zu zeigen: dass dieser Schritt nach
+    Kitchers Kriterien der Vereinhetlichung sinnvoll ist.
+
+Entartete Fälle
+---------------
+
+1.  Konstante Kette: a1 -> a2 -> a3 -> a4 -> a5 ...
+
+    Minimale Theorie: A => A, erklärt a2,a3...
+
+    Besser $\forall i \exist ai$ erklärt a1,a2,a3...
+
+2.  Periodische Kette: a1 -> b2 -> a3 -> b4 ...
+
+    Minimale Theorie: A => B, B => A, erklärt alles bis auf a1
+
+    Besser $\forall$ i i%2=1 -> $\exist$ ai, $\forall$ i i%2=0 -> $\exist$
+    bi erklärt alles
+
+Dieser Fall ist schlimmer als zuerst angenommen. Bsp Zwei-Körpersystem
+klassische Physik. Benutzen von gesamten Weltzuständen als Typen =>
+genau eine Ursache für jede Wirkung (physikalische Tatsache TODO:
+überprüfen, klassisch? QT?) => mathematische Beschreibung gewinnt.
+
+3. Weitere?
+
+Texte gegen das Program
+=======================
+
+1. TODO: [Maki2001]
+2.  [Gijsbers2007]
+   
+    Argument nur gegen Kitcher => grosse Lücke zur Konklusion gegen
+    all Vereinheitlichung (TODO: überprüfen, bisher nur überflogen)
+    Zusammenhang mit entarteter Fall 1, kommen mehrere Ursachen in
+    Frage sollte sich Gijsbers Argumentschemata als Gegenbeispiel
+    entkräften lassen (TODO: durchführen)
+   
+
+Texte für das Program
+=====================
+
+1. TODO: [Strevens2004]
+
+
+
+
