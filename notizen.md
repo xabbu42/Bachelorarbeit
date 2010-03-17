@@ -134,10 +134,9 @@ Probleme/Lücken/Todos in der Argumentskizze
 Entartete Fälle
 ---------------
 
-1.  Konstante Kette: $a_1 \rightarrow a_2 \rightarrow a_3 \rightarrow
-    a_4 \rightarrow a_5 \ldots$
+1.  Konstante Kette: $a_1 \ra a_2 \ra a_3 \ra a_4 \ra a_5 \ldots$
 
-    Minimale Theorie: $A \Rightarrow A$, erklärt $a_2,a_3\ldots$
+    Minimale Theorie: $A \Ra A$, erklärt $a_2,a_3\ldots$
 
     Besser $\forall i \exists a_i$ erklärt $a_1,a_2,a_3\ldots$
 
