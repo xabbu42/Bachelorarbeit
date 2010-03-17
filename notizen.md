@@ -151,9 +151,27 @@ Entartete Fälle
 Dieser Fall ist schlimmer als zuerst angenommen. Bsp Zwei-Körpersystem
 klassische Physik. Benutzen von gesamten Weltzuständen als Typen =>
 genau eine Ursache für jede Wirkung (physikalische Tatsache TODO:
-überprüfen, klassisch? QT?) => mathematische Beschreibung gewinnt.
+überprüfen, klassisch? QT?) => mathematische Beschreibung
+gewinnt (Siehe insbesondere Gijsbers, Punkt 2).
 
 3. Weitere?
+
+Reduktionismus und Erklärungen
+------------------------------
+
+Sehr relevant vor allem für die Probleme auf der physikalischen Ebene
+(siehe entartete Fälle, Gijsbers Punkt 2).
+
+Verschreibt sich Kitcher auf ein Ideal von nur physikalischen
+Erklärungen, indem alle Phänomene auf physikalische Phänomene
+reduziert werden? Genügt z.B. eine low-level Evolutionssimulation als
+Erklärung, oder benötigen wir immer noch allgemeine, statistische
+high-level Erklärungen, d.h. eine eigene nicht-physikalische
+Evolutionstheorie? In letzterem Fall bedeuten die Probleme nach
+Gijsbers und entartete Fälle nur, dass die physikalische Theorie
+wahrscheinlich symmetrisch in der Zeit und damit nicht kausal
+ist. Nicht aber, dass dies für nicht-reduzierbare Theorien auf einem
+höheren Level gilt. 
 
 Texte gegen das Program
 =======================
