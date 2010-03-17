@@ -159,14 +159,71 @@ genau eine Ursache für jede Wirkung (physikalische Tatsache TODO:
 Texte gegen das Program
 =======================
 
-1. TODO: [Maki2001]
-2.  [Gijsbers2007]
+TODO: [Maki2001]
+----------------
+
+[Gijsbers2007]
+--------------
    
-    Argument nur gegen Kitcher => grosse Lücke zur Konklusion gegen
-    all Vereinheitlichung (TODO: überprüfen, bisher nur überflogen)
-    Zusammenhang mit entarteter Fall 1, kommen mehrere Ursachen in
-    Frage sollte sich Gijsbers Argumentschemata als Gegenbeispiel
-    entkräften lassen (TODO: durchführen)
+Argument nur gegen Kitcher und Schurz/Lambert => grosse Lücke zur
+Konklusion gegen all Vereinheitlichung
+
+Zusammenhang mit entarteter Fall 1, kommen mehrere Ursachen in Frage
+sollte sich Gijsbers Argumentschemata als Gegenbeispiel entkräften
+lassen (Falsch, siehe Punkt 2).
+
+Gijsbers scheint sich in erster Linie auf [Kitcher1981] zu
+beziehen. [Kitcher1989] ist viel weniger anfällig auf Gijsbers Kritik
+(TODO:sind die Punkte auch in [Kitcher1981] und Gijsbers ignoriert
+sie?)
+
+1.  *Problem of Spurious Unification*
+
+    Dieses Problem wird in [Kitcher1989] durch die Forderung gelöst,
+    dass alle verwendeten Prädikate projezierbar sein müssen. Diese
+    Lösung ist richtig, da ansonsten alle formalen Betrachtungen von
+    wissenschaftlichen Theorien trivialisierbar sind. Insbesondere ist
+    also $p \in C(A)$ [Gijsbers2007@S.483] nicht projezierbar und
+    Gijsbers Konstruktion kein zulässiges Argumentpattern nach
+    Kitcher.
+
+2.  *Asymmetry Problem*
+
+    Sehr interessant ist Gijsbers Aussage, dass Kitcher von einer
+    idealen Situation, in welcher alle Information vorhanden ist,
+    ausgeht [Gijsbers2007@S.490]. Wie geschrieben ist dies
+    falsch. Kitcher verlangt in [Kitcher1989@TODO] nur, dass eine
+    Instanz von einem Argumentpattern relativ zu $K$ akzeptierbar
+    ist (TODO: überprüfe [Kitcher1981@S.519], widerspricht dem nach
+    [Gijsbers2007@S.494]). Demnach genügt "origin and development" um
+    den "Pole" *erklärbar* zu machen, selbst wenn wir nicht genug
+    wissen, um eine spezifische Instanz von "origin and development"
+    als die korrekte auszuzeichen. 
+
+    Trotzdem besteht Gijsbers Argument, wenn man [Kitcher1989@K.8.3]
+    berücksichtigt. Demnach sind korrekte Erklärungen solche, welche
+    bestehen "in the ideal long run when the principles of rational
+    modification are followed". *origin and development* als Erklärung
+    des "Poles" zu akzeptieren, bedeutet anzunehmen, dass zumindest
+    eine Instanz bestand haben wird in der Zukunft. Wir gehen also
+    unter anderem davon aus, dass weitere Informationen über die
+    Vergangenheit vom "Pole" *origin and development* niemals ganz
+    ausschliessen.
+
+    So gesehen bleibt [Gijsbers2007@S.491, Ab. 2] bestehen. Wir wissen
+    zwar nicht genügend von der Zukunft, um eine spezifische *end and
+    regression* Instanz auszuwählen, aber das ist auch nicht nötig,
+    solange zumindest eine bestand haben wird. Zudem scheint *end and
+    regression* "in the ideal long run [...]" genauso wie *origin and
+    development* zu nur einer möglichen Erklärung vom Pole zu führen,
+    gegeben die fundamentalen Gesetze der Physik sind symmetrisch in
+    der Zeit.
+
+3.  *Lawhood*
+ 
+    Nicht besonders wichtig in meinem Kontext. Für das Problem der
+    Asymmetry und Kausalität ist Kitchers Definition von "lawlike" und
+    ob diese funktioniert irrelevant.
    
 
 Texte für das Program
