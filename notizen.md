@@ -1,6 +1,6 @@
 
 Allgemeine Beobachtungen
-------------------------
+========================
 
 1.  Kommen nicht ohne den Begriff der projezierbaren Prädikate aus.
    
@@ -10,8 +10,9 @@ Allgemeine Beobachtungen
     indem entsprechende Prädikate konstruiert werden (TODO:genauer,
     klarer).
 
+
 Spezifische VT
---------------
+==============
 
 1.  Kitcher [Kitcher1989] [Klarner2003@ cap. 2.3]
    
