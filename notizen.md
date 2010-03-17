@@ -134,18 +134,20 @@ Probleme/Lücken/Todos in der Argumentskizze
 Entartete Fälle
 ---------------
 
-1.  Konstante Kette: a1 -> a2 -> a3 -> a4 -> a5 ...
+1.  Konstante Kette: $a_1 \rightarrow a_2 \rightarrow a_3 \rightarrow
+    a_4 \rightarrow a_5 \ldots$
 
-    Minimale Theorie: A => A, erklärt a2,a3...
+    Minimale Theorie: $A \Rightarrow A$, erklärt $a_2,a_3\ldots$
 
-    Besser $\forall i \exist ai$ erklärt a1,a2,a3...
+    Besser $\forall i \exists a_i$ erklärt $a_1,a_2,a_3\ldots$
 
-2.  Periodische Kette: a1 -> b2 -> a3 -> b4 ...
+2.  Periodische Kette: $a_1 \ra b_2 \ra a_3 \ra b_4 ...$
 
-    Minimale Theorie: A => B, B => A, erklärt alles bis auf a1
+    Minimale Theorie: $A \Ra B$, $B \Ra A$, erklärt alles bis auf
+    $a_1$
 
-    Besser $\forall$ i i%2=1 -> $\exist$ ai, $\forall$ i i%2=0 -> $\exist$
-    bi erklärt alles
+    Besser $\forall i (i \mod{2} \equiv 1 \ra \exists a_i)$, $\forall i
+    (i \mod{2} \equiv 0 \ra \exists b_i)$ erklärt alles.
 
 Dieser Fall ist schlimmer als zuerst angenommen. Bsp Zwei-Körpersystem
 klassische Physik. Benutzen von gesamten Weltzuständen als Typen =>
