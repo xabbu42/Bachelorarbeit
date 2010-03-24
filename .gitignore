@@ -1,0 +1,7 @@
+mendeley.xml
+*.aux
+*.aux.bak
+*.latex
+*.log
+*.out
+*.pdf
