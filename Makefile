@@ -1,7 +1,7 @@
 
 PANDOC=-s -R --csl apa.csl --biblio mendeley.xml --biblio-format mods
 
-all: notizen.pdf
+all: notizen.pdf essay.pdf
 
 mendeley.xml: ../library.bib Makefile
 	bibclean $< | bibtool -f '%n(author)%4d(year)' -s | bib2xml > $@
