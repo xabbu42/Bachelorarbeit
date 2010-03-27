@@ -57,7 +57,7 @@ Kitcher nach [Kitcher1989]
 ==========================
 
 Nach Kitcher könnte eine empirische KT aus einer VT folgen, indem
-Ursachen mit erklärenden Ereignissen gleichgesetzt werden (S.430)
+Ursachen mit erklärenden Ereignissen gleichgesetzt werden (S.420)
 (zu Kausalität/Empirismus: S.460).
 
 Geht Kitcher davon aus das sein Begriff der Erklärung in jedem Fall
