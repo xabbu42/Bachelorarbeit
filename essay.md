@@ -29,7 +29,8 @@ Vereinheitlichung gelöst werden können:
 > task of a theory of explanation is to specify the conditions on the
 > explanatory store. Intuitively, the explanatory store associated
 > with science at a particular time contains those derivations which
-> collectively provide the best systematization of our beliefs.
+> collectively provide the best systematization of our
+> beliefs. \cite[S.430]{kitcher1989}
 
 Natürlich will Kitcher in der Wissenschaftstheorie nicht vollständig
 auf den Begriff der Kausalität verzichten. Sein wesentlicher Punkt ist
@@ -42,7 +43,8 @@ Erklärung aufbaut, oder die selben primitiven Konzepte verwendet:
 > explanation of the former that includes a description of the
 > latter. Alternatively, it might be suggested that the primitive
 > concepts employed in providing an analysis of explanation are just
-> those that should figure in an adequate account of causation.
+> those that should figure in an adequate account of
+> causation. \cite[S.420]{kitcher1989}
 
 In diesem Essay werde ich untersuchen, wie eine Regularitätstheorie
 der Kausalität nach dem ersten, direkten Ansatz aussehen wird.
