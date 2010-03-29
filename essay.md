@@ -67,12 +67,12 @@ minimalen Theorien sein, so wie sie in \citet[Kapitel
 5]{baumgartner.gra-hoff2004} beschrieben wird.
 
 In jeder Anwendung von Kitchers Vereinheitlichungstheorie muss zuerst
-ermittelt werden, wie genau die verwendeten Argumentschemata aussehen
-und welche Elemente der Anwendung durch einzelne Argumentschemata
+ermittelt werden, wie genau die verwendeten Argumentmuster aussehen
+und welche Elemente der Anwendung durch einzelne Argumentmuster
 erfasst werden können. Im Fall von kausalen Gesetzen ergibt eine
 solche Untersuchung die folgenden zwei Aussagen:
 
-1. Ein einzelnes Argumentschemata muss *mindestens* eine vollständige
+1. Ein einzelnes Argumentmuster muss *mindestens* eine vollständige
    Ursache enthalten.
 
 Kitcher verteidigt eine Position, welche er *deductive chauvinism*
@@ -82,13 +82,13 @@ nennt:
 > sense*, all explanation is deductive. \cite[S.448]{kitcher1989}
 
 Da das Explanandum nur aus einer vollständigen Ursache deduktiv folgt,
-muss damit ein Argumentschemata mindestens eine vollständige Ursache
+muss damit ein Argumentmuster mindestens eine vollständige Ursache
 enthalten.
 
-2. Ein einzelnes Argumentschemata kann nicht mehrere alternative
+2. Ein einzelnes Argumentmuster kann nicht mehrere alternative
    Ursachen enthalten.
 
-Nach Kitcher sind in einem Argumentschemata nur projezierbare
+Nach Kitcher sind in einem Argumentmuster nur projezierbare
 Prädikate erlaubt \citep[S.482]{kitcher1989}. Die verschiedenen
 alternativen Ursachentypen bestimmen, was für eine Art Ereignis als
 Ursache im Schema eingesetzt werden kann, und sind deshalb als ein
@@ -104,14 +104,14 @@ Faktorenverschränkungen kausal zu interpretieren sind
 des Kettenproblems wird damit in die selbe Forderung Kitchers
 eingebettet wie die Forderung nach einer minimal notwendigen
 Ursachenmenge. Nämlich dass eine Theorie möglichst wenige verschiedene
-Argumentschemata enthalten sollte.
+Argumentmuster enthalten sollte.
 
 Auch die Forderung, dass einzelne vollständige Ursachentypen minimal
 notwendig sein müssen, ergibt sich aus dem Anliegen, möglichst wenig
-Argumentschemata zu verwenden. Wenn nämlich zusätzliche
+Argumentmuster zu verwenden. Wenn nämlich zusätzliche
 Einschränkungen an ein Ursachentyp gestellt werden, wird damit die
-Anwendbarkeit des Argumentschematas eingeschränkt. Dadurch können mit
-diesem Argumentschemata weniger Ereignisse erklärt werden und man muss
-diese mit anderen zusätzlichen Argumentschemata erklären.
+Anwendbarkeit des Argumentmusters eingeschränkt. Dadurch können mit
+diesem Argumentmuster weniger Ereignisse erklärt werden und man muss
+diese mit anderen zusätzlichen Argumentmustern erklären.
 
 \bibliography{mendeley.bib}
