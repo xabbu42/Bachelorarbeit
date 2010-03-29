@@ -52,7 +52,26 @@ der Kausalität nach dem ersten, direkten Ansatz aussehen wird.
 These
 =====
 
+Es ist wichtig, zwei Fragen zu unterscheiden, welche sich direkt an
+dieses Program stellen. Zum einen die Frage, ob in einer kausalen Welt
+die kausale Struktur tatsächlich durch die am stärksten
+vereinheitlichte Theorie erfasst wird. Zum anderen die Frage, wie eine
+Theorie der Kausalität in dem Fall aussehen muss. Ich werde davon
+ausgehen, dass die erste Frage mit Ja zu beantworten ist ohne dies zu
+argumentieren. D.h. ich werde davon ausgehen, dass die am stärksten
+vereinheitlichte Theore der Welt sämtliche tatsächlich kausal
+erklärbaren Ereignisse durch angabe eines hinreicheinden Ereignisses,
+welches als Ursache in Frage kommt, erklärt.
+
+Mit Hilfe dieser Voraussetzung will ich die zweite Frage mit folgender
+Hauptthese beantworten:
+
+> Diese Kausaltheorie muss diejenige der minimalen Theorien sein, so
+> wie sie in \citet[Kapitel 5]{baumgartner.hoff2004} beschrieben wird.
+
+
 Argumentation
 =============
 
-\bibliography{../library.bib}
+
+\bibliography{mendeley.bib}
