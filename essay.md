@@ -78,6 +78,51 @@ Hauptthese beantworten:
 Argumentation
 =============
 
+In jeder Anwendung von Kitchers Vereinheitlichungstheorie muss zuerst
+ermittelt werden, wie genau die verwendeten Argumentschemata aussehen
+und welche Elemente der Anwendung durch einzelne Argumentschemata
+erfasst werden können. Im Fall von kausalen Gesetzen ergibt eine
+solche Untersuchung die folgenden zwei Aussagen:
 
+1. Ein einzelnes Argumentschemata muss eine vollständige Ursache enthalten.
+
+Kitcher verteidigt eine Position, welche er *deductive chauvinism*
+nennt:
+
+> The explanatory store contains only deductive arguments. *In certain
+> sense*, all explanation is deductive. \cite[S.448]{kitcher1989}
+
+Da das Explanandum nur aus einer vollständigen Ursache deduktiv folgt,
+muss damit ein Argumentschemata mindestens eine vollständige Ursache
+enthalten.
+
+2. Ein einzelnes Argumentschemata kann nicht mehrere alternative
+   Ursachen enthalten.
+
+Nach Kitcher sind in einem Argumentschemata nur projezierbare
+Prädikate erlaubt \citep[S.482]{kitcher1989}. Die verschiedenen
+alternativen Ursachentypen bestimmen, was für eine Art Ereignis als
+Ursache im Schema eingesetzt werden kann, und sind deshalb als ein
+Prädikat zu betrachten. Im allgemeinen sind jedoch Disjunktionen von
+Prädikaten keine projezierbaren Prädikate, wie Kitcher an mehreren
+Stellen aussagt \citep[S.482, S.483, S.493]{kitcher1989}.
+
+Mit diesen beiden Punkten ergibt sich direkt, dass die alternativen
+Ursachentypen zu einem Ereignistyp insgesamt minimal notwendig sein
+müssen. Ausserdem lässt sich damit auch direkt zeigen, warum
+Faktorenverschränkungen kausal zu interpretieren sind
+\citep[vgl.][S.306]{baumgartner.gra-hoff2004}. Die genannte Auflösung
+des Kettenproblems wird damit in die selbe Forderung Kitchers
+eingebettet wie die Forderung nach einer minimal notwendigen
+Ursachenmenge. Nämlich dass eine Theorie möglichst wenige verschiedene
+Argumentschemata enthalten sollte.
+
+Auch die Forderung, dass einzelne vollständige Ursachentypen minimal
+notwendig sein müssen, ergibt sich aus dem Versuch, möglichst wenig
+Argumentschemata zu verwenden. Wenn nämlich zusätzliche
+Einschränkungen an ein Ursachentyp gestellt werden, wird damit die
+Anwendbarkeit des Argumentschematas eingeschränkt. Dadurch können mit
+diesem Argumentschemata weniger Ereignisse erklärt werden und man muss
+diese mit anderen zusätzlichen Argumentschemata erklären.
 
 \bibliography{mendeley.bib}
