@@ -67,11 +67,10 @@ Mit Hilfe dieser Voraussetzung will ich die zweite Frage mit folgender
 Hauptthese beantworten:
 
 > Diese Kausaltheorie muss diejenige der minimalen Theorien sein, so
-> wie sie in \citet[Kapitel 5]{baumgartner.hoff2004} beschrieben wird.
+> wie sie in \citet[Kapitel 5]{baumgartner.gra-hoff2004} beschrieben wird.
 
 
 Argumentation
 =============
-
 
 \bibliography{mendeley.bib}
