@@ -2,9 +2,6 @@
 % Nathan Gass
 %
 
-Interpretation
-==============
-
 Kitcher identifiziert zwei Hauptansätze, die Probleme von Hempels
 *covering-law*-Modell der Erklärung zu lösen. Zum einen den kausalen
 Ansatz, zum anderen durch den Rückgriff auf Vereinheitlichung
@@ -32,10 +29,10 @@ Vereinheitlichung gelöst werden können:
 > collectively provide the best systematization of our
 > beliefs. \cite[S.430]{kitcher1989}
 
-Natürlich will Kitcher in der Wissenschaftstheorie nicht vollständig
-auf den Begriff der Kausalität verzichten. Sein wesentlicher Punkt ist
-aber, dass dieser Begriff entweder direkt auf den Begriff der
-Erklärung aufbaut, oder die selben primitiven Konzepte verwendet:
+Natürlich will Kitcher nicht vollständig auf den Begriff der
+Kausalität verzichten. Sein wesentlicher Punkt ist aber, dass dieser
+Begriff entweder direkt auf den Begriff der Erklärung aufbaut, oder
+die selben primitiven Konzepte verwendet:
 
 > A successful analysis of explanation might be used directly to offer
 > an analysis of causation -- most simply, by proposing that one event
@@ -47,36 +44,27 @@ Erklärung aufbaut, oder die selben primitiven Konzepte verwendet:
 > causation. \cite[S.420]{kitcher1989}
 
 In diesem Essay werde ich untersuchen, wie eine Regularitätstheorie
-der Kausalität nach dem ersten, direkten Ansatz aussehen muss.
-
-These
-=====
-
-Es ist wichtig, zwei Fragen zu unterscheiden, welche sich direkt an
-dieses Program stellen. Diese sind:
+der Kausalität nach dem ersten, direkten Ansatz aussehen muss.  Es ist
+wichtig, die folgenden zwei Fragen zu unterscheiden, welche sich
+direkt an diesen Ansatz stellen:
 
 1. Wird in einer kausalen Welt die kausale Struktur tatsächlich durch
    die am besten vereinheitlichte Theorie erfasst?
 
 2. Wie sieht eine von der Vereinheitlichungstheorie abgeleitete
-   Kausaltheorie in dem Fall aus?
+   Regularitätstheorie der Kausalität in dem Fall aus?
 
 Ich werde davon ausgehen, dass die erste Frage mit Ja zu beantworten
-ist ohne dies zu argumentieren. Das heisst, ich gehe davon aus, dass
-die am stärksten vereinheitlichte Theore der Welt sämtliche
-tatsächlich kausal erklärbaren Ereignisse durch angabe eines
-hinreicheinden Ereignisses erklärt, nämlich der tatsächlichen Ursache
-des zu erklärenden Ereignisses.
+ist, ohne für diese Annahme zu argumentieren. Das heisst, ich gehe
+davon aus, dass die am stärksten vereinheitlichte Theorie der Welt
+sämtliche tatsächlich kausal erklärbaren Ereignisse durch die Angabe
+eines hinreicheinden Ereignisses erklärt, nämlich der tatsächlichen
+Ursache des zu erklärenden Ereignisses.
 
 Mit Hilfe dieser Voraussetzung will ich die zweite Frage mit folgender
-Hauptthese beantworten:
-
-> Diese Kausaltheorie muss diejenige der minimalen Theorien sein, so
-> wie sie in \citet[Kapitel 5]{baumgartner.gra-hoff2004} beschrieben wird.
-
-
-Argumentation
-=============
+Hauptthese beantworten: Diese Kausaltheorie muss diejenige der
+minimalen Theorien sein, so wie sie in \citet[Kapitel
+5]{baumgartner.gra-hoff2004} beschrieben wird.
 
 In jeder Anwendung von Kitchers Vereinheitlichungstheorie muss zuerst
 ermittelt werden, wie genau die verwendeten Argumentschemata aussehen
@@ -84,7 +72,8 @@ und welche Elemente der Anwendung durch einzelne Argumentschemata
 erfasst werden können. Im Fall von kausalen Gesetzen ergibt eine
 solche Untersuchung die folgenden zwei Aussagen:
 
-1. Ein einzelnes Argumentschemata muss eine vollständige Ursache enthalten.
+1. Ein einzelnes Argumentschemata muss *mindestens* eine vollständige
+   Ursache enthalten.
 
 Kitcher verteidigt eine Position, welche er *deductive chauvinism*
 nennt:
@@ -118,7 +107,7 @@ Ursachenmenge. Nämlich dass eine Theorie möglichst wenige verschiedene
 Argumentschemata enthalten sollte.
 
 Auch die Forderung, dass einzelne vollständige Ursachentypen minimal
-notwendig sein müssen, ergibt sich aus dem Versuch, möglichst wenig
+notwendig sein müssen, ergibt sich aus dem Anliegen, möglichst wenig
 Argumentschemata zu verwenden. Wenn nämlich zusätzliche
 Einschränkungen an ein Ursachentyp gestellt werden, wird damit die
 Anwendbarkeit des Argumentschematas eingeschränkt. Dadurch können mit
