@@ -58,7 +58,7 @@ Ursache des zu erklärenden Ereignisses.
 
 Mit Hilfe dieser Voraussetzung will ich für die zweite Frage folgende
 Hauptthese prüfen: Die Kausaltheorie der minimalen Theorien, wie sie
-in \citet[Kapitel 5]{baumgartner.gra-hoff2004} beschrieben wird, kann
+in \citet[Kapitel 5]{baumgartner2004} beschrieben wird, kann
 aus Kitchers Vereinheitlichungstheorie abgeleitet werden, indem
 Ursachen mit erklärenden Ereignissen gleichgesetzt werden.
 
@@ -108,7 +108,7 @@ Mit diesen beiden Punkten ergibt sich direkt, dass die alternativen
 Ursachentypen zu einem Ereignistyp insgesamt minimal notwendig sein
 müssen. Ausserdem lässt sich damit auch direkt zeigen, warum
 Faktorenverschränkungen kausal zu interpretieren sind
-\citep[vgl.][S.306]{baumgartner.gra-hoff2004}. In beiden Fällen wird
+\citep[vgl.][S.306]{baumgartner2004}. In beiden Fällen wird
 durch dieses Vorgehen eine Minimalisierung der verwendeten
 Argumentmuster erreicht, ohne die erklärbaren Ereignisse
 einzuschränken, und damit eine besser vereinheitlichte Theorie.

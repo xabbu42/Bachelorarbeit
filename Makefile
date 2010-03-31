@@ -1,5 +1,5 @@
 
-PANDOC=-s -R --csl apa.csl --biblio mendeley.xml --biblio-format mods
+PANDOC=-s -R -C ../tex/pandoc_header.latex
 
 all: notizen.pdf essay.pdf
 
@@ -7,7 +7,8 @@ mendeley.xml: mendeley.bib Makefile
 	bib2xml < $< > $@
 
 mendeley.bib: ../library.bib Makefile
-	cat $< | bibtool -f '%n(author)%4d(year)' -s  > $@
+	cp $< $@
+#cat $< | bibtool -f '%n(author)%4d(year)' -s  > $@
 
 # notizen.md: .phony
 #	wget -N 'http://exporty2.appspot.com/export?waveId=googlewave.com!w%252B9lHTRHebA&accesstoken=5db1662646853b9b&template=raw' -O $@
