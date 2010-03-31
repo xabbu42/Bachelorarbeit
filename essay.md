@@ -6,16 +6,16 @@ Kitcher identifiziert zwei Hauptansätze, die Probleme von Hempels
 *covering-law*-Modell der Erklärung zu lösen. Zum einen den kausalen
 Ansatz, zum anderen durch den Rückgriff auf Vereinheitlichung
 \cite[S.419, S.430]{kitcher1989}. Im ersten Ansatz ergibt sich eine
-sehr einfache Lösung zweier wichtiger Probleme Hempels, dem Problem
-der Asymmetrie und dem Problem der irrelevanten Faktoren. Allerdings
-handelt man sich damit den epistemisch problematischen Begriff der
-Kausalität ein. Im zweiten Fall muss man nicht auf epistemisch
-problematische Konzepte zurückgreifen, hat aber vorerst einige Mühe,
-die Probleme der Asymmetrie und der irrelevanten Faktoren angemessen
-zu behandeln \cite[S.420, S.459]{kitcher1989}.
+sehr einfache Lösung zweier wichtiger Probleme Hempels, nämlich des
+Problems der Asymmetrie und des Problems der irrelevanten
+Faktoren. Allerdings handelt man sich damit den epistemisch
+problematischen Begriff der Kausalität ein. Im zweiten Fall muss man
+nicht auf epistemisch problematische Konzepte zurückgreifen, hat aber
+vorerst einige Mühe, die Probleme der Asymmetrie und der irrelevanten
+Faktoren angemessen zu behandeln \cite[S.420, S.459]{kitcher1989}.
 
 Kitcher selbst bevorzugt dabei den zweiten Weg. Er will also auf den
-Rückgriff der Kausalität verzichten und aufzeigen, wie die Probleme
+Rückgriff auf Kausalität verzichten und aufzeigen, wie die Probleme
 der Asymmetrie und der irrelevanten Faktoren durch das Konzept der
 Vereinheitlichung gelöst werden können
 \cite[S.430]{kitcher1989}. Natürlich will Kitcher nicht vollständig
@@ -37,9 +37,9 @@ verwenden kann:
 > of causation. \cite[S.420]{kitcher1989}
 
 In meiner Bachelorarbeit möchte ich untersuchen, wie eine
-Regularitätstheorie der Kausalität[^1] nach dem ersten, direkten
-Ansatz aussehen muss. Es ist wichtig, die folgenden zwei Fragen zu
-unterscheiden, welche sich direkt an dieses Program stellen:
+Regularitätstheorie der Kausalität nach dem ersten, direkten
+Ansatz aussehen muss[^1]. Es ist wichtig, die folgenden zwei Fragen zu
+unterscheiden, die sich direkt an dieses Program stellen:
 
 1. Wird in einer kausalen Welt die kausale Struktur tatsächlich durch
    die am besten vereinheitlichte Theorie erfasst?
@@ -55,11 +55,11 @@ sämtliche tatsächlich kausal erklärbaren Ereignisse durch die Angabe
 eines hinreicheinden Ereignisses erklärt, nämlich der tatsächlichen
 Ursache des zu erklärenden Ereignisses.
 
-Mit Hilfe dieser Voraussetzung will ich die zweite Frage mit folgender
-Hauptthese beantworten: Die Kausaltheorie der minimalen Theorien, wie
-sie in \citet[Kapitel 5]{baumgartner.gra-hoff2004} beschrieben wird,
-folgt aus Kitchers Vereinheitlichungstheorie, indem Ursachen mit
-erklärenden Ereignissen gleichgesetzt werden.
+Mit Hilfe dieser Voraussetzung will ich für die zweite Frage folgende
+Hauptthese prüfen: Die Kausaltheorie der minimalen Theorien, wie sie
+in \citet[Kapitel 5]{baumgartner.gra-hoff2004} beschrieben wird, kann
+aus Kitchers Vereinheitlichungstheorie abgeleitet werden, indem
+Ursachen mit erklärenden Ereignissen gleichgesetzt werden.
 
 [^1]: Vorerst schrenke ich mich also selbst auf eine
 Regularitätstheorie ein, obwohl weder Kitcher noch seine
@@ -93,7 +93,7 @@ enthalten.
 2. Ein einzelnes Argumentmuster kann nicht mehrere alternative
    Ursachen enthalten.
 
-Nach Kitcher sind in einem Argumentmuster nur projezierbare Prädikate
+Nach Kitcher sind in einem Argumentmuster nur projizierbare Prädikate
 erlaubt \citep[S.482]{kitcher1989}. Die verschiedenen alternativen
 Ursachentypen bestimmen, was für eine Art Ereignis als Ursache im
 Schema des Argumentmusters eingesetzt werden können und sind deshalb
