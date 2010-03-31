@@ -95,15 +95,23 @@ Disjunktionen von Prädikaten keine projizierbaren Prädikate, wie
 Kitcher an mehreren Stellen aussagt \citep[S.482, S.483,
 S.493]{kitcher1989}.
 
+Diese Forderung entspricht intuitiv dem Begriff der
+Vereinheitlichung. Durch blosses Aufzählen der verschiedenen bekannten
+Ursachen eines Ereignisstyps, wird noch keine Vereinheitlichung
+erreicht. Es handelt sich um verschiedene Argumentmuster um Ereignisse
+vom gleichen Typ zu erklären. Erst wenn die Gemeinsamkeit der
+verschiedenen Ursachen gefunden wird, also ein projizierbares
+Prädikat, welches auf alle Ursachen zutrifft, können die verschiedenen
+Argumentmuster zu einem reduziert werden.
+
 Mit diesen beiden Punkten ergibt sich direkt, dass die alternativen
 Ursachentypen zu einem Ereignistyp insgesamt minimal notwendig sein
 müssen. Ausserdem lässt sich damit auch direkt zeigen, warum
 Faktorenverschränkungen kausal zu interpretieren sind
-\citep[vgl.][S.306]{baumgartner.gra-hoff2004}. Die genannte Auflösung
-des Kettenproblems wird damit in die selbe Forderung Kitchers
-eingebettet wie die Forderung nach einer minimal notwendigen
-Ursachenmenge. Nämlich dass eine Theorie möglichst wenige verschiedene
-Argumentmuster enthalten sollte.
+\citep[vgl.][S.306]{baumgartner.gra-hoff2004}. In beiden Fällen wird
+durch dieses Vorgehen eine Minimalisierung der verwendeten
+Argumentmuster erreicht, ohne die erklärbaren Ereignisse
+einzuschränken, und damit eine besser vereinheitlichte Theorie.
 
 Auch die Forderung, dass einzelne vollständige Ursachentypen minimal
 notwendig sein müssen, ergibt sich aus dem selben Anliegen Kitchers.
@@ -119,7 +127,7 @@ zusätzlichen Argumentmustern erklären.
 Regularitätstheorie ein, obwohl weder Kitcher noch seine
 Vereinheitlichungstheorie diese Einschränkung direkt stützen. Es gibt
 aber auch Argumente, warum sich gerade eine Regularitätstheorie
-besonders für dieses Programm eignen, insbesondere da nach Kitcher
+besonders für mein Programm eignen, insbesondere da nach Kitcher
 dadurch auch die Probleme einer empirischen Definition von Kausalität
 gelöst werden sollen.
 
