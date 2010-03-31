@@ -17,22 +17,11 @@ behandeln \cite[S.420, S.459]{kitcher1989}.
 Kitcher selbst bevorzugt dabei den zweiten Weg. Er will also auf den
 Rückgriff der Kausalität verzichten und aufzeigen, wie die Probleme
 der Asymmetrie und der irrelevanten Faktoren durch das Konzept der
-Vereinheitlichung gelöst werden können:
-
-> By contrast, the heart of the view that I shall develop in this
-> section (and which I shall ultimately try to defend) is that
-> successful explanation earn that title because they belong to a set
-> of explanations, the *explanatory store*, and that the fundamental
-> task of a theory of explanation is to specify the conditions on the
-> explanatory store. Intuitively, the explanatory store associated
-> with science at a particular time contains those derivations which
-> collectively provide the best systematization of our
-> beliefs. \cite[S.430]{kitcher1989}
-
-Natürlich will Kitcher nicht vollständig auf den Begriff der
-Kausalität verzichten. Sein wesentlicher Punkt ist aber, dass dieser
-Begriff entweder direkt auf den Begriff der Erklärung aufbaut, oder
-die selben primitiven Konzepte verwendet:
+Vereinheitlichung gelöst werden können
+\cite[S.430]{kitcher1989}. Natürlich will Kitcher nicht vollständig
+auf den Begriff der Kausalität verzichten. Sein wesentlicher Punkt ist
+aber, dass dieser Begriff entweder direkt auf den Begriff der
+Erklärung aufbaut, oder die selben primitiven Konzepte verwendet:
 
 > A successful analysis of explanation might be used directly to offer
 > an analysis of causation -- most simply, by proposing that one event
@@ -107,11 +96,12 @@ Ursachenmenge. Nämlich dass eine Theorie möglichst wenige verschiedene
 Argumentmuster enthalten sollte.
 
 Auch die Forderung, dass einzelne vollständige Ursachentypen minimal
-notwendig sein müssen, ergibt sich aus dem Anliegen, möglichst wenig
-Argumentmuster zu verwenden. Wenn nämlich zusätzliche
-Einschränkungen an ein Ursachentyp gestellt werden, wird damit die
-Anwendbarkeit des Argumentmusters eingeschränkt. Dadurch können mit
-diesem Argumentmuster weniger Ereignisse erklärt werden und man muss
-diese mit anderen zusätzlichen Argumentmustern erklären.
+notwendig sein müssen, ergibt sich aus dem selben Anliegen Kitchers.
+Wenn nämlich zusätzliche Einschränkungen an ein Ursachentyp gestellt
+werden, wird damit die Anwendbarkeit des Argumentmusters
+eingeschränkt. Dadurch können mit diesem Argumentmuster weniger
+Ereignisse erklärt werden und man muss diese Ereignisse mit anderen
+zusätzlichen Argumentmustern erklären.
 
 \bibliography{mendeley.bib}
+
