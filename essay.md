@@ -3,25 +3,26 @@
 %
 
 Kitcher identifiziert zwei Hauptansätze, die Probleme von Hempels
-*covering-law*-Modell der Erklärung zu lösen. Zum einen den kausalen
-Ansatz, zum anderen durch den Rückgriff auf Vereinheitlichung
-\cite[S.419, S.430]{kitcher1989}. Im ersten Ansatz ergibt sich eine
-sehr einfache Lösung zweier wichtiger Probleme Hempels, nämlich des
-Problems der Asymmetrie und des Problems der irrelevanten
-Faktoren. Allerdings handelt man sich damit den epistemisch
-problematischen Begriff der Kausalität ein. Im zweiten Fall muss man
-nicht auf epistemisch problematische Konzepte zurückgreifen, hat aber
-vorerst einige Mühe, die Probleme der Asymmetrie und der irrelevanten
-Faktoren angemessen zu behandeln \cite[S.420, S.459]{kitcher1989}.
+*covering-law*-Modell der Erklärung zu lösen. In einem Ansatz wird auf
+den Begriff der Kausalität zurückgegriffen, im anderen auf den Begriff
+der Vereinheitlichung \cite[S.419, S.430]{kitcher1989}. Im ersten
+Ansatz ergibt sich eine sehr einfache Lösung zweier wichtiger Probleme
+Hempels, nämlich des Problems der Asymmetrie und des Problems der
+irrelevanten Faktoren. Allerdings handelt man sich damit den
+epistemisch problematischen Begriff der Kausalität ein. Im zweiten
+Fall muss man nicht auf epistemisch problematische Konzepte
+zurückgreifen, hat aber vorerst einige Mühe, die Probleme der
+Asymmetrie und der irrelevanten Faktoren angemessen zu behandeln
+\cite[S.420, S.459]{kitcher1989}.
 
 Kitcher selbst bevorzugt dabei den zweiten Weg. Er will also auf den
 Rückgriff auf Kausalität verzichten und aufzeigen, wie die Probleme
 der Asymmetrie und der irrelevanten Faktoren durch das Konzept der
 Vereinheitlichung gelöst werden können
 \cite[S.430]{kitcher1989}. Natürlich will Kitcher nicht vollständig
-auf den Begriff der Kausalität verzichten. Sein wesentlicher Punkt ist
-aber, dass dieser Begriff entweder direkt auf den Begriff der
-Erklärung aufbauen kann, oder die selben primitiven Konzepte
+auf den Begriff der Kausalität verzichten. Ein wichtiger Punkt seines
+Textes ist aber, dass dieser Begriff entweder direkt auf den Begriff
+der Erklärung aufbauen kann, oder die selben primitiven Konzepte
 verwenden kann:
 
 > For those who inherit Hume's theses about causation (either his
@@ -39,7 +40,7 @@ verwenden kann:
 In meiner Bachelorarbeit möchte ich untersuchen, wie eine
 Regularitätstheorie der Kausalität nach dem ersten, direkten
 Ansatz aussehen muss[^1]. Es ist wichtig, die folgenden zwei Fragen zu
-unterscheiden, die sich direkt an dieses Program stellen:
+unterscheiden, die sich direkt an dieses Programm stellen:
 
 1. Wird in einer kausalen Welt die kausale Struktur tatsächlich durch
    die am besten vereinheitlichte Theorie erfasst?
@@ -60,14 +61,6 @@ Hauptthese prüfen: Die Kausaltheorie der minimalen Theorien, wie sie
 in \citet[Kapitel 5]{baumgartner.gra-hoff2004} beschrieben wird, kann
 aus Kitchers Vereinheitlichungstheorie abgeleitet werden, indem
 Ursachen mit erklärenden Ereignissen gleichgesetzt werden.
-
-[^1]: Vorerst schrenke ich mich also selbst auf eine
-Regularitätstheorie ein, obwohl weder Kitcher noch seine
-Vereinheitlichungstheorie diese Einschrenkung direkt stützen. Es gibt
-aber auch Argumente, warum sich gerade eine Regularitätstheorie
-besonders für Kitchers Programm eignet, inbesondere da nach Kitcher
-dadurch auch die Probleme einer empirischen Definition von Kausalität
-gelöst werden sollen.
 
 In jeder Anwendung von Kitchers Vereinheitlichungstheorie muss zuerst
 ermittelt werden, wie genau die verwendeten Argumentmuster aussehen
@@ -98,7 +91,7 @@ erlaubt \citep[S.482]{kitcher1989}. Die verschiedenen alternativen
 Ursachentypen bestimmen, was für eine Art Ereignis als Ursache im
 Schema des Argumentmusters eingesetzt werden können und sind deshalb
 als ein Prädikat zu betrachten. Im allgemeinen sind jedoch
-Disjunktionen von Prädikaten keine projezierbaren Prädikate, wie
+Disjunktionen von Prädikaten keine projizierbaren Prädikate, wie
 Kitcher an mehreren Stellen aussagt \citep[S.482, S.483,
 S.493]{kitcher1989}.
 
@@ -121,4 +114,12 @@ Ereignisse erklärt werden und man muss diese Ereignisse mit anderen
 zusätzlichen Argumentmustern erklären.
 
 \bibliography{mendeley.bib}
+
+[^1]: Vorerst schränke ich mich also selbst auf eine
+Regularitätstheorie ein, obwohl weder Kitcher noch seine
+Vereinheitlichungstheorie diese Einschränkung direkt stützen. Es gibt
+aber auch Argumente, warum sich gerade eine Regularitätstheorie
+besonders für dieses Programm eignen, insbesondere da nach Kitcher
+dadurch auch die Probleme einer empirischen Definition von Kausalität
+gelöst werden sollen.
 
