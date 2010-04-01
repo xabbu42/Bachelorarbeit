@@ -121,7 +121,7 @@ eingeschränkt. Dadurch können mit diesem Argumentmuster weniger
 Ereignisse erklärt werden und man muss diese Ereignisse mit anderen
 zusätzlichen Argumentmustern erklären.
 
-\bibliography{mendeley.bib}
+\bibliography{literatur}
 
 [^1]: Vorerst schränke ich mich also selbst auf eine
 Regularitätstheorie ein, obwohl weder Kitcher noch seine
