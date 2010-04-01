@@ -23,3 +23,12 @@ mendeley.bib: ../library.bib Makefile
 
 %.html : %.md Makefile mendeley.xml
 	pandoc $(PANDOC) -t html $< > $@
+
+.PRECIOUS : %.latex
+
+clean :
+	-latexmk -c *.latex
+	-rm *.out *.latex
+
+distclean : clean
+	-rm notizen.pdf essay.pdf mendeley.xml mendeley.bib
