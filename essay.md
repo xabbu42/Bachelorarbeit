@@ -26,7 +26,7 @@ der Erklärung aufbauen kann, oder die selben primitiven Konzepte
 verwenden kann:
 
 > For those who inherit Hume's theses about causation (either his
-> positive or his negative views) there ar obvious attractions in
+> positive or his negative views) there are obvious attractions in
 > seeking an account of explanation that does not take any causal
 > concept for granted. A successful analysis of explanation might be
 > used directly to offer an analysis of causation -- most simply, by
@@ -80,9 +80,8 @@ nennt:
 > certain sense*, all explanation is
 > deductive. \cite[S.448]{kitcher1989}
 
-Da das Explanandum nur aus einer vollständigen Ursache deduktiv folgt,
-muss damit ein Argumentmuster mindestens eine vollständige Ursache
-enthalten.
+Da das Explanandum nur aus einem vollständigen Ursachebündel deduktiv
+folgt, muss damit ein Argumentmuster mindestens ein solches enthalten.
 
 2. Ein einzelnes Argumentmuster kann nicht mehrere alternative
    Ursachenbündel enthalten.
