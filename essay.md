@@ -62,50 +62,58 @@ These prüfen: Die Kausaltheorie der minimalen Theorien, wie sie in
 Vereinheitlichungstheorie abgeleitet werden, indem Ursachen mit
 erklärenden Ereignissen gleichgesetzt werden.
 
-In jeder Anwendung von Kitchers Vereinheitlichungstheorie muss zuerst
-ermittelt werden, wie genau die verwendeten Argumentmuster aussehen
-und welche Elemente der Anwendung durch einzelne Argumentmuster
-erfasst werden können, da nur so Aussagen über den Grad der
-Vereinheitlichung einer bestimmten Theorie möglich sind. Im Fall von
-kausalen Theorien ergibt eine solche Untersuchung die folgenden zwei
-Aussagen:
+Kitcher definiert Erklärung relativ zu einem gesamten Wissensschatz
+$K$. Ein Argument ist nach Kitcher eine Erklärung, wenn es zur besten
+Systematisierung $E(K)$ von $K$ gehört. Eine Systematisierung $D$ von
+$K$ definiert er dabei als eine Menge von Ableitungen in $K$. Die
+beste Systematisierung $E(K)$ von $K$ ist diejenige, welche die
+grösste Vereinheitlichung erzielt. Der Grad der Vereinheitlichung
+einer beliebigen Systematisierung $D$ hängt dabei ausschliesslich von
+einer Klassifikation der Ableitungen in $D$ in verschiedene sogenannte
+Argumentmuster (*argument patterns*) ab.
 
-1. Ein einzelnes Argumentmuster muss *mindestens* ein vollständiges
-   Ursachenbündel enthalten.
+Der wesentliche und schwierige Teil von Kitchers Theorie besteht in
+der Bestimmung, was genau ein zulässiges Argumentmuster ist. In einer
+Anwendung von Kitchers Theorie ist demnach auch der wichtigste und
+schwierigste Schritt, die verwendeten Argumentmuster
+festzustellen. Ich werde dafür argumentieren, dass im Bereich der
+Kausalaussagen ein Argumentmuster genau *ein vollständiges
+Ursachenbündel* einer Wirkung erfasst. Das heisst, um Ereignisse
+kausal zu erklären, werden Argumentmuster analog zum folgenden
+Beispiel verwendet:
 
-Kitcher verteidigt eine Position, welche er *deductive chauvinism*
-nennt:
+> Jede funktionierende LED in einem geschlossenen Stromkreis mit
+> genügend kleinem Widerstand, an dem eine Spannung mit der relativ
+> zur LED richtigen Orientierung angeschlossen ist, leuchtet. In der
+> Situation $\alpha$ sind diese Bedingungen erfüllt. Als tritt das
+> Leuchten $\beta$ der LED in $\alpha$ auf.
 
-> The explanatory store contains only deductive arguments. *In a
-> certain sense*, all explanation is
-> deductive. \cite[S.448]{kitcher1989}
+Die Bedingungen welche in diesem Beispiel an die Situation $\alpha$
+gestellt werden, müssen hinreichend sein, da nach Kitcher
+Argumentmuster immer deduktiv sind \citep[S.448]{kitcher1989}. Werden
+jedoch Teile des vollständigen Ursachenbündels, welches im
+Argumentmuster beschrieben wird, weggelassen, so folgt die erklärte
+Wirkung nicht mehr deduktiv, und es handelt sich nach Kitcher demnach
+nicht mehr um ein Argumentmuster.
 
-Da das Explanandum nur aus einem vollständigen Ursachebündel deduktiv
-folgt, muss damit ein Argumentmuster mindestens ein solches enthalten.
+Mit diesem Argumentmuster können viele leuchtende LEDs erklärt werden,
+allerdings nicht alle. So kann eine LED unter gewissen Umständen auch
+eine andere Lichtquelle reflektieren. Es ist aber nicht zulässig diese
+alternative Ursache zusammen mit der gegebenen in einem Argumentmuster
+zusammenzufassen. Der Grund liegt in einer Forderung Kitcher's, dass
+die verwendeten Prädikate projizierbar sein müssen
+\citep[S.482]{kitcher1989}. Das heisst, man kann an die Situation
+$\alpha$ nicht beliebige Bedingungen stellen, insbesondere nicht eine
+beliebige Disjunktion von projizierbaren Prädikaten
+\citep[vgl.][S.482, S.483, S.493]{kitcher1989}. Diese Forderung
+reflektiert die intuitive Vorstellung, dass eine blosse Liste von
+Ursachenbündel keine Vereinheitlichung erzielt, eine gemeinsame,
+messbare Eigenschaft all dieser Ursachenbündel (ein projizierbares
+Prädikat, das auf alle Ursachenbündel zutrifft), dagegen schon.
 
-2. Ein einzelnes Argumentmuster kann nicht mehrere alternative
-   Ursachenbündel enthalten.
-
-Nach Kitcher sind in einem Argumentmuster nur projizierbare Prädikate
-erlaubt \citep[S.482]{kitcher1989}. Die verschiedenen alternativen
-Ursachenbündel bestimmen, was für eine Art Ereignis als Ursache im
-Schema des Argumentmusters eingesetzt werden können und sind deshalb
-als ein Prädikat zu betrachten. Im allgemeinen sind jedoch
-Disjunktionen von Prädikaten keine projizierbaren Prädikate, wie
-Kitcher an mehreren Stellen aussagt \citep[S.482, S.483,
-S.493]{kitcher1989}.
-
-Diese Forderung entspricht intuitiv dem Begriff der
-Vereinheitlichung. Durch blosses Aufzählen der verschiedenen bekannten
-Ursachenbündel eines Ereignisses, wird noch keine Vereinheitlichung
-erreicht. Es handelt sich um verschiedene Argumentmuster um Ereignisse
-vom gleichen Typ zu erklären. Erst wenn die Gemeinsamkeit der
-verschiedenen Ursachen gefunden wird, also ein projizierbares
-Prädikat, welches auf alle Ursachen zutrifft, können die verschiedenen
-Argumentmuster zu einem reduziert werden.
-
-Mit diesen beiden Punkten ergibt sich direkt, dass die alternativen
-Ursachenbündel zu einem Ereignis insgesamt minimal notwendig sein
+Aus der ermittelten Form von kausalen Argumentmustern zur Ableitungen
+von Ereignissen ergibt sich direkt, dass die alternativen
+Ursachenbündel zu einem Ereignistyp insgesamt minimal notwendig sein
 müssen. Ausserdem lässt sich damit auch direkt zeigen, warum
 Faktorenverschränkungen kausal zu interpretieren sind
 \citep[vgl.][S.306]{baumgartner2004}. Mit meinem Ansatz lässt sich
@@ -124,6 +132,5 @@ eingeschränkt. Dadurch können mit diesem Argumentmuster weniger
 Ereignisse erklärt werden und man muss diese Ereignisse mit anderen
 zusätzlichen Argumentmustern erklären.
 
+
 \bibliography{literatur}
-
-
