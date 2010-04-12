@@ -19,11 +19,13 @@ Kitcher selbst bevorzugt den zweiten Weg. Er will also auf den
 Rückgriff auf Kausalität verzichten und aufzeigen, wie die Probleme
 der Asymmetrie und der irrelevanten Faktoren durch das Konzept der
 Vereinheitlichung gelöst werden können
-\cite[S.430]{kitcher1989}. Natürlich will Kitcher nicht vollständig
-auf den Begriff der Kausalität verzichten. Ein wichtiger Punkt seines
-Textes ist aber, dass dieser Begriff entweder direkt auf den Begriff
-der Erklärung aufbauen kann, oder die selben primitiven Konzepte
-verwenden kann:
+\cite[S.430]{kitcher1989}. Kitcher vermutet jedoch einen engen
+Zusammenhang zwischen Vereinheitlichung und Kausalität. Er denkt, dass
+sein Programm der Erklärung durch Vereinheitlichung zur Kenntnis der
+kausalen Abhängigkeiten der Welt führen könnte
+\citet[S.500]{kitcher1989}. An einer frühreren Stelle erwähnt er eine
+Möglichkeit, wie dies Aussehen könnte, auf die ich mich in meiner
+Arbeit konzentrieren will:
 
 > For those who inherit Hume's theses about causation (either his
 > positive or his negative views) there are obvious attractions in
@@ -32,15 +34,12 @@ verwenden kann:
 > used directly to offer an analysis of causation -- most simply, by
 > proposing that one event is causally dependent on another just in
 > case there is an explanation of the former that includes a
-> description of the latter. Alternatively, it might be suggested that
-> the primitive concepts employed in providing an analysis of
-> explanation are just those that should figure in an adequate account
-> of causation. \cite[S.420]{kitcher1989}
+> description of the latter. \cite[S.420]{kitcher1989}
 
 In meiner Bachelorarbeit werde ich untersuchen, wie eine
-Regularitätstheorie der Kausalität nach dem ersten, direkten
+Regularitätstheorie der Kausalität nach diesem direkten
 Ansatz aussehen muss. Es ist wichtig, die folgenden zwei Fragen zu
-unterscheiden, die sich direkt an dieses Programm stellen:
+unterscheiden, die sich direkt an dieses Vorhaben stellen:
 
 1. Wird in einer kausalen Welt die kausale Struktur tatsächlich durch
    die am besten vereinheitlichte Theorie erfasst?
