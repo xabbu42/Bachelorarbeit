@@ -5,7 +5,7 @@
 Kitcher identifiziert zwei Hauptansätze, um die Probleme von Hempels
 *covering-law*-Modell der Erklärung zu lösen. In einem Ansatz wird auf
 den Begriff der Kausalität zurückgegriffen, im anderen auf den Begriff
-der Vereinheitlichung \cite[S.419, S.430]{kitcher1989}. Im ersten
+der Vereinheitlichung \citep[S.419, S.430]{kitcher1989}. Im ersten
 Ansatz ergibt sich eine sehr einfache Lösung zweier wichtiger Probleme
 Hempels, nämlich des Problems der Asymmetrie und des Problems der
 irrelevanten Faktoren. Allerdings handelt man sich damit laut
@@ -13,19 +13,18 @@ irrelevanten Faktoren. Allerdings handelt man sich damit laut
 Kausalität ein. Im zweiten Fall muss man nicht auf epistemisch
 problematische Konzepte zurückgreifen, hat aber vorerst einige Mühe,
 die Probleme der Asymmetrie und der irrelevanten Faktoren angemessen
-zu behandeln \cite[S.420, S.459]{kitcher1989}.
+zu behandeln \citep[S.420, S.459]{kitcher1989}.
 
 Kitcher selbst bevorzugt den zweiten Weg. Er will also auf den
 Rückgriff auf Kausalität verzichten und aufzeigen, wie die Probleme
 der Asymmetrie und der irrelevanten Faktoren durch das Konzept der
 Vereinheitlichung gelöst werden können
-\cite[S.430]{kitcher1989}. Kitcher vermutet jedoch einen engen
+\citep[S.430]{kitcher1989}. Kitcher vermutet jedoch einen engen
 Zusammenhang zwischen Vereinheitlichung und Kausalität. Er denkt, dass
 sein Programm der Erklärung durch Vereinheitlichung zur Kenntnis der
-kausalen Abhängigkeiten der Welt führen könnte
-\citet[S.500]{kitcher1989}. An einer frühreren Stelle erwähnt er eine
-Möglichkeit, wie dies Aussehen könnte, auf die ich mich in meiner
-Arbeit konzentrieren will:
+kausalen Abhängigkeiten der Welt führt \citep[S.500]{kitcher1989}. An
+einer frühreren Stelle erwähnt er eine Möglichkeit, wie dies Aussehen
+könnte, auf die ich mich in meiner Arbeit konzentrieren will:
 
 > For those who inherit Hume's theses about causation (either his
 > positive or his negative views) there are obvious attractions in
@@ -34,7 +33,7 @@ Arbeit konzentrieren will:
 > used directly to offer an analysis of causation -- most simply, by
 > proposing that one event is causally dependent on another just in
 > case there is an explanation of the former that includes a
-> description of the latter. \cite[S.420]{kitcher1989}
+> description of the latter. \citep[S.420]{kitcher1989}
 
 In meiner Bachelorarbeit werde ich untersuchen, wie eine
 Regularitätstheorie der Kausalität nach diesem direkten
@@ -99,7 +98,7 @@ Mit diesem Argumentmuster können viele leuchtende LEDs erklärt werden,
 allerdings nicht alle. So kann eine LED unter gewissen Umständen auch
 eine andere Lichtquelle reflektieren. Es ist aber nicht zulässig diese
 alternative Ursache zusammen mit der gegebenen in einem Argumentmuster
-zusammenzufassen. Der Grund liegt in einer Forderung Kitcher's, dass
+zusammenzufassen. Der Grund liegt in der Forderung Kitcher's, dass
 die verwendeten Prädikate projizierbar sein müssen
 \citep[S.482]{kitcher1989}. Das heisst, man kann an die Situation
 $\alpha$ nicht beliebige Bedingungen stellen, insbesondere nicht eine
