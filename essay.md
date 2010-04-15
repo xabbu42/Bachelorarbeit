@@ -98,8 +98,8 @@ Mit diesem Argumentmuster können viele leuchtende LEDs erklärt werden,
 allerdings nicht alle. So kann eine LED unter gewissen Umständen auch
 eine andere Lichtquelle reflektieren. Es ist aber nicht zulässig diese
 alternative Ursache zusammen mit der gegebenen in einem Argumentmuster
-zusammenzufassen. Der Grund liegt in der Forderung Kitcher's, dass
-die verwendeten Prädikate projizierbar sein müssen
+zusammenzufassen. Der Grund liegt in der Forderung Kitchers, dass die
+verwendeten Prädikate projizierbar sein müssen
 \citep[S.482]{kitcher1989}. Das heisst, man kann an die Situation
 $\alpha$ nicht beliebige Bedingungen stellen, insbesondere nicht eine
 beliebige Disjunktion von projizierbaren Prädikaten
@@ -107,7 +107,8 @@ beliebige Disjunktion von projizierbaren Prädikaten
 reflektiert die intuitive Vorstellung, dass eine blosse Liste von
 Ursachenbündel keine Vereinheitlichung erzielt, eine gemeinsame,
 messbare Eigenschaft all dieser Ursachenbündel (ein projizierbares
-Prädikat, das auf alle Ursachenbündel zutrifft), dagegen schon.
+Prädikat, das auf alle Ursachenbündel zutrifft), dagegen schon
+\citep[vgl.][S.185]{baumgartner2004}.
 
 Aus der ermittelten Form der kausalen Argumentmuster zur Ableitungen
 von Ereignissen ergibt sich direkt, dass die alternativen
