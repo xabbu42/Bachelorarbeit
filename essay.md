@@ -55,10 +55,12 @@ nämlich dem tatsächlichen Ursachenbündel des zu erklärenden
 Ereignisses.
 
 Mit Hilfe dieser Voraussetzung will ich für die zweite Frage folgende
-These prüfen: Die Kausaltheorie der minimalen Theorien, wie sie in
-\citet[Kapitel 5]{baumgartner2004} beschrieben wird, kann aus Kitchers
-Vereinheitlichungstheorie abgeleitet werden, indem Ursachen mit
-erklärenden Ereignissen gleichgesetzt werden.
+These prüfen: 
+
+> Die Kausaltheorie der minimalen Theorien, wie sie in \citet[Kapitel
+> 5]{baumgartner2004} beschrieben wird, kann aus Kitchers
+> Vereinheitlichungstheorie abgeleitet werden, indem Ursachen mit
+> erklärenden Ereignissen gleichgesetzt werden.
 
 Kitcher definiert Erklärung relativ zu einem gesamten Wissensschatz
 $K$. Ein Argument ist nach Kitcher eine Erklärung, wenn es zur besten
