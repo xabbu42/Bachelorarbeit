@@ -23,7 +23,7 @@ Vereinheitlichung gelöst werden können
 Zusammenhang zwischen Vereinheitlichung und Kausalität. Er denkt, dass
 sein Programm der Erklärung durch Vereinheitlichung zur Kenntnis der
 kausalen Abhängigkeiten der Welt führt \citep[S.500]{kitcher1989}. An
-einer frühreren Stelle erwähnt er eine Möglichkeit, wie dies Aussehen
+einer früheren Stelle erwähnt er eine Möglichkeit, wie dies Aussehen
 könnte, auf die ich mich in meiner Arbeit konzentrieren will:
 
 > For those who inherit Hume's theses about causation (either his
@@ -50,7 +50,7 @@ Ich werde voraussetzen, dass die erste Frage mit Ja zu beantworten
 ist, ohne diese Voraussetzung mit Argumenten zu stützen. Das heisst,
 ich werde davon ausgehen, dass die am stärksten vereinheitlichte
 Theorie der Welt sämtliche tatsächlich kausal erklärbaren Ereignisse
-durch die Angabe eines hinreicheinden Bündels von Ereignissen erklärt,
+durch die Angabe eines hinreichenden Bündels von Ereignissen erklärt,
 nämlich dem tatsächlichen Ursachenbündel des zu erklärenden
 Ereignisses.
 
@@ -109,7 +109,7 @@ Ursachenbündel keine Vereinheitlichung erzielt, eine gemeinsame,
 messbare Eigenschaft all dieser Ursachenbündel (ein projizierbares
 Prädikat, das auf alle Ursachenbündel zutrifft), dagegen schon.
 
-Aus der ermittelten Form von kausalen Argumentmustern zur Ableitungen
+Aus der ermittelten Form der kausalen Argumentmuster zur Ableitungen
 von Ereignissen ergibt sich direkt, dass die alternativen
 Ursachenbündel zu einem Ereignistyp insgesamt minimal notwendig sein
 müssen. Ausserdem lässt sich damit auch direkt zeigen, warum
@@ -129,6 +129,27 @@ werden, wird damit auch die Anwendbarkeit des Argumentmusters
 eingeschränkt. Dadurch können mit diesem Argumentmuster weniger
 Ereignisse erklärt werden und man muss diese Ereignisse mit anderen
 zusätzlichen Argumentmustern erklären.
+
+Der Begriff der projizierbaren Prädikate ist bei Kitcher nicht genau
+definiert, obwohl dieser Begriff für seine Theorie wesentlich
+ist. Dies liegt unter anderem daran, dass der Begriff nach Kitcher von
+der verwendeten Sprache abhängig ist \citep[vgl.][S.488]{kitcher1989}
+und nicht rein formal definiert werden kann. Die Kausalitätstheorie
+der minimalen Theorien ist aber, wenn die verwendeten Prädikate nicht
+festgelegt sind, von ähnlichen Trivialisierungen betroffen wie
+Kitchers Vereinheitlichungstheorie. So können unter geeigneten
+Umständen Ursachenprädikate zusammengefasst und damit eine kleinere
+Theorie erreicht werden. Z.B. kann in der minimalen Theorie $AC \vee
+BC \Ra W$ ein neues Ereignisprädikat $M$ eingeführt werden, welches
+genau dann auf ein Ereignis zutrifft, wenn entweder $A$ oder $B$ auf
+dieses Ereignis zutreffen. Mit dieser Einführung erhalten wir eine neue
+minimale Theorie $MC \Ra W$, in der die kausale Richtung nicht mehr
+festgelegt ist \citep[vgl.][S.113]{baumgartner2004}. Durch die in
+meinem Ansatz hergestellten Zusammenhänge kann Kitchers Diskussion von
+projizierbaren Prädikaten auf die Kausalitätstheorie der minimale
+Theorien übertragen werden. Dadurch können analoge Probleme dieser
+Kausalitätstheorie, die sich aus formalen Spielereien mit Prädikaten
+ergeben, gelöst werden.
 
 
 \bibliography{literatur}
