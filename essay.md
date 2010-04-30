@@ -77,7 +77,7 @@ Argumentmuster kombinieren kann. Er erreicht dies, indem er die in
 Argumentmuster verwendbaren Prädikate einschränkt auf solche, die er
 projizierbar nennt \citep[S.482]{kitcher1989}. Diese Einschränkung
 Kitchers steht in einem engen Zusammenhang zu einer Einschränkung an
-Ereignistypen, welche in \citet[S.38-39]{baumgartner2004} vorgenommen
+Ereignistypen, welche in \citet[S.38--39]{baumgartner2004} vorgenommen
 wird. Dort werden Ereignistypen auf solche Klassen von Ereignissen
 eingeschränkt, welche sich durch eine oder mehrere gemeinsame
 Eigenschaften auszeichnen.
@@ -116,7 +116,7 @@ Anwendung, die Anzahl der Ursachenbündel zählen und muss diese
 Vorderung der Kausaltheorie der minimalen Theorien:
 
 1.  Die alternativen Ursachenbündel einer bestimmten Wirkung müssen
-    minimal notwendig sein \citep[S.104-106]{baumgartner2004}.
+    minimal notwendig sein \citep[S.104--106]{baumgartner2004}.
 
     Wären die alternativen Ursachenbündel nicht notwendig, blieben
     einige Instanzen der Wirkung nicht erklärt. Werden auf der anderen
@@ -146,13 +146,13 @@ Wirkung, sondern auch im gesamten kauselen Netz minimalisiert werden.
 
 Die letzte wichtige Forderung der Kausaltheorie der minimalen
 Theorien, nämlich dass ein Ursachenbündel minimal hinreichend
-für die Wirkung sein muss \citep[S.103-104]{baumgartner2004}, folgt
+für die Wirkung sein muss \citep[S.103--104]{baumgartner2004}, folgt
 nicht direkt aus Kitchers Vereinheitlichungstheorie. Das heisst,
 Kitchers Vereinheitlichungstheorie macht vorerst keinen Unterschied
 zwischen einer minimalen Theorie $(ABX \vee U_2 \vee U_3 \vee Y) \Ra
 E$ und einer erweiterten, nicht mehr minimalen Theorie $(ABCX \vee U_2
 \vee U_3 \vee Y) \Ra E$ (die hier verwendeten Notation ist in
-\citealt[S.106-108]{baumgartner2004} beschrieben). Unter folgender
+\citealt[S.106--108]{baumgartner2004} beschrieben). Unter folgender
 Voraussetzung lässt sich jedoch auch diese Forderung aus Kitchers
 Vereinheitlichungstheorie ableiten: Es gibt Instanzen des minimal
 hinreichenden Ursachenbündels $AB$, welche nicht unter das verwendete,
