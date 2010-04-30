@@ -76,11 +76,11 @@ Da Kitcher Argumentmuster zählt, muss er verhindern, dass man beliebig
 Argumentmuster kombinieren kann. Er erreicht dies, indem er die in
 Argumentmuster verwendbaren Prädikate einschränkt auf solche, die er
 projizierbar nennt \citep[S.482]{kitcher1989}. Diese Einschränkung
-Kitchers steht in einem engen Zusammenhang zu einer Einschränkung an
-Ereignistypen, welche in \citet[S.38--39]{baumgartner2004} vorgenommen
-wird. Dort werden Ereignistypen auf solche Klassen von Ereignissen
-eingeschränkt, welche sich durch eine oder mehrere gemeinsame
-Eigenschaften auszeichnen.
+Kitchers steht in einem engen Zusammenhang mit einer Einschränkung an
+Ereignistypen, welche \citet[S.38--39]{baumgartner2004}
+vornehmen. Dort werden Ereignistypen auf solche Klassen von
+Ereignissen eingeschränkt, welche sich durch eine oder mehrere
+gemeinsame Eigenschaften auszeichnen.
 
 Die Instanzen von Argumentmuster sind deduktive Argumente. Kitcher
 verteidigt diese Idealisierung, welche er *deductive chauvinism*
@@ -92,11 +92,11 @@ zugrunde liegendes unbekanntes deduktives Argument aufgefasst werden
 Vereinheitlichungstheorie keine probabilistische Kausaltheorie folgen
 kann.
 
-Mit diesen beiden Voraussetzungen Kitchers will ich zeigen, dass ein
-kausales Argumentmuster genau *ein vollständiges Ursachenbündel einer
-bestimmten Wirkung* enthalten muss. Das heisst, um Ereignisse kausal
-zu erklären, werden Argumentmuster analog zum folgenden Beispiel
-verwendet:
+Mit diesen beiden Forderungen Kitchers an Argumentmuster will ich
+zeigen, dass ein kausales Argumentmuster genau *ein vollständiges
+Ursachenbündel einer bestimmten Wirkung* enthalten muss. Das heisst,
+um Ereignisse kausal zu erklären, werden Argumentmuster analog zum
+folgenden Beispiel verwendet:
 
 > Jede funktionierende LED in einem geschlossenen Stromkreis mit
 > genügend kleinem Widerstand, an dem eine Spannung mit der relativ
@@ -113,7 +113,7 @@ projizierbare Prädikate beschreibbar ist.
 Nach Kitchers Theorie der Vereinheitlichung kann man also, in meiner
 Anwendung, die Anzahl der Ursachenbündel zählen und muss diese
 *insgesamt* minimieren. Daraus ergeben sich direkt folgende wichtige
-Vorderung der Kausaltheorie der minimalen Theorien:
+Forderung der Kausaltheorie der minimalen Theorien:
 
 1.  Die alternativen Ursachenbündel einer bestimmten Wirkung müssen
     minimal notwendig sein \citep[S.104--106]{baumgartner2004}.
@@ -121,7 +121,7 @@ Vorderung der Kausaltheorie der minimalen Theorien:
     Wären die alternativen Ursachenbündel nicht notwendig, blieben
     einige Instanzen der Wirkung nicht erklärt. Werden auf der anderen
     Seite mehr Ursachenbündel angegeben, als notwendig, so werden mehr
-    Argumentmuster verwendet, als notwendig, und man erhält eine
+    Argumentmuster verwendet, als nötig, und man erhält eine
     weniger vereinheitlichte Theorie.
 
 2.  Das Kettenproblem wird gelöst, indem Faktorenverschränkungen immer
@@ -142,7 +142,7 @@ ohne die erklärbaren Ereignisse einzuschränken, und damit eine besser
 vereinheitlichte Theorie. Die entscheidende Erweiterung durch Kitchers
 Theorie ist der neue umfassende Ansatz, in dem die Anzahl der
 verschiedenen Ursachenbündel nicht nur relativ zu einer spezifischen
-Wirkung, sondern auch im gesamten kauselen Netz minimalisiert werden.
+Wirkung, sondern auch im gesamten kausalen Netz minimalisiert werden.
 
 Die letzte wichtige Forderung der Kausaltheorie der minimalen
 Theorien, nämlich dass ein Ursachenbündel minimal hinreichend
@@ -152,7 +152,7 @@ Kitchers Vereinheitlichungstheorie macht vorerst keinen Unterschied
 zwischen einer minimalen Theorie $(ABX \vee U_2 \vee U_3 \vee Y) \Ra
 E$ und einer erweiterten, nicht mehr minimalen Theorie $(ABCX \vee U_2
 \vee U_3 \vee Y) \Ra E$ (die hier verwendeten Notation ist in
-\citealt[S.106--108]{baumgartner2004} beschrieben). Unter folgender
+\citealt[S.106--108]{baumgartner2004} beschrieben). Unter der folgenden
 Voraussetzung lässt sich jedoch auch diese Forderung aus Kitchers
 Vereinheitlichungstheorie ableiten: Es gibt Instanzen des minimal
 hinreichenden Ursachenbündels $AB$, welche nicht unter das verwendete,
@@ -165,24 +165,24 @@ Ursachenbündel $U'$ angenommen werden, um die auf diese Instanz
 folgende Wirkung $E$ zu erklären. Dies führt zu einer weniger
 vereinheitlichten Theorie, welche damit abzulehnen ist.
 
-Damit lassen sich alle drei konstitutiven Bedingungen an eine
-minimale Theorie aus Kitchers Vereinheitlichungstheorie ableiten. Geht
-man davon aus, dass die am besten vereinheitlichte Theorie Ereignisse
-kausal erklärt, d.h. unter Rückgriff auf Ursachen, welche für
-das zu erklärende Ereignis hinreichend sind, so folgen diese
-Bedingungen aus Kitchers Erläuterungen über den Begriff
-der Vereinheitlichung. Aus diesem Zusammenhang ergeben sich Vorteile
-für beide Theorien. Kitchers Behauptung, dass sich die kausale
-Struktur der Welt aus seiner Vereinheitlichungstheorie der Erklärung
-ergibt, kann präzisiert und damit auch überprüft werden. Diskussionen
-über gemeinsame Probleme und Lösungsansätze können aufeinander
-übertragen werden. Dies gilt insbesondere für gewisse formale
-Trivialisierungen und die Verhinderung derjenigen durch den Begriff
-der projizierbaren Prädikate, respektive der Eigenschaften. Nicht
-zuletzt kann man die Forderungen der minimalen Notwendigkeit und der
-kausalen Interpretation von Faktorenverschränkungen, welche in der
-Kausaltheorie der minimalen Theorien unabhängig von einander
-gesetzt werden, auf ein gemeinsames Prinzip zurückführen.
+Damit lassen sich alle drei konstitutiven Bedingungen an eine minimale
+Theorie aus Kitchers Vereinheitlichungstheorie ableiten. Geht man
+davon aus, dass die am besten vereinheitlichte Theorie Ereignisse
+kausal erklärt, d.h. unter Rückgriff auf Ursachen, welche für das zu
+erklärende Ereignis hinreichend sind, so folgen diese Bedingungen aus
+Kitchers Erläuterungen über den Begriff der Vereinheitlichung. Aus
+diesem Zusammenhang ergeben sich Vorteile für beide Theorien. Kitchers
+Behauptung, dass sich die kausale Struktur der Welt aus seiner
+Vereinheitlichungstheorie der Erklärung ergibt, kann präzisiert und
+damit auch überprüft werden. Diskussionen über gemeinsame Probleme und
+Lösungsansätze können auf die jeweils andere Theorie übertragen
+werden. Dies gilt insbesondere für gewisse formale Trivialisierungen
+und die Verhinderung derjenigen durch den Begriff der projizierbaren
+Prädikate, respektive der gemeinsamen Eigenschaften. Nicht zuletzt
+werden die Forderungen der minimalen Notwendigkeit und der kausalen
+Interpretation von Faktorenverschränkungen, welche in der
+Kausaltheorie der minimalen Theorien unabhängig von einander sind, auf
+ein gemeinsames Prinzip zurückgeführt.
 
 
 \bibliography{literatur}
