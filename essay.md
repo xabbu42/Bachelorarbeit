@@ -1,6 +1,6 @@
 % Minimale Theorien und Kitchers Vereinheitlichungstheorie
 % Nathan Gass
-% 15. April 2010
+% 30. April 2010
 
 Kitcher identifiziert zwei Hauptansätze, um die Probleme von Hempels
 *covering-law*-Modell der Erklärung zu lösen. In einem Ansatz wird auf
