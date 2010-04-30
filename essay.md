@@ -106,9 +106,29 @@ folgenden Beispiel verwendet:
 
 Ein kausales Argumentmuster kann nicht weniger als ein vollständiges
 Ursachenbündel enthalten, weil sonst die zu erklärende Wirkung nicht
-mehr deduktiv folgt. Es kann nicht mehrere vollständige Ursachenbündel
-enthalten, weil sonst die Situation $\alpha$ nicht mehr durch
-projizierbare Prädikate beschreibbar ist.
+mehr deduktiv folgt. Lässt man also im gegebenen kausalen
+Argumentmuster z.B. die Bedingung weg, dass die Spannung mit der richtigen
+Orientierung an die LED angeschlossen ist, so folgt die Konklusion
+$\beta$ nicht mehr deduktiv aus den Prämissen, sondern erhält nur noch
+eine erhöhte Wahrscheinlichkeit. Es handelt sich damit nach Kitcher
+nicht mehr um ein eigentliches Argumentmuster, insbesondere da die
+zusätzliche Bedingung ja bekannt ist.
+
+Ein kausales Argumentmuster kann nicht mehrere vollständige
+Ursachenbündel enthalten, weil sonst die Situation $\alpha$ nicht mehr
+durch projizierbare Prädikate beschreibbar ist. Eine LED kann auch
+leuchten, wenn Licht von einer externen Quelle in einem geeigneten
+Winkel auf die LED fällt. Lässt man Kitchers Bedingung der
+projizierbaren Prädikate weg, lassen sich diese beiden möglichen
+Ursachen in einem Argumentmuster zusammenzufassen, in dem $\alpha$
+entweder unter die gegebene Beschreibung fallen muss, oder unter eine
+neue Beschreibung, in der Licht in einem geeigneten Winkel auf die LED
+fällt. Die in diesem neuen umfassenderen Argumentmuster benutzte
+Beschreibung von $\alpha$ ist jedoch nicht mehr projizierbar, und wird
+von Kitcher deshalb ausgeschlossen.  Dies liegt daran, dass beliebige
+Disjunktionen von projizierbaren Prädikaten nach Kitcher im
+allgemeinen nicht mehr projizierbar sind \citep[vgl.][S.482,
+S.483, S.493]{kitcher1989}.
 
 Nach Kitchers Theorie der Vereinheitlichung kann man also, in meiner
 Anwendung, die Anzahl der Ursachenbündel zählen und muss diese
