@@ -165,25 +165,26 @@ verschiedenen Ursachenbündel nicht nur relativ zu einer spezifischen
 Wirkung, sondern auch im gesamten kausalen Netz minimalisiert werden.
 
 Die letzte wichtige Forderung der Kausaltheorie der minimalen
-Theorien, nämlich dass ein Ursachenbündel minimal hinreichend
-für die Wirkung sein muss \citep[S.103--104]{baumgartner2004}, folgt
-nicht direkt aus Kitchers Vereinheitlichungstheorie. Das heisst,
-Kitchers Vereinheitlichungstheorie macht vorerst keinen Unterschied
-zwischen einer minimalen Theorie $(ABX \vee U_2 \vee U_3 \vee Y) \Ra
-E$ und einer erweiterten, nicht mehr minimalen Theorie $(ABCX \vee U_2
-\vee U_3 \vee Y) \Ra E$ (die hier verwendeten Notation ist in
-\citealt[S.106--108]{baumgartner2004} beschrieben). Unter der folgenden
-Voraussetzung lässt sich jedoch auch diese Forderung aus Kitchers
-Vereinheitlichungstheorie ableiten: Es gibt Instanzen des minimal
-hinreichenden Ursachenbündels $AB$, die nicht unter das verwendete,
-erweiterte Ursachenbündel $ABC$ fallen, und dessen Wirkung nicht mit
-einem anderen alternativen Ursachenbündel aus $U_2 \vee U_3 \vee ...$
-der minimalen Theorie von $E$ erklärt werden kann. Die spezifische
-Instanz von $E$ darf also aus der Sicht der minimalen Theorie nicht
-überdeterminiert sein. In diesem Fall muss nämlich ein zusätzliches
-Ursachenbündel $U'$ angenommen werden, um die auf diese Instanz
-folgende Wirkung $E$ zu erklären. Dies führt zu einer weniger
-vereinheitlichten Theorie, die damit abzulehnen ist.
+Theorien, nämlich dass ein Ursachenbündel minimal hinreichend für die
+Wirkung sein muss \citep[S.103--104]{baumgartner2004}, folgt nicht
+direkt aus Kitchers Vereinheitlichungstheorie. Das heisst, Kitchers
+Vereinheitlichungstheorie macht vorerst keinen Unterschied zwischen
+einer minimalen Theorie $(ABX \vee U_2 \vee U_3 \vee Y) \Ra E$ und
+einer erweiterten, nicht mehr minimalen Theorie $(ABCX \vee U_2 \vee
+U_3 \vee Y) \Ra E$ (die hier verwendeten Notation ist in
+\citealt[S.106--108]{baumgartner2004} beschrieben). Unter der
+folgenden Voraussetzung lässt sich jedoch auch diese Forderung aus
+Kitchers Vereinheitlichungstheorie ableiten: Es gibt Instanzen des
+minimal hinreichenden Ursachenbündels $AB$, die nicht unter das
+verwendete, erweiterte Ursachenbündel $ABC$ fallen, und dessen Wirkung
+nicht mit einem anderen alternativen Ursachenbündel aus $U_2 \vee U_3
+\vee ...$ der minimalen Theorie von $E$ erklärt werden kann. Die
+spezifische Instanz von $E$ darf also aus der Sicht der minimalen
+Theorie nicht überdeterminiert sein. In diesem Fall muss nämlich in
+der erweiterten Theorie ein zusätzliches Ursachenbündel $U'$
+angenommen werden, um die auf diese Instanz folgende Wirkung $E$ zu
+erklären. Dies führt zu einer weniger vereinheitlichten Theorie, die
+damit abzulehnen ist.
 
 Damit lassen sich alle drei konstitutiven Bedingungen an eine minimale
 Theorie aus Kitchers Vereinheitlichungstheorie ableiten. Geht man
