@@ -23,7 +23,7 @@ Vereinheitlichung gelöst werden können
 Zusammenhang zwischen Vereinheitlichung und Kausalität. Er denkt, dass
 sein Programm der Erklärung durch Vereinheitlichung zur Kenntnis der
 kausalen Abhängigkeiten der Welt führt \citep[S.500]{kitcher1989}. An
-einer früheren Stelle erwähnt er eine Möglichkeit, wie dies Aussehen
+einer früheren Stelle erwähnt er eine Möglichkeit, wie dies aussehen
 könnte, auf die ich mich in meiner Arbeit konzentrieren will:
 
 > For those who inherit Hume's theses about causation (either his
@@ -66,7 +66,7 @@ Kitcher definiert Erklärung relativ zu einem gesamten Wissensschatz
 $K$. Ein Argument ist nach Kitcher eine Erklärung, wenn es zur besten
 Systematisierung $E(K)$ von $K$ gehört. Eine Systematisierung $D$ von
 $K$ definiert er dabei als eine Menge von Ableitungen in $K$. Die
-beste Systematisierung $E(K)$ von $K$ ist diejenige, welche die
+beste Systematisierung $E(K)$ von $K$ ist diejenige, die die
 grösste Vereinheitlichung erzielt. Der Grad der Vereinheitlichung
 einer beliebigen Systematisierung $D$ hängt dabei ausschliesslich von
 einer Klassifikation der Ableitungen in $D$ in verschiedene so
@@ -77,13 +77,13 @@ Argumentmuster kombinieren kann. Er erreicht dies, indem er die in
 Argumentmuster verwendbaren Prädikate einschränkt auf solche, die er
 projizierbar nennt \citep[S.482]{kitcher1989}. Diese Einschränkung
 Kitchers steht in einem engen Zusammenhang mit einer Einschränkung an
-Ereignistypen, welche \citet[S.38--39]{baumgartner2004}
+Ereignistypen, die \citet[S.38--39]{baumgartner2004}
 vornehmen. Dort werden Ereignistypen auf solche Klassen von
-Ereignissen eingeschränkt, welche sich durch eine oder mehrere
+Ereignissen eingeschränkt, die sich durch eine oder mehrere
 gemeinsame Eigenschaften auszeichnen.
 
 Die Instanzen von Argumentmuster sind deduktive Argumente. Kitcher
-verteidigt diese Idealisierung, welche er *deductive chauvinism*
+verteidigt diese Idealisierung, die er *deductive chauvinism*
 nennt, gegen verschiedene Vorwürfe
 \citep[S.448]{kitcher1989}. Insbesondere können statistische Argumente
 nach Kitcher nur dann erklärend sein, wenn sie als Hinweis auf ein
@@ -101,7 +101,7 @@ folgenden Beispiel verwendet:
 > Jede funktionierende LED in einem geschlossenen Stromkreis mit
 > genügend kleinem Widerstand, an dem eine Spannung mit der relativ
 > zur LED richtigen Orientierung angeschlossen ist, leuchtet. In der
-> Situation $\alpha$ sind diese Bedingungen erfüllt. Als tritt das
+> Situation $\alpha$ sind diese Bedingungen erfüllt. Also tritt das
 > Leuchten $\beta$ der LED in $\alpha$ auf.
 
 Ein kausales Argumentmuster kann nicht weniger als ein vollständiges
@@ -120,20 +120,20 @@ Forderung der Kausaltheorie der minimalen Theorien:
 
     Wären die alternativen Ursachenbündel nicht notwendig, blieben
     einige Instanzen der Wirkung nicht erklärt. Werden auf der anderen
-    Seite mehr Ursachenbündel angegeben, als notwendig, so werden mehr
-    Argumentmuster verwendet, als nötig, und man erhält eine
+    Seite mehr Ursachenbündel angegeben als notwendig, so werden mehr
+    Argumentmuster verwendet als nötig und man erhält eine
     weniger vereinheitlichte Theorie.
 
 2.  Das Kettenproblem wird gelöst, indem Faktorenverschränkungen immer
     kausal interpretiert werden \citep[vgl.][S.306]{baumgartner2004}.
 
-    Kausalketten benötigen immer weniger Ursachenbündel, als zu diesen
+    Kausalketten benötigen immer weniger Ursachenbündel als zu diesen
     Kausalketten äquivalente Epiphänomene. Faktorenverschränkungen
     kausal zu interpretieren, d.h. als Kausalketten und nicht als
     Epiphänomene, führt also wiederum zu einer besser
     vereinheitlichten Theorie.
 
-Mit meinem Ansatz lässt sich also die in
+Mit meinem Ansatz lässt sich also die von
 \citet[S.306]{baumgartner2004} vorgenommene, arbiträre Auflösung des
 Kettenproblems begründen. Sowohl durch diese Auflösung als auch durch
 die Minimalisierung der alternativen Ursachenbündel wird nämlich
@@ -155,7 +155,7 @@ E$ und einer erweiterten, nicht mehr minimalen Theorie $(ABCX \vee U_2
 \citealt[S.106--108]{baumgartner2004} beschrieben). Unter der folgenden
 Voraussetzung lässt sich jedoch auch diese Forderung aus Kitchers
 Vereinheitlichungstheorie ableiten: Es gibt Instanzen des minimal
-hinreichenden Ursachenbündels $AB$, welche nicht unter das verwendete,
+hinreichenden Ursachenbündels $AB$, die nicht unter das verwendete,
 erweiterte Ursachenbündel $ABC$ fallen, und dessen Wirkung nicht mit
 einem anderen alternativen Ursachenbündel aus $U_2 \vee U_3 \vee ...$
 der minimalen Theorie von $E$ erklärt werden kann. Die spezifische
@@ -163,12 +163,12 @@ Instanz von $E$ darf also aus der Sicht der minimalen Theorie nicht
 überdeterminiert sein. In diesem Fall muss nämlich ein zusätzliches
 Ursachenbündel $U'$ angenommen werden, um die auf diese Instanz
 folgende Wirkung $E$ zu erklären. Dies führt zu einer weniger
-vereinheitlichten Theorie, welche damit abzulehnen ist.
+vereinheitlichten Theorie, die damit abzulehnen ist.
 
 Damit lassen sich alle drei konstitutiven Bedingungen an eine minimale
 Theorie aus Kitchers Vereinheitlichungstheorie ableiten. Geht man
 davon aus, dass die am besten vereinheitlichte Theorie Ereignisse
-kausal erklärt, d.h. unter Rückgriff auf Ursachen, welche für das zu
+kausal erklärt, d.h. unter Rückgriff auf Ursachen, die für das zu
 erklärende Ereignis hinreichend sind, so folgen diese Bedingungen aus
 Kitchers Erläuterungen über den Begriff der Vereinheitlichung. Aus
 diesem Zusammenhang ergeben sich Vorteile für beide Theorien. Kitchers
@@ -176,13 +176,14 @@ Behauptung, dass sich die kausale Struktur der Welt aus seiner
 Vereinheitlichungstheorie der Erklärung ergibt, kann präzisiert und
 damit auch überprüft werden. Diskussionen über gemeinsame Probleme und
 Lösungsansätze können auf die jeweils andere Theorie übertragen
-werden. Dies gilt insbesondere für gewisse formale Trivialisierungen
-und die Verhinderung derjenigen durch den Begriff der projizierbaren
-Prädikate, respektive der gemeinsamen Eigenschaften. Nicht zuletzt
-werden die Forderungen der minimalen Notwendigkeit und der kausalen
-Interpretation von Faktorenverschränkungen, welche in der
-Kausaltheorie der minimalen Theorien unabhängig von einander sind, auf
-ein gemeinsames Prinzip zurückgeführt.
+werden. Dies gilt insbesondere für gewisse Probleme durch formale
+Trivialisierungen und deren Lösung durch den Begriff der
+projizierbaren Prädikate, respektive der gemeinsamen
+Eigenschaften. Nicht zuletzt werden die Forderungen der minimalen
+Notwendigkeit und der kausalen Interpretation von
+Faktorenverschränkungen, die in der Kausaltheorie der minimalen
+Theorien voneinander unabhängig sind, auf ein gemeinsames Prinzip
+zurückgeführt.
 
 
 \bibliography{literatur}
