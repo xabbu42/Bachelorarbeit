@@ -1,7 +1,7 @@
 
 PANDOC=--standalone --smart --parse-raw --custom-header ../tex/pandoc_header.latex
 
-all: notizen.pdf essay.pdf
+all: notizen.pdf essay.pdf arbeit.pdf
 
 mendeley.xml: mendeley.bib Makefile
 	bib2xml < $< > $@
