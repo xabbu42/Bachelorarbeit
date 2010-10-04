@@ -19,4 +19,4 @@ clean :
 	-rm *.out *.latex *.bbl
 
 distclean : clean
-	-rm notizen.pdf essay.pdf mendeley.xml mendeley.bib
+	-rm notizen.pdf essay.pdf arbeit.pdf
