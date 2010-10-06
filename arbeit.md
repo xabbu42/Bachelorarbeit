@@ -153,19 +153,19 @@ Ein Faktor $A$ ist genau dann direkt kausal relevant für eine Wirkung
 $W$, wenn er in der minimalen Theorie von $W$ enthalten ist. Er ist
 genau dann indirekt kausal relevant für eine Wirkung $W$, wenn es eine
 Kette von Faktoren $B_1, ..., B_n$ gibt, so dass $B_i$ jeweils direkt
-kausal relevant für $B_i+1$ ist, wobei $B_1 = A$ und $B_n = W$ gilt.
+kausal relevant für $B_{i+1}$ ist, wobei $B_1 = A$ und $B_n = W$ gilt.
 Schlussendlich ist ein Faktor $A$ kausal relevant für eine Wirkung
 $W$, wenn $A$ entweder direkt oder indirekt kausal relevant für diese
 Wirkung ist.
 
-\CITET[TODO]{baumgartner2004} führt folgende Notation für die minimale
-Theorie einer Wirkung $W$ ein: $ABX_1 \v CDX_2 \v Y \Ra W$.
+\citet[TODO]{baumgartner2004} führt folgende Notation für die minimale
+Theorie einer Wirkung $W$ ein: $ABX_1 \vee CDX_2 \vee Y \Ra W$.
 Die Variablen $X_1, X_2, Y$ stehen dabei als Platzhalter für weitere
 unbekannten kausal relevante Faktoren. Nach
 \citet[TODO]{baumgartner2004} kann eine uns bekannte Theorie niemals
 sicher abgeschlossen werden. Dies wird formal durch diese Variablen
 erfasst. Da es sich dabei um ein epistemisches Problem handelt,
-welches in unserem Kontext deshalb ignoriert werden kann, werde ich
+welches in unserem Kontext ignoriert werden kann, werde ich
 diese Variablen weglassen. Wir gehen also von einem perfekten
 Wissensstand aus, in dem wir unbekannte weitere kausal relevanten
 Faktoren ausschliessen können.
@@ -187,7 +187,7 @@ Menge von Ableitungen welche relativ zu $K$ akzeptierbar sind. Die
 beste Systematisierung $E(K)$ von $K$ ist diejenige, die die grösste
 Vereinheitlichung erzielt. Die wesentliche Idee der Vereinheitlichung
 ist, die Anzahl der Fakten zu minimieren, welche unerklärt akzeptiert
-werden müssen ("brute facts") /citep[431]{kitcher1989}. Diese
+werden müssen ("brute facts") \citep[431]{kitcher1989}. Diese
 Charakterisierung von Friedmann sugestiert nach Kitcher eine erste
 Definition von Vereinheitlichung:
 
@@ -198,8 +198,8 @@ Definition von Vereinheitlichung:
 
 Sowohl diese Definition wie auch Friedmanns eigene Definition haben
 jedoch technische Schwierigkeiten, welche nach
-\citet[432]{kitcher1989} in \citet{kitcher1976} und \citet{salmon}
-gezeigt wurden. Kitcher schlägt deshlab eine Erweiterung dieser
+\citet[432]{kitcher1989} in \citet{kitcher1976} und \citet{salmon1989}
+gezeigt wurden. Kitcher schlägt deshalb eine Erweiterung dieser
 Definition vor: Die Ableitungen einer Systematisierung $D$ werden in
 verschiedene Argumentmuster ("argument patterns") klassifiziert. Der
 Grad der Vereinheitlichung, den $D$ erreicht, wird dann
