@@ -10,7 +10,7 @@ structure" \citet{kitcher1989} das ambitiöse Ziel, der Begriff der
 Kausalität auf einen von ihm entwickelten Begriff der
 Vereinheitlichung zurückzuführen.
 In dieser Arbeit werde ich versuchen, eine konkrete Fassung dieses von
-Kitcher nur angedeuteten Programs zu erarbeiten. Eine wichtige
+Kitcher nur angedeuteten Programs zu entwickeln. Eine wichtige
 Grundlage dieser konkreten Fassung wird die Kausaltheorie der
 minimalen Theorien sein, wie sie von Baumgartner und Grasshof in
 \citet{baumgartner2004} beschrieben wird. Es wird sich zeigen,
@@ -24,21 +24,21 @@ Kitchers Program
 Kitcher identifiziert zwei Hauptansätze, um die Probleme von Hempels
 *covering-law*-Modell der Erklärung zu lösen. In einem Ansatz wird auf
 den Begriff der Kausalität zurückgegriffen, im anderen auf den Begriff
-der Vereinheitlichung \citep[S.419, S.430]{kitcher1989}. Im ersten
+der Vereinheitlichung \citep[419, 430]{kitcher1989}. Im ersten
 Ansatz ergibt sich eine sehr einfache Lösung zweier wichtiger Probleme
 Hempels, nämlich des Problems der Asymmetrie und des Problems der
 irrelevanten Faktoren. Allerdings handelt man sich damit laut
-\citet[S.460]{kitcher1989} den epistemisch problematischen Begriff der
+\citet[460]{kitcher1989} den epistemisch problematischen Begriff der
 Kausalität ein. Im zweiten Fall muss man nicht auf epistemisch
 problematische Konzepte zurückgreifen, hat aber vorerst einige Mühe,
 die Probleme der Asymmetrie und der irrelevanten Faktoren angemessen
-zu behandeln \citep[S.420, S.459]{kitcher1989}.
+zu behandeln \citep[420, 459]{kitcher1989}.
 
 Wie wir bereits in der Einleitung gesehen haben, bevorzugt Kitcher
 selbst den zweiten Weg. Er will also auf den Rückgriff auf Kausalität
 verzichten und aufzeigen, wie die Probleme der Asymmetrie und der
 irrelevanten Faktoren durch das Konzept der Vereinheitlichung gelöst
-werden können \citep[S.430]{kitcher1989}. Kitcher vermutet jedoch
+werden können \citep[430]{kitcher1989}. Kitcher vermutet jedoch
 einen engen Zusammenhang zwischen Vereinheitlichung und Kausalität. Er
 denkt, dass sein Programm der Erklärung durch Vereinheitlichung zur
 Kenntnis der kausalen Abhängigkeiten der Welt führt:
@@ -60,7 +60,7 @@ Arbeit konzentrieren will:
 > an analysis of causation -- most simply, by proposing that one event
 > is causally dependent on another just in case there is an
 > explanation of the former that includes a description of the
-> latter. \citep[S.420]{kitcher1989}
+> latter. \citep[420]{kitcher1989}
 
 
 These
@@ -244,9 +244,9 @@ folgenden drei Bedingungen erfüllt sind:
 Da Kitcher Argumentmuster zählt, muss er verhindern, dass man beliebig
 Argumentmuster kombinieren kann. Er erreicht dies, indem er die in
 Argumentmuster verwendbaren Prädikate einschränkt auf solche, die er
-projizierbar nennt \citep[S.482]{kitcher1989}. Diese Einschränkung
+projizierbar nennt \citep[482]{kitcher1989}. Diese Einschränkung
 Kitchers steht in einem engen Zusammenhang mit einer Einschränkung an
-Ereignistypen, die \citet[S.38--39]{baumgartner2004}
+Ereignistypen, die \citet[38--39]{baumgartner2004}
 vornehmen. Dort werden Ereignistypen auf solche Klassen von
 Ereignissen eingeschränkt, die sich durch eine oder mehrere
 gemeinsame Eigenschaften auszeichnen.
@@ -254,10 +254,10 @@ gemeinsame Eigenschaften auszeichnen.
 Die Instanzen von Argumentmuster sind deduktive Argumente. Kitcher
 verteidigt diese Idealisierung, die er *deductive chauvinism*
 nennt, gegen verschiedene Vorwürfe
-\citep[S.448]{kitcher1989}. Insbesondere können statistische Argumente
+\citep[448]{kitcher1989}. Insbesondere können statistische Argumente
 nach Kitcher nur dann erklärend sein, wenn sie als Hinweis auf ein
 zugrunde liegendes unbekanntes deduktives Argument aufgefasst werden
-\citep[S.449]{kitcher1989}. Daraus folgt auch, dass aus Kitchers
+\citep[449]{kitcher1989}. Daraus folgt auch, dass aus Kitchers
 Vereinheitlichungstheorie keine probabilistische Kausaltheorie folgen
 kann.
 
