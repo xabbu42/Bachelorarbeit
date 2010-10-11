@@ -28,7 +28,7 @@ der Vereinheitlichung \citep[419, 430]{kitcher1989}. Im ersten
 Ansatz ergibt sich eine sehr einfache Lösung zweier wichtiger Probleme
 Hempels, nämlich des Problems der Asymmetrie und des Problems der
 irrelevanten Faktoren. Allerdings handelt man sich damit laut
-\citet[460]{kitcher1989} den epistemisch problematischen Begriff der
+\citet[420, 460]{kitcher1989} den epistemisch problematischen Begriff der
 Kausalität ein. Im zweiten Fall muss man nicht auf epistemisch
 problematische Konzepte zurückgreifen, hat aber vorerst einige Mühe,
 die Probleme der Asymmetrie und der irrelevanten Faktoren angemessen
@@ -38,7 +38,7 @@ Wie wir bereits in der Einleitung gesehen haben, bevorzugt Kitcher
 selbst den zweiten Weg. Er will also auf den Rückgriff auf Kausalität
 verzichten und aufzeigen, wie die Probleme der Asymmetrie und der
 irrelevanten Faktoren durch das Konzept der Vereinheitlichung gelöst
-werden können \citep[430]{kitcher1989}. Kitcher vermutet jedoch
+werden können \citep[TODO:430]{kitcher1989}. Kitcher vermutet jedoch
 einen engen Zusammenhang zwischen Vereinheitlichung und Kausalität. Er
 denkt, dass sein Programm der Erklärung durch Vereinheitlichung zur
 Kenntnis der kausalen Abhängigkeiten der Welt führt:
@@ -141,7 +141,7 @@ Ereignissbündel, welche folgende zwei Eigenschaften erfüllt:
 1. Jedes einzelne Bündel ist minimal hinreichend für die Wirkung
    $W$. Das heisst, auf jede Instanz des Bündels folgt eine Instanz
    der Wirkung, und dies gilt nicht mehr sobald ein beliebiger
-   Ereignisstyp aus dem Bündel entfehrnt wird.
+   Ereignisstyp aus dem Bündel entfernt wird.
 
 2. Die Liste der Bündel insgesamt ist minimal notwendig für die
    Wirkung $W$. Das heisst, jeder Instanz der Wirkung $W$ geht eine
@@ -153,15 +153,15 @@ Ein Faktor $A$ ist genau dann direkt kausal relevant für eine Wirkung
 $W$, wenn er in der minimalen Theorie von $W$ enthalten ist. Er ist
 genau dann indirekt kausal relevant für eine Wirkung $W$, wenn es eine
 Kette von Faktoren $B_1, ..., B_n$ gibt, so dass $B_i$ jeweils direkt
-kausal relevant für $B_{i+1}$ ist, wobei $B_1 = A$ und $B_n = W$ gilt.
+kausal relevant für $B_{i+1}$ ist, wobei $B_1 = A$ und $B_n = W$ ist.
 Schlussendlich ist ein Faktor $A$ kausal relevant für eine Wirkung
 $W$, wenn $A$ entweder direkt oder indirekt kausal relevant für diese
 Wirkung ist.
 
-\citet[TODO]{baumgartner2004} führt folgende Notation für die minimale
+\citet[106 ff]{baumgartner2004} führt folgende Notation für die minimale
 Theorie einer Wirkung $W$ ein: $ABX_1 \vee CDX_2 \vee Y \Ra W$.
 Die Variablen $X_1, X_2, Y$ stehen dabei als Platzhalter für weitere
-unbekannten kausal relevante Faktoren. Nach
+unbekannte oder uninteressante kausal relevante Faktoren. Nach
 \citet[TODO]{baumgartner2004} kann eine uns bekannte Theorie niemals
 sicher abgeschlossen werden. Dies wird formal durch diese Variablen
 erfasst. Da es sich dabei um ein epistemisches Problem handelt,
@@ -240,7 +240,6 @@ folgenden drei Bedingungen erfüllt sind:
    Klassifikation des Argumentschematas angegeben ist.
 
 
-
 Da Kitcher Argumentmuster zählt, muss er verhindern, dass man beliebig
 Argumentmuster kombinieren kann. Er erreicht dies, indem er die in
 Argumentmuster verwendbaren Prädikate einschränkt auf solche, die er
@@ -257,10 +256,9 @@ nennt, gegen verschiedene Vorwürfe
 \citep[448]{kitcher1989}. Insbesondere können statistische Argumente
 nach Kitcher nur dann erklärend sein, wenn sie als Hinweis auf ein
 zugrunde liegendes unbekanntes deduktives Argument aufgefasst werden
-\citep[449]{kitcher1989}. Daraus folgt auch, dass aus Kitchers
+\citep[449]{kitcher1989}. Daraus ergitbt sich auch, dass aus Kitchers
 Vereinheitlichungstheorie keine probabilistische Kausaltheorie folgen
 kann.
-
 
 
 Argumentation
