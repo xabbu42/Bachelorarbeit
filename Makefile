@@ -1,10 +1,10 @@
 
-PANDOC=--standalone --smart --parse-raw --custom-header ../tex/pandoc_header.latex
+PANDOC=--standalone --smart --parse-raw --include-in-header ./header.latex
 
 all: notizen.pdf essay.pdf arbeit.pdf
 
-%.latex : %.md Makefile ../tex/pandoc_header.latex 
-	pandoc $(PANDOC) -C ../tex/pandoc_header.latex -t latex $< | iconv -f utf-8 -t latin1 > $@
+%.latex : %.md Makefile header.latex 
+	pandoc $(PANDOC) -t latex $< > $@
 
 %.pdf : %.latex Makefile library.bib
 	latexmk -pdf -f $<

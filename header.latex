@@ -1,0 +1,20 @@
+\usepackage[all]{hypcap}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{ae,aecompl}
+\usepackage{amsmath}
+\usepackage{verbatim}
+\nonstopmode
+
+\usepackage{natbib}
+\usepackage{har2nat}
+\bibliographystyle{gagsmnc}
+
+\usepackage{tabularx}
+\usepackage{xspace}
+\newcommand{\degree}{\ensuremath{^\circ} \xspace}
+
+\newcommand{\ra}{\rightarrow}
+\newcommand{\la}{\leftarrow}
+\newcommand{\Ra}{\Rightarrow}
+\newcommand{\La}{\Leftarrow}
