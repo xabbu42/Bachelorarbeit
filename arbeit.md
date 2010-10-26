@@ -283,6 +283,9 @@ TODO: Vergleichen von Systematisierungen
 Argumentation
 =============
 
+Kausale Argumentmuster
+----------------------
+
 Um Kitchers Theorie der Vereinheitlichung auf kausal erklärbare
 Ereignisse anzuwenden, ist es entscheidend, die dazu benutzten
 Argumentmuster festzustellen. Die erste und für alle weiteren
@@ -320,8 +323,10 @@ Argumentmusters deduktive Ableitungen sein. Da die zu erklärende
 Wirkung aus einem unvollständigen Ursachenbündel jedoch nicht deduktiv
 folgt, genügt ein solches nicht für ein korrektes Argumentmuster.
 
-2. Ein Argumentmuster kann keine zusätzlichen, kausal nicht relevante
-Voraussetzungen enthalten.
+2. Ein Argumentmuster kann neben den tatsächlichen Ursachentypen keine
+zusätzlichen Voraussetzungen enthalten. Dies betrifft sowohl weitere
+Ereignisstypen, als auch andere Begriffe welche nicht in kausalen
+Zusammenhängen stehen.
 
 In der bereits erwähnten Annahme im Kapitel \nameref{These} ist
 eingeschlossen, dass die verwendeten Ursachenbündel bereits
@@ -330,29 +335,31 @@ erklärenden Wirkungstyp verwendet werden. Wie auch in Kitchers
 Ausführungen zu den irrelevanten Faktoren lassen sich im wesentlichen
 zwei Fälle Unterscheiden. 
 
-Erstens kann es sein, dass die zusätzlichen, nicht kausalen
+Erstens kann es sein, dass die zusätzlichen
 Voraussetzungen bestimmte Instanzen der Argumentmuster
 ausschliessen. Durch diese unnötige Einschränkung der Anwendbarkeit
 des Argumentmusters werden weitere zusätzliche Argumentmuster
 notwendig und man erreicht damit eine weniger gut vereinheitlichte
 Theorie.
 
-Zweitens kann es sein, dass diese zusätzlichen, nicht kausalen
-Voraussetzungen immer gegeben sind, wenn auch das vollständige
-Ursachenbündel instantiiert ist, gerade so wie Salz immer hexable
-(TODO:übersetzen) ist. Dadurch ist aber die zusätzliche Voraussetzung
-leer und für die Stichhaltigkeit des Argumentmusters und ihrer
-Instanzen ohne Belang. Ein Prinzip der Einfachheit fordert, diese
-Voraussetzungen zu streichen \citep[484]{kitcher1989} 
+Zweitens kann es sein, dass diese zusätzlichen Voraussetzungen immer
+gegeben sind, wenn auch das vollständige Ursachenbündel instantiiert
+ist, gerade so wie Salz immer hexable (TODO:übersetzen) ist. Dadurch
+ist aber die zusätzliche Voraussetzung leer und für die
+Stichhaltigkeit des Argumentmusters und ihrer Instanzen ohne
+Belang. Ein Prinzip der Einfachheit fordert, diese Voraussetzungen zu
+streichen \citep[484]{kitcher1989}
 
 3. Ein Argumentmuster kann nicht mehrere Ursachenbündel enthalten.
 
 Dies ist der entscheidende und schwierigste Punkt in meiner
-Argumentation. Sowohl in \citet{kitcher1989} als auch in
-\citet{baumgartner2004} werden Ursachenbündel, respektive
-Argumentmuster in einem gewissen Sinn gezählt. Damit dies überhaupt
-sinnvoll ist, muss verhindert werden, dass Ursachenbündel, respektive
-Argumentmuster beliebig vereinigt werden können.
+Argumentation, da er gemeinsame und nicht zufriedenstellend gelöste
+Probleme beider Theorien in einen Zusammenhang bringt. Sowohl in
+\citet{kitcher1989} als auch in \citet{baumgartner2004} werden
+Ursachenbündel, respektive Argumentmuster in einem gewissen Sinn
+gezählt. Damit dies überhaupt sinnvoll ist, muss verhindert werden,
+dass Ursachenbündel, respektive Argumentmuster beliebig vereinigt
+werden können.
 
 Bei \citet{baumgartner2004} geschieht dies durch die bereits
 angesprochene Einschränkungen an Ereignisstypen, dass diese
@@ -370,6 +377,57 @@ Begriff subsumieren und damit die verwendeten Minimalitätsbedingungen
 trivialisieren können.
 
 
+Ableitung der Kausaltheorie der minimalen Theorien
+--------------------------------------------------
+
+Aus der gegebenen Beschreibung der kausalen Argumentmuster und
+Kitchers komparativen Vereinheitlichungsbegriff ergeben sich direkt
+alle konstitutiven Bedingungen der minimalen Theorien. Jedes einzelne
+Argumentmuster muss genau ein minimal hinreichendes Ursachenbündel der
+zu erklärenden Wirkung angeben, damit die Instanzen des
+Argumentmusters deduktiv schlüssig sind und keine unnötigen Prämissen
+enthalten, wie dies bereits im Punkt 2 im vorhergehenden Kapitel
+erläutert wurde.
+
+Aus dem komparativen Vereinheitlichungsbegriff von Kitcher folgt auch,
+dass die Argumentmuster und damit insbesondere die kausalen
+Argumentmuster insgesamt minimiert werden müssen. Nehmen wir eine
+beliebige Systematisierung $S$, welche die komplette Instantiierung
+einer generierenden Menge von Argumentmustern $U$ ist
+\citep[vgl][434]{kitcher1989}. Gehen wir zudem davon aus, $U$ enthalte
+die zu der *nicht* minimalen Theorie $AB \vee CD \vee EF \Ra W$
+entsprechenden Argumentmuster. Das heisst in $U$ sind drei kausale
+Argumentmuster, welche Ableitung von Instanzen von $W$ aus Instanzen
+der drei verschiedenen Ursachenbündel $AB$, $CD$ und $EF$
+generieren. Da nach der Voraussetzung die angegebene Theorie nicht
+minimal notwendig ist, gibt es eine echte Teilmenge dieser drei
+Ursachenbündel, welche immer noch notwendig für $W$ ist, in unserem
+Beispiel sei dies $AB \vee CD$. In dem Fall generiert die
+entsprechende  echte Teilmenge der drei kausalen Argumentmuster für
+jede Instanz von $W$ ein Argument. Gibt es nämlich eine Instanz von $W$ welche
+durch diese Teilmenge von Argumentmustern nicht erklärt wird, dann
+geht ihr keine Instanz von $AB \vee CD$ voraus, im Widerspruch zu
+unserer Annahme $AB \vee CD$ sei notwendig für $W$ und $AB \vee CD
+\vee EF$ keine minimale Theorie von $W$.
+
+Mit diesem Wissen lässt sich aber eine besser vereinheitlichte
+Systematisierung $S'$ mit einer generierenden Menge von
+Argumentmustern $U'$ konstruieren, in dem alle Argumentmuster aus $U$
+und dessen Instanzen übernommen werden, ausser demjenigen
+Argumentmuster, welches es erlaubt $W$ aus $EF$ abzuleiten. Es gilt
+also $U' \subset U$ woraus auch $S' \subseteq S$ folgt. Da jedoch nach
+Voraussetzung $AB \vee CD$ immer noch notwendig für $W$ ist, gilt
+$C(S') = C(S)$. Daraus folgt aber mit C_1 \citep[478]{kitcher1989},
+dass $S'$ eine besser Vereinheitlichte Systematisierung ist als $S$,
+da wir eine injektive Funktion $f: S' \ra S$ definieren können, welche
+jeder Ableitung aus $S'$ die gleiche Ableitung in $S$ zuordnet. (TODO
+Def von f weglassen weil trivial?).
+
+Demnach werden also alle Ableitungen von Instanzen von $W$ in der
+besten Systematisierung $E(K)$ von $K$ durch eine minimal notwendige
+Menge von kausalen Argumentmustern generiert. Die Definitionen von
+Ursache nach der Kausaltheorie der minimalen Theorien und nach
+Kitchers Program sind also exakt deckungsgleich.
 
 Ergebnisse/Folgen
 =================
