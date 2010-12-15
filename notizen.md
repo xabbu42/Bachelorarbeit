@@ -6,7 +6,7 @@ Allgemeine Beobachtungen
    
     Grund: Vereinheitlichung sollte rein formal definiert werden
     (TODO: zu begründen) und Sprachanpassungen nicht verbieten (siehe
-    [Kitcher1989@TODO]). Sie sind damit offen für trivialisierung,
+    [@Kitcher1989, TODO]). Sie sind damit offen für trivialisierung,
     indem entsprechende Prädikate konstruiert werden (TODO:genauer,
     klarer).
 
@@ -14,13 +14,13 @@ Allgemeine Beobachtungen
 Spezifische VT
 ==============
 
-1.  Kitcher [Kitcher1989] [Klarner2003@ cap. 2.3]
+1.  Kitcher [@Kitcher1989] [@Klarner2003, cap. 2.3]
    
     Am besten ausgearbeitet. Siehe eigenes Kapitel.
 
-2.  Friedman [Klarner2003@ cap. 2.2]
+2.  Friedman [@Klarner2003, cap. 2.2]
    
-    Problem von Salmon [Klarner2003@TODO] schwerwiegend. Ev. lässt sich
+    Problem von Salmon [@Klarner2003, TODO] schwerwiegend. Ev. lässt sich
     das grundsätzliche Program jedoch retten:
    
     A. logischer Atomismus definieren, d.h. kleinste Aussageneinheit
@@ -38,9 +38,9 @@ Spezifische VT
     sämtliche KT-artigen Gesetze folgen?
    
    
-3.  Schurz und Lambert (erwähnt in [Gijsbers2007]) [Schurz1999]
+3.  Schurz und Lambert (erwähnt in @Gijsbers2007) [@Schurz1999]
    
-    Fügen eine KT explizit in ihrer VT ein nach [Gijsbers2007], sind
+    Fügen eine KT explizit in ihrer VT ein nach @Gijsbers2007, sind
     also für mein Ansatz nicht verwendbar. TODO: direkte Ref
     finden/überprüfen, was passiert wenn die KT einfach weggelassen
     wird?
@@ -53,7 +53,7 @@ Kausaltheorien (KT) TODO
 2. kontrafaktische Theorien
 3. ...
 
-Kitcher nach [Kitcher1989]
+Kitcher nach @Kitcher1989
 ==========================
 
 Nach Kitcher könnte eine empirische KT aus einer VT folgen, indem
@@ -177,10 +177,10 @@ höheren Level gilt.
 Texte gegen das Program
 =======================
 
-TODO: [Maki2001]
+TODO: @Maki2001
 ----------------
 
-[Gijsbers2007]
+@Gijsbers2007
 --------------
    
 Argument nur gegen Kitcher und Schurz/Lambert => grosse Lücke zur
@@ -190,18 +190,18 @@ Zusammenhang mit entarteter Fall 1, kommen mehrere Ursachen in Frage
 sollte sich Gijsbers Argumentschemata als Gegenbeispiel entkräften
 lassen (Falsch, siehe Punkt 2).
 
-Gijsbers scheint sich in erster Linie auf [Kitcher1981] zu
-beziehen. [Kitcher1989] ist viel weniger anfällig auf Gijsbers Kritik
-(TODO:sind die Punkte auch in [Kitcher1981] und Gijsbers ignoriert
+Gijsbers scheint sich in erster Linie auf @Kitcher1981 zu
+beziehen. @Kitcher1989 ist viel weniger anfällig auf Gijsbers Kritik
+(TODO:sind die Punkte auch in @Kitcher1981 und Gijsbers ignoriert
 sie?)
 
 1.  *Problem of Spurious Unification*
 
-    Dieses Problem wird in [Kitcher1989] durch die Forderung gelöst,
+    Dieses Problem wird in @Kitcher1989 durch die Forderung gelöst,
     dass alle verwendeten Prädikate projezierbar sein müssen. Diese
     Lösung ist richtig, da ansonsten alle formalen Betrachtungen von
     wissenschaftlichen Theorien trivialisierbar sind. Insbesondere ist
-    also $p \in C(A)$ [Gijsbers2007@S.483] nicht projezierbar und
+    also $p \in C(A)$ [@Gijsbers2007, S.483] nicht projezierbar und
     Gijsbers Konstruktion kein zulässiges Argumentpattern nach
     Kitcher.
 
@@ -209,16 +209,16 @@ sie?)
 
     Sehr interessant ist Gijsbers Aussage, dass Kitcher von einer
     idealen Situation, in welcher alle Information vorhanden ist,
-    ausgeht [Gijsbers2007@S.490]. Wie geschrieben ist dies
-    falsch. Kitcher verlangt in [Kitcher1989@TODO] nur, dass eine
+    ausgeht [@Gijsbers2007, S.490]. Wie geschrieben ist dies
+    falsch. Kitcher verlangt in [@Kitcher1989, TODO] nur, dass eine
     Instanz von einem Argumentpattern relativ zu $K$ akzeptierbar
-    ist (TODO: überprüfe [Kitcher1981@S.519], widerspricht dem nach
-    [Gijsbers2007@S.494]). Demnach genügt "origin and development" um
+    ist (TODO: überprüfe [@Kitcher1981, S.519], widerspricht dem nach
+    [@Gijsbers2007, S.494]). Demnach genügt "origin and development" um
     den "Pole" *erklärbar* zu machen, selbst wenn wir nicht genug
     wissen, um eine spezifische Instanz von "origin and development"
     als die korrekte auszuzeichen. 
 
-    Trotzdem besteht Gijsbers Argument, wenn man [Kitcher1989@K.8.3]
+    Trotzdem besteht Gijsbers Argument, wenn man [@Kitcher1989, K.8.3]
     berücksichtigt. Demnach sind korrekte Erklärungen solche, welche
     bestehen "in the ideal long run when the principles of rational
     modification are followed". *origin and development* als Erklärung
@@ -228,7 +228,7 @@ sie?)
     Vergangenheit vom "Pole" *origin and development* niemals ganz
     ausschliessen.
 
-    So gesehen bleibt [Gijsbers2007@S.491, Ab. 2] bestehen. Wir wissen
+    So gesehen bleibt [@Gijsbers2007, S.491, Ab. 2] bestehen. Wir wissen
     zwar nicht genügend von der Zukunft, um eine spezifische *end and
     regression* Instanz auszuwählen, aber das ist auch nicht nötig,
     solange zumindest eine bestand haben wird. Zudem scheint *end and
@@ -247,7 +247,7 @@ sie?)
 Texte für das Program
 =====================
 
-1. TODO: [Strevens2004]
+1. TODO: @Strevens2004
 
 
 
