@@ -12,10 +12,9 @@ Vereinheitlichung zurückzuführen.  In dieser Arbeit werde ich
 versuchen, eine konkrete Fassung dieses von Kitcher nur angedeuteten
 Programms zu entwickeln. Eine wichtige Grundlage dieser konkreten
 Fassung wird die Kausaltheorie der minimalen Theorien sein, wie sie
-von Baumgartner und Grasshof in [@Baumgartner2004] beschrieben
-wird. Es wird sich zeigen, dass diese Kausaltheorie kompatibel ist mit
-Kitchers Programm, und unter gewissen Annahmen direkt aus Kitchers
-Ansatz folgt.
+von @Baumgartner2004 beschrieben werden. Es wird sich zeigen, dass
+diese Kausaltheorie kompatibel ist mit Kitchers Programm, und unter
+gewissen Annahmen direkt aus Kitchers Ansatz folgt.
 
 
 Kitchers Programm
@@ -128,7 +127,7 @@ In der Kausalitätstheorie der minimalen Theorien können Ereignisstypen
 nicht beliebig extensional definiert werden. Das heisst, man kann
 nicht einer beliebigen Menge von Ereignistokens einen Ereignistyp
 zuordnen. Vielmehr muss jedem Ereignistyp eine Eigenschaft entsprechen
-[@Baumgartner2004, 38--39].
+[@Baumgartner2004, 38-39].
 
 Zudem können Ereignistokens nicht beliebige Teilmengen der Welt
 darstellen, sondern müssen sowohl räumlich als auch zeitlich
@@ -259,7 +258,7 @@ Argumentmuster kombinieren kann. Er erreicht dies, indem er die in
 Argumentmuster verwendbaren Prädikate einschränkt auf solche, die er
 projizierbar nennt [@Kitcher1989, 482]. Wie wir später sehen werden,
 steht diese Einschränkung Kitchers in einem engen Zusammenhang mit
-einer Einschränkung an Ereignistypen, die @Baumgartner2004 [38--39]
+einer Einschränkung an Ereignistypen, die @Baumgartner2004 [38-39]
 vornehmen. Dort werden Ereignistypen auf solche Klassen von
 Ereignissen eingeschränkt, die sich durch eine oder mehrere gemeinsame
 Eigenschaften auszeichnen.
