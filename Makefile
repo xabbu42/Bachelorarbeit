@@ -18,7 +18,7 @@ all: arbeit.pdf #notizen.pdf essay.pdf
 
 clean :
 	-latexmk -c *.latex
-	-rm *.out *.latex *.bbl
+	-rm *.out *.latex *.bbl *-blx.bib
 
 distclean : clean
 	-rm notizen.pdf essay.pdf arbeit.pdf
