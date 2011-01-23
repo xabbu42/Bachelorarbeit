@@ -18,7 +18,7 @@ gewissen Annahmen direkt aus Kitchers Ansatz folgt.
 
 
 Kitchers Programm
-================
+=================
 
 Kitcher identifiziert zwei Hauptansätze, um die Probleme von Hempels
 *covering-law*-Modell der Erklärung zu lösen. In einem Ansatz wird auf
@@ -181,12 +181,11 @@ Die Variablen $X_1, X_2, Y$ stehen dabei als Platzhalter für weitere
 unbekannte oder uninteressante kausal relevante Faktoren. Nach
 @Baumgartner2004 [TODO] kann eine uns bekannte Theorie niemals
 sicher abgeschlossen werden. Dies wird formal durch diese Variablen
-erfasst. Da es sich dabei um ein epistemisch es Problem handelt,
+erfasst. Da es sich dabei um ein epistemisches Problem handelt,
 welches in unserem Kontext ignoriert werden kann, werde ich
 diese Variablen weglassen. Wir gehen also von einem perfekten
 Wissensstand aus, in dem wir unbekannte weitere kausal relevanten
 Faktoren ausschliessen können.
-
 
 
 Kitchers Vereinheitlichungstheorie
