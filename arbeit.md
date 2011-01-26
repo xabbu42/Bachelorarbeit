@@ -117,7 +117,7 @@ Die Kausalitätstheorie der minimalen Theorien ist eine
 Regularitätstheorie der Kausalität. Das bedeutet, Kausalität wird
 nicht anhand der Eigenschaften einzelner partikulären Ereignissen
 definiert, sondern anhand logischer Regelmässigkeiten, welche zwischen
-Ereignisstypen bestehen. Diese Vorgehensweise hat den Vorteil einen
+Ereignisstypen bestehen. Diese Vorgehensweise hat den Vorteil eine
 empirische Definition der Kausalität zu liefern. Deshalb bieten sich
 Regularitätstheorien der Kausalität auch besonders für ihre Anwendung
 in Kitchers Programm an, in dem ja ebenfalls eine empirische
@@ -309,24 +309,64 @@ folgenden drei Aussagen zeigen dann, dass in diesem Fall die gegebenen
 Argumentmuster die einzig richtigen nach der Theorie Kitchers sind:
 
 1. Ein kausales Argumentmuster kann nicht unvollständige Ursachenbündel
-enthalten.
+   enthalten.
 
-Nach @Kitcher1989 [TODO] müssen alle Instanzen eines Argumentmusters
-deduktive Ableitungen sein. Da die zu erklärende Wirkung aus einem
-unvollständigen Ursachenbündel jedoch nicht deduktiv folgt, genügt ein
-solches nicht für ein korrektes Argumentmuster.
+In einer starken Fassung unserer Voraussetzung folgt diese Aussage
+direkt. Wenn wir nämlich davon ausgehen, dass es nicht genügt kausale Relevanzen
+zwischen Ereignisstypen aufzuzählen, um die kausale Struktur der Welt
+vollständig zu erfassen, sondern es vielmehr auch notwendig ist,
+zusammengehörende Ursachenbündel zu beschreiben.
+
+In unserem Beispiel heisst das, dass die folgenden Aussagen noch
+nicht genügen, um die vollständige kausale Struktur der Welt
+betreffend das Aufläuchten von LEDs zu erfassen:
+
+- Geschlossene Stromkreise sind kausal relevant für das Leuchten von
+  LEDs.
+- Kleine Widerstände sind kausal relevant für das Leuchten von LEDs.
+- Die Orientierung der Spannung in einem Stromkreis ist kausal
+  relevant für das Leuchten von LEDs.
+- Lichteinfall von aussen ist kausal relevant für das Leuchten von
+  LEDs.
+
+Vielmehr ist Teil der kausalen Struktur, dass die ersten drei Faktoren
+nur zusammen eine Leuchten der LED zur Folge haben, während der letzte
+Faktor alleine genügt, um ein Leuchten der LED zu erklären. In dem
+Fall müssen Argumentmuster, mit unserer Voraussetzung, auch diese
+Bedingungen enthalten, das heisst sie müssen auf vollständige
+Ursachenbündel Bezug nehmen und nicht nur auf einzelne kausal
+relevante Faktoren.
+
+Selbst wenn wir unsere Annahme in einer schwächeren Form
+interpretieren, nach der eine blosse Auflistung aller kausal relevanten
+Faktoren genügt, um die kausale Struktur der Welt zu erfassen, gibt es
+eine weitere Bedingung Kitchers, die unsere erste Bedingung zumindest
+nahelegt. Wie wir nämlich bereits gesehen haben, müssen nach
+@Kitcher1989 [448] alle Instanzen eines Argumentmusters deduktive
+Ableitungen sein. Da die zu erklärende Wirkung aus einem
+unvollständigen Ursachenbündel *alleine* jedoch nicht deduktiv folgt,
+genügt ein solches nicht für ein korrektes Argumentmuster.
+
+TODO:Absurder Fall (warum genau?) mit mehreren kausal relevanten
+Faktoren vom selben Ursachenbündel, aber nicht das ganze
+Ursachenbündel, zusammen mit nicht kausal relevanter Information,
+welche die Argumente deduktiv schlüssig machen. Die kausale Struktur
+ist tatsächlich erfasst (bei z.B. 2 Faktoren pro Argumentmuster und
+einem Ursachenbündel von 3 Faktoren durch insgesamt 3^2=8
+Argumentmuster).
+
 
 2. Ein Argumentmuster kann neben den tatsächlichen Ursachentypen keine
-zusätzlichen Voraussetzungen enthalten. Dies betrifft sowohl weitere
-Ereignisstypen, als auch andere Begriffe welche nicht in kausalen
-Zusammenhängen stehen.
+   zusätzlichen Voraussetzungen enthalten. Dies betrifft sowohl
+   weitere Ereignisstypen, als auch andere Begriffe welche nicht in
+   kausalen Zusammenhängen stehen.
 
-In der bereits erwähnten Annahme im Kapitel \nameref{These} ist
-eingeschlossen, dass die verwendeten Ursachenbündel bereits
-hinreichend für die Wirkung sind und in den Argumentmustern zu dem zu
-erklärenden Wirkungstyp verwendet werden. Wie auch in Kitchers
-Ausführungen zu den irrelevanten Faktoren lassen sich im wesentlichen
-zwei Fälle Unterscheiden. 
+Wie wir im ersten Punkt gesehen haben, muss ein kausales
+Argumentmuster auf Ursachenbündel bezug nehmen, die bereits
+hinreichend für die zu erklärende Wirkung sind. Zusätzliche
+Voraussetzungen lassen sich Analog zu Kitchers Ausführungen zu den
+irrelevanten Faktoren behandeln [siehe @Kitcher1989, 482-484]. Demnach
+lassen sich auch hier zwei Fälle unterscheiden:
 
 Erstens kann es sein, dass die zusätzlichen Voraussetzungen bestimmte
 Instanzen der Argumentmuster ausschliessen. Durch diese unnötige
@@ -342,7 +382,8 @@ Stichhaltigkeit des Argumentmusters und ihrer Instanzen ohne
 Belang. Ein Prinzip der Einfachheit fordert, diese Voraussetzungen zu
 streichen [@Kitcher1989, 484]
 
-3. Ein Argumentmuster kann nicht mehrere Ursachenbündel enthalten.
+3. Ein Argumentmuster kann nicht mehrere vollständige Ursachenbündel
+   enthalten.
 
 Dies ist der entscheidende und schwierigste Punkt in meiner
 Argumentation, da er gemeinsame und nicht zufriedenstellend gelöste
