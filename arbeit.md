@@ -207,7 +207,7 @@ nach Kitcher eine erste Definition von Vereinheitlichung:
 
 > characterize $E(K)$ as the set of arguments that achieves the best
 > tradeoff between minimizing the number of premises used and
-> maximizing the number of concusions obtained. [@Kitcher1989, 431]
+> maximizing the number of conclusions obtained. [@Kitcher1989, 431]
 
 Sowohl diese Definition wie auch Friedmanns eigene Definition haben
 jedoch technische Schwierigkeiten, welche nach @Kitcher1989 [432] in
@@ -414,13 +414,38 @@ Ableitung der Kausaltheorie der minimalen Theorien
 
 Aus der gegebenen Beschreibung der kausalen Argumentmuster und
 Kitchers komparativen Vereinheitlichungsbegriff ergeben sich direkt
-alle konstitutiven Bedingungen der minimalen Theorien. Jedes einzelne
-Argumentmuster muss genau ein minimal hinreichendes Ursachenbündel der
-zu erklärenden Wirkung angeben, damit die Instanzen des
-Argumentmusters deduktiv schlüssig sind und keine unnötigen Prämissen
-enthalten, wie dies bereits im Punkt 2 im vorhergehenden Kapitel
-erläutert wurde.
+alle konstitutiven Bedingungen der minimalen Theorien.
 
+Jedes einzelne Argumentmuster muss genau ein minimal hinreichendes
+Ursachenbündel der zu erklärenden Wirkung angeben, damit die Instanzen
+des Argumentmusters deduktiv schlüssig sind und keine unnötigen
+Prämissen enthalten, wie dies bereits im Punkt 2 im vorhergehenden
+Kapitel erläutert wurde. Nehmen wir eine beliebige Systematisierung
+$S$, welche die komplette Instantiierung einer generierenden Menge von
+Argumentmustern $U$ ist [vgl @Kitcher1989, 434]. Gehen wir zudem davon
+aus, $U$ enthalte das dem *nicht* minimal hinreichenden Faktorenbündel
+$ABC$ entsprechende Argumentmuster $M$, das es also erlaubt aus Instanzen
+des Ursachenbündels $ABC$ Instanzen einer bestimmten Wirkung $W$
+abzuleiten.
+
+Es gibt nun, wie bei Kitchers Diskussion der irrelevanten Faktoren,
+zwei Fälle. Erstens kann es sein, dass alle Instanzen von $ABC$ auch
+bereits Instanzen von $AB$ sind. In dem Fall können wir das
+Argumentmuster $M$ zu $ABC \ra W$ in $U$ durch ein Argumentmuster $M'$
+in $U'$ ersetzen, welches $AB \ra W$ entspricht. Da alle Instanzen von
+$ABC$ auch Instanzen von $AB$ sind, generieren $U$ und $U'$ sehr
+ähnliche Systematisierungen $S$ und $S'$, insbesondere haben die
+beiden Systematisierungen die gleiche Menge Argumente und exakt die
+gleichen Konsequenzen, d.h. $C(S') = C(S)$. Laut @Kitcher [TODO], ist
+in dem Fall die einfachere Formulierung $AB \ra W$ vorzuziehen.
+
+Zweitens kann es sein, dass Instanzen von $AB$ existieren, welches
+nicht Instanzen von $ABC$ sind. In diesem Fall gilt entweder $C(S')
+\subset C(S)$ oder $U$ enthält zusätzlich noch das Argumentmuster $M$,
+um Instanzen von $W$ zu erklären. Im erstem Fall trifft (C2) zu, im
+zweiten Fall (C1) [@Kitcher, 478].  Laut Prinzip (C) ist in beiden
+Fällen $U'$ und die entsprechende Systematisierung $S'$ vorzuziehen.
+ 
 Aus dem komparativen Vereinheitlichungsbegriff von Kitcher folgt auch,
 dass die Argumentmuster und damit insbesondere die kausalen
 Argumentmuster insgesamt minimiert werden müssen. Nehmen wir eine
@@ -457,9 +482,11 @@ von f weglassen weil trivial?).
 
 Demnach werden also alle Ableitungen von Instanzen von $W$ in der
 besten Systematisierung $E(K)$ von $K$ durch eine minimal notwendige
-Menge von kausalen Argumentmustern generiert. Die Definitionen von
+Menge von kausalen Argumentmustern generiert. Zudem benutzt jedes
+kausale Argumentmuster genau ein minimal hinreichendes Ursachenbündel,
+um die zu erklärende Wirkung abzuleiten. Die Definitionen von
 Ursache nach der Kausaltheorie der minimalen Theorien und nach
-Kitchers Program sind also exakt deckungsgleich.
+Kitchers Program sind also mit unseren Voraussetzungen exakt deckungsgleich.
 
 Ergebnisse/Folgen
 =================
