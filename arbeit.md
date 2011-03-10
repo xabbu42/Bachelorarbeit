@@ -81,7 +81,7 @@ ich werde davon ausgehen, dass die am stärksten vereinheitlichte
 Theorie der Welt sämtliche tatsächlich kausal erklärbaren Ereignisse
 durch die Angabe eines hinreichenden Bündels von Ereignissen erklärt,
 nämlich dem tatsächlichen Ursachenbündel des zu erklärenden
-Ereignisses. 
+Ereignisses.
 
 In dieser Voraussetzung inbegriffen sind auch einige generelle
 Prinzipien über Kausalität, wie sie in [@Baumgartner2004, 68ff]
@@ -219,8 +219,8 @@ erreicht, wird dann ausschliesslich aus Eigenschaften der
 Argumentmuster bestimmt. Diese Erweiterung ermöglicht es Kitcher den
 Fokus von Prämissen und der Konklusion auf die Ableitung selber zu
 verschieben. Neu sind die Ähnlichkeiten von an sich verschiedenen
-Ableitungen entscheidend für den Grad der Vereinheitlichung eine
-Systematisierung $D$.
+Ableitungen entscheidend für den Grad der Vereinheitlichung einer
+Systematisierung $D$ [vgl. @Kitcher1989, 432].
 
 Nach @Kitcher1989 [432] besteht ein Argumentmuster aus drei Teilen:
 
@@ -253,14 +253,14 @@ folgenden drei Bedingungen erfüllt sind:
 
 
 Da Kitcher Argumentmuster zählt, muss er verhindern, dass man beliebig
-Argumentmuster kombinieren kann. Er erreicht dies, indem er die in
-Argumentmuster verwendbaren Prädikate einschränkt auf solche, die er
-projizierbar nennt [@Kitcher1989, 482]. Wie wir später sehen werden,
-steht diese Einschränkung Kitchers in einem engen Zusammenhang mit
-einer Einschränkung an Ereignistypen, die @Baumgartner2004 [38-39]
-vornehmen. Dort werden Ereignistypen auf solche Klassen von
-Ereignissen eingeschränkt, die sich durch eine oder mehrere gemeinsame
-Eigenschaften auszeichnen.
+Argumentmuster kombinieren oder aufspalten kann. Er erreicht dies,
+indem er die in Argumentmuster verwendbaren Prädikate einschränkt auf
+solche, die er projizierbar nennt [@Kitcher1989, 482]. Wie wir später
+sehen werden, steht diese Einschränkung Kitchers in einem engen
+Zusammenhang mit einer Einschränkung an Ereignistypen, die
+@Baumgartner2004 [38-39] vornehmen. Dort werden Ereignistypen auf
+solche Klassen von Ereignissen eingeschränkt, die sich durch eine oder
+mehrere gemeinsame Eigenschaften auszeichnen.
 
 Die Instanzen von Argumentmuster sind deduktive Argumente. Kitcher
 verteidigt diese Idealisierung, die er *deductive chauvinism* nennt,
@@ -271,7 +271,75 @@ aufgefasst werden [@Kitcher1989, 449]. Daraus ergibt sich auch, dass
 aus Kitchers Vereinheitlichungstheorie keine probabilistische
 Kausaltheorie folgen kann.
 
-TODO: Vergleichen von Systematisierungen
+Kitcher definiert auf der Menge aller Systematisierungen eine
+partielle Ortnung[^part], mit Hilfe des Prinzips (C) [@Kitcher1989,
+478] und der exakten Definition eines comparativen Stringenz-Begriffs
+(T),(R) [@Kitcher1989, 479, 480] (welche wiederum eine partielle
+Ordnung aller Argumentmuster definiert). Durch das Prinzip (O) drückt
+er die Hoffnung aus, dass mit dieser partiellen Ordnung auf der Menge
+der Systematisierungen eine obere Grenze zu je zwei beliebigen
+Systematisierungen existiert. Das heisst, gegeben zwei
+Systematisierungen $S$ und $T$, existiert eine, oder mehrere
+Systematisierungen $O$, so dass sowohl $S \leq_C O$ und $T \leq_C O$
+gilt, wobei $A \leq_C B$ dafür steht, dass $A$ nach Prinizip (C)
+weniger vereinheitlicht ist als $B$.[^latt]
+
+Dies ist trivialerweise gegeben, falls $S$ und $T$ vergleichbar sind,
+in dem wir $O = max(S,T)$ setzen. Falls $S$ und $T$ jedoch nicht
+vergleichbar sind, garantiert uns dieses Prinzip die Existenz einer
+dritten Systematisierung $O$, zugunsten welcher wir sowohl $S$ als
+auch $T$ fallen lassen können.
+
+Im Anhang befindet sich eine genauere Betrachtung dieser Prinzipien
+und Beweise für die hier gemachte Behauptung, es handle sich um
+partielle Ordnungen. Um diese Beweise durchzuführen muss ich einen
+offensichtlichen Fehler Kitchers in der Formulierung von (C)
+korrigieren, sowie einige zusätzliche Einschrenkungen vornehmen. Für
+das eigentliche Thema dieser Arbeit sind diese Betrachtungen jedoch
+nebensächlich. 
+
+Es reicht aus, dass laut Prinzip (C) eine Menge von
+Argumentmustern $U$ besser vereinheitlicht ist als eine weitere Menge
+von Argumentmuster $V$, falls einer der folgenden Punkte erfüllt ist:
+
+1.  $U$ erklärt mit weniger, mindestens so stringenter Argumentmuster
+die gleiche oder grössere Menge von Konsequenzen als $V$ (C1).
+
+2.  $U$ erklärt mit mehr, aber zum Teil stringenterer Argumentmuster
+die gleiche oder grössere Menge von Konsequenzen als $V$ (C1).
+
+3.  $U$ erklärt mit mindestens so stringenter Argumentmuster eine
+grössere Menge von Konsequenzen als $V$ (C2).
+
+Zudem genügt für unsere Zwecke zu wissen, dass ein Argumentmuster $p$
+stringenter ist als ein Argumentmuster $q$, falls $p$ die gleiche
+Struktur wie $q$ besitzt (also die gleichen schematischen Sätze mit
+der gleichen Klassifikation), so dass $p$ weniger Instanzen zulässt
+als $q$.
+
+[^part]: In der Mathematik ist eine partielle Ordnung definiert als
+    eine Relation $R$ auf einer Menge $M$, so dass die folgenden drei
+    Bedingungen für alle $a,b,c \in M$ erfüllt sind:
+
+    1.  $aRa$ (Reflexitivität)
+    2.  $aRb$ und $bRa \Ra a=b$
+    3.  $aRb$ und $bRc \Ra aRc$ (Transitivität)
+
+    Eine partielle Ordnung unterscheidet sich von den allgemein
+    bekannten totalen Ordnungen (wie z.B. $\leq$ auf den reellen
+    Zahlen) auschliesslich dadurch, dass es nicht vergleichbare
+    Elemente geben kann. Es ist also bei einer partiellen Ordnung $R$
+    möglich, dass es Elemente $a,b \in M$ gibt, so dass weder $aRb$
+    noch $bRa$ gilt.
+
+[^latt]: Dies ist eine Bedingung die auch von Semi-Lattices erfüllt
+    wird. Zusätzlich muss in einem Semi-Lattice aber auch eine
+    eindeutige kleinste obere Schranke (Infimum) $a \vee b$ zu zwei
+    beliebigen Elementen $a,b \in M$ (vgl. Fussnote 1) existieren. Es
+    gilt, wie für jede obere Schranke, $a \leq a \vee b$ und $b \leq a
+    \vee b$. Zusätzlich gilt aber auch für jede weitere obere Schranke
+    $o$ von $a$ und $b$, dass $a \vee b \leq o$.
+
 
 Argumentation
 =============
@@ -445,7 +513,7 @@ nicht Instanzen von $ABC$ sind. In diesem Fall gilt entweder $C(S')
 um Instanzen von $W$ zu erklären. Im erstem Fall trifft (C2) zu, im
 zweiten Fall (C1) [@Kitcher, 478].  Laut Prinzip (C) ist in beiden
 Fällen $U'$ und die entsprechende Systematisierung $S'$ vorzuziehen.
- 
+
 Aus dem komparativen Vereinheitlichungsbegriff von Kitcher folgt auch,
 dass die Argumentmuster und damit insbesondere die kausalen
 Argumentmuster insgesamt minimiert werden müssen. Nehmen wir eine
@@ -490,6 +558,131 @@ Kitchers Program sind also mit unseren Voraussetzungen exakt deckungsgleich.
 
 Ergebnisse/Folgen
 =================
+
+Math. Beweise
+=============
+
+(T),(R) partielle Ordnung
+-------------------------
+
+Kitcher definiert mit Hilfe des Prinizips (T) eine partielle Ordnung
+auf Argumentmustern mit gleicher Struktur [@Kitcher1989, 479]. Demnach ist ein
+Argumentmuster $p$ genau dann mindestens so stringent wie ein weiteres
+Argumentmuster $q$, wenn beide die gleiche Struktur besitzen und die
+Instanzen von $p$ eine Teilmenge der Instanzen von $q$ sind. $p$ ist
+genau dann stringenter als $q$, wenn zusätzlich die Instanzen von $p$
+eine echte Teilmenge der Instanzen von $q$ sind.
+
+Durch (R) erweitert er diese Definition auf Argumentmuster, mit sehr
+ähnlicher Struktur [@Kitcher1989, 480]. Gegeben zwei
+Argumentmuster $p$ und $q$, darf nämlich nach (R) das stringentere
+Argumentmuster $q$ zusätzliche schematische Sätze enthalten, welche
+ein allgemeines Prinzip in $p$, durch logisch gültige Ableitungen
+ersetzt.
+
+Im folgenden schreibe ich $p \leq_S q$ dafür, dass $q$ mindestens so
+stringent ist wie $p$. Zudem sollen $I(p)$ für die Menge der Instanzen
+des Argumentmusters $p$ stehen. $p$, $q$ und $r$ stehen immer für
+beliebige Argumentmuster.
+
+1. $p$ hat trivialerweise die gleich Struktur wie $p$ selber, und es
+gilt $I(p) \subseteq I(p)$. Nach (T) gilt also $p \leq_S p$ für alle
+Argumentmuster $p$.
+
+2. Angenommen, es gilt $p \leq_S q$ und $q \leq_S p$. Demnach ist das
+Prinzip (R) ausgeschlossen, da nicht sowohl $p$ als auch $q$
+zusätzliche schematische Sätze enthalten können. Demnach haben $p$ und
+$q$ die exakt gleiche Struktur, und es gilt $I(q) \subseteq I(p)$ und
+$I(p) \subseteq I(q)$. Daraus folgt $I(p) = I(q)$. Bis auf
+unwesentliche Unterschiede in der Formulierung sind also alle
+Ausfüllinstruktionen von $p$ und $q$ extensional equivalent und es
+gilt für unsere Zwecke $p = q$.
+
+3. Angenommen, es gilt $p \leq_S q$ und $q \leq_S r$. Es gilt also
+$I(r) \subseteq I(q) \subseteq I(p)$, woraus auch $I(r) \subseteq
+I(p)$ folgt. Gilt eine oder beide der Ungleichungen wegen dem Prinzip
+(R), dann gilt auch $p \leq_S r$ nach (R), da alle schematischen
+Sätze von $p$ in $q$ und damit auch in $r$ enthalten sind. Wurde in
+beiden Fällen Prinzip (T) verwendet, hat $p$ die gleiche Struktur wie
+$q$ und damit auch wie $r$, und es gilt $p \leq_S r$ nach (T).
+
+$\leq_S$ ist also eine partielle Ordnung auf der Menge aller
+Argumentmuster.
+
+(C) partielle Ordnung
+---------------------
+
+Ich werde im folgenden (wie auch Kitcher) $U$, $U'$ und $U^*$ für
+Mengen von Argumentmustern sowie $S$, $S'$ und $S^*$ für die
+entsprechenden kompletten Instantierungen benutzen. Ausserdem soll $U
+\leq_C U'$ dafür stehen, dass nach dem Prinzip (C) von @Kitcher1989
+[478] $U'$ besser Vereinheitlicht ist als $U$.
+
+An mehreren Stellen in seiner Definition von (C) benutzt Kitcher
+Funktionen zwischen den kompletten Instantierungen $S$, $S'$ und
+$S^*$, spricht dann aber über diese Funktionen als würden sie
+Argumentmuster aufeinaner abbilden. Insbesondere werden Argumente und
+Ergebnisse der Funktionen nach ihrer Stringenz verglichen. $S$, $S'$
+und $S^*$ sind jedoch Mengen von Ableitungen, welche nicht mehr nach
+Stringenz vergleichbar sind. Ich gehe deshalb davon aus, dass dies ein
+Fehler in Kitchers Paper ist, und tatsächlich Funktionen zwischen den
+Mengen von Argumentmustern $U$, $U'$ und $U^*$ gemeint sind. Diese
+Interpretation ist auch konsistent mit Kitchers Formulierung von
+Prinzip (U), in der tatsächlich von Funktionen zwischen den Mengen von
+Argumentmustern $U$, $U'$ und $U^*$ die Rede ist.
+
+1.  Für eine beliebige Menge von Argumentmustern $U$ gilt $U \leq_C
+    U$. Es ist nämlich $C(S) \subseteq C(S)$ und durch die Identität
+    auf $U$ ist eine bijektive und damit auch injektive Funktion $f: U
+    \ra U$ gegeben, welche trivial den Bedingungen von (C1)
+    genügt, da jedes Argumentmuster $p$ mindestens so stringent wie
+    $p$ selber ist.
+
+2.  Angenommen es gilt $U \leq_C U'$ und $U' \leq_C U$ für zwei
+    beliebige Mengen von Argumentmuster $U$ und $U'$. In dem Fall gilt
+    auch $C(S) \subseteq C(S')$ und $C(S') \subseteq C(S)$, woraus
+    $C(S) = C(S')$ folgt. (C2) ist dadurch ausgeschlossen, da weder
+    $C(S)$ eine echte Teilmenge von $C(S')$ ist, noch umgekehrt. Es
+    existieren also zwei Funktionen $f: U \ra U'$ und $g: U' \ra U$,
+    welche den Bedingungen von (C1) genügen.
+
+    Angenommen $f$ sei surjektiv und es existiert ein Argumentmuster
+    $p$, so dass $f(p)$ weniger stringent ist als $p$. In dem Fall
+    muss $g \circ f(p)$ ungleich $p$ sein. Wir haben hier also zwei
+    nach Stringenz vergleichbare Argumentmuster $p$ und $g \circ f(p)$
+    in $S$. Dieser Fall haben wir jedoch als unsinnig ausgeschlossen
+    (TODO: falsch, besser behandeln mit Equivalenzklassen oder
+    ähnlich). Demnach ist also $f$ injektiv (und mit einem analogen
+    Argument auch $g$). Zudem gilt $g \circ f(p) = p$ und $f \circ
+    g(q) = q$ für alle Argumentmuster $p \in U$ und $q \in
+    U'$. Deswegen existiert zu jedem $q \in S'$ ein Element $g(q) \in
+    S$, so dass $f(g(q)) = f \circ g(q) = q$ ist. f (und analog g)
+    sind also auch surjektiv und damit bijektiv. Es gilt nun $p \leq_S
+    f(p)$ und $f(p) \leq_S p$ und damit $f(p) = p$, da $\leq_S$ eine
+    partielle Ordnung ist. Also gilt auch $U = f(U) = U'$.
+
+3.  Angenommen es gilt $U \leq_C U'$ und $U' \leq_C U^*$ für drei
+    beliebige Mengen von Argumentmuster $U$, $U'$ und $U^*$. In dem
+    Fall gilt $C(S) \subseteq C(S') \subseteq C(S^*)$ und es
+    existieren Funktionen $f: U \ra U'$ und $g: U' \ra U^*$, welche
+    entsprechend den Bedingungen von (C1) oder (C2) genügen. Wir
+    unterscheiden folgende Fälle:
+
+    a. $f$ und $g$ sind injektiv. In dem Fall ist $g \circ f: S \ra
+       S^*$ injektiv und es gilt $U \leq_C U^*$ nach (C1).
+
+    b. $f$ und $g$ sind surjektiv und es gilt $C(S) = C(S^*)$. In dem
+       Fall existiert ein Argumentmuster $p$, so dass $f(p)$ echt
+       weniger stringent ist als $p$. In dem Fall ist auch $g \circ
+       f(p)$ echt weniger stringent als $p$ und es gilt $U \leq_C U^*$
+       nach (C1).
+
+    c. $f$ und $g$ sind surjektiv und es gilt $C(S) \subset C(S^*)$. In
+       dem Fall ist auch $g \circ f: S \ra S^*$ surjektiv und es gilt
+       $U \leq_C U^*$ nach (C2).
+
+    TODO: schwieriger Fall, eine injektive und eine surjektive
+    Funktion
 
 Literatur
 =========
