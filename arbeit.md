@@ -332,23 +332,38 @@ $V$ ist. $S$ ist genau dann besser Vereinheitlicht als $T$, wenn $V
     Bedingungen für alle $a,b,c \in M$ erfüllt sind:
 
     1.  $aRa$ (Reflexitivität)
-    2.  $aRb$ und $bRa \Ra a=b$
+    2.  $aRb$ und $bRa \Ra a=b$ (Symmetrie)
     3.  $aRb$ und $bRc \Ra aRc$ (Transitivität)
 
     Eine partielle Ordnung unterscheidet sich von den allgemein
     bekannten totalen Ordnungen (wie z.B. $\leq$ auf den reellen
-    Zahlen) auschliesslich dadurch, dass es nicht vergleichbare
+    Zahlen) ausschliesslich dadurch, dass es nicht vergleichbare
     Elemente geben kann. Es ist also bei einer partiellen Ordnung $R$
     möglich, dass es Elemente $a,b \in M$ gibt, so dass weder $aRb$
     noch $bRa$ gilt.
 
+    Nach @Kitcher1989 [479] selber, ist (C) asymetrisch und
+    transitiv. Das bedeuted nach Kitcher definiert (C) eine strikte
+    partielle Ordnung $<_C$, für welche die folgenden drei
+    Bedingungen gelten:
+
+    1.  $a \nless_C a$ (Irreflexivität)
+    2.  $a <_C b \Ra b \nless_C a$ (Antisymmetrie)
+    3.  $a <_C b$ und $b <_C c \Ra a <_C c$ (Transitivität)
+
+    Dies ist ein Hinweis auf ein Missverständniss von (C) meinerseits,
+    welches jedoch ohne Bedeutung ist. Man kann nämlich entweder
+    $a \leq_C b$ mit $a <_C b \vee a = b$ identifizieren oder $a <_C
+    b$ mit $a \leq_C b \wedge a \neq b$, und die gegeben
+    Eigenschaften lassen sich entsprechend einfach ableiten.
+
 [^latt]: Dies ist eine Bedingung die auch von Semi-Lattices erfüllt
     wird. Zusätzlich muss in einem Semi-Lattice aber auch eine
-    eindeutige kleinste obere Schranke (Infimum) $a \vee b$ zu zwei
+    eindeutige kleinste obere Schranke (Supremum) $a \vee b$ zu zwei
     beliebigen Elementen $a,b \in M$ (vgl. Fussnote 1) existieren. Es
     gilt, wie für jede obere Schranke, $a \leq a \vee b$ und $b \leq a
     \vee b$. Zusätzlich gilt aber auch für jede weitere obere Schranke
-    $o$ von $a$ und $b$, dass $a \vee b \leq o$.
+    $o$ von $a$ und $b$, dass $a \vee b \leq o$ gilt.
 
 
 Argumentation
