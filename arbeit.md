@@ -330,7 +330,7 @@ zuerst die nach (C) besten Mengen von Argumentmustern $U$ und $V$, so
 dass jede Ableitung in $S$ eine Instanz von einem Argumentmuster in
 $U$ und jede Ableitung in $T$ eine Instanz von einem Argumentmuster in
 $V$ ist. $S$ ist genau dann besser Vereinheitlicht als $T$, wenn $V
-\leq_C U$ gilt.
+\leq_C U$ gilt.[^compl]
 
 [^part]: In der Mathematik ist eine partielle Ordnung definiert als
     eine Relation $R$ auf einer Menge $M$, so dass die folgenden drei
@@ -369,6 +369,17 @@ $V$ ist. $S$ ist genau dann besser Vereinheitlicht als $T$, wenn $V
     gilt, wie für jede obere Schranke, $a \leq a \vee b$ und $b \leq a
     \vee b$. Zusätzlich gilt aber auch für jede weitere obere Schranke
     $o$ von $a$ und $b$, dass $a \vee b \leq o$ gilt.
+
+[^compl]: An dieser Stelle verwendet Kitcher eine stärkere Version von
+    seinem Prinzip (O). Er geht nämlich nicht nur davon aus, dass zu
+    zwei beliebigen Mengen von Argumentmustern $U$ und $U'$ mindestens eine obere
+    Schranke $U^*$ besteht, sondern dass zu allen generativen Mengen
+    von Argumentmustern $U_1, U_2, ...$ zu einer Systematisierung $S$
+    eine eindeutige oberste Schranke $U$ existiert.
+
+    Da nach Kitchers Defintion von Argumentmustern es jedoch nur
+    *endlich* viele solche generativen Mengen von Argumentmustern geben
+    kann, folgt diese stärkere Version aus dem Prinizip (O) selber.
 
 
 Argumentation
