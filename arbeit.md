@@ -162,7 +162,7 @@ In der Kausalitätstheorie der minimalen Theorien können Ereignisstypen
 nicht beliebig extensional definiert werden. Das heisst, man kann
 nicht einer beliebigen Menge von Ereignistokens einen Ereignistyp
 zuordnen. Vielmehr muss jedem Ereignistyp eine Eigenschaft entsprechen
-[@Baumgartner2004, 38-39]. Wie wir später sehen werden, steht diese
+[@Baumgartner2004, 38--39]. Wie wir später sehen werden, steht diese
 Forderung und insbesondere die Notwendigkeit einer solchen
 Einschränkung in einem engen Zusammenhang mit einer Forderung Kitchers
 [-@Kitcher1989, 482] an seine Argumentmuster, nämlich dass nur
@@ -407,7 +407,11 @@ aussehen:
 > genügend kleinem Widerstand, an dem eine Spannung mit der relativ
 > zur LED richtigen Orientierung angeschlossen ist, leuchtet. In der
 > Situation $\alpha$ sind diese Bedingungen erfüllt. Also tritt das
-> Leuchten $\beta$ der LED in $\alpha$ auf.
+> Leuchten $\beta$ der LED in $\alpha$ auf. [^arg]
+
+[^arg]: Dabei bestimmt der erste Satz die Auffüllinstruktionen. Die
+nächsten zwei Sätze sind schematische Sätze, deren Klassifikation
+offensichtlich ist.
 
 Zuerst einmal haben wir im Kapitel \nameref{These} vorausgesetzt, dass in
 der am stärksten Vereinheitlichten Theorie $E(K)$ kausal erklärbare
@@ -421,7 +425,7 @@ Argumentmuster die einzig richtigen nach der Theorie Kitchers sind:
    enthalten.
 
 In einer starken Fassung unserer Voraussetzung folgt diese Aussage
-direkt. Wenn wir nämlich davon ausgehen, dass es nicht genügt kausale Relevanzen
+direkt. Wenn wir nämlich davon ausgehen, dass es nicht genügt, kausale Relevanzen
 zwischen Ereignisstypen aufzuzählen, um die kausale Struktur der Welt
 vollständig zu erfassen, sondern es vielmehr auch notwendig ist,
 zusammengehörende Ursachenbündel zu beschreiben.
@@ -449,7 +453,7 @@ relevante Faktoren.
 Selbst wenn wir unsere Annahme in einer schwächeren Form
 interpretieren, nach der eine blosse Auflistung aller kausal relevanten
 Faktoren genügt, um die kausale Struktur der Welt zu erfassen, gibt es
-eine weitere Bedingung Kitchers, die unsere erste Bedingung zumindest
+eine weitere Bedingung Kitchers, die unsere erste Behauptung zumindest
 nahelegt. Wie wir nämlich bereits gesehen haben, müssen nach
 @Kitcher1989 [448] alle Instanzen eines Argumentmusters deduktive
 Ableitungen sein. Da die zu erklärende Wirkung aus einem
@@ -500,13 +504,14 @@ Probleme beider Theorien in einen Zusammenhang bringt. Sowohl in
 @Kitcher1989 als auch in @Baumgartner2004 werden Ursachenbündel,
 respektive Argumentmuster in einem gewissen Sinn gezählt. Damit dies
 überhaupt sinnvoll ist, muss verhindert werden, dass Ursachenbündel,
-respektive Argumentmuster beliebig vereinigt werden können.
+respektive Argumentmuster beliebig vereinigt oder aufgespalten werden
+können.
 
-Bei @Baumgartner2004 geschieht dies durch die bereits angesprochene
-Einschränkungen an Ereignisstypen, dass diese einer tatsächlichen
-Eigenschaft entsprechen müssen.
+Bei @Baumgartner2004 [38--39] geschieht dies durch die bereits angesprochene
+Einschränkungen an Ereignisstypen, dass diese einer oder mehreren
+tatsächlichen Eigenschaften entsprechen müssen.
 
-In @Kitcher1989 dagegen wird von den verwendeten Prädikaten gefordert,
+In @Kitcher1989 [482] dagegen wird von den verwendeten Prädikaten gefordert,
 dass diese projizierbar sind. Beliebige logische Verknüpfungen von
 projizierbaren Prädikaten, also insbesondere eine Disjunktion
 verschiedener Ursachenbündel, ist im Allgemeinen nicht mehr
@@ -530,7 +535,7 @@ Ursachenbündel der zu erklärenden Wirkung angeben, damit die Instanzen
 des Argumentmusters deduktiv schlüssig sind und keine unnötigen
 Prämissen enthalten, wie dies bereits im Punkt 2 im vorhergehenden
 Kapitel erläutert wurde. Nehmen wir eine beliebige Systematisierung
-$S$, welche die komplette Instantiierung einer generierenden Menge von
+$S$, welche die komplette Instantiierung einer besten generierenden Menge von
 Argumentmustern $U$ ist [vgl @Kitcher1989, 434]. Gehen wir zudem davon
 aus, $U$ enthalte das dem *nicht* minimal hinreichenden Faktorenbündel
 $ABC$ entsprechende Argumentmuster $M$, das es also erlaubt aus Instanzen
@@ -545,15 +550,16 @@ in $U'$ ersetzen, welches $AB \ra W$ entspricht. Da alle Instanzen von
 $ABC$ auch Instanzen von $AB$ sind, generieren $U$ und $U'$ sehr
 ähnliche Systematisierungen $S$ und $S'$, insbesondere haben die
 beiden Systematisierungen die gleiche Menge Argumente und exakt die
-gleichen Konsequenzen, d.h. $C(S') = C(S)$. Laut @Kitcher [TODO], ist
-in dem Fall die einfachere Formulierung $AB \ra W$ vorzuziehen.
+gleichen Konsequenzen. Laut @Kitcher1989 [484], ist in dem Fall die
+einfachere Formulierung $AB \ra W$ vorzuziehen.
 
 Zweitens kann es sein, dass Instanzen von $AB$ existieren, welches
-nicht Instanzen von $ABC$ sind. In diesem Fall gilt entweder $C(S')
-\subset C(S)$ oder $U$ enthält zusätzlich noch das Argumentmuster $M$,
-um Instanzen von $W$ zu erklären. Im erstem Fall trifft (C2) zu, im
-zweiten Fall (C1) [@Kitcher, 478].  Laut Prinzip (C) ist in beiden
-Fällen $U'$ und die entsprechende Systematisierung $S'$ vorzuziehen.
+nicht Instanzen von $ABC$ sind. In diesem Fall erklärt $U$ entweder
+weniger Konsequenzen als $U'$, oder $U$ enthält zusätzlich noch das
+Argumentmuster $M'$, um Instanzen von $W$ zu erklären [vgl
+@Kitcher1989, 483]. Im erstem Fall trifft (C2) zu, im zweiten Fall
+(C1) [@Kitcher1989, 478].  Laut Prinzip (C) ist in beiden Fällen $U'$
+und die entsprechende Systematisierung $S'$ vorzuziehen.
 
 Aus dem komparativen Vereinheitlichungsbegriff von Kitcher folgt auch,
 dass die Argumentmuster und damit insbesondere die kausalen
@@ -582,16 +588,16 @@ Argumentmustern $U'$ konstruieren, in dem alle Argumentmuster aus $U$
 und dessen Instanzen übernommen werden, ausser demjenigen
 Argumentmuster, welches es erlaubt $W$ aus $EF$ abzuleiten. Diese neue
 Systematisierung $S'$ ist besser Vereinheitlicht nach (C1), da mit
-weniger Argumentmuster die gleiche Menge von Konsequenzen erklärt
-wird.
+weniger, genau so stringenter, Argumentmuster die gleiche Menge von
+Konsequenzen erklärt wird.
 
 Demnach werden also alle Ableitungen von Instanzen von $W$ in der
 besten Systematisierung $E(K)$ von $K$ durch eine minimal notwendige
 Menge von kausalen Argumentmustern generiert. Zudem benutzt jedes
 kausale Argumentmuster genau ein minimal hinreichendes Ursachenbündel,
-um die zu erklärende Wirkung abzuleiten. Die Definitionen von
-Ursache nach der Kausaltheorie der minimalen Theorien und nach
-Kitchers Program sind also mit unseren Voraussetzungen exakt deckungsgleich.
+um die zu erklärende Wirkung abzuleiten. Die Definitionen von Ursache
+nach der Kausaltheorie der minimalen Theorien und nach Kitchers
+Program sind also *mit unseren Voraussetzungen* exakt deckungsgleich.
 
 Ergebnisse/Folgen
 =================
