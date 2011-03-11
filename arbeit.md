@@ -87,7 +87,7 @@ In dieser Voraussetzung inbegriffen sind auch einige generelle
 Prinzipien über Kausalität, wie sie in [@Baumgartner2004, 68ff]
 beschrieben werden. Es handelt sich dabei nur um eine erste
 Explikation vom Begriff der Kausalität, in dem Sinn, dass Kausalität
-im Minimum diesen Prinzipien gehorcht und noch nicht um eine
+im Minimum diesen Prinzipien folgen muss und noch nicht um eine
 vollständige Theorie der Kausalität. Es ist der Anspruch von
 Baumgartner und Grasshof, dass diese Prinzipien für jede Kausaltheorie
 gelten müssen, ansonsten handelt es sich nicht mehr um Kausalität im
@@ -101,7 +101,7 @@ Ursachenbündel hinreichend für die zu erklärende Wirkung, und es
 existieren für sämtliche Instanzen eines kausal erklärbaren
 Wirkungstyps auch vollständige Ursachenbündel.
 
-Mit Hilfe dieser Voraussetzung will ich für die zweite Frage folgende
+Mit Hilfe dieser Voraussetzungen will ich für die zweite Frage folgende
 These prüfen:
 
 > Die Kausaltheorie der minimalen Theorien, wie sie in
@@ -122,35 +122,6 @@ empirische Definition der Kausalität zu liefern. Deshalb bieten sich
 Regularitätstheorien der Kausalität auch besonders für ihre Anwendung
 in Kitchers Programm an, in dem ja ebenfalls eine empirische
 Definition von Kausalität angestrebt wird.
-
-In der Kausalitätstheorie der minimalen Theorien können Ereignisstypen
-nicht beliebig extensional definiert werden. Das heisst, man kann
-nicht einer beliebigen Menge von Ereignistokens einen Ereignistyp
-zuordnen. Vielmehr muss jedem Ereignistyp eine Eigenschaft entsprechen
-[@Baumgartner2004, 38-39].
-
-Zudem können Ereignistokens nicht beliebige Teilmengen der Welt
-darstellen, sondern müssen sowohl räumlich als auch zeitlich
-lokalisierbar sein [@Baumgartner2004, 37]. Diese Einschränkung
-überträgt sich natürlich auf Ereignisstypen, welche demnach nur auf
-räumlich und zeitlich lokalisierbare Ereignisse zutreffen dürfen.
-Demnach können von einander entfernte Ereignisse wie z.B.  das Senden
-von Radiosignalen von einer Antenne und das Einschalten eines Radios
-nicht unter einem Begriff "Senden und Einschalten" zusammengefasst
-werden.
-
-In der Kausalitätstheorie der minimalen Theorien wird zudem zwischen
-direkter und indirekter Kausalität unterschieden. Diese Unterscheidung
-ist jedoch relativ zu der begrifflichen Analyse der Situation und
-entspricht keinem realen Unterschied von direkter und indirekter
-Kausalität [@Baumgartner2004, TODO]. Durch das Prinzip der
-persistenten Relevanz [@Baumgartner2004, 69] wird sichergestellt, dass
-der Begriff der Kausalität selber, welcher sowohl direkte als auch
-indirekte Kausalität zusammenfasst, wieder unabhängig von der
-begrifflichen Analyse sein muss. Diese Unterscheidung ist notwendig,
-da die im folgenden Dargestellten minimalen Theorien nur direkte
-Kausalität erfassen können und indirekte Kausalität deshalb auf
-direkte Kausalität aufbauend definiert werden muss.
 
 Die minimale Theorie einer Wirkung $W$ ist eine Liste von
 Ereignisbündel, welche folgende zwei Eigenschaften erfüllt:
@@ -186,6 +157,40 @@ welches in unserem Kontext ignoriert werden kann, werde ich
 diese Variablen weglassen. Wir gehen also von einem perfekten
 Wissensstand aus, in dem wir unbekannte weitere kausal relevanten
 Faktoren ausschliessen können.
+
+In der Kausalitätstheorie der minimalen Theorien können Ereignisstypen
+nicht beliebig extensional definiert werden. Das heisst, man kann
+nicht einer beliebigen Menge von Ereignistokens einen Ereignistyp
+zuordnen. Vielmehr muss jedem Ereignistyp eine Eigenschaft entsprechen
+[@Baumgartner2004, 38-39]. Wie wir später sehen werden, steht diese
+Forderung und insbesondere die Notwendigkeit einer solchen
+Einschränkung in einem engen Zusammenhang mit einer Forderung Kitchers
+[-@Kitcher1989, 482] an seine Argumentmuster, nämlich dass nur
+projizierbare Prädikate verwendet werden dürfen.
+
+Zudem können Ereignistokens nicht beliebige Teilmengen der Welt
+darstellen, sondern müssen sowohl räumlich als auch zeitlich
+lokalisierbar sein [@Baumgartner2004, 37]. Diese Einschränkung
+überträgt sich natürlich auf Ereignisstypen, welche demnach nur auf
+räumlich und zeitlich lokalisierbare Ereignisse zutreffen dürfen.
+Demnach können von einander entfernte Ereignisse wie z.B.  das Senden
+von Radiosignalen von einer Antenne und das Einschalten eines Radios
+nicht unter einem Begriff "Senden und Einschalten" zusammengefasst
+werden.
+
+Wie wir gesehen haben, wird in der Kausalitätstheorie der minimalen
+Theorien zwischen direkter und indirekter Kausalität
+unterschieden. Diese Unterscheidung ist jedoch relativ zu der
+begrifflichen Analyse der Situation und entspricht keinem realen
+Unterschied von direkter und indirekter Kausalität [@Baumgartner2004,
+TODO]. Durch das Prinzip der persistenten Relevanz [@Baumgartner2004,
+69] wird sichergestellt, dass der Begriff der Kausalität selber,
+welcher sowohl direkte als auch indirekte Kausalität zusammenfasst,
+wieder unabhängig von der begrifflichen Analyse sein muss. Diese
+Unterscheidung ist notwendig, da die im folgenden Dargestellten
+minimalen Theorien nur direkte Kausalität erfassen können und
+indirekte Kausalität deshalb auf direkte Kausalität aufbauend
+definiert werden muss.
 
 
 Kitchers Vereinheitlichungstheorie
@@ -257,8 +262,8 @@ Argumentmuster kombinieren oder aufspalten kann. Er erreicht dies,
 indem er die in Argumentmuster verwendbaren Prädikate einschränkt auf
 solche, die er projizierbar nennt [@Kitcher1989, 482]. Wie wir später
 sehen werden, steht diese Einschränkung Kitchers in einem engen
-Zusammenhang mit einer Einschränkung an Ereignistypen, die
-@Baumgartner2004 [38-39] vornehmen. Dort werden Ereignistypen auf
+Zusammenhang mit der bereits erwähnten Einschränkung an Ereignistypen, die
+@Baumgartner2004 [38-39] vornehmen. Dort werden nämlich Ereignistypen auf
 solche Klassen von Ereignissen eingeschränkt, die sich durch eine oder
 mehrere gemeinsame Eigenschaften auszeichnen.
 
