@@ -616,8 +616,12 @@ zusätzliche schematische Sätze enthalten können. Demnach haben $p$ und
 $q$ die exakt gleiche Struktur, und es gilt $I(q) \subseteq I(p)$ und
 $I(p) \subseteq I(q)$. Daraus folgt $I(p) = I(q)$. Bis auf
 unwesentliche Unterschiede in der Formulierung sind also alle
-Ausfüllinstruktionen von $p$ und $q$ extensional equivalent und es
-gilt für unsere Zwecke $p = q$.
+Ausfüllinstruktionen von $p$ und $q$ für unsere Zwecke gleich. Genauer
+gesagt impliziert die Defintion von $\leq_S$ eine extensionale
+Sichtweise der Ausfüllinstruktionen und aus $p \leq_S q$ und $q \leq_S
+p$ folgt dem entsprechend, dass die Ausfüllinstruktionen extensional
+equivalent sind. Da nun $p$ und $q$ also die gleiche Struktur und
+extensional equivalente Ausfüllinstruktionen haben, gilt $p = q$.
 
 3. Angenommen, es gilt $p \leq_S q$ und $q \leq_S r$. Es gilt also
 $I(r) \subseteq I(q) \subseteq I(p)$, woraus auch $I(r) \subseteq
