@@ -271,24 +271,23 @@ aufgefasst werden [@Kitcher1989, 449]. Daraus ergibt sich auch, dass
 aus Kitchers Vereinheitlichungstheorie keine probabilistische
 Kausaltheorie folgen kann.
 
-Kitcher definiert auf der Menge aller Systematisierungen eine
-partielle Ortnung[^part], mit Hilfe des Prinzips (C) [@Kitcher1989,
-478] und der exakten Definition eines comparativen Stringenz-Begriffs
+Kitcher definiert auf allen Mengen von Argumentmustern eine partielle
+Ortnung[^part], mit Hilfe des Prinzips (C) [@Kitcher1989, 478--479]
+und der exakten Definition eines comparativen Stringenz-Begriffs
 (T),(R) [@Kitcher1989, 479, 480] (welche wiederum eine partielle
 Ordnung aller Argumentmuster definiert). Durch das Prinzip (O) drückt
-er die Hoffnung aus, dass mit dieser partiellen Ordnung auf der Menge
-der Systematisierungen eine obere Grenze zu je zwei beliebigen
-Systematisierungen existiert. Das heisst, gegeben zwei
-Systematisierungen $S$ und $T$, existiert eine, oder mehrere
-Systematisierungen $O$, so dass sowohl $S \leq_C O$ und $T \leq_C O$
-gilt, wobei $A \leq_C B$ dafür steht, dass $A$ nach Prinizip (C)
-weniger vereinheitlicht ist als $B$.[^latt]
+er die Hoffnung aus, dass mit dieser partiellen Ordnung eine obere
+Grenze zu je zwei beliebigen Mengen von Argumentmustern existiert. Das
+heisst, gegeben zwei solcher Mengen $U$ und $U'$, existiert eine, oder
+mehrere Mengen von Argumentmustern $U^*$, so dass sowohl $U \leq_C
+U^*$ und $U' \leq_C U^*$ gilt, wobei $A \leq_C B$ dafür steht, dass
+$A$ nach Prinizip (C) weniger vereinheitlicht ist als $B$.[^latt]
 
-Dies ist trivialerweise gegeben, falls $S$ und $T$ vergleichbar sind,
-in dem wir $O = max(S,T)$ setzen. Falls $S$ und $T$ jedoch nicht
+Dies ist trivialerweise gegeben, falls $U$ und $U'$ vergleichbar sind,
+in dem wir $U^* = max(U,U')$ setzen. Falls $U$ und $U'$ jedoch nicht
 vergleichbar sind, garantiert uns dieses Prinzip die Existenz einer
-dritten Systematisierung $O$, zugunsten welcher wir sowohl $S$ als
-auch $T$ fallen lassen können.
+dritten Menge von Argumentmustern $U^*$, zugunsten welcher wir sowohl $U$ als
+auch $U'$ fallen lassen können.
 
 Im Anhang befindet sich eine genauere Betrachtung dieser Prinzipien
 und Beweise für die hier gemachte Behauptung, es handle sich um
@@ -316,6 +315,17 @@ stringenter ist als ein Argumentmuster $q$, falls $p$ die gleiche
 Struktur wie $q$ besitzt (also die gleichen schematischen Sätze mit
 der gleichen Klassifikation), so dass $p$ weniger Instanzen zulässt
 als $q$.
+
+Die partielle Ordnung $\leq_C$ auf Mengen von Argumentmustern lässt
+sich auf Systematisierungen (also Mengen von Ableitungen) übertragen,
+indem die jeweils beste generative Menge von Argumentmustern
+verglichen werden [vgl. @Kitcher1989, 480]. Wenn wir also zwei
+Systematisierungen $S$ und $T$ von $K$ gegeben haben, bestimmen wir
+zuerst die nach (C) besten Mengen von Argumentmustern $U$ und $V$, so
+dass jede Ableitung in $S$ eine Instanz von einem Argumentmuster in
+$U$ und jede Ableitung in $T$ eine Instanz von einem Argumentmuster in
+$V$ ist. $S$ ist genau dann besser Vereinheitlicht als $T$, wenn $V
+\leq_C U$ gilt.
 
 [^part]: In der Mathematik ist eine partielle Ordnung definiert als
     eine Relation $R$ auf einer Menge $M$, so dass die folgenden drei
@@ -539,14 +549,10 @@ Mit diesem Wissen lässt sich aber eine besser vereinheitlichte
 Systematisierung $S'$ mit einer generierenden Menge von
 Argumentmustern $U'$ konstruieren, in dem alle Argumentmuster aus $U$
 und dessen Instanzen übernommen werden, ausser demjenigen
-Argumentmuster, welches es erlaubt $W$ aus $EF$ abzuleiten. Es gilt
-also $U' \subset U$ woraus auch $S' \subseteq S$ folgt. Da jedoch nach
-Voraussetzung $AB \vee CD$ immer noch notwendig für $W$ ist, gilt
-$C(S') = C(S)$. Daraus folgt aber mit C_1 [@Kitcher1989, 478], dass
-$S'$ eine besser Vereinheitlichte Systematisierung ist als $S$, da wir
-eine injektive Funktion $f: S' \ra S$ definieren können, welche jeder
-Ableitung aus $S'$ die gleiche Ableitung in $S$ zuordnet. (TODO Def
-von f weglassen weil trivial?).
+Argumentmuster, welches es erlaubt $W$ aus $EF$ abzuleiten. Diese neue
+Systematisierung $S'$ ist besser Vereinheitlicht nach (C1), da mit
+weniger Argumentmuster die gleiche Menge von Konsequenzen erklärt
+wird.
 
 Demnach werden also alle Ableitungen von Instanzen von $W$ in der
 besten Systematisierung $E(K)$ von $K$ durch eine minimal notwendige
