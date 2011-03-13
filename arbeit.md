@@ -602,6 +602,51 @@ Program sind also *mit unseren Voraussetzungen* exakt deckungsgleich.
 Ergebnisse/Folgen
 =================
 
+
+Wissenschaftlicher Realismus
+----------------------------
+
+Während Baumgartner und Grasshof vom Hintergrund des
+wissenschaftlichen Realismus ausgehen, und insofern die Vorstellung
+von natürlichen Eigenschaften benutzen, scheint Kitcher eher von einer
+instrumentalistischen Hintergrund auszugehen. Zumindest sind seine
+projizierbaren Prädikate nicht fest gegeben, sondern abhängig von
+einer wissenschaftlichen Sprache $L$. Wird diese Sprache geändert,
+ändert sich auch welche Prädikate projizierbar sind und welche
+nicht. Eine solche Änderung ist laut Kitcher ein natürlicher und
+erlaubter Vorgang in der Wissenschaft.
+
+Die Kausaltheorie der minimalen Theorien ist jedoch nicht direkt
+abhängig vom wissenschaftlichen Realismus. Sie baut auf der Annahme
+auf, es gäbe eine feste Menge von ausgezeichneten Prädikaten, ohne auf
+deren ontologischen Status aufzubauen. Es sollte also Möglich sein,
+Kitchers Ergebnisse zu veränderbaren Sprachen und der damit
+verbundenen neuen Klassifikation von Prädikate in projizierbare und
+nicht projizierbare auf minimale Theorien in einem
+instrumentalistischen Kontext zu übertragen.
+
+
+Kettenproblem
+-------------
+
+Eine wesentliche neue Komponente, die durch die Einbettung der
+Kausaltheorie der minimalen Theorien in Kitchers
+Vereinheitlichungstheorie entsteht, ist dass Ursachenbündel nicht nur
+relativ zu einer bestimmten Wirkung minimiert werden müssen, sondern
+insgesamt für sämtliche kausal erklärten Ereignisse.
+
+Dadurch wird die von Baumgartner und Grasshoff vorgeschlagene Lösung des
+Kettenproblems  [@Baumgartner2004, 295 ff], nämlich die Regel RIF,
+wonach Faktorenverschränkungen immer kausal zu interpretieren sind
+[@Baumgartner2004, 306], in die Kausaltheorie der minimalen Theorien
+eingebettet.
+
+Kausalketten benötigen nämlich immer weniger Ursachenbündel als zu diesen
+Kausalketten äquivalente Epiphänomene. Faktorenverschränkungen kausal
+zu interpretieren, d.h. als Kausalketten und nicht als Epiphänomene,
+führt also wiederum zu einer besser vereinheitlichten Theorie nach
+Kitcher.
+
 Math. Beweise
 =============
 
