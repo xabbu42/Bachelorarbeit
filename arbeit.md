@@ -372,14 +372,27 @@ $V$ ist. $S$ ist genau dann besser Vereinheitlicht als $T$, wenn $V
 
 [^compl]: An dieser Stelle verwendet Kitcher eine stärkere Version von
     seinem Prinzip (O). Er geht nämlich nicht nur davon aus, dass zu
-    zwei beliebigen Mengen von Argumentmustern $U$ und $U'$ mindestens eine obere
-    Schranke $U^*$ besteht, sondern dass zu allen generativen Mengen
-    von Argumentmustern $U_1, U_2, ...$ zu einer Systematisierung $S$
-    eine eindeutige oberste Schranke $U$ existiert.
+    zwei beliebigen Mengen von Argumentmustern $U$ und $U'$ mindestens
+    eine obere Schranke $U^*$ besteht, sondern dass zu allen
+    generativen Mengen von Argumentmustern $U_1, U_2, ...$ zu einer
+    Systematisierung $S$ eine eindeutige oberste Schranke $U$
+    existiert. Dies folgt aus dem Prinzip (O) nur im endlichen
+    Fall. Im unendlichen Fall kann es sein, dass (O) erfüllt ist, es
+    aber zu einer unendlichen Anzahl von generativen Mengen von
+    Argumentmustern $U_1, U_2, ...$ keine obere Schranke gibt.
 
-    Da nach Kitchers Defintion von Argumentmustern es jedoch nur
-    *endlich* viele solche generativen Mengen von Argumentmustern geben
-    kann, folgt diese stärkere Version aus dem Prinizip (O) selber.
+    Nehmen wir als Beispiel das offene reelle Intervall $(0,1)$ und
+    die folgende unendliche Menge $M$ von Zahlen in diesem Intervall:
+    $\{1 - 1/n|n \in \mathbb{N}\}$ mit der bekannten Ordnung
+    $<$. Obwohl in $(0,1)$ zwei beliebige Zahlen eine obere Schranke
+    haben und damit Prinzip (O) erfüllen, besitzt $M$ selber keine
+    obere Schranke in $(0,1)$, denn das Supremum $sup(M)$ von $M$ ist
+    1 und liegt nicht mehr im gegeben Intervall.
+
+    An dieser Stelle, wie auch an mehreren Stellen in der genaueren
+    Behandlung seines comparativen Vereinheitlichungsbegriffs (C)
+    (vgl. dazu die entsprechenden Beweise im Anhang) geht Kitcher also
+    implizit von endlichen Mengen von Argumentmustern aus.
 
 
 Argumentation
