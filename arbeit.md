@@ -403,15 +403,57 @@ folgende:
 Ein spezifisches kausales Argumentmuster könnte also in etwa so
 aussehen:
 
-> Jede funktionierende LED in einem geschlossenen Stromkreis mit
-> genügend kleinem Widerstand, an dem eine Spannung mit der relativ
-> zur LED richtigen Orientierung angeschlossen ist, leuchtet. In der
-> Situation $\alpha$ sind diese Bedingungen erfüllt. Also tritt das
-> Leuchten $\beta$ der LED in $\alpha$ auf. [^arg]
+> Jede funktionierende LED an dem eine genügend grosse Spannung mit
+> der richtigen Orientierung angeschlossen ist, leuchtet. In der
+> Situation $\alpha$ sind diese Bedingungen erfüllt. Also leuchtet die
+> LED in $\alpha$. [^arg]
 
 [^arg]: Dabei bestimmt der erste Satz die Auffüllinstruktionen. Die
-nächsten zwei Sätze sind schematische Sätze, deren Klassifikation
-offensichtlich ist.
+nächsten zwei Sätze sind schematische Sätze, wobei der erste Satz die
+Prämisse und der zweite Satz die Konklusion ist.
+
+Dies ist nicht die einzige mögliche Ursache, für das Leuchten der LED,
+und demnach gib es auch ein alternatives Erklärungsmuster um Aufläuchten
+von LEDS zu erklären:
+
+> Jede LED, auf welche ein genügend starkes Licht in einem geeigneten
+> Winkel auftritt, leuchtet. In der Situation $\alpha$ sind diese
+> Bedingungen erfüllt. Also leuchtet die LED in $\alpha$. [^arg2]
+
+[^arg2]: Auch hier ist der erste Satz als Paraphrasierung der
+Auffüllinstruktionen zu verstehen und die beiden nächsten Sätze also
+schematische Sätze, wiederum mit dem ersten Satz als Prämisse und dem
+zweiten als Konklusion.
+
+Instanzen dieser beiden Argumentmuster sehen dann z.B. so aus:
+
+> An der roten LED an der Frontseite meines momentan eingeschalteten
+> Monitors liegt eine genügend grosse Spannung mit der richtigen
+> Orientierung. Die LED leuchtet also.
+
+> Die Sonne scheint direkt, in einem geeigneten Winkel auf die
+> ausgeschaltene LED Taschenlampe auf meinem Pult. Die LEDs in der
+> Taschenlampe leuchten also.
+
+Dass dieses Beispiel korrekt ist, und nach Kitchers
+Vereinheitlichungstheorie mit unseren Voraussetzungen kausale
+Argumentmuster so und nicht anders aussehen müssen, will ich versuchen
+im folgenden zu zeigen. Insbesondere will ich diese Lösung gegenüber
+folgenden falschen Varianten abgrenzen:
+
+> Jede LED, auf die ein genügend starkes Licht in einem geeigneten
+> Winkel einfällt, oder an der eine genügend grosse Spannung mit der
+> richtigen Orientierung liegt, leuchtet. In der Situation $\alpha$
+> sind diese Bedingungen erfüllt. Also leuchtet die LED in $\alpha$.
+
+> Jede funktionierende *rote* LED an der eine genügend grosse Spannung
+> mit der richtigen Orientierung liegt, leuchtet. In der Situation
+> $\alpha$ sind diese Bedingungen erfüllt. Also leuchtet die LED in
+> $\alpha$. [^arg]
+
+> Manche LEDS an denen eine Spannung mit der richtigen Orientierung
+> liegt, leuchten. In der Situation $\alpha$ ist diese Bedingung
+> erfüllt. Die LED in $\alpha$ kann also leuchten.
 
 Zuerst einmal haben wir im Kapitel \nameref{These} vorausgesetzt, dass in
 der am stärksten Vereinheitlichten Theorie $E(K)$ kausal erklärbare
@@ -430,25 +472,28 @@ zwischen Ereignisstypen aufzuzählen, um die kausale Struktur der Welt
 vollständig zu erfassen, sondern es vielmehr auch notwendig ist,
 zusammengehörende Ursachenbündel zu beschreiben.
 
-In unserem Beispiel heisst das, dass die folgenden Aussagen noch
-nicht genügen, um die vollständige kausale Struktur der Welt
-betreffend das Aufläuchten von LEDs zu erfassen:
+In unserem Beispiel heisst das, dass die folgenden Aussagen noch nicht
+genügen, um die vollständige kausale Struktur der Welt zum Aufläuchten
+von LEDs zu erfassen:
 
-- Geschlossene Stromkreise sind kausal relevant für das Leuchten von
-  LEDs.
-- Kleine Widerstände sind kausal relevant für das Leuchten von LEDs.
-- Die Orientierung der Spannung in einem Stromkreis ist kausal
-  relevant für das Leuchten von LEDs.
-- Lichteinfall von aussen ist kausal relevant für das Leuchten von
+- Die Grösse der elektrische Spannung ist kausal relevant für das
+  Leuchten von LEDs.  
+
+- Die Orientierung der Spannung ist kausal relevant für das Leuchten
+  von LEDs.
+
+- Lichteinfall im richtigen Winkel ist kausal relevant für das Leuchten von
   LEDs.
 
-Vielmehr ist Teil der kausalen Struktur, dass die ersten drei Faktoren
-nur zusammen eine Leuchten der LED zur Folge haben, während der letzte
-Faktor alleine genügt, um ein Leuchten der LED zu erklären. In dem
-Fall müssen Argumentmuster, mit unserer Voraussetzung, auch diese
-Bedingungen enthalten, das heisst sie müssen auf vollständige
-Ursachenbündel Bezug nehmen und nicht nur auf einzelne kausal
-relevante Faktoren.
+- Lichteinfall von genügend grosser Stärke ist kausal relevant für das
+  Leuchten von LEDs.
+
+Vielmehr ist es ein Teil der kausalen Struktur, dass jeweils die
+ersten zwei Faktoren und die letzten zwei Faktoren zusammen auftretten
+müssen, um eine Leuchten der LED zur Folge haben. In dem Fall müssen
+Argumentmuster, mit unserer Voraussetzung, auch diese Bedingungen
+enthalten, das heisst sie müssen auf vollständige Ursachenbündel Bezug
+nehmen und nicht nur auf einzelne kausal relevante Faktoren.
 
 Selbst wenn wir unsere Annahme in einer schwächeren Form
 interpretieren, nach der eine blosse Auflistung aller kausal relevanten
@@ -458,7 +503,10 @@ nahelegt. Wie wir nämlich bereits gesehen haben, müssen nach
 @Kitcher1989 [448] alle Instanzen eines Argumentmusters deduktive
 Ableitungen sein. Da die zu erklärende Wirkung aus einem
 unvollständigen Ursachenbündel *alleine* jedoch nicht deduktiv folgt,
-genügt ein solches nicht für ein korrektes Argumentmuster.
+genügt ein solches nicht für ein korrektes Argumentmuster. So sind
+auch die entsprechenden Beispiele mit unvollständigen Ursachen nach
+Kitcher keine Argumentmuster, da ihre Instanzen keine deduktive
+Ableitung des zu erklärenden Ereignisses sind.
 
 TODO:Absurder Fall (warum genau?) mit mehreren kausal relevanten
 Faktoren vom selben Ursachenbündel, aber nicht das ganze
