@@ -455,7 +455,7 @@ im folgenden zu zeigen. Insbesondere will ich diese Lösung gegenüber
 folgenden falschen Varianten abgrenzen:
 
 > Jede LED, auf die ein genügend starkes Licht in einem geeigneten
-> Winkel einfällt, oder an der eine genügend grosse Spannung mit der
+> Winkel einfällt, *oder* an der eine genügend grosse Spannung mit der
 > richtigen Orientierung liegt, leuchtet. In der Situation $\alpha$
 > sind diese Bedingungen erfüllt. Also leuchtet die LED in $\alpha$.
 
@@ -472,7 +472,7 @@ Zuerst einmal haben wir im Kapitel \nameref{These} vorausgesetzt, dass in
 der am stärksten Vereinheitlichten Theorie $E(K)$ kausal erklärbare
 Ereignisse tatsächlich mit der Hilfe ihrer Ursachen erklärt werden. Es
 ist damit ausgeschlossen, dass die verwendeten Argumentmuster überhaupt
-nicht auf die Ursache des zu erklärenden Ereignisses Bezug nehmen. Die
+nicht auf die Ursachen der zu erklärenden Ereignisse Bezug nehmen. Die
 folgenden drei Aussagen zeigen dann, dass in diesem Fall die gegebenen
 Argumentmuster die einzig richtigen nach der Theorie Kitchers sind:
 
