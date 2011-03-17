@@ -229,19 +229,24 @@ Systematisierung $D$ [vgl. @Kitcher1989, 432].
 
 Nach @Kitcher1989 [432] besteht ein Argumentmuster aus drei Teilen:
 
-1. Ein Argumentschemata. Dies ist eine Menge von schematischen
-   Sätzen. Schematische Sätze sind Sätze in denen einige, aber nicht
-   unbedingt alle, nicht-logischen Ausdrücke durch Buchstaben ersetzt
-   wurden.
+1.  Argumentschemata
 
-2. Auffüllinstruktionen. Anweisungen zu jedem im schematischen
-   Argument verwendeten Buchstaben, welche bestimmen, wie dieser
-   Buchstabe ersetzt werden kann.
+    Dies ist eine Menge von schematischen Sätzen. Schematische Sätze
+    sind Sätze in denen einige, aber nicht unbedingt alle,
+    nicht-logischen Ausdrücke durch Buchstaben ersetzt wurden.
 
-3. Klassifikation des Argumentschematas. Eine Beschreibung der
-   Zusammenhänge der einzelnen Sätze im Argumentschemata. Welche der
-   Sätze sind Prämissen, welche Konklusion. Welche Sätze werden aus
-   welchen und mithilfe welcher Regel abgeleitet.
+2.  Auffüllinstruktionen
+
+    Anweisungen zu jedem im schematischen Argument verwendeten
+    Buchstaben, welche bestimmen, wie dieser Buchstabe ersetzt werden
+    kann.
+
+3.  Klassifikation des Argumentschematas
+
+    Eine Beschreibung der Zusammenhänge der einzelnen Sätze im
+    Argumentschemata. Welche der Sätze sind Prämissen, welche
+    Konklusion. Welche Sätze werden aus welchen und mithilfe welcher
+    Regel abgeleitet.
 
 Eine Ableitung fällt unter ein bestimmtes Argumentmuster, wenn die
 folgenden drei Bedingungen erfüllt sind:
@@ -274,7 +279,13 @@ statistische Argumente nach Kitcher nur dann erklärend sein, wenn sie
 als Hinweis auf ein zugrunde liegendes unbekanntes deduktives Argument
 aufgefasst werden [@Kitcher1989, 449]. Daraus ergibt sich auch, dass
 aus Kitchers Vereinheitlichungstheorie keine probabilistische
-Kausaltheorie folgen kann.
+Kausaltheorie folgen kann [vgl @Baumgartner2004, 122 ff].
+
+Die im folgenden gegebene Version von Kitchers
+Vereinheitlichungstheorie entspricht nicht genau Kitchers eigenen
+Darstellung. Nach Kitcher selber ist Prinzip (C) nämlich asymmetrisch und transitiv,
+also eine *strikte* partielle Ordnung. Im Gegensatz dazu fasse ich (C)
+hier als TODO partielle Ordnung auf.
 
 Kitcher definiert auf allen Mengen von Argumentmustern eine partielle
 Ortnung[^part], mit Hilfe des Prinzips (C) [@Kitcher1989, 478--479]
