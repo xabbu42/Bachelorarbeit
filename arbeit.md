@@ -773,21 +773,38 @@ $q$ und damit auch wie $r$, und es gilt $p \leq_S r$ nach (T).
 $\leq_S$ ist also eine partielle Ordnung auf der Menge aller
 Argumentmuster.
 
-(C) strikte partielle Ordnung
------------------------------
+Die strikte partielle Ordnung (C)
+---------------------------------
 
 Ich werde im folgenden (wie auch Kitcher) $U$, $U'$ und $U^*$ für
 Mengen von Argumentmustern sowie $S$, $S'$ und $S^*$ für die
 entsprechenden kompletten Instantierungen benutzen. Ausserdem soll $U
-<_C U'$ dafür stehen, dass nach dem Prinzip (C) von @Kitcher1989
-[478] $U'$ besser Vereinheitlicht ist als $U$.
+<_C U'$ dafür stehen, dass nach dem Prinzip (C) von Kitcher $U'$
+besser Vereinheitlicht ist als $U$. Kitcher formuliert Prinzip (C)
+folgendermassen:
+
+> \(C) Let $U$, $U'$ be sets of patterns and $S$, $S'$ their complete
+> instantiations with respect to $K$. Then $U$ has greater unifying
+> power than $U'$ if one (or both) of the following conditions is met.
+
+> (C1) $C(S')$ is a subset of $C(S)$, possibly though not necessarily
+> proper, and there is a one-one mapping $f$ from $S$ to $S'$ such
+> that for each pattern $p$ in $S$, $p$ is at least as stringent as
+> $f(p)$, and such that either $f$ is an injection or $f$ is a
+> surjection and there is at least one pattern $p$ in $S$ such that
+> $p$ is more stringent than $f(p)$.
+
+> (C2) $C(S')$ is a proper subset of $C(S)$ and there is a one-one map
+> $f$ from $S$ to $S'$ (either an injection or a surjection) such that
+> for each $p$ in $S$, $p$ is at least as stringent as
+> $f(p)$. [@Kitcher1989, 478]
 
 An mehreren Stellen in seiner Definition von (C) benutzt Kitcher
 Funktionen zwischen den kompletten Instantierungen $S$, $S'$ und
 $S^*$, spricht dann aber über diese Funktionen als würden sie
 Argumentmuster aufeinaner abbilden. Insbesondere werden Argumente und
-Ergebnisse der Funktionen nach ihrer Stringenz verglichen. $S$, $S'$
-und $S^*$ sind jedoch Mengen von Ableitungen, welche nicht mehr nach
+Bilder der Funktionen nach ihrer Stringenz verglichen. $S$, $S'$ und
+$S^*$ sind jedoch Mengen von Ableitungen, welche nicht mehr nach
 Stringenz vergleichbar sind. Ich gehe deshalb davon aus, dass dies ein
 Fehler in Kitchers Paper ist, und tatsächlich Funktionen zwischen den
 Mengen von Argumentmustern $U$, $U'$ und $U^*$ gemeint sind. Diese
@@ -822,9 +839,10 @@ Kitcher definiert diese drei Begriffe jedoch folgendermassen:
 Übertragen auf unseren Sprachgebrauch ist diese Definition so zu
 verstehen, dass eine surjektive Funktion auch bereits bijektiv ist
 (und Kitcher in den folgenden Definitionen immer nur injektive
-Funktionen betrachtet). Ich gehe weiterhin davon aus, dass Kitcher in
+Funktionen betrachtet, was er auch damit zum Ausdruck bringt, das alle
+Funktionen immer *one-one* sind). Ich gehe weiterhin davon aus, dass Kitcher in
 seiner Definition von injektiv von einer echten Teilmenge von $B$
-spricht. Das heisst eine injektive Funktion ist nach Kitcher nur eine
+spricht. Das heisst eine injektive Funktion $f: A \ra B$ ist nach Kitcher nur eine
 *echte* injektive Funktion, in dem Sinn, dass sie keine bijektive
 Funktion ist, also ein Element $b$ aus $B$ existiert, welches nicht
 Bild von irgend einem Element $a$ aus $A$ ist. Zu guter letzt scheint
