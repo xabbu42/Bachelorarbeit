@@ -840,17 +840,17 @@ Kitcher definiert diese drei Begriffe jedoch folgendermassen:
 verstehen, dass eine surjektive Funktion auch bereits bijektiv ist
 (und Kitcher in den folgenden Definitionen immer nur injektive
 Funktionen betrachtet, was er auch damit zum Ausdruck bringt, das alle
-Funktionen immer *one-one* sind). Ich gehe weiterhin davon aus, dass Kitcher in
-seiner Definition von injektiv von einer echten Teilmenge von $B$
-spricht. Das heisst eine injektive Funktion $f: A \ra B$ ist nach Kitcher nur eine
-*echte* injektive Funktion, in dem Sinn, dass sie keine bijektive
-Funktion ist, also ein Element $b$ aus $B$ existiert, welches nicht
-Bild von irgend einem Element $a$ aus $A$ ist. Zu guter letzt scheint
-Kitcher nur endliche Mengen von Argumentmuster in Betracht zu ziehen
-(welche natürlich eine unendliche Menge von Instanzen haben
-können). Ich werde deshalb im folgenden die Begriffe *echt injektiv*
-und *bijektiv* Anstatt der von Kitcher verwendeten Begriffe *injektiv*
-und *surjektiv* verwenden.
+Funktionen immer *one-one* sind). Ich gehe weiterhin davon aus, dass
+Kitcher in seiner Definition von injektiv von einer echten Teilmenge
+von $B$ spricht. Das heisst eine injektive Funktion $f: A \ra B$ ist
+nach Kitcher nur eine *echte* injektive Funktion, in dem Sinn, dass
+sie keine bijektive Funktion ist, also ein Element $b$ aus $B$
+existiert, welches nicht Bild von irgend einem Element $a$ aus $A$
+ist. Zu guter letzt scheint Kitcher nur endliche Mengen von
+Argumentmuster in Betracht zu ziehen (welche natürlich eine unendliche
+Menge von Instanzen haben können). Ich werde deshalb im folgenden die
+Begriffe *echt injektiv* und *bijektiv* Anstatt der von Kitcher
+verwendeten Begriffe *injektiv* und *surjektiv* verwenden.
 
 Diese Interpretation stütze ich neben der mehrdeutigen und kurzen
 Definition der Begriffe von Kitcher, in erster Linie auf folgende
