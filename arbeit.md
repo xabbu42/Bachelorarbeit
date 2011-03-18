@@ -773,13 +773,13 @@ $q$ und damit auch wie $r$, und es gilt $p \leq_S r$ nach (T).
 $\leq_S$ ist also eine partielle Ordnung auf der Menge aller
 Argumentmuster.
 
-(C) partielle Ordnung
----------------------
+(C) strikte partielle Ordnung
+-----------------------------
 
 Ich werde im folgenden (wie auch Kitcher) $U$, $U'$ und $U^*$ für
 Mengen von Argumentmustern sowie $S$, $S'$ und $S^*$ für die
 entsprechenden kompletten Instantierungen benutzen. Ausserdem soll $U
-\leq_C U'$ dafür stehen, dass nach dem Prinzip (C) von @Kitcher1989
+<_C U'$ dafür stehen, dass nach dem Prinzip (C) von @Kitcher1989
 [478] $U'$ besser Vereinheitlicht ist als $U$.
 
 An mehreren Stellen in seiner Definition von (C) benutzt Kitcher
@@ -795,58 +795,151 @@ Interpretation ist auch konsistent mit Kitchers Formulierung von
 Prinzip (U), in der tatsächlich von Funktionen zwischen den Mengen von
 Argumentmustern $U$, $U'$ und $U^*$ die Rede ist.
 
-1.  Für eine beliebige Menge von Argumentmustern $U$ gilt $U \leq_C
-    U$. Es ist nämlich $C(S) \subseteq C(S)$ und durch die Identität
-    auf $U$ ist eine bijektive und damit auch injektive Funktion $f: U
-    \ra U$ gegeben, welche trivial den Bedingungen von (C1)
-    genügt, da jedes Argumentmuster $p$ mindestens so stringent wie
-    $p$ selber ist.
+Kitcher scheint auch die Begriffe injektiv, surjektiv und bijektiv
+nicht genau in ihrem normalen mathematischen Sinn zu gebrauchen. Ich
+gebe deshalb im folgenden die normalen mathematischen
+Definitionen dieser Begriffe, meine Interpretation von Kitchers
+Verwendung und eine Begründung von dieser Interpretation:
 
-2.  Angenommen es gilt $U \leq_C U'$ und $U' \leq_C U$ für zwei
-    beliebige Mengen von Argumentmuster $U$ und $U'$. In dem Fall gilt
-    auch $C(S) \subseteq C(S')$ und $C(S') \subseteq C(S)$, woraus
-    $C(S) = C(S')$ folgt. (C2) ist dadurch ausgeschlossen, da weder
-    $C(S)$ eine echte Teilmenge von $C(S')$ ist, noch umgekehrt. Es
+Eine Funktion $f: A \ra B$, weist jedem Element $a$ aus der
+Defintionsmenge $A$ ein Element $f(a)$ der Zielmenge $B$ zu. Dieses Element
+$f(a)$ heisst Bild von $a$ unter $f$. Die Funktion $f$ ist injektiv
+falls jedes Element $b$ aus $B$ Bild von höchstens einem Element $a$
+aus $A$ ist, also folgender Zusammenhang gilt: $f(a) = f(b) \Ra a =
+b$. Die Funktion $f$ ist surjektiv falls jedes Element $b$ aus $B$
+Bild von mindestens einem Element $a$ ist, also die Bildmenge $\{f(a) |
+a \in A\}$ von $A$ unter $f$ gerade ganz $B$ ist. Zuguterletzt ist die
+Funktion $f$ bijektiv, falls sie injektiv und surjektiv ist, also
+jedes Element $b$ aus $B$ Bild von genau einem Element $a$ aus $A$
+ist.
+
+Kitcher definiert diese drei Begriffe jedoch folgendermassen:
+
+> (A bijection is a one-one mapping. A bijection from $A$ to a subset
+> of $B$ is an injection into $B$. A bijection that is onto B is a
+> surjection) [@Kitcher1989, 478]
+
+Übertragen auf unseren Sprachgebrauch ist diese Definition so zu
+verstehen, dass eine surjektive Funktion auch bereits bijektiv ist
+(und Kitcher in den folgenden Definitionen immer nur injektive
+Funktionen betrachtet). Ich gehe weiterhin davon aus, dass Kitcher in
+seiner Definition von injektiv von einer echten Teilmenge von $B$
+spricht. Das heisst eine injektive Funktion ist nach Kitcher nur eine
+*echte* injektive Funktion, in dem Sinn, dass sie keine bijektive
+Funktion ist, also ein Element $b$ aus $B$ existiert, welches nicht
+Bild von irgend einem Element $a$ aus $A$ ist. Zu guter letzt scheint
+Kitcher nur endliche Mengen von Argumentmuster in Betracht zu ziehen
+(welche natürlich eine unendliche Menge von Instanzen haben
+können). Ich werde deshalb im folgenden die Begriffe *echt injektiv*
+und *bijektiv* Anstatt der von Kitcher verwendeten Begriffe *injektiv*
+und *surjektiv* verwenden.
+
+Diese Interpretation stütze ich neben der mehrdeutigen und kurzen
+Definition der Begriffe von Kitcher, in erster Linie auf folgende
+Aussage:
+
+> It is not hard to show that the comparative relation introduced by
+> (C) has the right features to order sets of patterns with respect to
+> unifying power. It is both asymmetric and transitive. [@Kitcher1989,
+> 479]
+
+Gegeben der normalen Definitionen von injektiv, surjektiv und
+bijektiv, oder gegeben unendlicher Mengen von Argumentmuster ist diese
+Aussage falsch. Es sind entweder schwierige Beweise der
+behaupteten Eigenschaften, oder die behaupteten Eigenschaften stimmen
+überhaupt nicht. In meiner Interpretation sind diese Eigenschaften
+jedoch tatsächlich einfach zu zeigen, wie der folgende Beweis zeigt:
+
+1.  Angenommen es gilt $U <_C U'$ und $U' <_C U$ für zwei beliebige
+    Mengen von Argumentmuster $U$ und $U'$. In dem Fall gilt auch
+    $C(S) \subseteq C(S')$ und $C(S') \subseteq C(S)$, woraus $C(S) =
+    C(S')$ folgt. (C2) ist dadurch ausgeschlossen, da weder $C(S)$
+    eine echte Teilmenge von $C(S')$ ist, noch umgekehrt. Es
     existieren also zwei Funktionen $f: U \ra U'$ und $g: U' \ra U$,
-    welche den Bedingungen von (C1) genügen.
+    welche den Bedingungen von (C1) genügen. Demnach gilt für die
+    Anzahl Argumentmuster $|U|$ in $U$ und der Anzahl Argumentmuster
+    $|U'|$ in $U'$: $|U| \leq |U'|$ und $|U'| \leq |U|$. Daraus folgt
+    aber $|U| = |U'|$ und somit sind $f$ und $g$ bijektiv (surjektiv
+    mit Kitchers gebrauch). 
 
-    Angenommen $f$ sei surjektiv und es existiert ein Argumentmuster
-    $p$, so dass $f(p)$ weniger stringent ist als $p$. In dem Fall
-    muss $g \circ f(p)$ ungleich $p$ sein. Wir haben hier also zwei
-    nach Stringenz vergleichbare Argumentmuster $p$ und $g \circ f(p)$
-    in $S$. Dieser Fall haben wir jedoch als unsinnig ausgeschlossen
-    (TODO: falsch, besser behandeln mit Equivalenzklassen oder
-    ähnlich). Demnach ist also $f$ injektiv (und mit einem analogen
-    Argument auch $g$). Zudem gilt $g \circ f(p) = p$ und $f \circ
-    g(q) = q$ für alle Argumentmuster $p \in U$ und $q \in
-    U'$. Deswegen existiert zu jedem $q \in S'$ ein Element $g(q) \in
-    S$, so dass $f(g(q)) = f \circ g(q) = q$ ist. f (und analog g)
-    sind also auch surjektiv und damit bijektiv. Es gilt nun $p \leq_S
-    f(p)$ und $f(p) \leq_S p$ und damit $f(p) = p$, da $\leq_S$ eine
-    partielle Ordnung ist. Also gilt auch $U = f(U) = U'$.
+    Das heisst, es gibt ein Argumentmuster $p$ in $U$, so dass dieses
+    *echt* weniger stringent als $f(p)$ in $U'$ und damit auch
+    echt weniger stringent als $g \circ f(p)$ in $U$ ist. Es gilt demnach
+    auch $g \circ f(p) \neq p$. Betrachten wir nun die bijektive Funktion
+    $h := g \circ f$ von $U$ nach $U$, sowie die Folge $h^n(p)$ von
+    Argumentmustern in $U$, welche durch wiederholtes Anwenden von $h$
+    auf $p$ entsteht. Es gilt $h^n(p) \neq h^m(p)$ für beliebige $n >
+    m > 1$, da $h$ bijektiv ist und $h^m(p)$ bereits Bild von
+    $h^{m-1}(p)$ unter $h$ ist. Zudem gilt auch $h^n(p) \neq p$, da
+    $h^n(p)$ *echt* weniger stringent als $p$ ist. Also bildet $h^n(p)$
+    eine unendliche Folge in $U$. Dies Widerspricht der Voraussetzung,
+    dass $U$ nur endlich viele Elemente enthält.
 
-3.  Angenommen es gilt $U \leq_C U'$ und $U' \leq_C U^*$ für drei
+    Es gilt also nicht $U <_C U'$ und $U' <_C U$, und $<_C$ ist
+    demnach asymmetrisch. Daraus folgt auch $U \nless_C U$ für
+    beliebige Mengen von Argumentmustern $U$. $<_C$ ist also auch
+    irreflexiv.
+
+3.  Angenommen es gilt $U <_C U'$ und $U' <_C U^*$ für drei
     beliebige Mengen von Argumentmuster $U$, $U'$ und $U^*$. In dem
     Fall gilt $C(S) \subseteq C(S') \subseteq C(S^*)$ und es
     existieren Funktionen $f: U \ra U'$ und $g: U' \ra U^*$, welche
     entsprechend den Bedingungen von (C1) oder (C2) genügen. Wir
     unterscheiden folgende Fälle:
 
-    a. $f$ und $g$ sind injektiv. In dem Fall ist $g \circ f: S \ra
-       S^*$ injektiv und es gilt $U \leq_C U^*$ nach (C1).
+    a.  $g$ oder $f$ ist *echt* injektiv. In dem Fall ist $g \circ f: U \ra
+        U^*$ *echt* injektiv und es gilt $U <_C U^*$ nach (C1).
 
-    b. $f$ und $g$ sind surjektiv und es gilt $C(S) = C(S^*)$. In dem
-       Fall existiert ein Argumentmuster $p$, so dass $f(p)$ echt
-       weniger stringent ist als $p$. In dem Fall ist auch $g \circ
-       f(p)$ echt weniger stringent als $p$ und es gilt $U \leq_C U^*$
-       nach (C1).
+    b.  $g$ und $f$ sind bijektiv und es existiert ein Argumentmuster
+        $p$ in $U'$, so dass $g(p)$ echt weniger stringent ist als
+        $p$. In dem Fall ist $f^{-1}(p)$ auch echt weniger stringent als
+        sein Bild $g(p)$ unter der bijektiven Funktion $g \circ f: U
+        \ra U^*$ und es gilt $U <_C U^*$ nach (C1).
 
-    c. $f$ und $g$ sind surjektiv und es gilt $C(S) \subset C(S^*)$. In
-       dem Fall ist auch $g \circ f: S \ra S^*$ surjektiv und es gilt
-       $U \leq_C U^*$ nach (C2).
+    c.  $g$ und $f$ sind bijektiv und $C(S')$ ist eine *echte*
+        Teilmenge von $C(S^*)$. In dem Fall ist auch $C(S)$ eine echte
+        Teilmenge von $C(S^*)$ und zusammen mit der bijektiven
+        Funktion $g \circ f: U \ra U^*$ gilt $U <_C U^*$ nach (C2).
 
-    TODO: schwieriger Fall, eine injektive und eine surjektive
-    Funktion
+    Damit sind alle möglichen Fälle abgedeckt, und $<_C$ ist
+    transitiv.
+
+Würde man die Begriffe *injektiv* und *surjektiv* von Kitcher nicht in
+der hier gegeben Weise interpretieren, oder würde man unendliche
+Mengen von Argumentmustern zulassen, enständen folgende Probleme:
+
+1.  $<_C$ wäre trivialerweise reflexiv, d.h. $U <_C U$ würde für jede
+    beliebige Menge von Argumentmustern gelten. Es gilt natürlich
+    $C(S) \subseteq C(S)$ und mit der Identität $id: U \ra U$, welche
+    einem Element $x \in U$ das Element $id(x) = x$ zuordnet, wäre
+    eine bijektive und damit auch injektive Funktion gegeben, welche
+    die Bedingungen von (C1) erfüllt.
+
+    Selbst wenn nur *echte* injektive Funkionen $f: U \ra U$
+    zugelassen sind, könnte eine solche für unendliche Mengen $U$
+    durchaus existieren, genau so wie z.B. die Funktion $f: \mathbb{N}
+    \ra \mathbb{N}$ mit $f(x) = 2x$ *echt* injektiv ist.
+
+    Eine asymmetrische Relation kann aber nicht reflexiv sein, da ja
+    aus $U <_C U$ dann $U \nless_C U$ folgen müsste.
+
+2.  Der gegebene Beweis für die Asymmetrie von $<_C$ würde nicht
+    funktionieren. Zudem könnte man einfach Beispiele von Mengen $U$
+    und $U'$ konstruieren, so dass sowohl $U <_C U'$ und $U' <_C U$
+    gilt. $<_C$ wäre also im Gegensatz zu Kitchers Behauptung auch
+    nicht asymmetrisch.
+
+3.  $<_C$ wäre kaum transitiv. Die Verknüpfung einer injektiven
+    Funktion mit einer surjektiven muss nämlich dann *weder* injektiv noch
+    surjektiv sein. Da wir aber im Beweis der Transitivität eine
+    surjektive oder injektive Funktion $h: U \ra U^*$ benötigen,
+    müsste man diese anderweitig konstruieren. Allerdings muss dass
+    Bild $h(p)$ von einem Argumentmuster $p$ mit diesem nach Stringenz
+    vergleichbar sein. Die einzigen Argumentmuster, von denen wir aber
+    wissen, dass sie nach Stringenz vergleichbar sind, sind
+    diejenigen, welche durch $f$ und $g$ aufeinander abgebildet
+    werden.
+
 
 Literatur
 =========
