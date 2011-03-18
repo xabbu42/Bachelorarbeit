@@ -281,17 +281,26 @@ aufgefasst werden [@Kitcher1989, 449]. Daraus ergibt sich auch, dass
 aus Kitchers Vereinheitlichungstheorie keine probabilistische
 Kausaltheorie folgen kann [vgl @Baumgartner2004, 122 ff].
 
-Die im folgenden gegebene Version von Kitchers
-Vereinheitlichungstheorie entspricht nicht genau Kitchers eigenen
-Darstellung. Nach Kitcher selber ist Prinzip (C) nämlich asymmetrisch und transitiv,
-also eine *strikte* partielle Ordnung. Im Gegensatz dazu fasse ich (C)
-hier als TODO partielle Ordnung auf.
+Die im folgenden gegebene Version von Kitchers comparativen
+Vereinheitlichungsbegriffs (C) entspricht nicht genau Kitchers eigenen
+Darstellung. Nach Kitcher selber ist Prinzip (C) nämlich asymmetrisch
+und transitiv, also eine *strikte* partielle Ordnung. Im Gegensatz
+dazu fasse ich (C) hier als nicht strikt auf[^part]. Diese
+Unterscheidung ist jedoch rein formal und benutze an dieser Stelle nur
+eine nicht strikte Ordnung, weil dadurch die Behandlung des Prinzips
+(O) einfacher wird. Im Anhang befindet sich eine genauere Betrachtung
+dieser Prinzipien und Beweise für die im folgenden, von Kitcher
+übernommenen Behauptung [@Kitcher1989, 479], es handle sich bei
+(T),(R) auf der einen Seite und (C) auf der anderen Seite um partielle
+Ordnungen. Hier werde ich nur für das eigentliche Theme dieser Arbeit
+wesentliche Aspekte von Kitchers Vereinheitlichungsbegriffs
+widergeben.
 
-Kitcher definiert auf allen Mengen von Argumentmustern eine partielle
-Ortnung[^part], mit Hilfe des Prinzips (C) [@Kitcher1989, 478--479]
+Kitcher definiert also auf allen Mengen von Argumentmustern eine partielle
+Ortnung, mit Hilfe des Prinzips (C) [@Kitcher1989, 478--479]
 und der exakten Definition eines comparativen Stringenz-Begriffs
 (T),(R) [@Kitcher1989, 479, 480] (welche wiederum eine partielle
-Ordnung aller Argumentmuster definiert). Durch das Prinzip (O) drückt
+Ordnung aller Argumentmuster festlegt). Durch das Prinzip (O) drückt
 er die Hoffnung aus, dass mit dieser partiellen Ordnung eine obere
 Grenze zu je zwei beliebigen Mengen von Argumentmustern existiert. Das
 heisst, gegeben zwei solcher Mengen $U$ und $U'$, existiert eine, oder
@@ -302,35 +311,28 @@ $A$ nach Prinizip (C) weniger vereinheitlicht ist als $B$.[^latt]
 Dies ist trivialerweise gegeben, falls $U$ und $U'$ vergleichbar sind,
 in dem wir $U^* = max(U,U')$ setzen. Falls $U$ und $U'$ jedoch nicht
 vergleichbar sind, garantiert uns dieses Prinzip die Existenz einer
-dritten Menge von Argumentmustern $U^*$, zugunsten welcher wir sowohl $U$ als
-auch $U'$ fallen lassen können.
+dritten Menge von Argumentmustern $U^*$, zugunsten welcher wir sowohl
+$U$ als auch $U'$ fallen lassen können.
 
-Im Anhang befindet sich eine genauere Betrachtung dieser Prinzipien
-und Beweise für die hier gemachte Behauptung, es handle sich um
-partielle Ordnungen. Um diese Beweise durchzuführen muss ich einen
-offensichtlichen Fehler Kitchers in der Formulierung von (C)
-korrigieren, sowie einige zusätzliche Einschrenkungen vornehmen. Für
-das eigentliche Thema dieser Arbeit sind diese Betrachtungen jedoch
-nebensächlich. 
-
-Es reicht aus, dass laut Prinzip (C) eine Menge von
-Argumentmustern $U$ besser vereinheitlicht ist als eine weitere Menge
-von Argumentmuster $V$, falls einer der folgenden Punkte erfüllt ist:
+Für unsere Zwecke reicht es aus, zu wissen, dass laut Prinzip (C) eine
+Menge von Argumentmustern $U$ besser vereinheitlicht ist als eine
+weitere Menge von Argumentmuster $V$, falls einer der folgenden Punkte
+erfüllt ist:
 
 1.  $U$ erklärt mit weniger, mindestens so stringenter Argumentmuster
-die gleiche oder grössere Menge von Konsequenzen als $V$ (C1).
+    die gleiche oder grössere Menge von Konsequenzen als $V$ (C1).
 
-2.  $U$ erklärt mit mehr, aber zum Teil stringenterer Argumentmuster
-die gleiche oder grössere Menge von Konsequenzen als $V$ (C1).
+2.  $U$ erklärt mit genau so vielen, aber zum Teil stringenterer
+    Argumentmuster die gleiche oder grössere Menge von Konsequenzen
+    als $V$ (C1).
 
 3.  $U$ erklärt mit mindestens so stringenter Argumentmuster eine
-grössere Menge von Konsequenzen als $V$ (C2).
+    grössere Menge von Konsequenzen als $V$ (C2).
 
-Zudem genügt für unsere Zwecke zu wissen, dass ein Argumentmuster $p$
-stringenter ist als ein Argumentmuster $q$, falls $p$ die gleiche
-Struktur wie $q$ besitzt (also die gleichen schematischen Sätze mit
-der gleichen Klassifikation), so dass $p$ weniger Instanzen zulässt
-als $q$.
+Zudem genügt es zu wissen, dass ein Argumentmuster $p$ stringenter ist
+als ein Argumentmuster $q$, falls $p$ die gleiche Struktur wie $q$
+besitzt (also die gleichen schematischen Sätze mit der gleichen
+Klassifikation), so dass $p$ weniger Instanzen zulässt als $q$.
 
 Die partielle Ordnung $\leq_C$ auf Mengen von Argumentmustern lässt
 sich auf Systematisierungen (also Mengen von Ableitungen) übertragen,
@@ -367,11 +369,12 @@ $V$ ist. $S$ ist genau dann besser Vereinheitlicht als $T$, wenn $V
     2.  $a <_C b \Ra b \nless_C a$ (Antisymmetrie)
     3.  $a <_C b$ und $b <_C c \Ra a <_C c$ (Transitivität)
 
-    Dies ist ein Hinweis auf ein Missverständniss von (C) meinerseits,
-    welches jedoch ohne Bedeutung ist. Man kann nämlich entweder
-    $a \leq_C b$ mit $a <_C b \vee a = b$ identifizieren oder $a <_C
-    b$ mit $a \leq_C b \wedge a \neq b$, und die gegeben
-    Eigenschaften lassen sich entsprechend einfach ableiten.
+    Dieser Unterschied in der Darstellung von (C), welcher ich im
+    Anhang noch genauer behandeln werde, ist jedoch ohne
+    Bedeutung. Man kann nämlich entweder $a \leq_C b$ mit $a <_C b
+    \vee a = b$ identifizieren oder $a <_C b$ mit $a \leq_C b \wedge a
+    \neq b$, und die gegeben Eigenschaften lassen sich entsprechend
+    einfach ableiten. Es ist also einfach möglich 
 
 [^latt]: Dies ist eine Bedingung die auch von Semi-Lattices erfüllt
     wird. Zusätzlich muss in einem Semi-Lattice aber auch eine
@@ -390,7 +393,7 @@ $V$ ist. $S$ ist genau dann besser Vereinheitlicht als $T$, wenn $V
     existiert. Dies folgt aus dem Prinzip (O) nur im endlichen
     Fall. Im unendlichen Fall kann es sein, dass (O) erfüllt ist, es
     aber zu einer unendlichen Anzahl von generativen Mengen von
-    Argumentmustern $U_1, U_2, ...$ keine obere Schranke gibt.
+    Argumentmustern $U_1, U_2, ...$ keine eindeutige obere Schranke gibt.
 
     Nehmen wir als Beispiel das offene reelle Intervall $(0,1)$ und
     die folgende unendliche Menge $M$ von Zahlen in diesem Intervall:
@@ -398,12 +401,14 @@ $V$ ist. $S$ ist genau dann besser Vereinheitlicht als $T$, wenn $V
     $<$. Obwohl in $(0,1)$ zwei beliebige Zahlen eine obere Schranke
     haben und damit Prinzip (O) erfüllen, besitzt $M$ selber keine
     obere Schranke in $(0,1)$, denn das Supremum $sup(M)$ von $M$ ist
-    1 und liegt nicht mehr im gegeben Intervall.
+    1 und liegt nicht mehr im gegeben Intervall. Genauso hat ganz
+    $\mathbb{N}$ selber keine obere Schranke, obwohl zwei beliebige
+    Zahlen aus $\mathbb{N}$ eine obere Schranke besitzen.
 
     An dieser Stelle, wie auch an mehreren Stellen in der genaueren
     Behandlung seines comparativen Vereinheitlichungsbegriffs (C)
     (vgl. dazu die entsprechenden Beweise im Anhang) geht Kitcher also
-    implizit von endlichen Mengen von Argumentmustern aus.
+    wahrscheinlich implizit von endlichen Mengen von Argumentmustern aus.
 
 
 Argumentation
@@ -722,16 +727,16 @@ Kitcher.
 Math. Beweise
 =============
 
-(T),(R) partielle Ordnung
--------------------------
+Die partielle Ordnung (T),(R)
+-----------------------------
 
 Kitcher definiert mit Hilfe des Prinizips (T) eine partielle Ordnung
-auf Argumentmustern mit gleicher Struktur [@Kitcher1989, 479]. Demnach ist ein
-Argumentmuster $p$ genau dann mindestens so stringent wie ein weiteres
-Argumentmuster $q$, wenn beide die gleiche Struktur besitzen und die
-Instanzen von $p$ eine Teilmenge der Instanzen von $q$ sind. $p$ ist
-genau dann stringenter als $q$, wenn zusätzlich die Instanzen von $p$
-eine echte Teilmenge der Instanzen von $q$ sind.
+auf Argumentmustern mit gleicher Struktur [@Kitcher1989, 479]. Demnach
+ist ein Argumentmuster $p$ genau dann mindestens so stringent wie ein
+weiteres Argumentmuster $q$, wenn beide die gleiche Struktur besitzen
+und die Instanzen von $p$ eine Teilmenge der Instanzen von $q$
+sind. $p$ ist genau dann stringenter als $q$, wenn zusätzlich die
+Instanzen von $p$ eine echte Teilmenge der Instanzen von $q$ sind.
 
 Durch (R) erweitert er diese Definition auf Argumentmuster, mit sehr
 ähnlicher Struktur [@Kitcher1989, 480]. Gegeben zwei
