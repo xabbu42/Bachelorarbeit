@@ -201,7 +201,7 @@ $K$. $K$ steht also für sämtliche von einer wissenschaftlichen
 Gemeinschaft akzeptierten Sätze. Kitcher geht davon aus, dass $K$
 deduktiv abgeschlossen und konsistent ist [@Kitcher1989, 431]. Ein
 Argument ist nach Kitcher eine Erklärung, wenn es zur besten
-Systematisierung $E(K)$ von $K$ gehört. Eine Systematisierung $D$ von
+Systematisierung $E(K)$ von $K$ gehört. Eine Systematisierung $S$ von
 $K$ definiert er dabei als eine Menge von Ableitungen welche relativ
 zu $K$ akzeptierbar sind. Die beste Systematisierung $E(K)$ von $K$
 ist diejenige, die die grösste Vereinheitlichung erzielt. Die
@@ -218,14 +218,14 @@ Sowohl diese Definition wie auch Friedmanns eigene Definition haben
 jedoch technische Schwierigkeiten, welche nach @Kitcher1989 [432] in
 @Kitcher1976 und @Salmon1989 gezeigt wurden. Kitcher schlägt deshalb
 eine Erweiterung dieser Definition vor: Die Ableitungen einer
-Systematisierung $D$ werden in verschiedene Argumentmuster ("argument
-patterns") klassifiziert. Der Grad der Vereinheitlichung, den $D$
+Systematisierung $S$ werden in verschiedene Argumentmuster ("argument
+patterns") klassifiziert. Der Grad der Vereinheitlichung, den $S$
 erreicht, wird dann ausschliesslich aus Eigenschaften der
 Argumentmuster bestimmt. Diese Erweiterung ermöglicht es Kitcher den
 Fokus von Prämissen und der Konklusion auf die Ableitung selber zu
 verschieben. Neu sind die Ähnlichkeiten von an sich verschiedenen
 Ableitungen entscheidend für den Grad der Vereinheitlichung einer
-Systematisierung $D$ [vgl. @Kitcher1989, 432].
+Systematisierung $S$ [vgl. @Kitcher1989, 432].
 
 Nach @Kitcher1989 [432] besteht ein Argumentmuster aus drei Teilen:
 
@@ -284,17 +284,48 @@ Kausaltheorie folgen kann [vgl @Baumgartner2004, 122 ff].
 Die im folgenden gegebene Version von Kitchers comparativen
 Vereinheitlichungsbegriffs (C) entspricht nicht genau Kitchers eigenen
 Darstellung. Nach Kitcher selber ist Prinzip (C) nämlich asymmetrisch
-und transitiv, also eine *strikte* partielle Ordnung. Im Gegensatz
-dazu fasse ich (C) hier als nicht strikt auf[^part]. Diese
-Unterscheidung ist jedoch rein formal und benutze an dieser Stelle nur
-eine nicht strikte Ordnung, weil dadurch die Behandlung des Prinzips
-(O) einfacher wird. Im Anhang befindet sich eine genauere Betrachtung
-dieser Prinzipien und Beweise für die im folgenden, von Kitcher
-übernommenen Behauptung [@Kitcher1989, 479], es handle sich bei
-(T),(R) auf der einen Seite und (C) auf der anderen Seite um partielle
-Ordnungen. Hier werde ich nur für das eigentliche Theme dieser Arbeit
-wesentliche Aspekte von Kitchers Vereinheitlichungsbegriffs
-widergeben.
+und transitiv, also eine *strikte* partielle Ordnung [@Kitcher1989,
+479]. Im Gegensatz dazu fasse ich (C) hier als nicht strikt
+auf[^part]. Diese Unterscheidung ist jedoch rein formal und ich benutze an
+dieser Stelle nur keine strikte Ordnung, weil dadurch die
+Behandlung des Prinzips (O) einfacher wird. Im Anhang befindet sich
+eine genauere Betrachtung dieser Prinzipien und Beweise für die im
+folgenden, von Kitcher übernommenen Behauptung [@Kitcher1989, 479], es
+handle sich bei (T),(R) auf der einen Seite und (C) auf der anderen
+Seite um partielle Ordnungen. Hier werde ich nur für das eigentliche
+Theme dieser Arbeit wesentliche Aspekte von Kitchers
+Vereinheitlichungsbegriffs widergeben.
+
+[^part]: In der Mathematik ist eine partielle Ordnung definiert als
+    eine Relation $R$ auf einer Menge $M$, so dass die folgenden drei
+    Bedingungen für alle $a,b,c \in M$ erfüllt sind:
+
+    1.  $aRa$ (Reflexitivität)
+    2.  $aRb$ und $bRa \Ra a=b$ (Symmetrie)
+    3.  $aRb$ und $bRc \Ra aRc$ (Transitivität)
+
+    Eine partielle Ordnung unterscheidet sich von den allgemein
+    bekannten totalen Ordnungen (wie z.B. $\leq$ auf den reellen
+    Zahlen) ausschliesslich dadurch, dass es nicht vergleichbare
+    Elemente geben kann. Es ist also bei einer partiellen Ordnung $R$
+    möglich, dass es Elemente $a,b \in M$ gibt, so dass weder $aRb$
+    noch $bRa$ gilt.
+
+    Nach @Kitcher1989 [479] selber, ist (C) asymetrisch und
+    transitiv. Das bedeuted nach Kitcher definiert (C) eine strikte
+    partielle Ordnung $<_C$, für welche die folgenden drei
+    Bedingungen gelten:
+
+    1.  $a \nless_C a$ (Irreflexivität)
+    2.  $a <_C b \Ra b \nless_C a$ (Antisymmetrie)
+    3.  $a <_C b$ und $b <_C c \Ra a <_C c$ (Transitivität)
+
+    Dieser Unterschied in der Darstellung von (C), welcher ich im
+    Anhang noch genauer behandeln werde, ist jedoch ohne
+    Bedeutung. Man kann nämlich entweder $a \leq_C b$ mit $a <_C b
+    \vee a = b$ identifizieren oder $a <_C b$ mit $a \leq_C b \wedge a
+    \neq b$, und die gegeben Eigenschaften lassen sich entsprechend
+    einfach ableiten. 
 
 Kitcher definiert also auf allen Mengen von Argumentmustern eine partielle
 Ortnung, mit Hilfe des Prinzips (C) [@Kitcher1989, 478--479]
@@ -332,7 +363,7 @@ erfüllt ist:
 Zudem genügt es zu wissen, dass ein Argumentmuster $p$ stringenter ist
 als ein Argumentmuster $q$, falls $p$ die gleiche Struktur wie $q$
 besitzt (also die gleichen schematischen Sätze mit der gleichen
-Klassifikation), so dass $p$ weniger Instanzen zulässt als $q$.
+Klassifikation), und $p$ weniger Instanzen zulässt als $q$.
 
 Die partielle Ordnung $\leq_C$ auf Mengen von Argumentmustern lässt
 sich auf Systematisierungen (also Mengen von Ableitungen) übertragen,
@@ -345,36 +376,6 @@ $U$ und jede Ableitung in $T$ eine Instanz von einem Argumentmuster in
 $V$ ist. $S$ ist genau dann besser Vereinheitlicht als $T$, wenn $V
 \leq_C U$ gilt.[^compl]
 
-[^part]: In der Mathematik ist eine partielle Ordnung definiert als
-    eine Relation $R$ auf einer Menge $M$, so dass die folgenden drei
-    Bedingungen für alle $a,b,c \in M$ erfüllt sind:
-
-    1.  $aRa$ (Reflexitivität)
-    2.  $aRb$ und $bRa \Ra a=b$ (Symmetrie)
-    3.  $aRb$ und $bRc \Ra aRc$ (Transitivität)
-
-    Eine partielle Ordnung unterscheidet sich von den allgemein
-    bekannten totalen Ordnungen (wie z.B. $\leq$ auf den reellen
-    Zahlen) ausschliesslich dadurch, dass es nicht vergleichbare
-    Elemente geben kann. Es ist also bei einer partiellen Ordnung $R$
-    möglich, dass es Elemente $a,b \in M$ gibt, so dass weder $aRb$
-    noch $bRa$ gilt.
-
-    Nach @Kitcher1989 [479] selber, ist (C) asymetrisch und
-    transitiv. Das bedeuted nach Kitcher definiert (C) eine strikte
-    partielle Ordnung $<_C$, für welche die folgenden drei
-    Bedingungen gelten:
-
-    1.  $a \nless_C a$ (Irreflexivität)
-    2.  $a <_C b \Ra b \nless_C a$ (Antisymmetrie)
-    3.  $a <_C b$ und $b <_C c \Ra a <_C c$ (Transitivität)
-
-    Dieser Unterschied in der Darstellung von (C), welcher ich im
-    Anhang noch genauer behandeln werde, ist jedoch ohne
-    Bedeutung. Man kann nämlich entweder $a \leq_C b$ mit $a <_C b
-    \vee a = b$ identifizieren oder $a <_C b$ mit $a \leq_C b \wedge a
-    \neq b$, und die gegeben Eigenschaften lassen sich entsprechend
-    einfach ableiten. Es ist also einfach möglich 
 
 [^latt]: Dies ist eine Bedingung die auch von Semi-Lattices erfüllt
     wird. Zusätzlich muss in einem Semi-Lattice aber auch eine
@@ -437,9 +438,10 @@ aussehen:
 > Situation $\alpha$ sind diese Bedingungen erfüllt. Also leuchtet die
 > LED in $\alpha$. [^arg]
 
-[^arg]: Dabei bestimmt der erste Satz die Auffüllinstruktionen. Die
-nächsten zwei Sätze sind schematische Sätze, wobei der erste Satz die
-Prämisse und der zweite Satz die Konklusion ist.
+[^arg]: In diesem wie in allen folgenden Argumentmustern, bestimmt der
+erste Satz die Auffüllinstruktionen. Die nächsten zwei Sätze sind
+schematische Sätze, wobei der erste Satz die Prämisse und der zweite
+Satz die Konklusion ist.
 
 Dies ist nicht die einzige mögliche Ursache, für das Leuchten der LED,
 und demnach gib es auch ein alternatives Erklärungsmuster um Aufläuchten
@@ -447,12 +449,7 @@ von LEDS zu erklären:
 
 > Jede LED, auf welche ein genügend starkes Licht in einem geeigneten
 > Winkel auftritt, leuchtet. In der Situation $\alpha$ sind diese
-> Bedingungen erfüllt. Also leuchtet die LED in $\alpha$. [^arg2]
-
-[^arg2]: Auch hier ist der erste Satz als Paraphrasierung der
-Auffüllinstruktionen zu verstehen und die beiden nächsten Sätze also
-schematische Sätze, wiederum mit dem ersten Satz als Prämisse und dem
-zweiten als Konklusion.
+> Bedingungen erfüllt. Also leuchtet die LED in $\alpha$.
 
 Instanzen dieser beiden Argumentmuster sehen dann z.B. so aus:
 
@@ -464,7 +461,7 @@ Instanzen dieser beiden Argumentmuster sehen dann z.B. so aus:
 > ausgeschaltene LED Taschenlampe auf meinem Pult. Die LEDs in der
 > Taschenlampe leuchten also.
 
-Dass dieses Beispiel korrekt ist, und nach Kitchers
+Dass diese Beispiele korrekt sind, und nach Kitchers
 Vereinheitlichungstheorie mit unseren Voraussetzungen kausale
 Argumentmuster so und nicht anders aussehen müssen, will ich versuchen
 im folgenden zu zeigen. Insbesondere will ich diese Lösung gegenüber
@@ -478,7 +475,7 @@ folgenden falschen Varianten abgrenzen:
 > Jede funktionierende *rote* LED an der eine genügend grosse Spannung
 > mit der richtigen Orientierung liegt, leuchtet. In der Situation
 > $\alpha$ sind diese Bedingungen erfüllt. Also leuchtet die LED in
-> $\alpha$. [^arg]
+> $\alpha$. 
 
 > Manche LEDS an denen eine Spannung mit der richtigen Orientierung
 > liegt, leuchten. In der Situation $\alpha$ ist diese Bedingung
