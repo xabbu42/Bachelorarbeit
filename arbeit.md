@@ -493,10 +493,10 @@ Argumentmuster die einzig richtigen nach der Theorie Kitchers sind:
    enthalten.
 
 In einer starken Fassung unserer Voraussetzung folgt diese Aussage
-direkt. Wenn wir nämlich davon ausgehen, dass es nicht genügt, kausale Relevanzen
-zwischen Ereignisstypen aufzuzählen, um die kausale Struktur der Welt
-vollständig zu erfassen, sondern es vielmehr auch notwendig ist,
-zusammengehörende Ursachenbündel zu beschreiben.
+direkt. Wenn wir nämlich davon ausgehen, dass es nicht genügt, kausale
+Relevanzen zwischen Ereignisstypen aufzuzählen, um die kausale
+Struktur der Welt vollständig zu erfassen, sondern es vielmehr auch
+notwendig ist, zusammengehörende Ursachenbündel zu beschreiben.
 
 In unserem Beispiel heisst das, dass die folgenden Aussagen noch nicht
 genügen, um die vollständige kausale Struktur der Welt zum Aufläuchten
@@ -848,11 +848,11 @@ von $B$ spricht. Das heisst eine injektive Funktion $f: A \ra B$ ist
 nach Kitcher nur eine *echte* injektive Funktion, in dem Sinn, dass
 sie keine bijektive Funktion ist, also ein Element $b$ aus $B$
 existiert, welches nicht Bild von irgend einem Element $a$ aus $A$
-ist. Zu guter letzt scheint Kitcher nur endliche Mengen von
-Argumentmuster in Betracht zu ziehen (welche natürlich eine unendliche
-Menge von Instanzen haben können). Ich werde deshalb im folgenden die
-Begriffe *echt injektiv* und *bijektiv* Anstatt der von Kitcher
-verwendeten Begriffe *injektiv* und *surjektiv* verwenden.
+ist. Ich werde deshalb im folgenden die Begriffe *echt injektiv* und
+*bijektiv* Anstatt der von Kitcher verwendeten Begriffe *injektiv* und
+*surjektiv* verwenden.  Zu guter letzt scheint Kitcher nur endliche
+Mengen von Argumentmuster in Betracht zu ziehen (welche natürlich eine
+unendliche Menge von Instanzen haben können).
 
 Diese Interpretation stütze ich neben der mehrdeutigen und kurzen
 Definition der Begriffe von Kitcher, in erster Linie auf folgende
@@ -900,7 +900,7 @@ jedoch tatsächlich einfach zu zeigen, wie der folgende Beweis zeigt:
     beliebige Mengen von Argumentmustern $U$. $<_C$ ist also auch
     irreflexiv.
 
-3.  Angenommen es gilt $U <_C U'$ und $U' <_C U^*$ für drei
+2.  Angenommen es gilt $U <_C U'$ und $U' <_C U^*$ für drei
     beliebige Mengen von Argumentmuster $U$, $U'$ und $U^*$. In dem
     Fall gilt $C(S) \subseteq C(S') \subseteq C(S^*)$ und es
     existieren Funktionen $f: U \ra U'$ und $g: U' \ra U^*$, welche
@@ -949,16 +949,16 @@ Mengen von Argumentmustern zulassen, enständen folgende Probleme:
     gilt. $<_C$ wäre also im Gegensatz zu Kitchers Behauptung auch
     nicht asymmetrisch.
 
-3.  $<_C$ wäre kaum transitiv. Die Verknüpfung einer injektiven
-    Funktion mit einer surjektiven muss nämlich dann *weder* injektiv noch
-    surjektiv sein. Da wir aber im Beweis der Transitivität eine
-    surjektive oder injektive Funktion $h: U \ra U^*$ benötigen,
-    müsste man diese anderweitig konstruieren. Allerdings muss dass
-    Bild $h(p)$ von einem Argumentmuster $p$ mit diesem nach Stringenz
-    vergleichbar sein. Die einzigen Argumentmuster, von denen wir aber
-    wissen, dass sie nach Stringenz vergleichbar sind, sind
-    diejenigen, welche durch $f$ und $g$ aufeinander abgebildet
-    werden.
+3.  $<_C$ wäre kaum transitiv. Die Verknüpfung $g \circ f$ einer
+    injektiven Funktion mit einer surjektiven muss nämlich dann
+    *weder* injektiv noch surjektiv sein. Da wir aber im Beweis der
+    Transitivität eine surjektive oder injektive Funktion $h: U \ra
+    U^*$ benötigen, müsste man diese anderweitig
+    konstruieren. Allerdings muss dass Bild $h(p)$ von einem
+    Argumentmuster $p$ mit diesem nach Stringenz vergleichbar
+    sein. Die einzigen Argumentmuster, von denen wir aber wissen, dass
+    sie nach Stringenz vergleichbar sind, sind diejenigen, welche
+    durch $f$ und $g$ aufeinander abgebildet werden.
 
 
 Literatur
