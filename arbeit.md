@@ -522,26 +522,49 @@ enthalten, das heisst sie müssen auf vollständige Ursachenbündel Bezug
 nehmen und nicht nur auf einzelne kausal relevante Faktoren.
 
 Selbst wenn wir unsere Annahme in einer schwächeren Form
-interpretieren, nach der eine blosse Auflistung aller kausal relevanten
-Faktoren genügt, um die kausale Struktur der Welt zu erfassen, gibt es
-eine weitere Bedingung Kitchers, die unsere erste Behauptung zumindest
-nahelegt. Wie wir nämlich bereits gesehen haben, müssen nach
-@Kitcher1989 [448] alle Instanzen eines Argumentmusters deduktive
-Ableitungen sein. Da die zu erklärende Wirkung aus einem
+interpretieren, nach der eine blosse Auflistung aller kausal
+relevanten Faktoren genügt, um die kausale Struktur der Welt zu
+erfassen, gibt es eine weitere Bedingung Kitchers, die unsere erste
+Behauptung zumindest nahelegt. Wie wir nämlich bereits gesehen haben,
+müssen nach @Kitcher1989 [448] alle Instanzen eines Argumentmusters
+deduktive Ableitungen sein. Da die zu erklärende Wirkung aus einem
 unvollständigen Ursachenbündel *alleine* jedoch nicht deduktiv folgt,
 genügt ein solches nicht für ein korrektes Argumentmuster. So sind
 auch die entsprechenden Beispiele mit unvollständigen Ursachen nach
 Kitcher keine Argumentmuster, da ihre Instanzen keine deduktive
 Ableitung des zu erklärenden Ereignisses sind.
 
-TODO:Absurder Fall (warum genau?) mit mehreren kausal relevanten
-Faktoren vom selben Ursachenbündel, aber nicht das ganze
-Ursachenbündel, zusammen mit nicht kausal relevanter Information,
-welche die Argumente deduktiv schlüssig machen. Die kausale Struktur
-ist tatsächlich erfasst (bei z.B. 2 Faktoren pro Argumentmuster und
-einem Ursachenbündel von 3 Faktoren durch insgesamt 3^2=8
-Argumentmuster).
+Zuguterletzt könnte die selbe Wirkung mit Hilfe von mehreren
+Argumentmuster erklärt werden, welche sich folgendermassen
+zusammensetzen:
 
+1. Meherere kausal relevante Faktoren, aber nicht unbedingt alle, von
+mehreren verschiedenen hinreichenden Ursachenbündel zur selben Wirkung.
+
+2. Weiteren Bedingungen, welche nicht als Ereignisse aufgefasst werden
+können (welche also nicht in Raum und Zeit lokalisierbar sind).
+
+Die zusätzlichen Bedingungen sollen dabei die Instanzen der
+Argumentmuster deduktiv gültig machen, *ohne weitere, falsche* kausale
+Beziehungen einzuführen, was im Widerspruch zu unserer Voraussetzung
+wäre. Zudem enthält jedes Argumentmuster mehr als nur ein kausal
+relevanter Faktor. Solche Argumentmuster wären also auch in der Lage,
+zu erfassen, wenn zwei kausal relevante Faktoren zusammen auftretten
+müssen. Um trotzdem noch besser Vereinheitlicht zu sein, als unser
+einfacher Vorschlag, muss aber jedes Argumentmuster zusätzlich noch
+dazu dienen, Aspekte weiterer Ursachenbündel des selben Wirkungstyps
+zu erfassen. Mehrere verschiedene Wirkungstypen zu kombinieren ergibt
+keine projizierbaren Ausfüllinstruktionen. Wenn aber nur Ursachen
+eines Bündels erfasst werden, benötigen wir mehr als ein
+Argumentmuster pro Ursachenbündel, und erhalten damit eine schlechter
+vereinheitlichte Theorie.
+
+Es ist sehr unwahrscheinlich, dass eine solche Konstruktion
+tatsächlich mit projizierbaren Prädikaten möglich ist. Aber sie ist
+logisch nicht ausgeschlossen und meine Argumentation deshalb an dieser
+Stelle lückenhaft, falls eine schwache Version unserer Voraussetzung
+verwendet wird, wonach derartige Argumentmuster tatsächlich die
+kausale Struktur der Welt erfassen.
 
 2. Ein Argumentmuster kann neben den tatsächlichen Ursachentypen keine
    zusätzlichen Voraussetzungen enthalten. Dies betrifft sowohl
