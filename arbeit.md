@@ -286,15 +286,17 @@ Vereinheitlichungsbegriffs (C) entspricht nicht genau Kitchers eigenen
 Darstellung. Nach Kitcher selber ist Prinzip (C) nämlich asymmetrisch
 und transitiv, also eine *strikte* partielle Ordnung [@Kitcher1989,
 479]. Im Gegensatz dazu fasse ich (C) hier als nicht strikt
-auf[^part]. Diese Unterscheidung ist jedoch rein formal und ich benutze an
-dieser Stelle nur keine strikte Ordnung, weil dadurch die
-Behandlung des Prinzips (O) einfacher wird. Im Anhang befindet sich
-eine genauere Betrachtung dieser Prinzipien und Beweise für die im
-folgenden, von Kitcher übernommenen Behauptung [@Kitcher1989, 479], es
-handle sich bei (T),(R) auf der einen Seite und (C) auf der anderen
-Seite um partielle Ordnungen. Hier werde ich nur für das eigentliche
-Theme dieser Arbeit wesentliche Aspekte von Kitchers
-Vereinheitlichungsbegriffs widergeben.
+auf[^part]. Der Vorteil von Kitchers Darstellung ist, dass Kitcher es
+vermeidet Equivalenzbedingungen für Argumentmuster und darauf
+aufbauend für Mengen von Argumentmuster festzulegen. Dafür lässt sich
+Prinzip (O) mit einer nicht strikten Ordnung einfacher formulieren.
+
+ Im Anhang befindet sich eine genauere Betrachtung dieser Prinzipien
+und Beweise für die im folgenden, von Kitcher übernommenen Behauptung
+[@Kitcher1989, 479], es handle sich bei (T),(R) auf der einen Seite
+und (C) auf der anderen Seite um partielle Ordnungen. Hier werde ich
+nur für das eigentliche Theme dieser Arbeit wesentliche Aspekte von
+Kitchers Vereinheitlichungsbegriffs widergeben.
 
 [^part]: In der Mathematik ist eine partielle Ordnung definiert als
     eine Relation $R$ auf einer Menge $M$, so dass die folgenden drei
@@ -317,7 +319,7 @@ Vereinheitlichungsbegriffs widergeben.
     Bedingungen gelten:
 
     1.  $a \nless_C a$ (Irreflexivität)
-    2.  $a <_C b \Ra b \nless_C a$ (Antisymmetrie)
+    2.  $a <_C b \Ra b \nless_C a$ (Asymmetrie)
     3.  $a <_C b$ und $b <_C c \Ra a <_C c$ (Transitivität)
 
     Dieser Unterschied in der Darstellung von (C), welcher ich im
@@ -335,7 +337,7 @@ Ordnung aller Argumentmuster festlegt). Durch das Prinzip (O) drückt
 er die Hoffnung aus, dass mit dieser partiellen Ordnung eine obere
 Grenze zu je zwei beliebigen Mengen von Argumentmustern existiert. Das
 heisst, gegeben zwei solcher Mengen $U$ und $U'$, existiert eine, oder
-mehrere Mengen von Argumentmustern $U^*$, so dass sowohl $U \leq_C
+mehrere, Mengen von Argumentmustern $U^*$, so dass sowohl $U \leq_C
 U^*$ und $U' \leq_C U^*$ gilt, wobei $A \leq_C B$ dafür steht, dass
 $A$ nach Prinizip (C) weniger vereinheitlicht ist als $B$.[^latt]
 
@@ -358,7 +360,12 @@ erfüllt ist:
     als $V$ (C1).
 
 3.  $U$ erklärt mit mindestens so stringenter Argumentmuster eine
-    grössere Menge von Konsequenzen als $V$ (C2).
+    grössere Menge von Konsequenzen als $V$ (C2).[^erkl]
+
+[^erkl]: $U$ erklärt dabei eine Aussage $a$ genau dann, wenn es ein
+    Argumentmuster $p$ in $U$ zusammen mit einer mit $K$ vereinbaren
+    Instanz dieses Argumentmusters gibt, so dass die Aussage $a$ die
+    Konklusion dieser Instanz ist.
 
 Zudem genügt es zu wissen, dass ein Argumentmuster $p$ stringenter ist
 als ein Argumentmuster $q$, falls $p$ die gleiche Struktur wie $q$
@@ -405,12 +412,6 @@ $V$ ist. $S$ ist genau dann besser Vereinheitlicht als $T$, wenn $V
     1 und liegt nicht mehr im gegeben Intervall. Genauso hat ganz
     $\mathbb{N}$ selber keine obere Schranke, obwohl zwei beliebige
     Zahlen aus $\mathbb{N}$ eine obere Schranke besitzen.
-
-    An dieser Stelle, wie auch an mehreren Stellen in der genaueren
-    Behandlung seines comparativen Vereinheitlichungsbegriffs (C)
-    (vgl. dazu die entsprechenden Beweise im Anhang) geht Kitcher also
-    wahrscheinlich implizit von endlichen Mengen von Argumentmustern aus.
-
 
 Argumentation
 =============
@@ -785,7 +786,7 @@ gesagt impliziert die Defintion von $\leq_S$ eine extensionale
 Sichtweise der Ausfüllinstruktionen und aus $p \leq_S q$ und $q \leq_S
 p$ folgt dem entsprechend, dass die Ausfüllinstruktionen extensional
 equivalent sind. Da nun $p$ und $q$ also die gleiche Struktur und
-extensional equivalente Ausfüllinstruktionen haben, gilt $p = q$.
+extensional equivalente Ausfüllinstruktionen haben, gilt $p = q$.[^1]
 
 3. Angenommen, es gilt $p \leq_S q$ und $q \leq_S r$. Es gilt also
 $I(r) \subseteq I(q) \subseteq I(p)$, woraus auch $I(r) \subseteq
@@ -898,25 +899,25 @@ jedoch tatsächlich einfach zu zeigen, wie der folgende Beweis zeigt:
     $C(S) \subseteq C(S')$ und $C(S') \subseteq C(S)$, woraus $C(S) =
     C(S')$ folgt. (C2) ist dadurch ausgeschlossen, da weder $C(S)$
     eine echte Teilmenge von $C(S')$ ist, noch umgekehrt. Es
-    existieren also zwei Funktionen $f: U \ra U'$ und $g: U' \ra U$,
+    existieren also zwei Funktionen $f: U' \ra U$ und $g: U \ra U'$,
     welche den Bedingungen von (C1) genügen. Demnach gilt für die
     Anzahl Argumentmuster $|U|$ in $U$ und der Anzahl Argumentmuster
     $|U'|$ in $U'$: $|U| \leq |U'|$ und $|U'| \leq |U|$. Daraus folgt
     aber $|U| = |U'|$ und somit sind $f$ und $g$ bijektiv (surjektiv
     mit Kitchers gebrauch). 
 
-    Das heisst, es gibt ein Argumentmuster $p$ in $U$, so dass dieses
-    *echt* weniger stringent als $f(p)$ in $U'$ und damit auch
-    echt weniger stringent als $g \circ f(p)$ in $U$ ist. Es gilt demnach
-    auch $g \circ f(p) \neq p$. Betrachten wir nun die bijektive Funktion
-    $h := g \circ f$ von $U$ nach $U$, sowie die Folge $h^n(p)$ von
-    Argumentmustern in $U$, welche durch wiederholtes Anwenden von $h$
+    Das heisst, es gibt ein Argumentmuster $p$ in $U'$, so dass dieses
+    *echt* stringenter als $f(p)$ in $U$ und damit auch echt
+    stringenter als $g \circ f(p)$ in $U'$ ist. Es gilt demnach auch
+    $g \circ f(p) \neq p$. Betrachten wir nun die bijektive Funktion
+    $h := g \circ f$ von $U'$ nach $U'$, sowie die Folge $h^n(p)$ von
+    Argumentmustern in $U'$, welche durch wiederholtes Anwenden von $h$
     auf $p$ entsteht. Es gilt $h^n(p) \neq h^m(p)$ für beliebige $n >
     m > 1$, da $h$ bijektiv ist und $h^m(p)$ bereits Bild von
     $h^{m-1}(p)$ unter $h$ ist. Zudem gilt auch $h^n(p) \neq p$, da
-    $h^n(p)$ *echt* weniger stringent als $p$ ist. Also bildet $h^n(p)$
-    eine unendliche Folge in $U$. Dies Widerspricht der Voraussetzung,
-    dass $U$ nur endlich viele Elemente enthält.
+    $h^n(p)$ *echt* stringenter als $p$ ist. Also bildet
+    $h^n(p)$ eine unendliche Folge in $U'$. Dies Widerspricht der
+    Voraussetzung, dass $U'$ nur endlich viele Elemente enthält.
 
     Es gilt also nicht $U <_C U'$ und $U' <_C U$, und $<_C$ ist
     demnach asymmetrisch. Daraus folgt auch $U \nless_C U$ für
@@ -926,23 +927,23 @@ jedoch tatsächlich einfach zu zeigen, wie der folgende Beweis zeigt:
 2.  Angenommen es gilt $U <_C U'$ und $U' <_C U^*$ für drei
     beliebige Mengen von Argumentmuster $U$, $U'$ und $U^*$. In dem
     Fall gilt $C(S) \subseteq C(S') \subseteq C(S^*)$ und es
-    existieren Funktionen $f: U \ra U'$ und $g: U' \ra U^*$, welche
+    existieren Funktionen $f: U' \ra U$ und $g: U^* \ra U'$, welche
     entsprechend den Bedingungen von (C1) oder (C2) genügen. Wir
     unterscheiden folgende Fälle:
 
-    a.  $g$ oder $f$ ist *echt* injektiv. In dem Fall ist $g \circ f: U \ra
-        U^*$ *echt* injektiv und es gilt $U <_C U^*$ nach (C1).
+    a.  $g$ oder $f$ ist *echt* injektiv. In dem Fall ist $f \circ g:
+        U^* \ra U$ *echt* injektiv und es gilt $U <_C U^*$ nach (C1).
 
     b.  $g$ und $f$ sind bijektiv und es existiert ein Argumentmuster
-        $p$ in $U'$, so dass $g(p)$ echt weniger stringent ist als
-        $p$. In dem Fall ist $f^{-1}(p)$ auch echt weniger stringent als
-        sein Bild $g(p)$ unter der bijektiven Funktion $g \circ f: U
-        \ra U^*$ und es gilt $U <_C U^*$ nach (C1).
+        $p$ in $U^*$, so dass $g(p)$ echt stringenter ist als $p$. In
+        dem Fall ist das Bild $f \circ g(p)$ von $p$ unter der
+        bijektiven Funktion $f \circ g: U^* \ra U$ auch echt
+        stringenter als $p$ und es gilt $U <_C U^*$ nach (C1).
 
     c.  $g$ und $f$ sind bijektiv und $C(S')$ ist eine *echte*
         Teilmenge von $C(S^*)$. In dem Fall ist auch $C(S)$ eine echte
         Teilmenge von $C(S^*)$ und zusammen mit der bijektiven
-        Funktion $g \circ f: U \ra U^*$ gilt $U <_C U^*$ nach (C2).
+        Funktion $f \circ g: U^* \ra U$ gilt $U <_C U^*$ nach (C2).
 
     Damit sind alle möglichen Fälle abgedeckt, und $<_C$ ist
     transitiv.
@@ -967,16 +968,16 @@ Mengen von Argumentmustern zulassen, enständen folgende Probleme:
     aus $U <_C U$ dann $U \nless_C U$ folgen müsste.
 
 2.  Der gegebene Beweis für die Asymmetrie von $<_C$ würde nicht
-    funktionieren. Zudem könnte man einfach Beispiele von Mengen $U$
-    und $U'$ konstruieren, so dass sowohl $U <_C U'$ und $U' <_C U$
-    gilt. $<_C$ wäre also im Gegensatz zu Kitchers Behauptung auch
-    nicht asymmetrisch.
+    funktionieren. Zudem könnte man einfach Beispiele von unendlichen
+    Mengen $U$ und $U'$ konstruieren, so dass sowohl $U <_C U'$ und
+    $U' <_C U$ gilt. $<_C$ wäre also im Gegensatz zu Kitchers
+    Behauptung auch nicht asymmetrisch.
 
-3.  $<_C$ wäre kaum transitiv. Die Verknüpfung $g \circ f$ einer
+3.  $<_C$ wäre kaum transitiv. Die Verknüpfung $f \circ g$ einer
     injektiven Funktion mit einer surjektiven muss nämlich dann
     *weder* injektiv noch surjektiv sein. Da wir aber im Beweis der
-    Transitivität eine surjektive oder injektive Funktion $h: U \ra
-    U^*$ benötigen, müsste man diese anderweitig
+    Transitivität eine surjektive oder injektive Funktion $h: U^* \ra
+    U$ benötigen, müsste man diese anderweitig
     konstruieren. Allerdings muss dass Bild $h(p)$ von einem
     Argumentmuster $p$ mit diesem nach Stringenz vergleichbar
     sein. Die einzigen Argumentmuster, von denen wir aber wissen, dass
