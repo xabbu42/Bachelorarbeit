@@ -788,6 +788,14 @@ p$ folgt dem entsprechend, dass die Ausfüllinstruktionen extensional
 equivalent sind. Da nun $p$ und $q$ also die gleiche Struktur und
 extensional equivalente Ausfüllinstruktionen haben, gilt $p = q$.[^1]
 
+[^1]: Dieses Eingeständnis ist nötig, um $\leq_S$ und in der Folge
+$\leq_C$ als partielle Ordnung aufzufassen. Kitcher bezeichnet sein
+Prinzip (C) als strikte Ordnung und macht keine Angabe über den
+Stringenzbegriff (welche demnach bei Kitcher wohl nur transitiv und
+reflexiv, aber nicht symmetrisch ist). Er vermeidet damit,
+Argumentmuster in der Weise gleichsetzen zu müssen, wie das hier
+geschieht.
+
 3. Angenommen, es gilt $p \leq_S q$ und $q \leq_S r$. Es gilt also
 $I(r) \subseteq I(q) \subseteq I(p)$, woraus auch $I(r) \subseteq
 I(p)$ folgt. Gilt eine oder beide der Ungleichungen wegen dem Prinzip
@@ -983,6 +991,28 @@ Mengen von Argumentmustern zulassen, enständen folgende Probleme:
     sein. Die einzigen Argumentmuster, von denen wir aber wissen, dass
     sie nach Stringenz vergleichbar sind, sind diejenigen, welche
     durch $f$ und $g$ aufeinander abgebildet werden.
+
+Lässt man die Bedingung fallen, in (C1) seien nur echt injektive
+Funktionen zugelassen, und beschränkt sich zudem auf Mengen, welche
+keine nach Stringenz vergleichbare Argumentmuster enthalten, erhält
+man die von mir verwendete nicht strikte Ordnung $\leq_C$. $\leq_C$
+ist dann nämlich trivialerweise reflexiv, wie wir im Punkt 1 oben
+gesehen haben, und der selbe Transitivitätsbeweis funktioniert immer
+noch. Zudem ist $\leq_C$ damit symmetrisch, wie der folgende
+Beweis zeigt:
+
+Angenommen es gilt $U \leq_C U'$ und $U' \leq_C U$ für zwei Mengen von
+Argumentmuster $U$ und $U'$. Wiederum gilt also $C(S) \subseteq C(S')$
+und $C(S') \subseteq C(S)$ und damit $C(S) = C(S')$. Damit ist wieder
+(C2) ausgeschlossen und es existieren Funktionen $f: U' \ra U$ und $g:
+U \ra U'$, welche den Bedingungen von (C1) genügen. Gäbe es ein
+Argumentmuster $p$ in $U'$, so dass dieses echt stringenter als $f(p)$
+ist, dann wäre es auch echt stringenter als $g \circ f(p)$ in
+$U'$. Diesen Fall haben wir jedoch ausgeschlossen. Es gibt also keine
+solchen Argumentmuster und $g$ ist die Umkehrfunktion von $f$, d.h. $g
+\circ f(p) = p$ für alle $p$ in $U'$. In dem Fall haben $U$ und $U'$ genau
+gleich viele Elemente und es gilt jeweils $p = g \circ f(p) \leq_S f(p)
+\leq_S p$, woraus $p = f(p)$ folgt. $\leq_C$ ist also symmetrisch.
 
 
 Literatur
