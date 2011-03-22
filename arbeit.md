@@ -272,6 +272,13 @@ Zusammenhang mit der bereits erwähnten Einschränkung an Ereignistypen, die
 solche Klassen von Ereignissen eingeschränkt, die sich durch eine oder
 mehrere gemeinsame Eigenschaften auszeichnen.
 
+Kitcher gibt keine abschliessende Beschreibung von projizierbaren
+Prädikaten. Wir wissen jedoch, dass die Unterscheidung von
+projizierbaren und nicht-projizierbaren Prädikaten relativ zu einer
+bestimmten Sprache $L$ ist [@Kitcher1989, TODO], und dass im
+allgemeinen Konjunkte und Disjunkte von projizierbaren Prädikaten
+nicht wieder ein projizierbares Prädikat ergeben [@Kitcher1989, TODO].
+
 Die Instanzen von Argumentmuster sind deduktive Argumente. Kitcher
 verteidigt diese Idealisierung, die er *deductive chauvinism* nennt,
 gegen verschiedene Vorwürfe [@Kitcher1989, 448]. Insbesondere können
@@ -416,6 +423,61 @@ $V$ ist. $S$ ist genau dann besser Vereinheitlicht als $T$, wenn $V
 Argumentation
 =============
 
+Projizierbare Prädikate und natürliche Eigenschaften
+----------------------------------------------------
+
+Wie wir bereits gesehen haben, lassen sowohl die Kausaltheorie der
+minimalen Theorien wie auch Kitchers Vereinheitlichungstheorie nicht
+beliebige extensionale Prädikate zu, sondern schränken die erlaubten
+Prädikate ein, entweder auf solche die natürlichen Eigenschaften
+entsprechen bei Baumgartner und Grasshoff, oder auf sogenannte
+projizierbare Prädikate bei Kitcher. Während diese Begriffe einen sehr
+ähnlichen Zweck erfüllen, sie verhindern nämlich dass die
+entsprechenden Theorien durch geeignete logische Konstruktionen
+trivialisiert werden können, bauen sie auf einer komplett
+verschiedenen Ansicht über wissenschaftliche Erkenntnis auf.
+
+Baumgartner und Grasshof's Beschreibung von natürlichen Eigenschaften
+impliziert stark eine Sichtweise des wissenschaftlichen
+Realismus. Demnach bezeichnen die von der Wissenschaft verwendeten
+Prädikate real existierende Dinge in der Welt. Umgekehrt ist ein
+Prädikat nur dann zulässig, wenn es tatsächlich einer unabhängig davon
+existierende Eigenschaft in der Welt entspricht. Alte in der
+Wissenschaft verwendete Prädikate werden aufgegeben, weil ein
+Erkenntnisgewinn stattfindet, wonach angeommene reale Eigenschaften
+tatsächlich ohne Inhalt sind. Analog werden neue Prädikate eingeführt,
+weil neue Aspekte der realen Welt *entdeckt* werden.
+
+Bei Kitcher dagegen sind projizierbare Prädikate abhängig von einer
+bestimmten Sprache $L$. Diese Sprache kann und wird von den
+Wissenschaftler jedoch abgeändert und dadurch ändern sich auch, welche
+Prädikate projizierbar sind und welche nicht. Begründet wird eine
+solche Änderung aber nicht als eine Anpassung an die Realität, sondern
+durch interne Eigenschaften der Sprache und insbesondere der
+Darstellung der gegenwärtigen Theorien in dieser Sprache. Im Gegensatz
+zur Sichtweise des wissenschaftlichen Realismus ist Kitcher
+wahrscheinlich Instrumentalist und demnach strebt bei ihm die
+Wissenschaft eine empirisch ädaquate Theorie an, kann dabei aber eine
+beliebige Sprache verwenden.
+
+Wesentlich für das Ziel dieser Arbeit ist, dass trotz der komplett
+verschiedenen Hintergründe dieser Begriffe, dies für die Definition
+von Kausalität auf der einen Seite und die Definition von
+Vereinheitlichung auf der anderen Seite nicht wesentlich ist. Weder
+Baumgartner und Grasshoff noch Kitcher benutzen in ihren Theorien
+spezifische Eigenschaften der ausgezeichneten Prädikate. Wesentlich
+ist nur, dass es eine Menge von ausgezeichneten Prädikaten gibt, und
+Konjuktionen und Disjunktionen von diesen Prädikaten im allgemeinen
+nicht mehr derart ausgezeichnet sind.
+
+Für diese Arbeit gehen ich deshalb davon aus, dass sich diese Begriffe
+exakt decken, das heisst, ein Prädikat ist genau dann projizierbar,
+wenn es einer natürlichen Eigenschaft entspricht. Dies ist deshalb
+zulässig, weil es immer möglich ist, minimale Theorien anhand von
+projizierbaren Prädikate zu betrachten, respektive Vereinheitlichung in
+einer ausgezeichneten Sprache $L_N$, in der genau projizierbare
+Prädikate für alle natürlichen Eigenschaften existieren.
+
 Kausale Argumentmuster
 ----------------------
 
@@ -550,13 +612,13 @@ Argumentmuster deduktiv gültig machen, *ohne weitere, falsche* kausale
 Beziehungen einzuführen, was im Widerspruch zu unserer Voraussetzung
 wäre. Zudem enthält jedes Argumentmuster mehr als nur ein kausal
 relevanter Faktor. Solche Argumentmuster wären also auch in der Lage,
-zu erfassen, wenn zwei kausal relevante Faktoren zusammen auftretten
+zu erfassen, dass zwei kausal relevante Faktoren zusammen auftretten
 müssen. Um trotzdem noch besser Vereinheitlicht zu sein, als unser
 einfacher Vorschlag, muss aber jedes Argumentmuster zusätzlich noch
 dazu dienen, Aspekte weiterer Ursachenbündel des selben Wirkungstyps
-zu erfassen. Mehrere verschiedene Wirkungstypen zu kombinieren ergibt
-keine projizierbaren Ausfüllinstruktionen. Wenn aber nur Ursachen
-eines Bündels erfasst werden, benötigen wir mehr als ein
+zu erfassen, denn mehrere verschiedene Wirkungstypen zu kombinieren
+ergibt keine projizierbaren Ausfüllinstruktionen. Wenn aber nur
+Ursachen eines Bündels erfasst werden, benötigen wir mehr als ein
 Argumentmuster pro Ursachenbündel, und erhalten damit eine schlechter
 vereinheitlichte Theorie.
 
@@ -573,17 +635,19 @@ kausale Struktur der Welt erfassen.
    kausalen Zusammenhängen stehen.
 
 Wie wir im ersten Punkt gesehen haben, muss ein kausales
-Argumentmuster auf Ursachenbündel bezug nehmen, die bereits
+Argumentmuster $p$ auf Ursachenbündel bezug nehmen, die bereits
 hinreichend für die zu erklärende Wirkung sind. Zusätzliche
-Voraussetzungen lassen sich Analog zu Kitchers Ausführungen zu den
+Voraussetzungen lassen sich analog zu Kitchers Ausführungen zu den
 irrelevanten Faktoren behandeln [siehe @Kitcher1989, 482-484]. Demnach
 lassen sich auch hier zwei Fälle unterscheiden:
 
 Erstens kann es sein, dass die zusätzlichen Voraussetzungen bestimmte
-Instanzen der Argumentmuster ausschliessen. Durch diese unnötige
-Einschränkung der Anwendbarkeit des Argumentmusters werden weitere
-zusätzliche Argumentmuster notwendig und man erreicht damit eine
-weniger gut vereinheitlichte Theorie.
+Instanzen der Argumentmuster ausschliessen. Durch diese Einschränkung
+der Anwendbarkeit des Argumentmusters wird mindestens ein weiteres
+Argumentmuster notwendig. Da die in diesem Argumentmuster verwendeten
+Prädikate projizierbar sein müssen, kommt dazu aber im allgemeinen nur
+das ursprüngliche Argumentmuster $p$ in Frage und man erreicht damit
+eine weniger gut vereinheitlichte Theorie.
 
 Zweitens kann es sein, dass diese zusätzlichen Voraussetzungen immer
 gegeben sind, wenn auch das vollständige Ursachenbündel instantiiert
@@ -703,25 +767,6 @@ Ergebnisse/Folgen
 
 Wissenschaftlicher Realismus
 ----------------------------
-
-Während Baumgartner und Grasshof vom Hintergrund des
-wissenschaftlichen Realismus ausgehen, und insofern die Vorstellung
-von natürlichen Eigenschaften benutzen, scheint Kitcher eher von einer
-instrumentalistischen Hintergrund auszugehen. Zumindest sind seine
-projizierbaren Prädikate nicht fest gegeben, sondern abhängig von
-einer wissenschaftlichen Sprache $L$. Wird diese Sprache geändert,
-ändert sich auch welche Prädikate projizierbar sind und welche
-nicht. Eine solche Änderung ist laut Kitcher ein natürlicher und
-erlaubter Vorgang in der Wissenschaft.
-
-Die Kausaltheorie der minimalen Theorien ist jedoch nicht direkt
-abhängig vom wissenschaftlichen Realismus. Sie baut auf der Annahme
-auf, es gäbe eine feste Menge von ausgezeichneten Prädikaten, ohne auf
-deren ontologischen Status aufzubauen. Es sollte also Möglich sein,
-Kitchers Ergebnisse zu veränderbaren Sprachen und der damit
-verbundenen neuen Klassifikation von Prädikate in projizierbare und
-nicht projizierbare auf minimale Theorien in einem
-instrumentalistischen Kontext zu übertragen.
 
 
 Kettenproblem
