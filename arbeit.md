@@ -161,9 +161,9 @@ Faktoren ausschliessen können.
 In der Kausalitätstheorie der minimalen Theorien können Ereignisstypen
 nicht beliebig extensional definiert werden. Das heisst, man kann
 nicht einer beliebigen Menge von Ereignistokens einen Ereignistyp
-zuordnen. Vielmehr muss jedem Ereignistyp eine Eigenschaft entsprechen
-[@Baumgartner2004, 38--39]. Wie wir später sehen werden, steht diese
-Forderung und insbesondere die Notwendigkeit einer solchen
+zuordnen. Vielmehr muss jedem Ereignistyp eine natürliche Eigenschaft
+entsprechen [@Baumgartner2004, 38--39]. Wie wir später sehen werden,
+steht diese Forderung und insbesondere die Notwendigkeit einer solchen
 Einschränkung in einem engen Zusammenhang mit einer Forderung Kitchers
 [-@Kitcher1989, 482] an seine Argumentmuster, nämlich dass nur
 projizierbare Prädikate verwendet werden dürfen.
@@ -176,7 +176,11 @@ räumlich und zeitlich lokalisierbare Ereignisse zutreffen dürfen.
 Demnach können von einander entfernte Ereignisse wie z.B.  das Senden
 von Radiosignalen von einer Antenne und das Einschalten eines Radios
 nicht unter einem Begriff "Senden und Einschalten" zusammengefasst
-werden.
+werden. Der Begriff "Senden oder Einschalten" trifft jedoch sehr wohl
+nur auf zeitlich und räumlich lokalisierbare Ereignisse zu, nämlich
+entweder auf ein Senden von Radiosignalen an einem bestimmten Ort zu
+einer bestimmten Zeit, *oder* auf das Einschalten eines Radios an
+einem bestimmten Ort zu einer bestimmten Zeit.
 
 Wie wir gesehen haben, wird in der Kausalitätstheorie der minimalen
 Theorien zwischen direkter und indirekter Kausalität
@@ -474,9 +478,11 @@ Für diese Arbeit gehen ich deshalb davon aus, dass sich diese Begriffe
 exakt decken, das heisst, ein Prädikat ist genau dann projizierbar,
 wenn es einer natürlichen Eigenschaft entspricht. Dies ist deshalb
 zulässig, weil es immer möglich ist, minimale Theorien anhand von
-projizierbaren Prädikate zu betrachten, respektive Vereinheitlichung in
-einer ausgezeichneten Sprache $L_N$, in der genau projizierbare
-Prädikate für alle natürlichen Eigenschaften existieren.
+projizierbaren Prädikate in einer beliebigen Sprache $L$ zu
+betrachten, respektive Vereinheitlichung in einer ausgezeichneten
+Sprache $L_N$, in der genau projizierbare Prädikate für alle
+natürlichen Eigenschaften existieren.
+
 
 Kausale Argumentmuster
 ----------------------
@@ -660,29 +666,71 @@ streichen [@Kitcher1989, 484]
 3. Ein Argumentmuster kann nicht mehrere vollständige Ursachenbündel
    enthalten.
 
-Dies ist der entscheidende und schwierigste Punkt in meiner
-Argumentation, da er gemeinsame und nicht zufriedenstellend gelöste
-Probleme beider Theorien in einen Zusammenhang bringt. Sowohl in
-@Kitcher1989 als auch in @Baumgartner2004 werden Ursachenbündel,
-respektive Argumentmuster in einem gewissen Sinn gezählt. Damit dies
-überhaupt sinnvoll ist, muss verhindert werden, dass Ursachenbündel,
-respektive Argumentmuster beliebig vereinigt oder aufgespalten werden
-können.
+Dieser Punkt hängt vollständig von der angesprochenen Bedingung an,
+dass nur projizierbare Prädikate verwendet werden dürfen. Zuerst
+einmal formuliert Kitcher seine Argumentmuster, derart, dass es
+jeweils immer das ganze Argumentmuster instanziert werden muss. Das
+heisst, der folgende Versuch, zwei vollständige Ursachenbündel in
+einem Argumentmuster zu kombinieren ist nicht zulässig:
 
-Bei @Baumgartner2004 [38--39] geschieht dies durch die bereits angesprochene
-Einschränkungen an Ereignisstypen, dass diese einer oder mehreren
-tatsächlichen Eigenschaften entsprechen müssen.
+> Jede LED, auf die ein genügend starkes Licht in einem geeigneten
+> Winkel einfällt, *oder* an der eine genügend grosse Spannung mit der
+> richtigen Orientierung liegt, leuchtet. In der Situation $\alpha$
+> fällt ein genügend starkes Licht in einem geeigneten Winkel auf die
+> LED oder in der Sitiuation $\beta$ liegt eine genügend grosse
+> Spannung mit der richtigen Orientierung an der LED. Also leuchtet
+> die LED in $\alpha$ oder $\beta$.
+
+Eine Instanz eines solchen Argumentmusters müsste jeweils sowohl
+$\alpha$ als auch $\beta$ ausfüllen und nicht nur eines der
+beiden. Ein solches Argumentmuster wäre also nur auf überdeterminierte
+LEDS anwendbar, entgegen der Absicht, zwei alternative Ursachen in
+einem Argumentmuster zu kombinieren.
+
+In einem zweiten Versuch kann man nur eine Variable $\alpha$ benutzen,
+aber die Ausfüllinstruktionen so formulieren, dass sowohl Lichteinfall
+von aussen wie auch der Stromkreis einsetzbar sind. Das ergibt das
+bereits erwähnte folgende Argumentmuster:
+
+> Jede LED, auf die ein genügend starkes Licht in einem geeigneten
+> Winkel einfällt, *oder* an der eine genügend grosse Spannung mit der
+> richtigen Orientierung liegt, leuchtet. In der Situation $\alpha$
+> sind diese Bedingungen erfüllt. Also leuchtet die LED in $\alpha$.
 
 In @Kitcher1989 [482] dagegen wird von den verwendeten Prädikaten gefordert,
 dass diese projizierbar sind. Beliebige logische Verknüpfungen von
 projizierbaren Prädikaten, also insbesondere eine Disjunktion
 verschiedener Ursachenbündel, ist im Allgemeinen nicht mehr
-projizierbar.
+projizierbar. Dieses Argumentmuster ist deshalb nicht zulässig.
 
-Für unsere Zwecke verrichten beide Bedingungen die selbe Arbeit. Sie
-verhindern dass wir verschiedene alternative Ursachen unter einem
-Begriff subsumieren und damit die verwendeten Minimalitätsbedingungen
-trivialisieren können.
+Ein sehr ähnliches Problem stellt sich auch bei der Kausaltheorie der
+minimalen Theorien. Die minimalen Theorie zum Leuchten von LED's: $SO
+\vee LW \Ra W$ könnte man nämlich zu einer kleineren minimalen Theorie
+$AB \Ra W$ vereinfachen, in dem wir neue Prädikate $A$ und $B$
+einführen, welche extensional mit $S \vee L$ und $O \vee W$
+übereinstimmen. Bezeichnen wir z.B. die Orientierung der Spannung und
+der Winkel des Lichteinfalls als Wientierung und fassen genügend
+starken Lichteinfall und genügend starke Spannung unter dem Begriff
+der genügend starken Lannung zusammen, so leuchten alle LEDs mit einer
+genügend starken Lannung in der richtigen Wientierung. Die Instanzen
+beider neuen Prädikate sind immer noch lokalisierbar in Raum und Zeit,
+da es ja die Vereinigung der Instanzen der beiden zulässigen Prädikate
+sind. 
+
+Trotzdem ist dieser Schritt auch in der Kausaltheorien der minimalen
+Theorien nicht zulässig, da die Prädikate Lannung und Wientierung
+keiner natürlichen Eigenschaft entsprechen. Hier erkennt man deutlich,
+warum die Begriffe der projizierbaren Prädikte bei Kitcher und der natürlichen
+Eigenschaften bei Baumgartner und Grasshoff zusammen fallen müssen,
+damit die These dieser Arbeit gilt, obwohl die beiden Begriffe auf
+komplett verschiedenen Anschauungen der Wissenschaft und der Welt
+aufbauen. Es sind nämlich genau dies die Bedingungen, welche den Grad
+der Vereinheitlichung, respektive der Minimalisierung, überhaupt
+beschränken. Sobald man eine Vereinheitlichung/Minimalisierung auf der
+einen Seite zulässt, auf der anderen jedoch nicht, in dem z.B. Lannung
+und Wientierung zwar projizierbar sind, aber nicht natürlichen
+Eigenschaften entsprechen, decken sich die minimalen Theorien einer
+Wirkung nicht mehr mit dessen Argumentmustern. 
 
 
 Ableitung der Kausaltheorie der minimalen Theorien
