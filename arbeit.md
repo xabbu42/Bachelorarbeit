@@ -495,9 +495,9 @@ folgende:
 
 > Ein Argumentmuster, welches benutzt wird um kausal erklärbare
 > Ereignisse zu erklären, besteht aus der Angabe von *genau einem*
-> vollständigen Ursachenbündel für diesen Ereignistyp und der
-> Aussage, dass dieses Ursachenbündel hinreichend für den zu
-> erklärenden Ereignistyp ist.
+> vollständigen Ursachenbündel für diesen Ereignistyp und der Aussage,
+> dass dieses Ursachenbündel hinreichend für den zu erklärenden
+> Ereignistyp ist.
 
 Ein spezifisches kausales Argumentmuster könnte also in etwa so
 aussehen:
@@ -640,12 +640,9 @@ kausale Struktur der Welt erfassen.
    weitere Ereignisstypen, als auch andere Begriffe welche nicht in
    kausalen Zusammenhängen stehen.
 
-Wie wir im ersten Punkt gesehen haben, muss ein kausales
-Argumentmuster $p$ auf Ursachenbündel bezug nehmen, die bereits
-hinreichend für die zu erklärende Wirkung sind. Zusätzliche
-Voraussetzungen lassen sich analog zu Kitchers Ausführungen zu den
-irrelevanten Faktoren behandeln [siehe @Kitcher1989, 482-484]. Demnach
-lassen sich auch hier zwei Fälle unterscheiden:
+@Kitcher1989 [482--484] hat den Anspruch, mit seiner Erklärungstheorie
+der Vereinheitlichung irrelevante Faktoren auschliessen zu
+können. Und zwar unterscheidet er folgende Fälle:
 
 Erstens kann es sein, dass die zusätzlichen Voraussetzungen bestimmte
 Instanzen der Argumentmuster ausschliessen. Durch diese Einschränkung
@@ -653,7 +650,7 @@ der Anwendbarkeit des Argumentmusters wird mindestens ein weiteres
 Argumentmuster notwendig. Da die in diesem Argumentmuster verwendeten
 Prädikate projizierbar sein müssen, kommt dazu aber im allgemeinen nur
 das ursprüngliche Argumentmuster $p$ in Frage und man erreicht damit
-eine weniger gut vereinheitlichte Theorie.
+eine weniger gut vereinheitlichte Theorie. 
 
 Zweitens kann es sein, dass diese zusätzlichen Voraussetzungen immer
 gegeben sind, wenn auch das vollständige Ursachenbündel instantiiert
@@ -661,7 +658,15 @@ ist, gerade so wie Salz immer hexable (TODO:übersetzen) ist. Dadurch
 ist aber die zusätzliche Voraussetzung leer und für die
 Stichhaltigkeit des Argumentmusters und ihrer Instanzen ohne
 Belang. Ein Prinzip der Einfachheit fordert, diese Voraussetzungen zu
-streichen [@Kitcher1989, 484]
+streichen [@Kitcher1989, 484]. 
+
+An dieser Stelle bleibt noch offen, ob und wie stark sich diese
+Argumentation mit derjenigen der minimalen Theorien deckt. Soweit ist
+also nur gezeigt, dass nach Kitcher irrelevante Faktoren aus den
+Argumentmustern der am besten vereinheitlichten Systematisierung
+ausschliessbar sind. Das heisst aber nicht, dass die
+Kausaltheorie der minimalen Theorien und Kitchers Erklärungstheorie
+darin übereinstimmen, welche Faktoren denn nun irrelevant sind.
 
 3. Ein Argumentmuster kann nicht mehrere vollständige Ursachenbündel
    enthalten.
@@ -737,41 +742,10 @@ Ableitung der Kausaltheorie der minimalen Theorien
 --------------------------------------------------
 
 Aus der gegebenen Beschreibung der kausalen Argumentmuster und
-Kitchers komparativen Vereinheitlichungsbegriff ergeben sich direkt
+Kitchers komparativen Vereinheitlichungsbegriff ergeben sich
 alle konstitutiven Bedingungen der minimalen Theorien.
 
-Jedes einzelne Argumentmuster muss genau ein minimal hinreichendes
-Ursachenbündel der zu erklärenden Wirkung angeben, damit die Instanzen
-des Argumentmusters deduktiv schlüssig sind und keine unnötigen
-Prämissen enthalten, wie dies bereits im Punkt 2 im vorhergehenden
-Kapitel erläutert wurde. Nehmen wir eine beliebige Systematisierung
-$S$, welche die komplette Instantiierung einer besten generierenden Menge von
-Argumentmustern $U$ ist [vgl @Kitcher1989, 434]. Gehen wir zudem davon
-aus, $U$ enthalte das dem *nicht* minimal hinreichenden Faktorenbündel
-$ABC$ entsprechende Argumentmuster $M$, das es also erlaubt aus Instanzen
-des Ursachenbündels $ABC$ Instanzen einer bestimmten Wirkung $W$
-abzuleiten.
-
-Es gibt nun, wie bei Kitchers Diskussion der irrelevanten Faktoren,
-zwei Fälle. Erstens kann es sein, dass alle Instanzen von $ABC$ auch
-bereits Instanzen von $AB$ sind. In dem Fall können wir das
-Argumentmuster $M$ zu $ABC \ra W$ in $U$ durch ein Argumentmuster $M'$
-in $U'$ ersetzen, welches $AB \ra W$ entspricht. Da alle Instanzen von
-$ABC$ auch Instanzen von $AB$ sind, generieren $U$ und $U'$ sehr
-ähnliche Systematisierungen $S$ und $S'$, insbesondere haben die
-beiden Systematisierungen die gleiche Menge Argumente und exakt die
-gleichen Konsequenzen. Laut @Kitcher1989 [484], ist in dem Fall die
-einfachere Formulierung $AB \ra W$ vorzuziehen.
-
-Zweitens kann es sein, dass Instanzen von $AB$ existieren, welches
-nicht Instanzen von $ABC$ sind. In diesem Fall erklärt $U$ entweder
-weniger Konsequenzen als $U'$, oder $U$ enthält zusätzlich noch das
-Argumentmuster $M'$, um Instanzen von $W$ zu erklären [vgl
-@Kitcher1989, 483]. Im erstem Fall trifft (C2) zu, im zweiten Fall
-(C1) [@Kitcher1989, 478].  Laut Prinzip (C) ist in beiden Fällen $U'$
-und die entsprechende Systematisierung $S'$ vorzuziehen.
-
-Aus dem komparativen Vereinheitlichungsbegriff von Kitcher folgt auch,
+Aus dem komparativen Vereinheitlichungsbegriff von Kitcher folgt,
 dass die Argumentmuster und damit insbesondere die kausalen
 Argumentmuster insgesamt minimiert werden müssen. Nehmen wir eine
 beliebige Systematisierung $S$, welche die komplette Instantiierung
@@ -800,6 +774,55 @@ Argumentmuster, welches es erlaubt $W$ aus $EF$ abzuleiten. Diese neue
 Systematisierung $S'$ ist besser Vereinheitlicht nach (C1), da mit
 weniger, genau so stringenter, Argumentmuster die gleiche Menge von
 Konsequenzen erklärt wird.
+
+Weniger eindeutig liegt die Lage bei der Bedingung, jedes einzelne
+Ursachenbündel müsse minimal hinreichend sein. Wie wir bereits gesehen
+haben, müssen nach Kitcher alle Instanzen von Argumentmustern deduktiv
+gültig sein. Mit diesem Anspruch ergibt sich zuerst einmal ein
+ähnliches Bild, wie bei der Kausaltheorie der minimalen
+Theorien. Man versucht eine möglichst breit anwendbare Regel zum
+erklären von bestimmten Ereignissen zu erreichen, will dabei aber
+immer noch deduktiv gültige Argumente erhalten.
+
+Schaut man Kitchers Argumentation jedoch genauer an, ergibt sich ein
+wesentlicher Unterschied: Kitcher stützt sich stark darauf ab,
+dass die Versuche, ein Argumentmuster $p$ in zwei Argumentmuster $p_1$
+und $p_2$ aufzuteilen, zu nicht projezierbaren Prädikaten führen. Dies
+mag bei Kitchers Beispiel der Fall sein, in dem ein Prädikat "x is
+either hexed, or is unhexed and has molecular structure NaCl."
+[@Kitcher1989, 483] benötigt wird. Aber nehmen wir unser Beispiel mit
+der roten LED, wir betrachten also die die folgenden $n$
+Argumentmuster:
+
+> Jede funktionierende *rote/blaue/weisse...* LED an der eine genügend
+> grosse Spannung mit der richtigen Orientierung liegt, leuchtet. In
+> der Situation $\alpha$ sind diese Bedingungen erfüllt. Also leuchtet
+> die LED in $\alpha$.
+
+Es scheint in diesem Moment schwierig zu behaupten, die
+Ausfüllinstruktionen in diesen Argumentmuster seien nicht
+projizierbar, ohne bereits vorauszusetzen, nur minimal hinreichende
+Ausfüllinstruktionen seien projizierbar. Die aufgeteilten
+Argumentmuster sind aber stringenter als das allgemeinere Argumentmuster
+ohne den irrelevanten Faktor. Dadurch ergeben sich zwei nicht
+vergleichbare Systematisierungen von $K$.
+
+Kitcher sieht jedoch ein, dass die Einschrenkung auf projizierbare
+Prädikate noch nicht genügt um alle irrelevanten Faktoren
+auszuschliessen. So betrachtet er das Argumentmuster, wonach alle
+verhexbaren Salze sich in Wasser auflösen. Ein solches Argumentmuster
+ist genauso stringent und hat damit die selben Instanzen und erklärt
+die selben Konsequenzen, wie das gebräuchliche Argumentmuster ohne den
+Zusatz. Kitcher erweitert also seine Theorie um das Prinzip, dass aus
+Gründen der Einfachheit leere Zusätze gestrichen werden sollen. Leer
+heissen jene Zusätze, die für die Gültigkeit der Instanzen des
+Argumentmusters nicht notwendig sind.
+
+Für kausale Argumentmuster heisst dies genau, dass nur minimal
+hinreichende Bündel von Ereignisstypen als Ursachen benutzt
+werden. Die Farbe der LED ist in unserem Beispiel nicht relevant für
+die Gültigkeit der Instanzen des Argumentmusters, und wir müssen
+deshalb das einfachere Argumentmuster ohne diesen Zusatz vorziehen.
 
 Demnach werden also alle Ableitungen von Instanzen von $W$ in der
 besten Systematisierung $E(K)$ von $K$ durch eine minimal notwendige
