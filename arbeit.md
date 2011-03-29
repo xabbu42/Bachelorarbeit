@@ -727,15 +727,15 @@ da es ja die Vereinigung der Instanzen der beiden zulässigen Prädikate
 sind. 
 
 Trotzdem ist dieser Schritt auch in der Kausaltheorien der minimalen
-Theorien nicht zulässig, da die Prädikate Lannung und Wientierung
+Theorien nicht möglich, da die Prädikate Lannung und Wientierung
 keiner natürlichen Eigenschaft entsprechen. Hier erkennt man deutlich,
 warum die Begriffe der projizierbaren Prädikte bei Kitcher und der
 natürlichen Eigenschaften bei Baumgartner und Grasshoff zusammen
 fallen müssen, damit die These dieser Arbeit gilt, obwohl die beiden
 Begriffe auf komplett verschiedenen Anschauungen der Wissenschaft
-aufbauen. Es sind nämlich genau dies die Bedingungen, welche den Grad
+aufbauen. Es ist nämlich genau dies die Bedingung, welche den Grad
 der Vereinheitlichung, respektive der Minimalisierung, überhaupt
-beschränken. Sobald man eine Vereinheitlichung/Minimalisierung auf der
+beschränkt. Sobald man eine Vereinheitlichung/Minimalisierung auf der
 einen Seite zulässt, auf der anderen jedoch nicht, in dem z.B. Lannung
 und Wientierung zwar projizierbar sind, aber nicht natürlichen
 Eigenschaften entsprechen, decken sich die minimalen Theorien einer
