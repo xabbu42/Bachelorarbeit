@@ -1114,7 +1114,7 @@ Mengen von Argumentmustern zulassen, enständen folgende Probleme:
 
 Lässt man die Bedingung fallen, in (C1) seien nur echt injektive
 Funktionen zugelassen, und beschränkt sich zudem auf Mengen, welche
-keine nach Stringenz vergleichbare Argumentmuster enthalten, erhält
+keine nach Stringenz vergleichbare Argumentmuster enthalten[^str], erhält
 man die von mir verwendete nicht strikte Ordnung $\leq_C$. $\leq_C$
 ist dann nämlich trivialerweise reflexiv, wie wir im Punkt 1 oben
 gesehen haben, und der selbe Transitivitätsbeweis funktioniert immer
@@ -1134,6 +1134,16 @@ solchen Argumentmuster und $g$ ist die Umkehrfunktion von $f$, d.h. $g
 gleich viele Elemente und es gilt jeweils $p = g \circ f(p) \leq_S f(p)
 \leq_S p$, woraus $p = f(p)$ folgt. $\leq_C$ ist also symmetrisch.
 
+[^str]: Dies ist legitim, weil Mengen von Argumentmuster $U$, welche
+mehrere nach Stringenz vergleichbare Argumentmuster $p \leq_S q$
+enthalten, immer weniger gut Vereinheitlicht sind, als die selben
+Mengen von Argumentmuster $V = U - \{q\}, in der das stringentere
+Argumentmuster $q$ weggelassen wird. Die Funktion $f: V \ra U$, welche
+jedes Argumentmuster auf sich selbst abbildet, ist dann nämlich echt
+injektiv und erfüllt die Bedingungen von (C1). Zudem sind die
+Instanzen $I(q)$ von $q$ in den Instanzen $I(p)$ von $p$ enthalten,
+woraus auch folgt, dass die gleiche Systematisierunge $S$ von $U$ und
+$V$ generiert wird.
 
 Literatur
 =========
