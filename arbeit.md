@@ -33,14 +33,14 @@ problematische Konzepte zurückgreifen, hat aber vorerst einige Mühe,
 die Probleme der Asymmetrie und der irrelevanten Faktoren angemessen
 zu behandeln [@Kitcher1989, 420, 459].
 
-Wie wir bereits in der Einleitung gesehen haben, bevorzugt Kitcher
-selbst den zweiten Weg. Er will also auf den Rückgriff auf Kausalität
-verzichten und aufzeigen, wie die Probleme der Asymmetrie und der
-irrelevanten Faktoren durch das Konzept der Vereinheitlichung gelöst
-werden können [@Kitcher1989, TODO:430]. Kitcher vermutet jedoch einen
-engen Zusammenhang zwischen Vereinheitlichung und Kausalität. Er
-denkt, dass sein Programm der Erklärung durch Vereinheitlichung zur
-Kenntnis der kausalen Abhängigkeiten der Welt führt:
+Wie wir bereits gesehen haben, bevorzugt Kitcher selbst den zweiten
+Weg. Er will also auf den Rückgriff auf Kausalität verzichten und
+aufzeigen, wie die Probleme der Asymmetrie und der irrelevanten
+Faktoren durch das Konzept der Vereinheitlichung gelöst werden können
+[@Kitcher1989, TODO:430]. Kitcher vermutet jedoch einen engen
+Zusammenhang zwischen Vereinheitlichung und Kausalität. Er denkt, dass
+sein Programm der Erklärung durch Vereinheitlichung zur Kenntnis der
+kausalen Abhängigkeiten der Welt führt:
 
 > I have been trying to show that we can make sense of scientific
 > explanation and our view of the causal structure of nature without
@@ -66,8 +66,8 @@ These
 \label{These}
 
 Gegeben meine Interpretation von Kitchers Programm, stellen sich
-direkt die folgenden zwei Fragen.  Es ist wichtig, diese Fragen zu
-unterscheiden.
+direkt die folgenden zwei Fragen, die zum genauen Verständniss der
+These dieser Arbeit unbedingt unterschieden werden müssen.
 
 1. Wird in einer kausalen Welt die kausale Struktur tatsächlich durch
    die am besten vereinheitlichte Theorie erfasst?
@@ -117,11 +117,12 @@ Die Kausalitätstheorie der minimalen Theorien ist eine
 Regularitätstheorie der Kausalität. Das bedeutet, Kausalität wird
 nicht anhand der Eigenschaften einzelner partikulären Ereignissen
 definiert, sondern anhand logischer Regelmässigkeiten, welche zwischen
-Ereignisstypen bestehen. Diese Vorgehensweise hat den Vorteil eine
-empirische Definition der Kausalität zu liefern. Deshalb bieten sich
-Regularitätstheorien der Kausalität auch besonders für ihre Anwendung
-in Kitchers Programm an, in dem ja ebenfalls eine empirische
-Definition von Kausalität angestrebt wird.
+Ereignisstypen bestehen [vgl. @Baumgartner2004, 81,169]. Diese
+Vorgehensweise hat den Vorteil eine empirische Definition der
+Kausalität zu liefern. Deshalb bieten sich Regularitätstheorien der
+Kausalität auch besonders für ihre Anwendung in Kitchers Programm an,
+in dem ja ebenfalls eine empirische Definition von Kausalität
+angestrebt wird [@Kitcher1989, TODO].
 
 Die minimale Theorie einer Wirkung $W$ ist eine Liste von
 Ereignisbündel, welche folgende zwei Eigenschaften erfüllt:
@@ -129,13 +130,14 @@ Ereignisbündel, welche folgende zwei Eigenschaften erfüllt:
 1. Jedes einzelne Bündel ist minimal hinreichend für die Wirkung
    $W$. Das heisst, auf jede Instanz des Bündels folgt eine Instanz
    der Wirkung, und dies gilt nicht mehr sobald ein beliebiger
-   Ereignistyp aus dem Bündel entfernt wird.
+   Ereignistyp aus dem Bündel entfernt wird [@Baumgartner2004,
+   103,104].
 
 2. Die Liste der Bündel insgesamt ist minimal notwendig für die
    Wirkung $W$. Das heisst, jeder Instanz der Wirkung $W$ geht eine
    Instanz mindestens eines Ereignisbündel aus der Liste voraus, und
    dies gilt nicht mehr, sobald ein beliebiges Ereignisbündel aus der
-   Liste entfernt wird.
+   Liste entfernt wird [@Baumgartner2004, 104,105]
 
 Ein Faktor $A$ ist genau dann direkt kausal relevant für eine Wirkung
 $W$, wenn er in der minimalen Theorie von $W$ enthalten ist. Er ist
@@ -144,7 +146,7 @@ Kette von Faktoren $B_1, ..., B_n$ gibt, so dass $B_i$ jeweils direkt
 kausal relevant für $B_{i+1}$ ist, wobei $B_1 = A$ und $B_n = W$ ist.
 Schlussendlich ist ein Faktor $A$ kausal relevant für eine Wirkung
 $W$, wenn $A$ entweder direkt oder indirekt kausal relevant für diese
-Wirkung ist.
+Wirkung ist [@Baumgartner2004, 105].
 
 @Baumgartner2004 [106 ff] führt folgende Notation für die minimale
 Theorie einer Wirkung $W$ ein: $ABX_1 \vee CDX_2 \vee Y \Ra W$.
@@ -191,10 +193,9 @@ TODO]. Durch das Prinzip der persistenten Relevanz [@Baumgartner2004,
 69] wird sichergestellt, dass der Begriff der Kausalität selber,
 welcher sowohl direkte als auch indirekte Kausalität zusammenfasst,
 wieder unabhängig von der begrifflichen Analyse sein muss. Diese
-Unterscheidung ist notwendig, da die im folgenden Dargestellten
-minimalen Theorien nur direkte Kausalität erfassen können und
-indirekte Kausalität deshalb auf direkte Kausalität aufbauend
-definiert werden muss.
+Unterscheidung ist notwendig, da minimale Theorien nur direkte
+Kausalität erfassen können und indirekte Kausalität deshalb auf
+direkte Kausalität aufbauend definiert werden muss.
 
 
 Kitchers Vereinheitlichungstheorie
@@ -279,9 +280,10 @@ mehrere gemeinsame Eigenschaften auszeichnen.
 Kitcher gibt keine abschliessende Beschreibung von projizierbaren
 Prädikaten. Wir wissen jedoch, dass die Unterscheidung von
 projizierbaren und nicht-projizierbaren Prädikaten relativ zu einer
-bestimmten Sprache $L$ ist [@Kitcher1989, TODO], und dass im
+bestimmten Sprache $L$ ist [@Kitcher1989, TODO, 482], und dass im
 allgemeinen Konjunkte und Disjunkte von projizierbaren Prädikaten
-nicht wieder ein projizierbares Prädikat ergeben [@Kitcher1989, TODO].
+nicht wieder ein projizierbares Prädikat ergeben [@Kitcher1989, TODO,
+482].
 
 Die Instanzen von Argumentmuster sind deduktive Argumente. Kitcher
 verteidigt diese Idealisierung, die er *deductive chauvinism* nennt,
@@ -296,11 +298,12 @@ Die im folgenden gegebene Version von Kitchers comparativen
 Vereinheitlichungsbegriffs (C) entspricht nicht genau Kitchers eigenen
 Darstellung. Nach Kitcher selber ist Prinzip (C) nämlich asymmetrisch
 und transitiv, also eine *strikte* partielle Ordnung [@Kitcher1989,
-479]. Im Gegensatz dazu fasse ich (C) hier als nicht strikt
+479]. Im Gegensatz dazu fasse ich (C) hier nicht als strikt
 auf[^part]. Der Vorteil von Kitchers Darstellung ist, dass Kitcher es
 vermeidet Equivalenzbedingungen für Argumentmuster und darauf
-aufbauend für Mengen von Argumentmuster festzulegen. Dafür lässt sich
-Prinzip (O) mit einer nicht strikten Ordnung einfacher formulieren.
+aufbauend für Mengen von Argumentmuster festzulegen. Auf der anderen
+Seite lässt sich Prinzip (O) mit einer nicht strikten Ordnung
+einfacher formulieren.
 
  Im Anhang befindet sich eine genauere Betrachtung dieser Prinzipien
 und Beweise für die im folgenden, von Kitcher übernommenen Behauptung
@@ -350,7 +353,7 @@ Grenze zu je zwei beliebigen Mengen von Argumentmustern existiert. Das
 heisst, gegeben zwei solcher Mengen $U$ und $U'$, existiert eine, oder
 mehrere, Mengen von Argumentmustern $U^*$, so dass sowohl $U \leq_C
 U^*$ und $U' \leq_C U^*$ gilt, wobei $A \leq_C B$ dafür steht, dass
-$A$ nach Prinizip (C) weniger vereinheitlicht ist als $B$.[^latt]
+$A$ nach Prinizip (C) höchstens so vereinheitlicht ist wie $B$.[^latt]
 
 Dies ist trivialerweise gegeben, falls $U$ und $U'$ vergleichbar sind,
 in dem wir $U^* = max(U,U')$ setzen. Falls $U$ und $U'$ jedoch nicht
@@ -442,43 +445,44 @@ trivialisiert werden können, bauen sie auf einer komplett
 verschiedenen Ansicht über wissenschaftliche Erkenntnis auf.
 
 Baumgartner und Grasshof's Beschreibung von natürlichen Eigenschaften
-impliziert stark eine Sichtweise des wissenschaftlichen
-Realismus. Demnach bezeichnen die von der Wissenschaft verwendeten
-Prädikate real existierende Dinge in der Welt. Umgekehrt ist ein
-Prädikat nur dann zulässig, wenn es tatsächlich einer unabhängig davon
-existierende Eigenschaft in der Welt entspricht. Alte in der
-Wissenschaft verwendete Prädikate werden aufgegeben, weil ein
-Erkenntnisgewinn stattfindet, wonach angeommene reale Eigenschaften
-tatsächlich ohne Inhalt sind. Analog werden neue Prädikate eingeführt,
-weil neue Aspekte der realen Welt *entdeckt* werden.
+[@Baumgartner2004, 38--39] impliziert die Sichtweise des
+wissenschaftlichen Realismus. Demnach bezeichnen die von der
+Wissenschaft verwendeten Prädikate real existierende Dinge in der
+Welt. Umgekehrt ist ein Prädikat nur dann zulässig, wenn es
+tatsächlich einer unabhängig davon existierende Eigenschaft in der
+Welt entspricht. Alte in der Wissenschaft verwendete Prädikate werden
+aufgegeben, weil ein Erkenntnisgewinn stattfindet, wonach angenommene
+reale Eigenschaften tatsächlich ohne Inhalt sind. Analog werden neue
+Prädikate eingeführt, weil neue Aspekte der realen Welt *entdeckt*
+werden.
 
 Bei Kitcher dagegen sind projizierbare Prädikate abhängig von einer
 bestimmten Sprache $L$. Diese Sprache kann und wird von den
 Wissenschaftler jedoch abgeändert und dadurch ändern sich auch, welche
 Prädikate projizierbar sind und welche nicht. Begründet wird eine
 solche Änderung aber nicht als eine Anpassung an die Realität, sondern
-durch interne Eigenschaften der Sprache und insbesondere der
-Darstellung der gegenwärtigen Theorien in dieser Sprache. Im Gegensatz
-zur Sichtweise des wissenschaftlichen Realismus ist Kitcher
-wahrscheinlich Instrumentalist und demnach strebt bei ihm die
-Wissenschaft eine empirisch ädaquate Theorie an, kann dabei aber eine
-beliebige Sprache verwenden.
+durch die erklärende Kraft der neuen Sprache und der darin
+formulierten Theorien [@Kitcher1989, 488].  Im Gegensatz zur
+Sichtweise des wissenschaftlichen Realismus ist Kitcher wahrscheinlich
+Instrumentalist und demnach strebt nach ihm die Wissenschaft eine
+empirisch ädaquate Theorie an, kann dabei aber eine beliebige Sprache
+verwenden.
 
 Wesentlich für das Ziel dieser Arbeit ist, dass trotz der komplett
 verschiedenen Hintergründe dieser Begriffe, dies für die Definition
 von Kausalität auf der einen Seite und die Definition von
-Vereinheitlichung auf der anderen Seite nicht wesentlich ist. Weder
-Baumgartner und Grasshoff noch Kitcher benutzen in ihren Theorien
-spezifische Eigenschaften der ausgezeichneten Prädikate. Wesentlich
-ist nur, dass es eine Menge von ausgezeichneten Prädikaten gibt, und
-Konjuktionen und Disjunktionen von diesen Prädikaten im allgemeinen
-nicht mehr derart ausgezeichnet sind.
+Vereinheitlichung auf der anderen Seite nicht benutzt wird. Weder
+Baumgartner und Grasshoff noch Kitcher greifen in ihren Theorien auf
+spezifische Eigenschaften der ausgezeichneten Prädikate zurück. Sie
+benutzen nur, dass es eine Menge von ausgezeichneten Prädikaten gibt,
+und Konjuktionen und Disjunktionen von diesen Prädikaten im
+allgemeinen nicht mehr derart ausgezeichnet sind.
 
 Für diese Arbeit gehen ich deshalb davon aus, dass sich diese Begriffe
-exakt decken, das heisst, ein Prädikat ist genau dann projizierbar,
+exakt decken. Das heisst, ein Prädikat ist genau dann projizierbar,
 wenn es einer natürlichen Eigenschaft entspricht. Dies ist deshalb
 zulässig, weil es immer möglich ist, minimale Theorien anhand von
-projizierbaren Prädikate in einer beliebigen Sprache $L$ zu
+projizierbaren Prädikaten in einer beliebigen Sprache $L$ zu
 betrachten, respektive Vereinheitlichung in einer ausgezeichneten
 Sprache $L_N$, in der genau projizierbare Prädikate für alle
 natürlichen Eigenschaften existieren.
@@ -532,8 +536,8 @@ Instanzen dieser beiden Argumentmuster sehen dann z.B. so aus:
 
 Dass diese Beispiele korrekt sind, und nach Kitchers
 Vereinheitlichungstheorie mit unseren Voraussetzungen kausale
-Argumentmuster so und nicht anders aussehen müssen, will ich versuchen
-im folgenden zu zeigen. Insbesondere will ich diese Lösung gegenüber
+Argumentmuster so und nicht anders aussehen müssen, will ich im
+folgenden zeigen. Insbesondere will ich diese Lösung gegenüber
 folgenden falschen Varianten abgrenzen:
 
 > Jede LED, auf die ein genügend starkes Licht in einem geeigneten
@@ -623,10 +627,10 @@ müssen. Um trotzdem noch besser Vereinheitlicht zu sein, als unser
 einfacher Vorschlag, muss aber jedes Argumentmuster zusätzlich noch
 dazu dienen, Aspekte weiterer Ursachenbündel des selben Wirkungstyps
 zu erfassen, denn mehrere verschiedene Wirkungstypen zu kombinieren
-ergibt keine projizierbaren Ausfüllinstruktionen. Wenn aber nur
-Ursachen eines Bündels erfasst werden, benötigen wir mehr als ein
-Argumentmuster pro Ursachenbündel, und erhalten damit eine schlechter
-vereinheitlichte Theorie.
+ergibt im allgeimeinen keine projizierbaren Ausfüllinstruktionen. Wenn
+aber nur Ursachen eines Bündels erfasst werden, benötigen wir mehr als
+ein Argumentmuster pro Ursachenbündel, und erhalten damit eine
+schlechter vereinheitlichte Theorie.
 
 Es ist sehr unwahrscheinlich, dass eine solche Konstruktion
 tatsächlich mit projizierbaren Prädikaten möglich ist. Aber sie ist
@@ -671,7 +675,7 @@ darin übereinstimmen, welche Faktoren denn nun irrelevant sind.
 3. Ein Argumentmuster kann nicht mehrere vollständige Ursachenbündel
    enthalten.
 
-Dieser Punkt hängt vollständig von der angesprochenen Bedingung an,
+Dieser Punkt hängt vollständig von der angesprochenen Bedingung ab,
 dass nur projizierbare Prädikate verwendet werden dürfen. Zuerst
 einmal formuliert Kitcher seine Argumentmuster, derart, dass es
 jeweils immer das ganze Argumentmuster instanziert werden muss. Das
@@ -713,7 +717,7 @@ minimalen Theorien. Die minimalen Theorie zum Leuchten von LED's: $SO
 \vee LW \Ra W$ könnte man nämlich zu einer kleineren minimalen Theorie
 $AB \Ra W$ vereinfachen, in dem wir neue Prädikate $A$ und $B$
 einführen, welche extensional mit $S \vee L$ und $O \vee W$
-übereinstimmen. Bezeichnen wir z.B. die Orientierung der Spannung und
+übereinstimmen. Bezeichnen wir also die Orientierung der Spannung und
 der Winkel des Lichteinfalls als Wientierung und fassen genügend
 starken Lichteinfall und genügend starke Spannung unter dem Begriff
 der genügend starken Lannung zusammen, so leuchten alle LEDs mit einer
@@ -725,17 +729,17 @@ sind.
 Trotzdem ist dieser Schritt auch in der Kausaltheorien der minimalen
 Theorien nicht zulässig, da die Prädikate Lannung und Wientierung
 keiner natürlichen Eigenschaft entsprechen. Hier erkennt man deutlich,
-warum die Begriffe der projizierbaren Prädikte bei Kitcher und der natürlichen
-Eigenschaften bei Baumgartner und Grasshoff zusammen fallen müssen,
-damit die These dieser Arbeit gilt, obwohl die beiden Begriffe auf
-komplett verschiedenen Anschauungen der Wissenschaft und der Welt
+warum die Begriffe der projizierbaren Prädikte bei Kitcher und der
+natürlichen Eigenschaften bei Baumgartner und Grasshoff zusammen
+fallen müssen, damit die These dieser Arbeit gilt, obwohl die beiden
+Begriffe auf komplett verschiedenen Anschauungen der Wissenschaft
 aufbauen. Es sind nämlich genau dies die Bedingungen, welche den Grad
 der Vereinheitlichung, respektive der Minimalisierung, überhaupt
 beschränken. Sobald man eine Vereinheitlichung/Minimalisierung auf der
 einen Seite zulässt, auf der anderen jedoch nicht, in dem z.B. Lannung
 und Wientierung zwar projizierbar sind, aber nicht natürlichen
 Eigenschaften entsprechen, decken sich die minimalen Theorien einer
-Wirkung nicht mehr mit dessen Argumentmustern. 
+Wirkung nicht mehr mit dessen Argumentmustern.
 
 
 Ableitung der Kausaltheorie der minimalen Theorien
@@ -745,8 +749,8 @@ Aus der gegebenen Beschreibung der kausalen Argumentmuster und
 Kitchers komparativen Vereinheitlichungsbegriff ergeben sich
 alle konstitutiven Bedingungen der minimalen Theorien.
 
-Aus dem komparativen Vereinheitlichungsbegriff von Kitcher folgt,
-dass die Argumentmuster und damit insbesondere die kausalen
+Aus dem komparativen Vereinheitlichungsbegriff von Kitcher folgt
+direkt, dass die Argumentmuster und damit insbesondere die kausalen
 Argumentmuster insgesamt minimiert werden müssen. Nehmen wir eine
 beliebige Systematisierung $S$, welche die komplette Instantiierung
 einer generierenden Menge von Argumentmustern $U$ ist [vgl
@@ -813,7 +817,7 @@ auszuschliessen. So betrachtet er das Argumentmuster, wonach alle
 verhexbaren Salze sich in Wasser auflösen. Ein solches Argumentmuster
 ist genauso stringent und hat damit die selben Instanzen und erklärt
 die selben Konsequenzen, wie das gebräuchliche Argumentmuster ohne den
-Zusatz. Kitcher erweitert also seine Theorie um das Prinzip, dass aus
+Zusatz. Kitcher erweitert deshalb seine Theorie um das Prinzip, dass aus
 Gründen der Einfachheit leere Zusätze gestrichen werden sollen. Leer
 heissen jene Zusätze, die für die Gültigkeit der Instanzen des
 Argumentmusters nicht notwendig sind.
