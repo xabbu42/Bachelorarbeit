@@ -658,7 +658,7 @@ eine weniger gut vereinheitlichte Theorie.
 
 Zweitens kann es sein, dass diese zusätzlichen Voraussetzungen immer
 gegeben sind, wenn auch das vollständige Ursachenbündel instantiiert
-ist, gerade so wie Salz immer hexable (TODO:übersetzen) ist. Dadurch
+ist, gerade so wie Salz immer verzauberbar ist. Dadurch
 ist aber die zusätzliche Voraussetzung leer und für die
 Stichhaltigkeit des Argumentmusters und ihrer Instanzen ohne
 Belang. Ein Prinzip der Einfachheit fordert, diese Voraussetzungen zu
@@ -779,14 +779,15 @@ Systematisierung $S'$ ist besser Vereinheitlicht nach (C1), da mit
 weniger, genau so stringenter, Argumentmuster die gleiche Menge von
 Konsequenzen erklärt wird.
 
-Weniger eindeutig liegt die Lage bei der Bedingung, jedes einzelne
-Ursachenbündel müsse minimal hinreichend sein. Wie wir bereits gesehen
-haben, müssen nach Kitcher alle Instanzen von Argumentmustern deduktiv
-gültig sein. Mit diesem Anspruch ergibt sich zuerst einmal ein
-ähnliches Bild, wie bei der Kausaltheorie der minimalen
-Theorien. Man versucht eine möglichst breit anwendbare Regel zum
-erklären von bestimmten Ereignissen zu erreichen, will dabei aber
-immer noch deduktiv gültige Argumente erhalten.
+Weniger eindeutig liegt die Lage bei der für minimale Theorien
+konstitutiven Bedingung, jedes einzelne Ursachenbündel müsse minimal
+hinreichend sein. Wie wir bereits gesehen haben, müssen nach Kitcher
+alle Instanzen von Argumentmustern deduktiv gültig sein. Mit diesem
+Anspruch ergibt sich zuerst einmal ein ähnliches Bild, wie bei der
+Kausaltheorie der minimalen Theorien. Man versucht eine möglichst
+breit anwendbare Regel zum erklären von bestimmten Ereignissen zu
+erreichen, will dabei aber immer noch deduktiv gültige Argumente
+erhalten.
 
 Schaut man Kitchers Argumentation jedoch genauer an, ergibt sich ein
 wesentlicher Unterschied: Kitcher stützt sich stark darauf ab,
@@ -806,15 +807,19 @@ Argumentmuster:
 Es scheint in diesem Moment schwierig zu behaupten, die
 Ausfüllinstruktionen in diesen Argumentmuster seien nicht
 projizierbar, ohne bereits vorauszusetzen, nur minimal hinreichende
-Ausfüllinstruktionen seien projizierbar. Die aufgeteilten
-Argumentmuster sind aber stringenter als das allgemeinere Argumentmuster
-ohne den irrelevanten Faktor. Dadurch ergeben sich zwei nicht
-vergleichbare Systematisierungen von $K$.
+Ausfüllinstruktionen seien projizierbar. Dies gilt insbesondere, weil
+so ähnliche Argumentmuster notwendig würden, sobald wir die Farbe des
+Lichts in der Wirkung mit einbeziehen. Die aufgeteilten Argumentmuster
+sind aber stringenter als das allgemeinere Argumentmuster ohne den
+irrelevanten Faktor, da jede Instanz von einem $p_i$ auch eine Instanz
+von $p$ selber ist. Dadurch ergeben sich zwei nicht vergleichbare
+Systematisierungen von $K$, da eine Systematisierung stringentere
+Argumentmuster und die andere weniger Argumentmuster benutzt.
 
 Kitcher sieht jedoch ein, dass die Einschrenkung auf projizierbare
 Prädikate noch nicht genügt um alle irrelevanten Faktoren
 auszuschliessen. So betrachtet er das Argumentmuster, wonach alle
-verhexbaren Salze sich in Wasser auflösen. Ein solches Argumentmuster
+verzauberbaren Salze sich in Wasser auflösen. Ein solches Argumentmuster
 ist genauso stringent und hat damit die selben Instanzen und erklärt
 die selben Konsequenzen, wie das gebräuchliche Argumentmuster ohne den
 Zusatz. Kitcher erweitert deshalb seine Theorie um das Prinzip, dass aus
@@ -824,7 +829,8 @@ Argumentmusters nicht notwendig sind.
 
 Für kausale Argumentmuster heisst dies genau, dass nur minimal
 hinreichende Bündel von Ereignisstypen als Ursachen benutzt
-werden. Die Farbe der LED ist in unserem Beispiel nicht relevant für
+werden können.
+Die Farbe der LED ist in unserem Beispiel nicht relevant für
 die Gültigkeit der Instanzen des Argumentmusters, und wir müssen
 deshalb das einfachere Argumentmuster ohne diesen Zusatz vorziehen.
 
@@ -840,18 +846,15 @@ Ergebnisse/Folgen
 =================
 
 
-Wissenschaftlicher Realismus
-----------------------------
-
-
 Kettenproblem
 -------------
 
 Eine wesentliche neue Komponente, die durch die Einbettung der
 Kausaltheorie der minimalen Theorien in Kitchers
-Vereinheitlichungstheorie entsteht, ist dass Ursachenbündel nicht nur
-relativ zu einer bestimmten Wirkung minimiert werden müssen, sondern
-insgesamt für sämtliche kausal erklärten Ereignisse.
+Vereinheitlichungstheorie entsteht, ist dass hinreichende
+Ursachenbündel nicht nur relativ zu einer bestimmten Wirkung minimiert
+werden müssen, sondern insgesamt für sämtliche kausal erklärten
+Ereignisse.
 
 Dadurch wird die von Baumgartner und Grasshoff vorgeschlagene Lösung des
 Kettenproblems  [@Baumgartner2004, 295 ff], nämlich die Regel RIF,
@@ -1031,21 +1034,23 @@ jedoch tatsächlich einfach zu zeigen, wie der folgende Beweis zeigt:
     welche den Bedingungen von (C1) genügen. Demnach gilt für die
     Anzahl Argumentmuster $|U|$ in $U$ und der Anzahl Argumentmuster
     $|U'|$ in $U'$: $|U| \leq |U'|$ und $|U'| \leq |U|$. Daraus folgt
-    aber $|U| = |U'|$ und somit sind $f$ und $g$ bijektiv (surjektiv
-    mit Kitchers gebrauch). 
+    aber $|U| = |U'|$ und somit sind $f$ und $g$ bijektiv, da
+    injektive Funktionen zwischen endlichen Mengen mit gleich vielen
+    Elementen immer bereits bijektiv sind. [^endl]
 
-    Das heisst, es gibt ein Argumentmuster $p$ in $U'$, so dass dieses
-    *echt* stringenter als $f(p)$ in $U$ und damit auch echt
-    stringenter als $g \circ f(p)$ in $U'$ ist. Es gilt demnach auch
-    $g \circ f(p) \neq p$. Betrachten wir nun die bijektive Funktion
-    $h := g \circ f$ von $U'$ nach $U'$, sowie die Folge $h^n(p)$ von
-    Argumentmustern in $U'$, welche durch wiederholtes Anwenden von $h$
-    auf $p$ entsteht. Es gilt $h^n(p) \neq h^m(p)$ für beliebige $n >
-    m > 1$, da $h$ bijektiv ist und $h^m(p)$ bereits Bild von
-    $h^{m-1}(p)$ unter $h$ ist. Zudem gilt auch $h^n(p) \neq p$, da
-    $h^n(p)$ *echt* stringenter als $p$ ist. Also bildet
-    $h^n(p)$ eine unendliche Folge in $U'$. Dies Widerspricht der
-    Voraussetzung, dass $U'$ nur endlich viele Elemente enthält.
+    Das heisst, $f$ und $g$ sind *nicht* echt injektiv, und es gibt
+    ein Argumentmuster $p$ in $U'$, so dass dieses *echt* stringenter
+    als $f(p)$ in $U$ und damit auch echt stringenter als $g \circ
+    f(p)$ in $U'$ ist. Es gilt demnach auch $g \circ f(p) \neq
+    p$. Betrachten wir nun die bijektive Funktion $h := g \circ f$ von
+    $U'$ nach $U'$, sowie die Folge $h^n(p)$ von Argumentmustern in
+    $U'$, welche durch wiederholtes Anwenden von $h$ auf $p$
+    entsteht. Es gilt $h^n(p) \neq h^m(p)$ für beliebige $n > m > 1$,
+    da $h$ bijektiv ist und $h^m(p)$ bereits Bild von $h^{m-1}(p)$
+    unter $h$ ist. Zudem gilt auch $h^n(p) \neq p$, da $h^n(p)$ *echt*
+    stringenter als $p$ ist. Also bildet $h^n(p)$ eine unendliche
+    Folge in $U'$. Dies Widerspricht der Voraussetzung, dass $U'$ nur
+    endlich viele Elemente enthält.
 
     Es gilt also nicht $U <_C U'$ und $U' <_C U$, und $<_C$ ist
     demnach asymmetrisch. Daraus folgt auch $U \nless_C U$ für
