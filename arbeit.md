@@ -87,14 +87,14 @@ Ereignisses. [^vok]
     heisst Ereignisse werden in einem sehr allgemeinen Sinn
     aufgefasst, welcher Zustände und Zustandveränderunge
     gleichermassen miteinbezieht. Zudem kann sich je nach Kontext der
-    Begriff Ereigniss sowohl auf in Raum und Zeit lokalisierbare,
-    singuläre Ereignisse beziehen, wie auf Ereignisstypen, welche auf
+    Begriff Ereignis sowohl auf in Raum und Zeit lokalisierbare,
+    singuläre Ereignisse beziehen, wie auf Ereignistypen, welche auf
     verschiedene singuläre Ereignisse zutreffen und deshalb nicht in
     Raum und Zeit lokalisierbar sind. Der Begriff Faktor bezieht sich
-    jedoch ausschliesslich auf Ereignisstypen.
+    jedoch ausschliesslich auf Ereignistypen.
 
     Ein Bündel ist eine Liste mehrerer logisch unabhängiger
-    Ereignisstypen, welche zusammen eine komplexe Ursache bilden. Das
+    Ereignistypen, welche zusammen eine komplexe Ursache bilden. Das
     heisst, die Instanzen eines Ursachenbündel sind Koinzidenzen [vgl
     @Baumgartner2004, 44--46] aller Ereignistypen im Bündel, also
     Instanzen der gegebenen Ereignistypen, welche in geeigneter
@@ -135,7 +135,7 @@ Die Kausalitätstheorie der minimalen Theorien ist eine
 Regularitätstheorie der Kausalität. Das bedeutet, Kausalität wird
 nicht anhand der Eigenschaften einzelner singulären Ereignissen
 definiert, sondern anhand logischer Regelmässigkeiten, die zwischen
-Ereignisstypen bestehen [vgl. @Baumgartner2004, 81,169]. Diese
+Ereignistypen bestehen [vgl. @Baumgartner2004, 81,169]. Diese
 Vorgehensweise hat den Vorteil eine empirische Definition der
 Kausalität zu liefern. Deshalb bieten sich Regularitätstheorien der
 Kausalität auch besonders für ihre Anwendung in Kitchers Programm an,
@@ -178,7 +178,7 @@ diese Variablen weglassen. Wir gehen also von einem perfekten
 Wissensstand aus, in dem wir unbekannte weitere kausal relevanten
 Faktoren ausschliessen können.
 
-In der Kausalitätstheorie der minimalen Theorien können Ereignisstypen
+In der Kausalitätstheorie der minimalen Theorien können Ereignistypen
 nicht beliebig extensional definiert werden. Das heisst, man kann
 nicht einer beliebigen Menge von Ereignistokens einen Ereignistyp
 zuordnen. Vielmehr muss jedem Ereignistyp eine natürliche Eigenschaft
@@ -191,7 +191,7 @@ projizierbare Prädikate verwendet werden dürfen.
 Zudem können Ereignistokens nicht beliebige Teilmengen der Welt
 darstellen, sondern müssen sowohl räumlich als auch zeitlich
 lokalisierbar sein [@Baumgartner2004, 37]. Diese Einschränkung
-überträgt sich natürlich auf Ereignisstypen, die demnach nur auf
+überträgt sich natürlich auf Ereignistypen, die demnach nur auf
 räumlich und zeitlich lokalisierbare Ereignisse zutreffen dürfen.
 Demnach können von einander entfernte Ereignisse wie z.B.  das Senden
 von Radiosignalen von einer Antenne und das Einschalten eines Radios
@@ -585,7 +585,7 @@ Argumentmuster die einzig richtigen nach der Theorie Kitchers sind:
 
 In einer starken Fassung unserer Voraussetzung folgt diese Aussage
 direkt. Wenn wir nämlich davon ausgehen, dass es nicht genügt, kausale
-Relevanzen zwischen Ereignisstypen aufzuzählen, um die kausale
+Relevanzen zwischen Ereignistypen aufzuzählen, um die kausale
 Struktur der Welt vollständig zu erfassen, sondern es vielmehr auch
 notwendig ist, zusammengehörende Ursachenbündel zu beschreiben.
 
@@ -659,7 +659,7 @@ kausale Struktur der Welt erfassen.
 
 2. Ein Argumentmuster kann neben den tatsächlichen Ursachentypen keine
    zusätzlichen Voraussetzungen enthalten. Dies betrifft sowohl
-   weitere Ereignisstypen, als auch andere Begriffe, die nicht in
+   weitere Ereignistypen, als auch andere Begriffe, die nicht in
    kausalen Zusammenhängen stehen.
 
 @Kitcher1989 [482--484] hat den Anspruch, mit seiner Erklärungstheorie
@@ -873,7 +873,7 @@ auf der allgemeinsten Ebene immer noch als Prämisse steht, ohne dass
 diese für die Gültigkeit der Argumentation notwendig wäre.
 
 Für kausale Argumentmuster bedeutet das aber, dass nur minimal
-hinreichende Bündel von Ereignisstypen als Ursachen benutzt werden
+hinreichende Bündel von Ereignistypen als Ursachen benutzt werden
 können *solange keine übergeordenten, allgemeinere Theorien weitere
 kausal relevanten Faktoren postulieren*. Die Farbe der LED ist in
 unserem Beispiel nicht relevant für die Gültigkeit der Instanzen des
@@ -923,7 +923,7 @@ verschiedenen Ebenen und das Prinzip der persistenten Relevanz
 fordert, dass dies auf behauptete kausale Beziehungen keinen Einfluss
 hat. Zudem können die verwendeten Begriffe der verschiedenen Ebenen
 nicht gemischt werden, da keine logischen Abhängigkeiten zwischen den
-Ereignisstypen einer Koinzidenz bestehen dürfen.
+Ereignistypen einer Koinzidenz bestehen dürfen.
 
 TODO: Gleichzeitig will er aber verhindern, dass sein Erklärungsbegriff
 voraussetzt, moderne und komplexe Theorien der Spezialwissenschaften
