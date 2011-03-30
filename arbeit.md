@@ -937,6 +937,30 @@ involvierten Chemie und Physik, unnötige Zusätze wegzulassen
 Ergebnisse/Folgen
 =================
 
+Wissenschaftlicher Realismus und Instrumentalismus
+--------------------------------------------------
+
+Wie wir bereits mehrfach gesehen haben, gehen sowohl Kitcher wie auch
+Baumgartner und Grasshoff von einer Menge von ausgezeichneten
+Prädikaten aus, um gewisse logische Spielereien und Trivialisierungen
+zu vermeiden. Sie begründen diese ausgezeichneten Prädikate jedoch
+sehr verschieden. Inbesondere behandelt Kitcher gesondert die
+Möglichkeit, dass durch eine neue wissenschaftliche Sprache $L'$ sich
+diese Menge verändern kann, respektive das mehrere alternative Mengen
+von ausgezeichneten Prädikaten existieren, und die wissenschaftliche
+Gemeinschaft sich für eine solche Menge entscheiden muss
+[vgl. @Kitcher1989, 488ff].
+
+Durch die in dieser Arbeit gezeigten Zusammenhänge sollte es möglich
+sein, Kitchers Behandlung von den sich dabei ergebenden Problemen auf
+eine Kausaltheorie der minimalen Theorien aufgebaut auf projizierbare
+Prädikate zu übertragen. Diese wird dadurch interessant für Personen,
+welche die Vorstellung von natürlichen Prädikaten nicht teilen. Selbst
+wenn man diese Vorstellung akzeptiert, verändert sich das Wissen
+darüber, was natürliche Eigenschaften sind. Kitchers Ausführungen
+könnten deshalb aufschlussreich zur Behandlung solcher radikaler
+kausaler Schlüsse sein.
+ 
 Kettenproblem
 -------------
 
@@ -951,13 +975,107 @@ Dadurch wird die von Baumgartner und Grasshoff vorgeschlagene Lösung des
 Kettenproblems  [@Baumgartner2004, 295 ff], nämlich die Regel RIF,
 wonach Faktorenverschränkungen immer kausal zu interpretieren sind
 [@Baumgartner2004, 306], in die Kausaltheorie der minimalen Theorien
-eingebettet.
+eingebettet. 
 
-Kausalketten benötigen nämlich immer weniger Ursachenbündel als zu diesen
-Kausalketten äquivalente Epiphänomene. Faktorenverschränkungen kausal
-zu interpretieren, d.h. als Kausalketten und nicht als Epiphänomene,
-führt also wiederum zu einer besser vereinheitlichten Theorie nach
-Kitcher.
+@Baumgartner2004 definieren verschränkte Faktoren
+folgendermassen: 
+
+> Zwei Faktoren $P$ und $Q$ sind genau dann miteinander
+> verschränkt, wenn sämtliche Faktoren minimal hinreichender
+> Bedingungen von $P$ auch in minimal hinreichenden Bedingungen von
+> $Q$ enthalten sind oder wenn sämtliche Faktoren minimal
+> hinreichender Bedingungen von $Q$ auch in minimal hinreichenden
+> Bedingungen von $P$ enthalten sind.
+
+Dieser Fall tritt immer auf, wenn $Q$ durch $P$ respektive $P$ durch
+$Q$ verursacht wird. Neben der Kausalkette haben jedoch auch
+verschränkte Epiphänomene genau die gleiche Koinzidenzgruppe. Das
+heisst, verschränkte Epiphänomene und Kausalketten lassen sich mit den
+bisherigen Mitteln der minimalen Theorien nicht unterscheiden.
+Dies bezeichnen @Baumgartner2004 [300] als das Kettenproblem.
+
+Sie lösen dieses Problem durch die Regel RIF, wonach
+Faktorenverschränkungen immer kausal zu interpretieren sind
+[@Baumgartner2004, 306], also als kausale Kette und nicht als
+verschränktes Epiphänomen. Das heisst, falls auf sämtliche Instanzen
+eines Ereignissbündels immer auch eine Instanz sowohl von $P$ als auch
+von $Q$ folgt, dann ist wenn möglich eine minimale Theorie von $Q$
+vorzuziehen, nach der $P$ kausal relevant ist für $Q$, nicht jedoch
+die Ursachen von $P$. Dies ist genau dann möglich, wenn alle
+hinreichenden Ursachenbündel von $P$ auch hinreichende Ursachenbündel
+von $Q$ sind, und die beiden Faktoren $P$ und $Q$ damit verschränkt
+sind.
+
+Dieses zusätzliche Prinzip ist notwendig, weil in der Kausaltheorie
+der minimalen Theorien nur die verschiedenen alternativen
+Ursachenbündel zu *einem bestimmten* Wirkungstyp minimiert werden
+müssen. Wird die Kausaltheorie der minimalen Theorien jedoch aus
+Kitchers Vereinheitlichungstheorie abgeleitet, müssen alle
+Kausalbeziehungen insgesamt minimiert werden. Das heisst, wie wir
+bereits gesehen haben, dass alle nicht minimal notwendige Listen von
+Ursachenbündel zu einem bestimmten Wirkungstyp ausgeschlossen
+sind. Das heisst aber auch, dass es ausgeschlossen ist, verschränkte
+Epiphänomene nicht kausal zu interpretieren.
+
+In der einfachsten Form dieses Problems betrachten wir genau 3
+Faktoren $A$, $B$ und $C$, so dass $A$ kausal relevant ist für $B$ und
+$B$ wiederum kausal relevant für $C$. Daraus ergeben sich die
+minimalen Theorien $AX_1 \vee Y_B \Ra B$ und $BX_2 \vee Y_C \Ra
+C$. Die hier als kausale Kette dargestellte Situation ist jedoch
+empirisch nicht zu unterscheiden von einem verschränkten Epiphänomen
+mit folgenden ebenfalls minimalen Theorien: $AX_1 \vee Y_B \Ra B$,
+$AX_1X_2 \vee X_2Y_B \vee Y_C \Ra C$. In dem Fall sind $B$ und $C$
+Epiphänomene von $A$ und zusätzlich noch verschränkt, da alle
+Ursachenfaktoren in der minimalen Theorie von $B$ auch in der
+minimalen Theorie von $C$ vorkommen. Um diese alternative Situation
+jedoch in Argumentmuster zu erfassen, benötigt man insgesamt 3
+Argumentmuster, wenn man die zusätzlichen Variablen für unbekannte
+Kausalfaktoren ausser acht lässt. Jeweils ein Argumentmuster um
+Instanzen von $C$ aus Instanzen von $A$ oder $B$ abzuleiten, und ein
+drittes um Instanzen von $B$ aus Instanzen von $A$ abzuleiten.
+
+Nach Kitchers ist demnach die erste Beschreibung der Situation
+vorzuziehen, da mit nur zwei Argumentmuster die gleiche Menge von
+Konsequenzen erklärt wird, solange wir zwei vergleichbare aber
+höchstens so stringente Argumentmuster in der zweiten
+Beschreibung finden. Dies ist möglich, da Stringenz extensional
+definiert ist und es deshalb genügt, wenn in der Welt sich die
+Ausfüllinstruktionen entsprechend überschneiden, selbst wenn dies
+nicht logisch aus den benutzten Formulierungen folgt.
+
+Da aber immer wenn $B$ auftritt, auch eine Ursache von $B$ auftretten
+muss, also entweder $AX_1$ oder $Y_B$ gegeben ist, ist das
+Argumentmuster $BX_2 \ra C$ genau so stringent wie das
+Argumentmuster $AX_1X_2 \ra C$ in der ersten Beschreibung, und das
+Argumentmuster $AX_1 \ra B$ genau so stringent wie das gleiche
+Argumentmuster $AX_1 \ra B$ in der zweiten Beschreibung.
+
+Dies gilt für alle, nach dem Algorithmus von @Baumgartner2004
+[297,298], umgeformten Kausalgraphen. Das Resultat des Algorithmus
+wird immer insgesamt mehr kausale Beziehungen behaupten, als der
+ursprüngliche Graph, welcher Kausalketten benutzt. Da die beiden
+Graphen jedoch empirisch equivalent sind, werden die jeweiligen
+Argumentmuster jeweils immer nach Stringenz vergleichbar sein und der
+Graph mit Kausalketten deshalb immer besser vereinheitlicht als der
+entsprechende Graph ohne Kausalketten.
+
+Konklusion
+==========
+
+In dieser Arbeit habe ich mehrere starke Ähnlichkeiten zwischen
+Kitchers Vereinheitlichungstheorie der Erklärung und der Kausaltheorie
+der minimalen Theorien von Baumgartner und Grasshoff gezeigt. Mit
+einer geeigneten Interpretation von Kitchers Vereinheitlichungstheorie
+und einigen Voraussetzungen über Kausalität lässt sich zudem mit diesen
+Ähnlichkeiten die Kausaltheorie der minimalen Theorien direkt aus
+Kitchers Vereinheitlichungstheorie ableiten, indem Ursachen mit
+erklärenden Ereignissen gleichgesetzt werden.
+
+Dadurch wird die von Baumgartner und Grasshoff zusätzlich postulierte
+Auflösung des Kettenproblems auf die selbe Grundlage gestellt, wie die
+minimalen Theorien selbst. In beiden Fällen geht es darum, möglichst
+wenig kausale Argumentmuster zu verwenden, um möglichst viele bekannte
+Ereignisse der Welt zu erklären.
 
 Math. Beweise
 =============
