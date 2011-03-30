@@ -294,12 +294,12 @@ aufgefasst werden [@Kitcher1989, 449]. Daraus ergibt sich auch, dass
 aus Kitchers Vereinheitlichungstheorie keine probabilistische
 Kausaltheorie folgen kann [vgl @Baumgartner2004, 122 ff].
 
-Die im folgenden gegebene Version von Kitchers comparativen
-Vereinheitlichungsbegriffs (C) entspricht nicht genau Kitchers eigenen
+Die im folgenden gegebene Version von Kitchers komparativem
+Vereinheitlichungsbegriff (C) entspricht nicht genau Kitchers eigenen
 Darstellung. Nach Kitcher selber ist Prinzip (C) nämlich asymmetrisch
 und transitiv, also eine *strikte* partielle Ordnung [@Kitcher1989,
 479]. Im Gegensatz dazu fasse ich (C) hier nicht als strikt
-auf[^part]. Der Vorteil von Kitchers Darstellung ist, dass Kitcher es
+auf[^part]. Der Vorteil von Kitchers Darstellung ist, dass er es
 vermeidet Equivalenzbedingungen für Argumentmuster und darauf
 aufbauend für Mengen von Argumentmuster festzulegen. Auf der anderen
 Seite lässt sich Prinzip (O) mit einer nicht strikten Ordnung
@@ -916,7 +916,6 @@ involvierten Chemie und Physik, unnötige Zusätze wegzulassen
 
 Ergebnisse/Folgen
 =================
-
 
 Kettenproblem
 -------------
