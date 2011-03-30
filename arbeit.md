@@ -454,7 +454,7 @@ Projizierbare Prädikate und natürliche Eigenschaften
 
 Wie wir bereits gesehen haben, lassen sowohl die Kausaltheorie der
 minimalen Theorien wie auch Kitchers Vereinheitlichungstheorie nicht
-beliebige extensionale Prädikate zu, sondern schränken die erlaubten
+beliebige Prädikate zu, sondern schränken die erlaubten
 Prädikate ein, entweder auf solche die natürlichen Eigenschaften
 entsprechen bei Baumgartner und Grasshoff, oder auf sogenannte
 projizierbare Prädikate bei Kitcher. Während diese Begriffe einen sehr
@@ -482,10 +482,10 @@ Prädikate projizierbar sind und welche nicht. Begründet wird eine
 solche Änderung aber nicht als eine Anpassung an die Realität, sondern
 durch die erklärende Kraft der neuen Sprache und der darin
 formulierten Theorien [@Kitcher1989, 488].  Im Gegensatz zur
-Sichtweise des wissenschaftlichen Realismus ist Kitcher wahrscheinlich
-Instrumentalist und demnach strebt nach ihm die Wissenschaft eine
-empirisch ädaquate Theorie an, kann dabei aber eine beliebige Sprache
-verwenden.
+Sichtweise des wissenschaftlichen Realismus ist Kitcher anscheinend
+eher Instrumentalist und demnach strebt nach seiner Sichtweise die
+Wissenschaft eine empirisch ädaquate Theorie an, kann dabei aber eine
+beliebige Sprache verwenden.
 
 Wesentlich für das Ziel dieser Arbeit ist, dass trotz der komplett
 verschiedenen Hintergründe dieser Begriffe, dies für die Definition
@@ -497,7 +497,7 @@ benutzen nur, dass es eine Menge von ausgezeichneten Prädikaten gibt,
 und Konjuktionen und Disjunktionen von diesen Prädikaten im
 allgemeinen nicht mehr derart ausgezeichnet sind.
 
-Für diese Arbeit gehen ich deshalb davon aus, dass sich diese Begriffe
+Für diese Arbeit gehe ich deshalb davon aus, dass sich diese Begriffe
 exakt decken. Das heisst, ein Prädikat ist genau dann projizierbar,
 wenn es einer natürlichen Eigenschaft entspricht. Dies ist deshalb
 zulässig, weil es immer möglich ist, minimale Theorien anhand von
@@ -513,8 +513,7 @@ Kausale Argumentmuster
 Um Kitchers Theorie der Vereinheitlichung auf kausal erklärbare
 Ereignisse anzuwenden, ist es entscheidend, die dazu benutzten
 Argumentmuster festzustellen. Die erste und für alle weiteren
-Argumente entscheidende These, die ich zeigen will, ist demnach die
-folgende:
+Argumente entscheidende These ist demnach die folgende:
 
 > Ein Argumentmuster, das benutzt wird um kausal erklärbare
 > Ereignisse zu erklären, besteht aus der Angabe von *genau einem*
@@ -569,9 +568,9 @@ folgenden falschen Varianten abgrenzen:
 > $\alpha$ sind diese Bedingungen erfüllt. Also leuchtet die LED in
 > $\alpha$. 
 
-> Manche LEDS an denen eine Spannung mit der richtigen Orientierung
-> liegt, leuchten. In der Situation $\alpha$ ist diese Bedingung
-> erfüllt. Die LED in $\alpha$ kann also leuchten.
+> Manche LEDS an denen eine genügend grosse Spannung liegt,
+> leuchten. In der Situation $\alpha$ ist diese Bedingung erfüllt. Die
+> LED in $\alpha$ kann also leuchten.
 
 Zuerst einmal haben wir im Kapitel \nameref{These} vorausgesetzt, dass in
 der am stärksten Vereinheitlichten Theorie $E(K)$ kausal erklärbare
@@ -621,10 +620,10 @@ Behauptung zumindest nahelegt. Wie wir nämlich bereits gesehen haben,
 müssen nach @Kitcher1989 [448] alle Instanzen eines Argumentmusters
 deduktive Ableitungen sein. Da die zu erklärende Wirkung aus einem
 unvollständigen Ursachenbündel *alleine* jedoch nicht deduktiv folgt,
-genügt ein solches nicht für ein korrektes Argumentmuster. So sind
-auch die entsprechenden Beispiele mit unvollständigen Ursachen nach
-Kitcher keine Argumentmuster, da ihre Instanzen keine deduktive
-Ableitung des zu erklärenden Ereignisses sind.
+genügt ein solches nicht für ein korrektes Argumentmuster. So ist auch
+das Beispiele mit einer unvollständigen Ursache nach Kitcher keine
+Argumentmuster, da ihre Instanzen keine deduktive Ableitung des zu
+erklärenden Ereignisses sind.
 
 Zuguterletzt könnte die selbe Wirkung mit Hilfe von mehreren
 Argumentmuster erklärt werden, die sich folgendermassen
@@ -646,7 +645,7 @@ müssen. Um trotzdem noch besser Vereinheitlicht zu sein, als unser
 einfacher Vorschlag, muss aber jedes Argumentmuster zusätzlich noch
 dazu dienen, Aspekte weiterer Ursachenbündel des selben Wirkungstyps
 zu erfassen, denn mehrere verschiedene Wirkungstypen zu kombinieren
-ergibt im allgeimeinen keine projizierbaren Ausfüllinstruktionen. Wenn
+ergibt im Allgeimeinen keine projizierbaren Ausfüllinstruktionen. Wenn
 aber nur Ursachen eines Bündels erfasst werden, benötigen wir mehr als
 ein Argumentmuster pro Ursachenbündel, und erhalten damit eine
 schlechter vereinheitlichte Theorie.
@@ -699,7 +698,7 @@ dass nur projizierbare Prädikate verwendet werden dürfen. Zuerst
 einmal formuliert Kitcher seine Argumentmuster, derart, dass es
 jeweils immer das ganze Argumentmuster instanziert werden muss. Das
 heisst, der folgende Versuch, zwei vollständige Ursachenbündel in
-einem Argumentmuster zu kombinieren ist nicht zulässig:
+einem Argumentmuster zu kombinieren, ist nicht zulässig:
 
 > Jede LED, auf die ein genügend starkes Licht in einem geeigneten
 > Winkel einfällt, *oder* an der eine genügend grosse Spannung mit der
@@ -811,7 +810,7 @@ erhalten.
 Schaut man Kitchers Argumentation jedoch genauer an, ergibt sich ein
 wesentlicher Unterschied: Kitcher stützt sich stark darauf ab,
 dass die Versuche, ein Argumentmuster $p$ in zwei Argumentmuster $p_1$
-und $p_2$ aufzuteilen, zu nicht projezierbaren Prädikaten führen. Dies
+und $p_2$ aufzuteilen, zu nicht projizierbaren Prädikaten führen. Dies
 mag bei Kitchers Beispiel der Fall sein, in dem ein Prädikat "x is
 either hexed, or is unhexed and has molecular structure NaCl."
 [@Kitcher1989, 483] benötigt wird. Aber nehmen wir unser Beispiel mit
@@ -825,17 +824,18 @@ Argumentmuster:
 
 Es scheint in diesem Moment schwierig zu behaupten, die
 Ausfüllinstruktionen in diesen Argumentmuster seien nicht
-projizierbar, ohne bereits vorauszusetzen, nur minimal hinreichende
-Ausfüllinstruktionen projizierbar sind. Dies gilt insbesondere, weil
-so ähnliche Argumentmuster notwendig würden, sobald wir die Farbe des
-Lichts in der Wirkung mit einbeziehen. Die aufgeteilten Argumentmuster
-sind aber stringenter als das allgemeinere Argumentmuster ohne den
-irrelevanten Faktor, da jede Instanz von einem $p_i$ auch eine Instanz
-von $p$ selber ist. Dadurch ergeben sich zwei nicht vergleichbare
-Systematisierungen von $K$, da eine Systematisierung stringentere
-Argumentmuster und die andere weniger Argumentmuster benutzt.
+projizierbar, ohne bereits vorauszusetzen, dass nur minimal
+hinreichende Ausfüllinstruktionen projizierbar sind. Dies gilt
+insbesondere, weil so ähnliche Argumentmuster notwendig würden, sobald
+wir die Farbe des Lichts in der Wirkung mit einbeziehen. Die
+aufgeteilten Argumentmuster sind aber stringenter als das allgemeinere
+Argumentmuster ohne den irrelevanten Faktor, da jede Instanz von einem
+$p_i$ auch eine Instanz von $p$ selber ist. Dadurch ergeben sich zwei
+nicht vergleichbare Systematisierungen von $K$, da eine
+Systematisierung stringentere Argumentmuster und die andere weniger
+Argumentmuster benutzt.
 
-Kitcher sieht jedoch ein, dass die Einschrenkung auf projizierbare
+Kitcher sieht jedoch ein, dass die Einschränkung auf projizierbare
 Prädikate noch nicht genügt um alle irrelevanten Faktoren
 auszuschliessen. So betrachtet er das Argumentmuster, wonach alle
 verzauberbaren Salze sich in Wasser auflösen. Ein solches Argumentmuster
@@ -868,7 +868,7 @@ singuläre Ereignisse mit Hilfe von hinreichenden Ursachen
 erklären. Eingeschränkt auf diese untereste Ebene scheint sich
 Kitchers Argumentation darauf zu reduzieren, dass diese Ursachen
 minimal hinreichend sein müssen. Das Problem mit dem unbenutzten
-Zusatz in Kitchers Beispiel, ist nämlich gerade, dass dieser Zusatz
+Zusatz in Kitchers Beispiel ist nämlich gerade, dass dieser Zusatz
 durch sämtliche Ebenen hindurch mitgeführt werden muss, und damit auch
 auf der allgemeinsten Ebene immer noch als Prämisse steht, ohne dass
 diese für die Gültigkeit der Argumentation notwendig wäre.
@@ -899,19 +899,20 @@ Fall im besten Fall ein Argumentmuster ausreicht um alle kausalen
 Abhängigkeiten mit Hilfe von projizierbaren Prädikaten zu
 beschreiben. Das Ziel Kitchers ist jedoch, ein empirischer Begriff von
 Vereinheitlichung und damit auch von Kausalität zu erreichen. Man kann
-deshalb davon ausgehen, dass nur empirische Begriff projizierbar
+deshalb davon ausgehen, dass nur empirische Begriffe projizierbar
 sind. Es gibt aber starke und begründete Zweifel daran, ob diese
 alternativen Kausaltheorien tatsächlich mit Hilfe von empirischen
 Begriffen formulierbar sind.
 
-Demnach werden also alle Ableitungen von Instanzen von $W$ in der
-besten Systematisierung $E(K)$ von $K$ durch eine minimal notwendige
-Menge von kausalen Argumentmustern generiert, *solange allgemeinere
-Theorien nicht solche kausalen Faktoren postulieren*. Zudem benutzt jedes
-kausale Argumentmuster genau ein minimal hinreichendes Ursachenbündel,
-um die zu erklärende Wirkung abzuleiten. Die Definitionen von Ursache
-nach der Kausaltheorie der minimalen Theorien und nach Kitchers
-Program sind also *mit unseren Voraussetzungen* exakt deckungsgleich.
+Demnach benutzt also jedes kausale Argumentmuster genau ein minimal
+hinreichendes Ursachenbündel, um die zu erklärende Wirkung abzuleiten,
+*solange allgemeinere Theorien nicht zusätzliche kausale Faktoren
+postulieren*.  Zudem werden alle Ableitungen von Instanzen von $W$ in
+der besten Systematisierung $E(K)$ von $K$ durch eine minimal
+notwendige Menge von kausalen Argumentmustern generiert.  Die
+Definitionen von Ursache nach der Kausaltheorie der minimalen Theorien
+und nach Kitchers Program sind also *mit unseren Voraussetzungen*
+exakt deckungsgleich.
 
 Die Kausaltheorie der minimalen Theorien ist durchaus in der Lage, mit
 kausalen Analysen auf verschiedenen Detailstufen umzugehen. So kann
