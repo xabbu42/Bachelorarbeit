@@ -1,5 +1,5 @@
 
-PANDOC=--standalone --smart --parse-raw --include-in-header ./header.tex --biblio literatur.bib --natbib
+PANDOC=--standalone --number-sections --smart --parse-raw --include-in-header ./header.tex --biblio literatur.bib --natbib
 
 .DELETE_ON_ERROR:
 
