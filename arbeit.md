@@ -81,7 +81,25 @@ ich werde davon ausgehen, dass die am stärksten vereinheitlichte
 Theorie der Welt sämtliche tatsächlich kausal erklärbaren Ereignisse
 durch die Angabe eines hinreichenden Bündels von Ereignissen erklärt,
 nämlich dem tatsächlichen Ursachenbündel des zu erklärenden
-Ereignisses.
+Ereignisses. [^vok]
+
+[^vok]: Ich übernehme das Vokabular von @Baumgartner2004 [36--40]. Das
+    heisst Ereignisse werden in einem sehr allgemeinen Sinn
+    aufgefasst, welcher Zustände und Zustandveränderunge
+    gleichermassen miteinbezieht. Zudem kann sich je nach Kontext der
+    Begriff Ereigniss sowohl auf in Raum und Zeit lokalisierbare,
+    singuläre Ereignisse beziehen, wie auf Ereignisstypen, welche auf
+    verschiedene singuläre Ereignisse zutreffen und deshalb nicht in
+    Raum und Zeit lokalisierbar sind. Der Begriff Faktor bezieht sich
+    jedoch ausschliesslich auf Ereignisstypen.
+
+    Ein Bündel ist eine Liste mehrerer logisch unabhängiger
+    Ereignisstypen, welche zusammen eine komplexe Ursache bilden. Das
+    heisst, die Instanzen eines Ursachenbündel sind Koinzidenzen [vgl
+    @Baumgartner2004, 44--46] aller Ereignistypen im Bündel, also
+    Instanzen der gegebenen Ereignistypen, welche in geeigneter
+    räumlicher und zeitlicher nähe zueinander stattfinden.
+
 
 In dieser Voraussetzung inbegriffen sind auch einige generelle
 Prinzipien über Kausalität, wie sie in [@Baumgartner2004, 68ff]
@@ -115,7 +133,7 @@ Minimale Theorien
 
 Die Kausalitätstheorie der minimalen Theorien ist eine
 Regularitätstheorie der Kausalität. Das bedeutet, Kausalität wird
-nicht anhand der Eigenschaften einzelner partikulären Ereignissen
+nicht anhand der Eigenschaften einzelner singulären Ereignissen
 definiert, sondern anhand logischer Regelmässigkeiten, die zwischen
 Ereignisstypen bestehen [vgl. @Baumgartner2004, 81,169]. Diese
 Vorgehensweise hat den Vorteil eine empirische Definition der
@@ -615,7 +633,7 @@ zusammensetzen:
 mehreren verschiedenen hinreichenden Ursachenbündel zur selben Wirkung.
 
 2. Weiteren Bedingungen, die nicht als Ereignisse aufgefasst werden
-können (die also nicht in Raum und Zeit lokalisierbar sind).
+können (die also z.B. nicht in Raum und Zeit lokalisierbar sind).
 
 Die zusätzlichen Bedingungen sollen dabei die Instanzen der
 Argumentmuster deduktiv gültig machen, *ohne weitere, falsche* kausale
@@ -807,7 +825,7 @@ Argumentmuster:
 Es scheint in diesem Moment schwierig zu behaupten, die
 Ausfüllinstruktionen in diesen Argumentmuster seien nicht
 projizierbar, ohne bereits vorauszusetzen, nur minimal hinreichende
-Ausfüllinstruktionen seien projizierbar. Dies gilt insbesondere, weil
+Ausfüllinstruktionen projizierbar sind. Dies gilt insbesondere, weil
 so ähnliche Argumentmuster notwendig würden, sobald wir die Farbe des
 Lichts in der Wirkung mit einbeziehen. Die aufgeteilten Argumentmuster
 sind aber stringenter als das allgemeinere Argumentmuster ohne den
@@ -845,7 +863,7 @@ Argumentationskette nicht verwendet wird, also *idle* ist.
 
 In unserem Kontext betrachten wir nur ein Level von Argumentmustern,
 nämlich kausale Argumentmuster mit Instanzen, die direkt
-partikuläre Ereignisse mit Hilfe von hinreichenden Ursachen
+singuläre Ereignisse mit Hilfe von hinreichenden Ursachen
 erklären. Eingeschränkt auf diese untereste Ebene scheint sich
 Kitchers Argumentation darauf zu reduzieren, dass diese Ursachen
 minimal hinreichend sein müssen. Das Problem mit dem unbenutzten
@@ -868,7 +886,7 @@ Ursache gibt, die für eine Ableitung der Wirkung relevant wäre,
 ausser dass die Ursache hinreichend für die Wirkung ist. Insbesondere
 lässt sich die Wirkung nicht nur mit analytischen Methoden aus der
 Ursache ableiten und gibt es auch keine Eigenschaft, wie
-z.B. Energieaustausch, die partikuläre Ereignisse als Ursachen und
+z.B. Energieaustausch, die singuläre Ereignisse als Ursachen und
 Wirkungen anderer Ereignisse auszeichnet. Diese Voraussetzung ist
 allen Regularitätstheorien gemein, und deshalb keine weitere
 Einschränkung der Resultate dieser Arbeit. Zumindest letzteres wird
