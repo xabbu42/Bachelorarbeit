@@ -33,14 +33,14 @@ problematische Konzepte zurückgreifen, hat aber vorerst einige Mühe,
 die Probleme der Asymmetrie und der irrelevanten Faktoren angemessen
 zu behandeln [@Kitcher1989, 420, 459].
 
-Wie wir bereits gesehen haben, bevorzugt Kitcher selbst den zweiten
-Weg. Er will also auf den Rückgriff auf Kausalität verzichten und
-aufzeigen, wie die Probleme der Asymmetrie und der irrelevanten
-Faktoren durch das Konzept der Vereinheitlichung gelöst werden können
-[@Kitcher1989, TODO:430]. Kitcher vermutet jedoch einen engen
-Zusammenhang zwischen Vereinheitlichung und Kausalität. Er denkt, dass
-sein Programm der Erklärung durch Vereinheitlichung zur Kenntnis der
-kausalen Abhängigkeiten der Welt führt:
+Kitcher selbst bevorzug in dieser Frage den zweiten Weg. Er will also
+auf den Rückgriff auf Kausalität verzichten und aufzeigen, wie die
+Probleme der Asymmetrie und der irrelevanten Faktoren durch das
+Konzept der Vereinheitlichung gelöst werden können [@Kitcher1989,
+430]. Kitcher vermutet jedoch einen engen Zusammenhang zwischen
+Vereinheitlichung und Kausalität. Er denkt, dass sein Programm der
+Erklärung durch Vereinheitlichung zur Kenntnis der kausalen
+Abhängigkeiten der Welt führt:
 
 > I have been trying to show that we can make sense of scientific
 > explanation and our view of the causal structure of nature without
