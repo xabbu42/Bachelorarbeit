@@ -822,25 +822,97 @@ auszuschliessen. So betrachtet er das Argumentmuster, wonach alle
 verzauberbaren Salze sich in Wasser auflösen. Ein solches Argumentmuster
 ist genauso stringent und hat damit die selben Instanzen und erklärt
 die selben Konsequenzen, wie das gebräuchliche Argumentmuster ohne den
-Zusatz. Kitcher erweitert deshalb seine Theorie um das Prinzip, dass aus
-Gründen der Einfachheit leere Zusätze gestrichen werden sollen. Leer
-heissen jene Zusätze, die für die Gültigkeit der Instanzen des
-Argumentmusters nicht notwendig sind.
+Zusatz. 
 
-Für kausale Argumentmuster heisst dies genau, dass nur minimal
-hinreichende Bündel von Ereignisstypen als Ursachen benutzt
-werden können.
-Die Farbe der LED ist in unserem Beispiel nicht relevant für
-die Gültigkeit der Instanzen des Argumentmusters, und wir müssen
-deshalb das einfachere Argumentmuster ohne diesen Zusatz vorziehen.
+Kitcher erweitert deshalb seine Theorie um das Prinzip, dass aus
+Gründen der Einfachheit redundante Prämissen oder unnötige
+Zwischenschritte gestrichen werden müssen. Kitcher wendet dieses
+Prinzip im Kontext von allgemeineren Theorien an, welche Aussagen über
+die Auflösbarkeit verschiedenster Stoffe in Wasser machen.  Ein
+solches allgemeineres und übergeordnetes Argumentmuster kann nicht
+*direkt* die Löslichkeit von verzauberbarem Salz in Wasser erklären,
+sondern nur *indirekt*, über die Löslichkeit von beliebigem Salz.
+
+In einem letzten Schritt könnte die alternative Erklärung noch
+überleben, indem man alle allgemeineren Argumentmuster wiederum mit
+dem Zusatz versieht, dass sie nur verzauberbare Substanzen
+betreffen. Das Argumentmuster mit welchem das Auflösen von verzaubertem
+Salz in Wasser erklärt wird, folgt dann wieder direkt aus einer
+chemischen Theorie über die Löslichkeit verschiedenster verzauberter
+Stoffe. Nach Kitcher kann aber ein solcher Zusatz nach dem selben
+Prinzip der Einfachheit gestrichen werden, da er in der ganzen
+Argumentationskette nicht verwendet wird, also *idle* ist.
+
+In unserem Kontext betrachten wir nur ein Level von Argumentmustern,
+nämlich kausale Argumentmuster mit Instanzen, welche direkt
+partikuläre Ereignisse mit Hilfe von hinreichenden Ursachen
+erklären. Eingeschränkt auf diese untereste Ebene scheint sich
+Kitchers Argumentation darauf zu reduzieren, dass diese Ursachen
+minimal hinreichend sein müssen. Das Problem mit dem unbenutzten
+Zusatz in Kitchers Beispiel, ist nämlich gerade, dass dieser Zusatz
+durch sämtliche Ebenen hindurch mitgeführt werden muss, und damit auch
+auf der allgemeinsten Ebene immer noch als Prämisse steht, ohne dass
+diese für die Gültigkeit der Argumentation notwendig wäre.
+
+Für kausale Argumentmuster bedeutet das aber, dass nur minimal
+hinreichende Bündel von Ereignisstypen als Ursachen benutzt werden
+können *solange keine übergeordenten, allgemeinere Theorien weitere
+kausal relevanten Faktoren postulieren*. Die Farbe der LED ist in
+unserem Beispiel nicht relevant für die Gültigkeit der Instanzen des
+Argumentmusters, weil bereits das kleinere und einfachere
+Ursachenbündel hinreichend für das Leuchten ist und man muss deshalb
+das einfachere Argumentmuster ohne diesen Zusatz vorziehen.
+
+Ich setze an dieser Stelle voraus, dass es keine Eigenschaften in der
+Ursache gibt, welche für eine Ableitung der Wirkung relevant wäre,
+ausser dass die Ursache hinreichend für die Wirkung ist. Insbesondere
+lässt sich die Wirkung nicht nur mit analytischen Methoden aus der
+Ursache ableiten und gibt es auch keine Eigenschaft, wie
+z.B. Energieaustausch, welche partikuläre Ereignisse als Ursachen und
+Wirkungen anderer Ereignisse auszeichnet. Diese Voraussetzung ist
+allen Regularitätstheorien gemein, und deshalb keine weitere
+Einschränkung der Resultate dieser Arbeit. Zumindest letzteres wird
+aber durch andere Kausaltheorien in Zweifel gezogen. 
+
+Sollte eine solche alternative Kausaltheorie überzeugen, erreicht man
+damit natürlich eine sehr stark vereinheitlichte Theorie, da in dem
+Fall im besten Fall ein Argumentmuster ausreicht um alle kausalen
+Abhängigkeiten mit Hilfe von projizierbaren Prädikaten zu
+beschreiben. Das Ziel Kitchers ist jedoch, ein empirischer Begriff von
+Vereinheitlichung und damit auch von Kausalität zu erreichen. Man kann
+deshalb davon ausgehen, dass nur empirische Begriff projizierbar
+sind. Es gibt aber starke und begründete Zweifel daran, ob diese
+alternativen Kausaltheorien tatsächlich mit Hilfe von empirischen
+Begriffen formulierbar sind.
 
 Demnach werden also alle Ableitungen von Instanzen von $W$ in der
 besten Systematisierung $E(K)$ von $K$ durch eine minimal notwendige
-Menge von kausalen Argumentmustern generiert. Zudem benutzt jedes
+Menge von kausalen Argumentmustern generiert, *solange allgemeinere
+Theorien nicht solche kausalen Faktoren postulieren*. Zudem benutzt jedes
 kausale Argumentmuster genau ein minimal hinreichendes Ursachenbündel,
 um die zu erklärende Wirkung abzuleiten. Die Definitionen von Ursache
 nach der Kausaltheorie der minimalen Theorien und nach Kitchers
 Program sind also *mit unseren Voraussetzungen* exakt deckungsgleich.
+
+Die Kausaltheorie der minimalen Theorien ist durchaus in der Lage, mit
+kausalen Analysen auf verschiedenen Detailstufen umzugehen. So kann
+der elektrische Strom in der Sichtweise des Elektronikers eine direkte
+Ursache des Lichts sein, während der Physiker eine komplexe
+Kausalkette ausgehend vom unterschiedlichen Potential an den beiden
+Anschlüssen bis hin zum emitieren von Licht in den Dioden sieht. In
+der Kausaltheorie der minimalen Theorien sind das kausale Graphen auf
+verschiedenen Ebenen und das Prinzip der persistenten Relevanz
+fordert, dass dies auf behauptete kausale Beziehungen keinen Einfluss
+hat. Zudem können die verwendeten Begriffe der verschiedenen Ebenen
+nicht gemischt werden, da keine logischen Abhängigkeiten zwischen den
+Ereignisstypen einer Koinzidenz bestehen dürfen.
+
+TODO: Gleichzeitig will er aber verhindern, dass sein Erklärungsbegriff
+voraussetzt, moderne und komplexe Theorien der Spezialwissenschaften
+zu kennen und zu verstehen, um Erklärungen von alltäglichen Phänomenen
+zu erkennen. Es sollte also möglich sein auch ohne genaue Kenntnis der
+involvierten Chemie und Physik, unnötige Zusätze wegzulassen
+[@Kitcher1989, TODO].
 
 Ergebnisse/Folgen
 =================
