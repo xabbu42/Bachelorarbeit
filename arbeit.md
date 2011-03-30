@@ -260,16 +260,17 @@ Nach @Kitcher1989 [432] besteht ein Argumentmuster aus drei Teilen:
 
 2.  Auffüllinstruktionen
 
-    Anweisungen zu jedem im schematischen Argument verwendeten
-    Buchstaben, die bestimmen, wie dieser Buchstabe ersetzt werden
-    kann.
+    Die Auffüllinstruktionen bestehen aus Anweisungen zu jedem im
+    schematischen Argument verwendeten Buchstaben, die bestimmen, wie
+    dieser Buchstabe ersetzt werden kann.
 
 3.  Klassifikation des Argumentschematas
 
-    Eine Beschreibung der Zusammenhänge der einzelnen Sätze im
-    Argumentschemata. Welche der Sätze sind Prämissen, welche
-    Konklusion. Welche Sätze werden aus welchen und mithilfe welcher
-    Regel abgeleitet.
+	Die Klassifikation des Argumentschematas besteht aus einer
+    Beschreibung der Zusammenhänge der einzelnen Sätze im
+    Argumentschemata. Sie bestimmt also unter anderem welche der Sätze
+    Prämissen und welche Konklusion sind, sowie welche Sätze aus welchen
+    und mithilfe welcher Regel abgeleitet werden.
 
 Eine Ableitung fällt unter ein bestimmtes Argumentmuster, wenn die
 folgenden drei Bedingungen erfüllt sind:
