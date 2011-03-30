@@ -152,7 +152,7 @@ Wirkung ist [@Baumgartner2004, 105].
 Theorie einer Wirkung $W$ ein: $ABX_1 \vee CDX_2 \vee Y \Ra W$.
 Die Variablen $X_1, X_2, Y$ stehen dabei als Platzhalter für weitere
 unbekannte oder uninteressante kausal relevante Faktoren. Nach
-@Baumgartner2004 [TODO] kann eine uns bekannte Theorie niemals
+@Baumgartner2004 [181] kann eine uns bekannte Theorie niemals
 sicher abgeschlossen werden. Dies wird formal durch diese Variablen
 erfasst. Da es sich dabei um ein epistemisches Problem handelt,
 welches in unserem Kontext ignoriert werden kann, werde ich
@@ -189,7 +189,7 @@ Theorien zwischen direkter und indirekter Kausalität
 unterschieden. Diese Unterscheidung ist jedoch relativ zu der
 begrifflichen Analyse der Situation und entspricht keinem realen
 Unterschied von direkter und indirekter Kausalität [@Baumgartner2004,
-TODO]. Durch das Prinzip der persistenten Relevanz [@Baumgartner2004,
+52]. Durch das Prinzip der persistenten Relevanz [@Baumgartner2004,
 69] wird sichergestellt, dass der Begriff der Kausalität selber,
 welcher sowohl direkte als auch indirekte Kausalität zusammenfasst,
 wieder unabhängig von der begrifflichen Analyse sein muss. Diese
