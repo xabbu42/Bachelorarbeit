@@ -59,8 +59,8 @@ kausalen Abhängigkeiten der Welt führt:
 > the limit of this process is nothing less than the causal structure
 > of the world. [@Kitcher1989, 500]
 
-An einer früheren Stelle erwähnt er eine Möglichkeit, wie dies
-aussehen könnte, auf die ich mich in meiner Arbeit konzentrieren will:
+Weiter vorne im Text erwähnt er eine Möglichkeit, wie dies aussehen könnte,
+auf die ich mich in meiner Arbeit konzentrieren will:
 
 > A successful analysis of explanation might be used directly to offer
 > an analysis of causation -- most simply, by proposing that one event
@@ -88,15 +88,15 @@ ist, ohne diese Voraussetzung mit Argumenten zu stützen. Das heisst,
 ich werde davon ausgehen, dass die am stärksten vereinheitlichte
 Theorie der Welt sämtliche tatsächlich kausal erklärbaren Ereignisse
 durch die Angabe eines hinreichenden Bündels von Ereignissen erklärt,
-nämlich dem tatsächlichen Ursachenbündel des zu erklärenden
+nämlich des tatsächlichen Ursachenbündels des zu erklärenden
 Ereignisses. [^vok]
 
 [^vok]: Ich übernehme in dieser Arbeit das Vokabular von
     @Baumgartner2004 [36--40]. Das heisst Ereignisse werden in einem
     sehr allgemeinen Sinn aufgefasst, der Zustände und
-    Zustandsveränderungen gleichermassen miteinbezieht. Zudem kann sich
-    je nach Kontext der Begriff Ereignis sowohl auf in Raum und Zeit
-    lokalisierbare, singuläre Ereignisse beziehen, wie auf
+    Zustandsveränderungen gleichermassen miteinbezieht. Zudem kann
+    sich je nach Kontext der Begriff Ereignis sowohl auf in Raum und
+    Zeit lokalisierbare, singuläre Ereignisse beziehen, als auch auf
     Ereignistypen, die auf verschiedene singuläre Ereignisse zutreffen
     und deshalb nicht in Raum und Zeit lokalisierbar sind. Der Begriff
     Faktor bezieht sich jedoch ausschliesslich auf Ereignistypen.
@@ -106,20 +106,20 @@ Ereignisses. [^vok]
     heisst, die Instanzen eines Ursachenbündel sind Koinzidenzen [vgl
     @Baumgartner2004, 44--46] aller Ereignistypen im Bündel, also
     Instanzen der gegebenen Ereignistypen, die in geeigneter
-    räumlicher und zeitlicher nähe zueinander stattfinden.
+    räumlicher und zeitlicher Nähe zueinander stattfinden.
 
 In dieser Voraussetzung inbegriffen sind auch einige generelle
 Prinzipien über Kausalität, wie sie in @Baumgartner2004 [68ff]
 beschrieben werden. Es handelt sich dabei nur um eine erste
-Explikation vom Begriff der Kausalität, in dem Sinn, dass Kausalität
+Explikation des Begriffs der Kausalität, in dem Sinn, dass Kausalität
 im Minimum diesen Prinzipien folgen muss, und noch nicht um eine
 vollständige Theorie der Kausalität. Es ist der Anspruch von
 Baumgartner und Graßhoff, dass diese Prinzipien für jede Kausaltheorie
 gelten müssen, ansonsten handelt es sich nicht mehr um Kausalität im
 umgangssprachlichen Sinn [@Baumgartner2004, 68]. Ich werde diesen
-Anspruch hier übernehmen, weshalb ich die entsprechenden Prinzipien
-der Kausalität auch als bereits in der gemachten Annahme enthalten
-betrachte.
+Anspruch hier übernehmen, und betrachte folglich die entsprechenden
+Prinzipien der Kausalität als bereits in der gemachten Annahme
+enthalten .
 
 Insbesondere sind also die vorausgesetzten vollständigen
 Ursachenbündel hinreichend für die zu erklärende Wirkung, und es
@@ -140,10 +140,10 @@ Minimale Theorien
 
 Die Kausalitätstheorie der minimalen Theorien ist eine
 Regularitätstheorie der Kausalität. Das bedeutet, Kausalität wird
-nicht anhand der Eigenschaften einzelner singulären Ereignissen
+nicht anhand der Eigenschaften einzelner singulärer Ereignissen
 definiert, sondern anhand logischer Regelmässigkeiten, die zwischen
 Ereignistypen bestehen [vgl. @Baumgartner2004, 81,169]. Diese
-Vorgehensweise hat den Vorteil eine empirische Definition der
+Vorgehensweise hat den Vorteil, eine empirische Definition der
 Kausalität zu liefern. Deshalb bieten sich Regularitätstheorien der
 Kausalität auch besonders für ihre Anwendung in Kitchers Programm an,
 in dem ebenfalls eine empirische Definition von Kausalität
@@ -164,12 +164,12 @@ allen beobachteten Ereignissen liefern.
 
 Es ist nicht ganz eindeutig, ob nach Baumgartner und Graßhoff
 Koinzidenzen nur Mengen von räumlich und zeitlich lokalisierbaren,
-also singuläre Ereignisse bezeichnen, oder ob auch eine blosse Liste von
-Ereignisstypen als "Koinzidenztyp" aufgefasst werden kann. Ich benutze
+also singulären Ereignissen bezeichnen, oder ob auch eine blosse Liste von
+Ereignistypen als "Koinzidenztyp" aufgefasst werden kann. Ich benutze
 im folgenden den Begriff Koinzidenz immer für Mengen von singulären
 Ereignissen, die alle in geeigneter räumlicher und zeitlicher Nähe
 stattfinden. Der von Baumgartner und Graßhoff ebenfalls verwendete
-Begriff des Ereignisbündels soll für ein "Koinzidenztyp" stehen, das
+Begriff des Ereignisbündels soll für einen "Koinzidenztyp" stehen, das
 heisst, für eine Konjunktion von logisch unabhängigen Ereignistypen
 mit der zusätzlichen Bedingung, dass die Instanzen der Ereignistypen
 in geeigneter räumlicher und zeitlicher Nähe stattfinden müssen.
@@ -182,7 +182,7 @@ Koinzidenzen als Instanzen. Ein Ursachenbündel ist ein Ereignisbündel,
 das Ursache einer gegeben Wirkung ist.
 
 Die minimale Theorie einer Wirkung $W$ ist eine Liste von
-Ereignisbündel, die folgende zwei Bedingungen erfüllt:
+Ereignisbündeln, die folgende zwei Bedingungen erfüllt:
 
 1. Jedes einzelne Bündel ist minimal hinreichend für die Wirkung
    $W$. Das heisst, auf jede Instanz des Bündels folgt eine Instanz
@@ -205,7 +205,7 @@ Schlussendlich ist ein Faktor $A$ kausal relevant für eine Wirkung
 $W$, wenn $A$ entweder direkt oder indirekt kausal relevant für diese
 Wirkung ist [@Baumgartner2004, 105].
 
-@Baumgartner2004 [106 ff] führt folgende Notation für die minimale
+@Baumgartner2004 [106 ff] führten folgende Notation für die minimale
 Theorie einer Wirkung $W$ ein: $ABX_1 \vee CDX_2 \vee Y \Ra W$.
 Die Variablen $X_1, X_2, Y$ stehen dabei als Platzhalter für weitere
 unbekannte oder uninteressante kausal relevante Faktoren. Nach
@@ -224,7 +224,7 @@ zuordnen. Vielmehr muss jedem Ereignistyp eine natürliche Eigenschaft
 entsprechen [@Baumgartner2004, 38--39]. Wie wir später sehen werden,
 steht diese Forderung und insbesondere die Notwendigkeit einer solchen
 Einschränkung in einem engen Zusammenhang mit einer Forderung Kitchers
-[-@Kitcher1989, 482] an seine Argumentmuster, nämlich dass nur
+[-@Kitcher1989, 482] an seine Argumentmuster, nämlich, dass nur
 projizierbare Prädikate verwendet werden dürfen.
 
 Zudem können Ereignistokens nicht beliebige Teilmengen der Welt
@@ -270,7 +270,7 @@ zu $K$ akzeptierbar sind. Die beste Systematisierung $E(K)$ von $K$
 ist diejenige, die die grösste Vereinheitlichung erzielt. Die
 wesentliche Idee der Vereinheitlichung ist, die Anzahl der Fakten zu
 minimieren, die unerklärt akzeptiert werden müssen ("brute facts")
-[@Kitcher1989, 431]. Diese Charakterisierung von Friedmann suggestiert
+[@Kitcher1989, 431]. Diese Charakterisierung von Friedmann suggeriert
 nach Kitcher eine erste Definition von Vereinheitlichung:
 
 > characterize $E(K)$ as the set of arguments that achieves the best
@@ -293,11 +293,11 @@ Vereinheitlichung einer Systematisierung $S$ [vgl. @Kitcher1989, 432].
 
 Nach @Kitcher1989 [432] besteht ein Argumentmuster aus drei Teilen:
 
-1.  Argumentschemata
+1.  Argumentschema
 
     Dies ist eine Menge von schematischen Sätzen. Schematische Sätze
     sind Sätze in denen einige, aber nicht unbedingt alle,
-    nicht-logischen Ausdrücke durch Buchstaben ersetzt wurden.
+    nicht logischen Ausdrücke durch Buchstaben ersetzt wurden.
 
 2.  Ausfüllinstruktionen
 
@@ -305,26 +305,26 @@ Nach @Kitcher1989 [432] besteht ein Argumentmuster aus drei Teilen:
     schematischen Argument verwendeten Buchstaben, die bestimmen, wie
     dieser Buchstabe ersetzt werden kann.
 
-3.  Klassifikation des Argumentschematas
+3.  Klassifikation des Argumentschemas
 
-	Die Klassifikation des Argumentschematas besteht aus einer
+	Die Klassifikation des Argumentschemas besteht aus einer
     Beschreibung der Zusammenhänge der einzelnen Sätze im
-    Argumentschemata. Sie bestimmt also unter anderem welche der Sätze
-    Prämissen und welche Konklusion sind, sowie welche Sätze aus welchen
-    und mithilfe welcher Regel abgeleitet werden.
+    Argumentschema. Sie bestimmt also unter anderem, welche der Sätze
+    Prämissen und welche Konklusionen sind, sowie, welche Sätze aus
+    welchen und mithilfe welcher Regel abgeleitet werden.
 
 Eine Ableitung fällt unter ein bestimmtes Argumentmuster, wenn die
 folgenden drei Bedingungen erfüllt sind:
 
-1. Die Ableitung hat gleich viele Sätze wie das Argumentschemata.
+1. Die Ableitung hat gleich viele Sätze wie das Argumentschema.
 
 2. Jeder Satz oder Formel aus der Ableitung kann aus dem
-   entsprechenden Satzschema im Argumentschemata erhalten werden,
+   entsprechenden Satzschema im Argumentschema erhalten werden,
    unter Beachtung der entsprechenden Ausfüllinstruktionen.
 
 3. Die Sätze oder Formeln der Ableitung haben die Eigenschaften und
    stehen in den Beziehungen zueinander, wie dies in der
-   Klassifikation des Argumentschematas angegeben ist.
+   Klassifikation des Argumentschemas angegeben ist.
 
 
 Da Kitcher Argumentmuster zählt, muss er verhindern, dass man beliebig
@@ -339,7 +339,7 @@ mehrere gemeinsame Eigenschaften auszeichnen.
 
 Kitcher gibt keine abschliessende Beschreibung von projizierbaren
 Prädikaten. Wir wissen jedoch, dass die Unterscheidung von
-projizierbaren und nicht-projizierbaren Prädikaten relativ zu einer
+projizierbaren und nicht projizierbaren Prädikaten relativ zu einer
 bestimmten Sprache $L$ ist [@Kitcher1989, 488], und dass im
 allgemeinen Konjunkte und Disjunkte von projizierbaren Prädikaten
 nicht wieder ein projizierbares Prädikat ergeben [@Kitcher1989, 482,
@@ -349,7 +349,7 @@ Die Instanzen von Argumentmuster sind deduktive Argumente. Kitcher
 verteidigt diese Idealisierung, die er *deductive chauvinism* nennt,
 gegen verschiedene Vorwürfe [@Kitcher1989, 448]. Insbesondere können
 statistische Argumente nach Kitcher nur dann erklärend sein, wenn sie
-als Hinweis auf ein zugrunde liegendes unbekanntes deduktives Argument
+als Hinweis auf ein zugrundeliegendes unbekanntes deduktives Argument
 aufgefasst werden [@Kitcher1989, 449]. Daraus ergibt sich auch, dass
 aus Kitchers Vereinheitlichungstheorie keine probabilistische
 Kausaltheorie folgen kann [vgl @Baumgartner2004, 122 ff].
@@ -360,8 +360,8 @@ Darstellung. Nach Kitcher selber ist Prinzip (C) nämlich asymmetrisch
 und transitiv, also eine *strikte* partielle Ordnung [@Kitcher1989,
 479]. Im Gegensatz dazu fasse ich (C) hier nicht als strikt
 auf[^part]. Der Vorteil von Kitchers Darstellung ist, dass er es
-vermeidet Äquivalenzbedingungen für Argumentmuster und darauf
-aufbauend für Mengen von Argumentmuster festzulegen. Auf der anderen
+vermeidet, Äquivalenzbedingungen für Argumentmuster und darauf
+aufbauend für Mengen von Argumentmustern festzulegen. Auf der anderen
 Seite lässt sich Prinzip (O) mit einer nicht strikten Ordnung
 einfacher formulieren.
 
@@ -369,7 +369,7 @@ Im Anhang befindet sich eine genauere Betrachtung dieser Prinzipien
 und Beweise für die folgenden von Kitcher übernommenen Behauptungen
 [@Kitcher1989, 479], es handle sich bei (T),(R) auf der einen Seite
 und (C) auf der anderen Seite um partielle Ordnungen. Dort findet man
-auch eine ausführliche Begründung für die im folgenden wiedergegeben,
+auch eine ausführliche Begründung für die im folgenden wiedergegeben
 für das eigentliche Thema dieser Arbeit wesentlichen Aspekte meiner
 Interpretation von Kitchers Vereinheitlichungsbegriffs.
 
@@ -388,7 +388,7 @@ Interpretation von Kitchers Vereinheitlichungsbegriffs.
     möglich, dass es zwei verschiedene Elemente $a,b \in M$ gibt, so
     dass weder $aRb$ noch $bRa$ gilt.
 
-    Nach @Kitcher1989 [479] selber, ist (C) asymmetrisch und
+    Nach @Kitcher1989 [479] selber ist (C) asymmetrisch und
     transitiv. Das bedeutet nach Kitcher definiert (C) eine strikte
     partielle Ordnung $<_C$, die die folgenden drei
     Bedingungen erfüllt:
@@ -405,14 +405,14 @@ Interpretation von Kitchers Vereinheitlichungsbegriffs.
     einfach ableiten. 
 
 Kitcher definiert also auf allen Mengen von Argumentmustern eine partielle
-Ordnung, mit Hilfe des Prinzips (C) [@Kitcher1989, 478, 479]
+Ordnung mit Hilfe des Prinzips (C) [@Kitcher1989, 478, 479]
 und der exakten Definition eines komparativen Stringenz-Begriffs
 (T),(R) [@Kitcher1989, 479, 480], die wiederum eine partielle
 Ordnung aller Argumentmuster festlegt. Durch das Prinzip (O) drückt
 er die Hoffnung aus, dass mit dieser partiellen Ordnung eine obere
 Grenze zu je zwei beliebigen Mengen von Argumentmustern existiert. Das
-heisst, gegeben zwei solcher Mengen $U$ und $U'$, existiert eine, oder
-mehrere, Mengen von Argumentmustern $U^*$, so dass sowohl $U \leq_C
+heisst, gegeben zwei solcher Mengen $U$ und $U'$, existieren eine oder
+mehrere Mengen von Argumentmustern $U^*$, so dass sowohl $U \leq_C
 U^*$ und $U' \leq_C U^*$ gilt, wobei $A \leq_C B$ dafür steht, dass
 $A$ nach Prinzip (C) höchstens so vereinheitlicht ist wie $B$.
 
@@ -424,17 +424,17 @@ $U$ als auch $U'$ fallen lassen können.
 
 Für unsere Zwecke reicht es aus, zu wissen, dass laut Prinzip (C) eine
 Menge von Argumentmustern $U$ besser vereinheitlicht ist als eine
-weitere Menge von Argumentmuster $V$, falls einer der folgenden Punkte
+weitere Menge von Argumentmustern $V$, falls einer der folgenden Punkte
 erfüllt ist:
 
-1.  $U$ erklärt mit weniger, mindestens so stringenter Argumentmuster
+1.  $U$ erklärt mit weniger, mindestens so stringente Argumentmustern
     die gleiche oder grössere Menge von Konsequenzen als $V$ (C1).
 
-2.  $U$ erklärt mit genau so vielen, aber zum Teil stringenterer
-    Argumentmuster die gleiche oder grössere Menge von Konsequenzen
+2.  $U$ erklärt mit genau so vielen, aber zum Teil stringenteren
+    Argumentmustern die gleiche oder grössere Menge von Konsequenzen
     als $V$ (C1).
 
-3.  $U$ erklärt mit mindestens so stringenter Argumentmuster eine
+3.  $U$ erklärt mit mindestens so stringente Argumentmustern eine
     grössere Menge von Konsequenzen als $V$ (C2).
 
 $U$ erklärt dabei eine Aussage $a$ genau dann, wenn es ein
@@ -446,20 +446,20 @@ Die Stringenzbedingungen sind so zu verstehen, dass jedem
 Argumentmuster in $U$ ein höchstens so stringentes Argumentmuster in
 $V$ zugeordnet werden muss. Diese Zuordnung darf jedem Argumentmuster
 aus $V$ höchstens ein Argumentmuster aus $U$ zuordnen.  Dabei ist ein
-Argumentmuster $p$ stringenter ist als ein Argumentmuster $q$, falls
+Argumentmuster $p$ stringenter als ein Argumentmuster $q$, falls
 $p$ die gleiche Struktur wie $q$ besitzt (also die gleichen
-schematischen Sätze mit der gleichen Klassifikation), und $p$ weniger
+schematischen Sätze mit der gleichen Klassifikation) und $p$ weniger
 Instanzen zulässt als $q$.
 
 Die partielle Ordnung $\leq_C$ auf Mengen von Argumentmustern lässt
 sich auf Systematisierungen (also Mengen von Ableitungen) übertragen,
-indem die jeweils beste generative Menge von Argumentmustern
+indem die jeweils besten generativen Mengen von Argumentmustern
 verglichen werden [vgl. @Kitcher1989, 480]. Wenn wir also zwei
 Systematisierungen $S$ und $T$ von $K$ gegeben haben, bestimmen wir
 zuerst die nach (C) besten Mengen von Argumentmustern $U$ und $V$, so
 dass jede Ableitung in $S$ eine Instanz von einem Argumentmuster in
 $U$ und jede Ableitung in $T$ eine Instanz von einem Argumentmuster in
-$V$ ist. $S$ ist genau dann besser Vereinheitlicht als $T$, wenn $V
+$V$ ist. $S$ ist genau dann besser vereinheitlicht als $T$, wenn $V
 \leq_C U$ gilt.[^compl]
 
 [^compl]: An dieser Stelle verwendet Kitcher eine stärkere Version von
@@ -489,16 +489,16 @@ Argumentation
 Projizierbare Prädikate und natürliche Eigenschaften
 ----------------------------------------------------
 
-Wie wir bereits gesehen haben, lassen sowohl die Kausaltheorie der
-minimalen Theorien wie auch Kitchers Vereinheitlichungstheorie nicht
-beliebige Prädikate zu, sondern schränken die erlaubten
-Prädikate ein, entweder auf solche die natürlichen Eigenschaften
-entsprechen bei Baumgartner und Graßhoff, oder auf so genannte
-projizierbare Prädikate bei Kitcher. Während diese Begriffe einen sehr
+Wie wir bereits gesehen haben, lassen weder die Kausaltheorie der
+minimalen Theorien noch Kitchers Vereinheitlichungstheorie beliebige
+Prädikate zu. Sie schränken stattdessen beide die erlaubten Prädikate
+ein, entweder auf solche, die natürlichen Eigenschaften entsprechen
+bei @Baumgartner2004 [38--39], oder auf so genannte projizierbare
+Prädikate bei @Kitcher1989 [482]. Während diese Begriffe einen sehr
 ähnlichen Zweck erfüllen, sie verhindern nämlich dass die
 entsprechenden Theorien durch geeignete logische Konstruktionen
-trivialisiert werden können, bauen sie auf einer komplett
-verschiedenen Ansicht über wissenschaftliche Erkenntnis auf.
+trivialisiert werden können, bauen sie auf komplett verschiedenen
+Ansichten über wissenschaftliche Erkenntnis auf.
 
 Baumgartner und Graßhoffs Beschreibung von natürlichen Eigenschaften
 [@Baumgartner2004, 38--39] impliziert die Sichtweise des
@@ -514,7 +514,7 @@ werden.
 
 Bei Kitcher dagegen sind projizierbare Prädikate abhängig von einer
 bestimmten Sprache $L$. Diese Sprache kann und wird von den
-Wissenschaftler jedoch abgeändert und dadurch ändern sich auch, welche
+Wissenschaftler jedoch abgeändert und dadurch ändert sich auch, welche
 Prädikate projizierbar sind und welche nicht. Begründet wird eine
 solche Änderung aber nicht als eine Anpassung an die Realität, sondern
 durch die erklärende Kraft der neuen Sprache und der darin
@@ -561,7 +561,7 @@ Argumente entscheidende These ist demnach die folgende:
 Ein spezifisches kausales Argumentmuster könnte also in etwa so
 aussehen:
 
-> Jede funktionierende LED an dem eine genügend grosse Spannung mit
+> Jede funktionierende LED, an der eine genügend grosse Spannung mit
 > der richtigen Orientierung angeschlossen ist, leuchtet. In der
 > Situation $\alpha$ sind diese Bedingungen erfüllt. Also leuchtet die
 > LED in $\alpha$. [^arg]
@@ -573,7 +573,7 @@ Satz die Konklusion ist.
 
 Dies ist nicht die einzige mögliche Ursache, für das Leuchten der LED,
 und demnach gib es auch ein alternatives Erklärungsmuster um Aufleuchten
-von LEDS zu erklären:
+von LEDs zu erklären:
 
 > Jede LED, auf die ein genügend starkes Licht in einem geeigneten
 > Winkel auftritt, leuchtet. In der Situation $\alpha$ sind diese
@@ -605,17 +605,18 @@ folgenden falschen Varianten abgrenzen:
 > $\alpha$ sind diese Bedingungen erfüllt. Also leuchtet die LED in
 > $\alpha$. 
 
-> Manche LEDS an denen eine genügend grosse Spannung liegt,
+> Manche LEDs an denen eine genügend grosse Spannung liegt,
 > leuchten. In der Situation $\alpha$ ist diese Bedingung erfüllt. Die
 > LED in $\alpha$ kann also leuchten.
 
-Zuerst einmal haben wir im Kapitel \nameref{These} vorausgesetzt, dass in
-der am stärksten Vereinheitlichten Theorie $E(K)$ kausal erklärbare
+Zuerst einmal haben wir im Kapitel 3 vorausgesetzt, dass in der am
+stärksten Vereinheitlichten Theorie $E(K)$ kausal erklärbare
 Ereignisse tatsächlich mit der Hilfe ihrer Ursachen erklärt werden. Es
-ist damit ausgeschlossen, dass die verwendeten Argumentmuster überhaupt
-nicht auf die Ursachen der zu erklärenden Ereignisse Bezug nehmen. Die
-folgenden drei Aussagen zeigen dann, dass in diesem Fall die gegebenen
-Argumentmuster die einzig richtigen nach der Theorie Kitchers sind:
+ist damit ausgeschlossen, dass die verwendeten Argumentmuster
+überhaupt nicht auf die Ursachen der zu erklärenden Ereignisse Bezug
+nehmen. Die folgenden drei Aussagen zeigen dann, dass in diesem Fall
+die gegebenen Argumentmuster die einzig richtigen nach der Theorie
+Kitchers sind:
 
 1. Ein kausales Argumentmuster kann nicht unvollständige Ursachenbündel
    enthalten.
@@ -623,7 +624,7 @@ Argumentmuster die einzig richtigen nach der Theorie Kitchers sind:
 In einer starken Fassung unserer Voraussetzung folgt diese Aussage
 direkt. Wenn wir nämlich davon ausgehen, dass es nicht genügt, kausale
 Beziehungen zwischen einzelnen Ereignistypen aufzuzählen, um die kausale
-Struktur der Welt vollständig zu erfassen, sondern es vielmehr dazu auch
+Struktur der Welt vollständig zu erfassen, sondern es dazu vielmehr auch
 notwendig ist, zusammengehörende Ursachenbündel zu beschreiben.
 
 In unserem Beispiel heisst das, dass die folgenden Aussagen noch nicht
@@ -645,8 +646,8 @@ von LEDs zu erfassen:
 Vielmehr ist es ein Teil der kausalen Struktur, dass jeweils die
 ersten zwei Faktoren und die letzten zwei Faktoren zusammen auftreten
 müssen, um eine Leuchten der LED zur Folge haben. In dem Fall müssen
-Argumentmuster, mit unserer Voraussetzung, auch diese Bedingungen
-enthalten, das heisst sie müssen auf vollständige Ursachenbündel Bezug
+Argumentmuster, mit unserer Voraussetzung auch diese Bedingungen
+enthalten, das heisst, sie müssen auf vollständige Ursachenbündel Bezug
 nehmen und nicht nur auf einzelne kausal relevante Faktoren.
 
 Selbst wenn wir unsere Annahme in einer schwächeren Form
@@ -658,11 +659,11 @@ müssen nach @Kitcher1989 [448] alle Instanzen eines Argumentmusters
 deduktive Ableitungen sein. Da die zu erklärende Wirkung aus einem
 unvollständigen Ursachenbündel *alleine* jedoch nicht deduktiv folgt,
 genügt ein solches nicht für ein korrektes Argumentmuster. So ist auch
-das Beispiele mit einer unvollständigen Ursache nach Kitcher keine
+das Beispiel mit einer unvollständigen Ursache nach Kitcher keine
 Argumentmuster, da ihre Instanzen keine deduktive Ableitung des zu
 erklärenden Ereignisses sind.
 
-Als letzte Möglichkeit könnte die selbe Wirkung mit Hilfe von mehreren
+Als letzte Möglichkeit könnte dieselbe Wirkung mit Hilfe von mehreren
 Argumentmuster erklärt werden, die sich folgendermassen
 zusammensetzen:
 
@@ -673,19 +674,20 @@ mehreren verschiedenen hinreichenden Ursachenbündel zur selben Wirkung.
 können (die also z.B. nicht in Raum und Zeit lokalisierbar sind).
 
 Die zusätzlichen Bedingungen sollen dabei die Instanzen der
-Argumentmuster deduktiv gültig machen, *ohne weitere, falsche* kausale
+Argumentmuster deduktiv gültig machen, *ohne weitere falsche* kausale
 Beziehungen einzuführen, was im Widerspruch zu unserer Voraussetzung
-wäre. Zudem enthält jedes Argumentmuster mehr als nur ein kausal
-relevanter Faktor. Solche Argumentmuster wären also auch in der Lage,
+wäre. Zudem enthält jedes Argumentmuster mehr als nur einen kausal
+relevanten Faktor. Solche Argumentmuster wären also auch in der Lage,
 zu erfassen, dass zwei kausal relevante Faktoren zusammen auftreten
-müssen. Um trotzdem noch besser Vereinheitlicht zu sein, als unser
+müssen. Um trotzdem noch besser vereinheitlicht zu sein als unser
 einfacher Vorschlag, muss aber jedes Argumentmuster zusätzlich noch
-dazu dienen, Aspekte weiterer Ursachenbündel des selben Wirkungstyps
-zu erfassen, denn mehrere verschiedene Wirkungstypen zu kombinieren
-ergibt im Allgemeinen keine projizierbaren Ausfüllinstruktionen. Wenn
-aber nur Ursachen eines Bündels erfasst werden, benötigen wir mehr als
-ein Argumentmuster pro Ursachenbündel, und erhalten damit eine
-schlechter vereinheitlichte Theorie.
+dazu dienen, Aspekte weiterer Ursachenbündel desselben Wirkungstyps zu
+erfassen. Es ist nicht möglich zum selben Zweck Ursachen von mehreren
+verschiedenen Wirkungstypen zu kombinieren, da dies im Allgemeinen
+keine projizierbaren Ausfüllinstruktionen mehr ergibt. Wenn aber nur
+Ursachen eines Bündels erfasst werden, benötigen wir mehr als ein
+Argumentmuster pro Ursachenbündel, und erhalten damit eine schlechter
+vereinheitlichte Theorie.
 
 Es ist sehr unwahrscheinlich, dass eine solche Konstruktion
 tatsächlich mit projizierbaren Prädikaten möglich ist. Aber sie ist
@@ -696,12 +698,12 @@ kausale Struktur der Welt erfassen.
 
 2. Ein Argumentmuster kann neben den tatsächlichen Ursachentypen keine
    zusätzlichen Voraussetzungen enthalten. Dies betrifft sowohl
-   weitere Ereignistypen, als auch andere Begriffe, die nicht in
+   weitere Ereignistypen als auch andere Begriffe, die nicht in
    kausalen Zusammenhängen stehen.
 
 @Kitcher1989 [482--484] hat den Anspruch, mit seiner Erklärungstheorie
 der Vereinheitlichung irrelevante Faktoren ausschliessen zu
-können. Und zwar unterscheidet er folgende Fälle:
+können. Er unterscheidet folgende Fälle:
 
 Erstens kann es sein, dass die zusätzlichen Voraussetzungen bestimmte
 Instanzen der Argumentmuster ausschliessen. Durch diese Einschränkung
@@ -732,13 +734,13 @@ darin übereinstimmen, welche Faktoren denn nun irrelevant sind.
 
 Dieser Punkt hängt vollständig von der angesprochenen Bedingung ab,
 dass nur projizierbare Prädikate verwendet werden dürfen. Zuerst
-einmal formuliert Kitcher seine Argumentmuster, derart, dass es
-jeweils immer das ganze Argumentmuster instantiiert werden muss. Das
-heisst, der folgende Versuch, zwei vollständige Ursachenbündel in
-einem Argumentmuster zu kombinieren, ist nicht zulässig:
+einmal formuliert Kitcher seine Argumentmuster derart, dass jeweils
+immer das ganze Argumentmuster instantiiert werden muss. Das heisst,
+der folgende Versuch, zwei vollständige Ursachenbündel in einem
+Argumentmuster zu kombinieren, ist nicht zulässig:
 
 > Jede LED, auf die ein genügend starkes Licht in einem geeigneten
-> Winkel einfällt, *oder* an der eine genügend grosse Spannung mit der
+> Winkel einfällt *oder* an der eine genügend grosse Spannung mit der
 > richtigen Orientierung liegt, leuchtet. In der Situation $\alpha$
 > fällt ein genügend starkes Licht in einem geeigneten Winkel auf die
 > LED oder in der Situation $\beta$ liegt eine genügend grosse
@@ -757,14 +759,14 @@ von aussen wie auch der Stromkreis einsetzbar sind. Das ergibt das
 bereits erwähnte folgende Argumentmuster:
 
 > Jede LED, auf die ein genügend starkes Licht in einem geeigneten
-> Winkel einfällt, *oder* an der eine genügend grosse Spannung mit der
+> Winkel einfällt *oder* an der eine genügend grosse Spannung mit der
 > richtigen Orientierung liegt, leuchtet. In der Situation $\alpha$
 > sind diese Bedingungen erfüllt. Also leuchtet die LED in $\alpha$.
 
 @Kitcher1989 [482] fordert jedoch von den verwendeten Prädikaten,
 dass diese projizierbar sind. Beliebige logische Verknüpfungen von
 projizierbaren Prädikaten, also insbesondere eine Disjunktion
-verschiedener Ursachenbündel, ist im Allgemeinen nicht mehr
+verschiedener Ursachenbündel, sind im Allgemeinen nicht mehr
 projizierbar. Dieses Argumentmuster ist deshalb nicht zulässig.
 
 Ein sehr ähnliches Problem stellt sich auch bei der Kausaltheorie der
@@ -779,7 +781,7 @@ der genügend starken Lannung zusammen, so leuchten alle LEDs mit einer
 genügend starken Lannung in der richtigen Wientierung. Die Instanzen
 beider neuen Prädikate sind immer noch lokalisierbar in Raum und Zeit,
 da es ja die Vereinigung der Instanzen der beiden zulässigen Prädikate
-sind. 
+ist. 
 
 Trotzdem ist dieser Schritt auch in der Kausaltheorie der minimalen
 Theorien nicht möglich, da die Prädikate Lannung und Wientierung
@@ -806,32 +808,31 @@ alle konstitutiven Bedingungen der minimalen Theorien.
 
 Aus dem komparativen Vereinheitlichungsbegriff von Kitcher folgt
 direkt, dass die Argumentmuster und damit insbesondere die kausalen
-Argumentmuster insgesamt minimiert werden müssen. Nehmen wir eine
-beliebige Systematisierung $S$, die die komplette Instantiierung
+Argumentmuster insgesamt minimiert werden müssen. Angenommen $S$ ist
+eine beliebige Systematisierung, die die komplette Instantiierung
 einer generierenden Menge von Argumentmustern $U$ ist [vgl
-@Kitcher1989, 434]. Gehen wir zudem davon aus, $U$ enthalte die zu der
-*nicht* minimalen Theorie $AB \vee CD \vee EF \Ra W$ entsprechenden
-Argumentmuster. Das heisst, in $U$ sind drei kausale Argumentmuster,
-die Ableitung von Instanzen von $W$ aus Instanzen der drei
-verschiedenen Ursachenbündel $AB$, $CD$ und $EF$ generieren. Da nach
-der Voraussetzung die angegebene Theorie nicht minimal notwendig ist,
-gibt es eine echte Teilmenge dieser drei Ursachenbündel, die immer
-noch notwendig für $W$ ist. In unserem Beispiel sei dies $AB \vee
-CD$. In dem Fall generiert die entsprechende echte Teilmenge der drei
-kausalen Argumentmuster für jede Instanz von $W$ ein Argument. Gibt es
-nämlich eine Instanz von $W$, die durch diese Teilmenge von
-Argumentmustern nicht erklärt wird, dann geht ihr keine Instanz von
-$AB \vee CD$ voraus, im Widerspruch zu unserer Annahme $AB \vee CD$
-sei notwendig für $W$ und $AB \vee CD \vee EF$ keine minimale Theorie
-von $W$.
+@Kitcher1989, 434] und $U$ enthalte die zu der *nicht* minimalen
+Theorie $AB \vee CD \vee EF \Ra W$ entsprechenden Argumentmuster. Das
+heisst, in $U$ sind drei kausale Argumentmuster, die Ableitung von
+Instanzen von $W$ aus Instanzen der drei verschiedenen Ursachenbündel
+$AB$, $CD$ und $EF$ generieren. Da nach der Voraussetzung die
+angegebene Theorie nicht minimal notwendig ist, gibt es eine echte
+Teilmenge dieser drei Ursachenbündel, die immer noch notwendig für $W$
+ist. In unserem Beispiel sei dies $AB \vee CD$. In dem Fall generiert
+die entsprechende echte Teilmenge der drei kausalen Argumentmuster für
+jede Instanz von $W$ ein Argument. Gibt es nämlich eine Instanz von
+$W$, die durch diese Teilmenge von Argumentmustern nicht erklärt wird,
+dann geht ihr keine Instanz von $AB \vee CD$ voraus, im Widerspruch zu
+unserer Annahme $AB \vee CD$ sei notwendig für $W$ und $AB \vee CD
+\vee EF$ keine minimale Theorie von $W$.
 
 Mit diesem Wissen lässt sich aber eine besser vereinheitlichte
 Systematisierung $S'$ mit einer generierenden Menge von
 Argumentmustern $U'$ konstruieren, in dem alle Argumentmuster aus $U$
 und dessen Instanzen übernommen werden, ausser demjenigen
 Argumentmuster, das es erlaubt, $W$ aus $EF$ abzuleiten. Diese neue
-Systematisierung $S'$ ist besser Vereinheitlicht nach (C1), da mit
-weniger, genau so stringenter, Argumentmuster die gleiche Menge von
+Systematisierung $S'$ ist besser vereinheitlicht nach (C1), da mit
+weniger genau so stringente Argumentmuster die gleiche Menge von
 Konsequenzen erklärt wird.
 
 Weniger eindeutig liegt die Lage bei der für minimale Theorien
@@ -840,7 +841,7 @@ hinreichend sein. Wie wir bereits gesehen haben, müssen nach Kitcher
 alle Instanzen von Argumentmustern deduktiv gültig sein. Mit diesem
 Anspruch ergibt sich zuerst einmal ein ähnliches Bild, wie bei der
 Kausaltheorie der minimalen Theorien. Man versucht eine möglichst
-breit anwendbare Regel zum erklären von bestimmten Ereignissen zu
+breit anwendbare Regel zum Erklären von bestimmten Ereignissen zu
 erreichen, will dabei aber immer noch deduktiv gültige Argumente
 erhalten.
 
@@ -860,7 +861,7 @@ Argumentmuster:
 > die LED in $\alpha$.
 
 Es scheint in diesem Moment schwierig zu behaupten, die
-Ausfüllinstruktionen in diesen Argumentmuster seien nicht
+Ausfüllinstruktionen in diesen Argumentmustern seien nicht
 projizierbar, ohne bereits vorauszusetzen, dass nur minimal
 hinreichende Ausfüllinstruktionen projizierbar sind. Dies gilt
 insbesondere, weil so ähnliche Argumentmuster notwendig würden, sobald
@@ -876,8 +877,8 @@ Kitcher sieht jedoch ein, dass die Einschränkung auf projizierbare
 Prädikate noch nicht genügt um alle irrelevanten Faktoren
 auszuschliessen. So betrachtet er das Argumentmuster, wonach alle
 verzauberbaren Salze sich in Wasser auflösen. Ein solches Argumentmuster
-ist genauso stringent und hat damit die selben Instanzen und erklärt
-die selben Konsequenzen, wie das gebräuchliche Argumentmuster ohne den
+ist genauso stringent und hat damit dieselben Instanzen und erklärt
+dieselben Konsequenzen wie das gebräuchliche Argumentmuster ohne den
 Zusatz. 
 
 Kitcher erweitert deshalb seine Theorie um das Prinzip, dass aus
@@ -887,12 +888,12 @@ Prinzip im Kontext von allgemeineren Theorien an, die Aussagen über
 die Auflösbarkeit verschiedenster Stoffe in Wasser machen.  Ein
 solches allgemeineres und übergeordnetes Argumentmuster kann nicht
 *direkt* die Löslichkeit von verzauberbarem Salz in Wasser erklären,
-sondern nur *indirekt*, über die Löslichkeit von beliebigem Salz.
+sondern nur *indirekt* über die Löslichkeit von beliebigem Salz.
 
 In einem letzten Schritt könnte die alternative Erklärung noch
 überleben, indem man alle allgemeineren Argumentmuster wiederum mit
 dem Zusatz versieht, dass sie nur verzauberbare Substanzen
-betreffen. Das Argumentmuster mit dem das Auflösen von verzaubertem
+betreffen. Das Argumentmuster, mit dem das Auflösen von verzaubertem
 Salz in Wasser erklärt wird, folgt dann wieder direkt aus einer
 chemischen Theorie über die Löslichkeit verschiedenster verzauberter
 Stoffe. Nach Kitcher kann aber ein solcher Zusatz nach dem selben
@@ -916,17 +917,17 @@ können *solange keine übergeordneten, allgemeinere Theorien weitere
 kausal relevanten Faktoren postulieren*. Die Farbe der LED ist in
 unserem Beispiel nicht relevant für die Gültigkeit der Instanzen des
 Argumentmusters, weil bereits das kleinere und einfachere
-Ursachenbündel hinreichend für das Leuchten ist und man muss deshalb
-das einfachere Argumentmuster ohne diesen Zusatz vorziehen.
+Ursachenbündel hinreichend für das Leuchten ist, und das einfachere
+Argumentmuster ohne diesen Zusatz ist deshalb vorzuziehen.
 
 Ich setze an dieser Stelle voraus, dass es keine Eigenschaften in der
-Ursache gibt, die für eine Ableitung der Wirkung relevant wäre,
-ausser dass die Ursache hinreichend für die Wirkung ist. Insbesondere
+Ursache gibt, die für eine Ableitung der Wirkung relevant wären,
+ausser, dass die Ursache hinreichend für die Wirkung ist. Insbesondere
 lässt sich die Wirkung nicht nur mit analytischen Methoden aus der
 Ursache ableiten und gibt es auch keine Eigenschaft, wie
 z.B. Energieaustausch, die singuläre Ereignisse als Ursachen und
 Wirkungen anderer Ereignisse auszeichnet. Diese Voraussetzung ist
-allen Regularitätstheorien gemein, und deshalb keine weitere
+allen Regularitätstheorien gemein und deshalb keine weitere
 Einschränkung der Resultate dieser Arbeit. Zumindest letzteres wird
 aber durch andere Kausaltheorien in Zweifel gezogen. 
 
@@ -934,7 +935,7 @@ Sollte eine solche alternative Kausaltheorie überzeugen, erreicht man
 damit natürlich eine sehr stark vereinheitlichte Theorie, da mit einer
 solchen Kausaltheorie im besten Fall ein Argumentmuster ausreicht, um
 alle kausalen Abhängigkeiten mit Hilfe von projizierbaren Prädikaten
-zu beschreiben. Das Ziel Kitchers ist jedoch, ein empirischer Begriff
+zu beschreiben. Das Ziel Kitchers ist jedoch, einen empirischen Begriff
 von Vereinheitlichung und damit auch von Kausalität zu erreichen. Man
 kann deshalb davon ausgehen, dass nur empirische Begriffe projizierbar
 sind. Es gibt aber starke und begründete Zweifel daran, ob diese
@@ -956,7 +957,7 @@ kausalen Analysen auf verschiedenen Detailstufen umzugehen. So kann
 der elektrische Strom in der Sichtweise des Elektronikers eine direkte
 Ursache des Lichts sein, während der Physiker eine komplexe
 Kausalkette ausgehend vom unterschiedlichen Potential an den beiden
-Anschlüssen bis hin zum emittieren von Licht in den Dioden sieht. In
+Anschlüssen bis hin zur Emission von Licht in den Dioden sieht. In
 der Kausaltheorie der minimalen Theorien sind das kausale Graphen auf
 verschiedenen Ebenen und das Prinzip der persistenten Relevanz
 fordert, dass dies auf behauptete kausale Beziehungen keinen Einfluss
@@ -976,7 +977,7 @@ Prädikaten aus, um gewisse logische Spielereien und Trivialisierungen
 zu vermeiden. Sie begründen diese ausgezeichneten Prädikate jedoch
 sehr verschieden. Insbesondere behandelt Kitcher gesondert die
 Möglichkeit, dass durch eine neue wissenschaftliche Sprache $L'$ sich
-diese Menge verändern kann, respektive das mehrere alternative Mengen
+diese Menge verändern kann, respektive, dass mehrere alternative Mengen
 von ausgezeichneten Prädikaten existieren, und die wissenschaftliche
 Gemeinschaft sich für eine solche Menge entscheiden muss
 [vgl. @Kitcher1989, 488ff].
@@ -1019,7 +1020,7 @@ folgendermassen:
 
 Dieser Fall tritt immer auf, wenn $Q$ durch $P$ respektive $P$ durch
 $Q$ verursacht wird. Neben der Kausalkette sind jedoch auch
-verschränkte Epiphänomene, also zwei Wirkungstypen der selben Ursache,
+verschränkte Epiphänomene, also zwei Wirkungstypen derselben Ursache,
 die zudem noch verschränkt sind, mit den genau gleichen Koinzidenzen
 kompatibel. Das heisst, verschränkte Epiphänomene und Kausalketten
 lassen sich empirisch nicht unterscheiden und sind nach den bisher
@@ -1046,7 +1047,7 @@ müssen. Wird die Kausaltheorie der minimalen Theorien jedoch aus
 Kitchers Vereinheitlichungstheorie abgeleitet, müssen alle
 Kausalbeziehungen insgesamt minimiert werden. Das heisst, wie wir
 bereits gesehen haben, dass alle nicht minimal notwendige Listen von
-Ursachenbündel zu einem bestimmten Wirkungstyp ausgeschlossen
+Ursachenbündeln zu einem bestimmten Wirkungstyp ausgeschlossen
 sind. Das heisst aber auch, dass es ausgeschlossen ist, verschränkte
 Epiphänomene nicht kausal zu interpretieren.
 
@@ -1063,33 +1064,33 @@ Ursachen in der minimalen Theorie von $B$ auch in der
 minimalen Theorie von $C$ vorkommen [@Baumgartner2004, 296].
 
 Um diese alternative Situation jedoch in Argumentmuster zu erfassen,
-benötigt man insgesamt 3 Argumentmuster, wenn man die zusätzlichen
-Variablen für unbekannte Faktoren ausser acht lässt. Jeweils ein
-Argumentmuster um Instanzen von $C$ aus Instanzen von $A$ oder $B$
+benötigt man insgesamt drei Argumentmuster, wenn man die zusätzlichen
+Variablen für unbekannte Faktoren ausser acht lässt: jeweils ein
+Argumentmuster, um Instanzen von $C$ aus Instanzen von $A$ oder $B$
 abzuleiten, und ein drittes um Instanzen von $B$ aus Instanzen von $A$
-abzuleiten. Nach Kitchers ist demnach die erste Beschreibung der
+abzuleiten. Nach Kitcher ist demnach die erste Beschreibung der
 Situation vorzuziehen, da mit nur zwei Argumentmuster die gleiche
 Menge von Konsequenzen erklärt wird, solange wir zwei vergleichbare
 aber höchstens so stringente Argumentmuster in der zweiten
 Beschreibung finden. Dies ist möglich, da Stringenz extensional
-definiert ist und es deshalb genügt, wenn in der Welt sich die
-Ausfüllinstruktionen entsprechend überschneiden, selbst wenn dies
-nicht logisch aus den benutzten Formulierungen folgt.
+definiert ist und es deshalb genügt, wenn sich die
+Ausfüllinstruktionen extensional entsprechend überschneiden, selbst
+wenn dies nicht logisch aus den benutzten Formulierungen folgt.
 
 Da aber immer wenn $B$ auftritt, auch eine Ursache von $B$ auftreten
 muss, also entweder $AX_1$ oder $Y_B$ gegeben ist, ist das
 Argumentmuster $BX_2 \ra C$ genau so stringent wie das
-Argumentmuster $AX_1X_2 \ra C$ in der ersten Beschreibung, und das
+Argumentmuster $AX_1X_2 \ra C$ in der ersten Beschreibung und das
 Argumentmuster $AX_1 \ra B$ genau so stringent wie das gleiche
 Argumentmuster $AX_1 \ra B$ in der zweiten Beschreibung.
 
-Dies gilt für alle, nach dem Algorithmus von @Baumgartner2004
-[297,298], umgeformten Kausalgraphen. Das Resultat des Algorithmus
-wird immer insgesamt mehr kausale Beziehungen behaupten, als der
-ursprüngliche Graph, der Kausalketten benutzt. Da die beiden
-Graphen jedoch empirisch äquivalent sind, werden die jeweiligen
-Argumentmuster jeweils immer nach Stringenz vergleichbar sein und der
-Graph mit Kausalketten deshalb immer besser vereinheitlicht als der
+Dies gilt für alle nach dem Algorithmus von @Baumgartner2004 [297,298]
+umgeformten Kausalgraphen. Das Resultat des Algorithmus wird immer
+insgesamt mehr kausale Beziehungen beinhalten als der ursprüngliche
+Graph, der Kausalketten benutzt. Da die beiden Graphen jedoch
+empirisch äquivalent sind, werden die jeweiligen Argumentmuster
+jeweils immer nach Stringenz vergleichbar sein und der Graph mit
+Kausalketten deshalb immer besser vereinheitlicht sind als der
 entsprechende Graph ohne Kausalketten.
 
 Konklusion
@@ -1099,15 +1100,15 @@ In dieser Arbeit habe ich mehrere starke Ähnlichkeiten zwischen
 Kitchers Vereinheitlichungstheorie der Erklärung und der Kausaltheorie
 der minimalen Theorien von Baumgartner und Graßhoff gezeigt. Mit
 einer geeigneten Interpretation von Kitchers Vereinheitlichungstheorie
-und einigen Voraussetzungen über Kausalität lässt sich zudem mit Hilfe
+und einigen Voraussetzungen über Kausalität lässt sich mit Hilfe
 von diesen Ähnlichkeiten die Kausaltheorie der minimalen Theorien
 direkt aus Kitchers Vereinheitlichungstheorie ableiten, indem Ursachen
 mit erklärenden Ereignissen gleichgesetzt werden.
 
 Dadurch wird die von Baumgartner und Graßhoff zusätzlich postulierte
-Auflösung des Kettenproblems auf die selbe Grundlage gestellt, wie die
+Auflösung des Kettenproblems auf dieselbe Grundlage gestellt, wie die
 minimalen Theorien selbst. In beiden Fällen geht es darum, möglichst
-wenig kausale Argumentmuster zu verwenden, um möglichst viele bekannte
+wenige kausale Argumentmuster zu verwenden, um möglichst viele bekannte
 Ereignisse der Welt zu erklären.
 
 APPENDIX
@@ -1213,9 +1214,9 @@ Argumentmustern $U$, $U'$ und $U^*$ die Rede ist.
 
 Kitcher scheint auch die Begriffe injektiv, surjektiv und bijektiv
 nicht genau in ihrem normalen mathematischen Sinn zu gebrauchen. Ich
-gebe deshalb im folgenden die normalen mathematischen
-Definitionen dieser Begriffe, meine Interpretation von Kitchers
-Verwendung und eine Begründung von dieser Interpretation:
+wiederhole deshalb im folgenden die normalen mathematischen
+Definitionen dieser Begriffe, bevor ich meine Interpretation von
+Kitchers Verwendung darstelle und diese auch begründe.
 
 Eine **Funktion** $f: A \ra B$, weist jedem Element $a$ aus der
 **Definitionsmenge** $A$ ein Element $f(a)$ der **Zielmenge** $B$ zu. Dieses Element
@@ -1229,7 +1230,7 @@ Eine Funktion $f: A \ra B$ ist **surjektiv** falls jedes Element $b$ aus $B$
 Bild von mindestens einem Element $a$ ist, also die Bildmenge $\{f(a)
 | a \in A\}$ von $A$ unter $f$ gerade ganz $B$ ist.
 
-Eine Funktion $f: A \ra B$ **bijektiv**, falls sie injektiv und
+Eine Funktion $f: A \ra B$ ist **bijektiv**, falls sie injektiv und
 surjektiv ist, also jedes Element $b$ aus $B$ Bild von genau einem
 Element $a$ aus $A$ ist.
 
@@ -1245,16 +1246,16 @@ Kitcher definiert diese drei Begriffe jedoch folgendermassen:
 > of $B$ is an injection into $B$. A bijection that is onto B is a
 > surjection) [@Kitcher1989, 478]
 
-Übertragen auf unseren Sprachgebrauch ist diese Definition so zu
+Übertragen auf den normalen Sprachgebrauch ist diese Definition so zu
 verstehen, dass eine surjektive Funktion auch bereits bijektiv ist
-(und Kitcher in den folgenden Definitionen immer nur injektive
+und Kitcher in den folgenden Definitionen immer nur injektive
 Funktionen betrachtet, was er auch damit zum Ausdruck bringt, das alle
-Funktionen immer *one-one* sind). Ich gehe weiterhin davon aus, dass
+Funktionen immer *one-one* sind. Ich gehe weiter davon aus, dass
 Kitcher in seiner Definition von injektiv von einer echten Teilmenge
 von $B$ spricht. Das heisst eine injektive Funktion $f: A \ra B$ ist
 nach Kitcher nur eine *echte* injektive Funktion, in dem Sinn, dass
 sie keine bijektive Funktion ist, also ein Element $b$ aus $B$
-existiert, das nicht Bild von irgend einem Element $a$ aus $A$
+existiert, das nicht Bild von irgendeinem Element $a$ aus $A$
 ist. Ich werde deshalb im folgenden die Begriffe *echt injektiv* und
 *bijektiv* Anstatt der von Kitcher verwendeten Begriffe *injektiv* und
 *surjektiv* verwenden.  Zudem scheint Kitcher nur endliche
@@ -1295,13 +1296,13 @@ jedoch tatsächlich einfach zu zeigen, wie der folgende Beweis zeigt:
     als $f(p)$ in $U$ und damit auch echt stringenter als $g \circ
     f(p)$ in $U'$ ist. Es gilt demnach auch $g \circ f(p) \neq
     p$. Betrachten wir nun die bijektive Funktion $h := g \circ f$ von
-    $U'$ nach $U'$, sowie die Folge $h^n(p)$ von Argumentmustern in
+    $U'$ nach $U'$ sowie die Folge $h^n(p)$ von Argumentmustern in
     $U'$, die durch wiederholtes Anwenden von $h$ auf $p$
     entsteht. Es gilt $h^n(p) \neq h^m(p)$ für beliebige $n > m > 1$,
     da $h$ bijektiv ist und $h^m(p)$ bereits Bild von $h^{m-1}(p)$
     unter $h$ ist. Zudem gilt auch $h^n(p) \neq p$, da $h^n(p)$ *echt*
     stringenter als $p$ ist. Also bildet $h^n(p)$ eine unendliche
-    Folge in $U'$. Dies Widerspricht der Voraussetzung, dass $U'$ nur
+    Folge in $U'$. Dies widerspricht der Voraussetzung, dass $U'$ nur
     endlich viele Elemente enthält.
 
     Es gilt also nicht $U <_C U'$ und $U' <_C U$, und $<_C$ ist
@@ -1334,7 +1335,7 @@ jedoch tatsächlich einfach zu zeigen, wie der folgende Beweis zeigt:
     transitiv.
 
 Würde man die Begriffe *injektiv* und *surjektiv* von Kitcher nicht in
-der hier gegeben Weise interpretieren, oder würde man unendliche
+der hier gegeben Weise interpretieren oder würde man unendliche
 Mengen von Argumentmustern zulassen, entstünden folgende Probleme:
 
 1.  $<_C$ wäre trivialerweise reflexiv, d.h. $U <_C U$ würde für jede
@@ -1369,7 +1370,7 @@ Mengen von Argumentmustern zulassen, entstünden folgende Probleme:
     sie nach Stringenz vergleichbar sind, sind diejenigen, die
     durch $f$ und $g$ aufeinander abgebildet werden.
 
-4.  Ein Menge von Argumentmuster $U$ in dem ein bestimmtes
+4.  Eine Menge von Argumentmustern $U$ in der ein bestimmtes
     Argumentmuster $p$ aus $V$ aufgeteilt wird in $p_1$ und $p_2$, so
     dass $p \leq_S p_1$ und $p \leq_S p_2$ gilt, wäre besser
     vereinheitlicht als $V$. Die Funktion $f: U \ra V$, die $p_1$
@@ -1389,8 +1390,8 @@ Mengen von Argumentmustern zulassen, entstünden folgende Probleme:
 Die partielle Ordnung $\leq_C$
 ==============================
 
-Lässt man die Bedingung fallen, in (C1) seien nur echt injektive
-Funktionen zugelassen, und beschränkt sich zudem auf Mengen, die
+Lässt man die Bedingung fallen, dass in (C1) nur echt injektive
+Funktionen zugelassen sind, und beschränkt sich zudem auf Mengen, die
 keine nach Stringenz vergleichbare Argumentmuster enthalten[^str], erhält
 man die von mir verwendete nicht strikte Ordnung $\leq_C$. $\leq_C$
 ist dann nämlich trivialerweise reflexiv, wie wir im Punkt 1 oben
@@ -1398,7 +1399,7 @@ gesehen haben, und der selbe Transitivitätsbeweis funktioniert immer
 noch. Zudem ist $\leq_C$ damit symmetrisch, wie der folgende
 Beweis zeigt:
 
-Angenommen es gilt $U \leq_C U'$ und $U' \leq_C U$ für zwei Mengen von
+Angenommen, es gilt $U \leq_C U'$ und $U' \leq_C U$ für zwei Mengen von
 Argumentmuster $U$ und $U'$. Wiederum gilt also $C(S) \subseteq C(S')$
 und $C(S') \subseteq C(S)$ und damit $C(S) = C(S')$. Damit ist wieder
 (C2) ausgeschlossen und es existieren Funktionen $f: U' \ra U$ und $g:
