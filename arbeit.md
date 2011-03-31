@@ -33,14 +33,22 @@ problematische Konzepte zurückgreifen, hat aber vorerst einige Mühe,
 die Probleme der Asymmetrie und der irrelevanten Faktoren angemessen
 zu behandeln [@Kitcher1989, 420, 459].
 
-Kitcher selbst bevorzugt in dieser Frage den zweiten Weg. Er will also
-auf den Begriff der Kausalität verzichten und aufzeigen, wie die
-Probleme der Asymmetrie und der irrelevanten Faktoren durch das
-Konzept der Vereinheitlichung gelöst werden können [@Kitcher1989,
-430]. Kitcher vermutet jedoch einen engen Zusammenhang zwischen
-Vereinheitlichung und Kausalität. Er denkt, dass sein Programm der
-Erklärung durch Vereinheitlichung zur Kenntnis der kausalen
-Abhängigkeiten der Welt führt:
+Dieses epistemische Problem des Begriffs der Kausalität ist nach
+Kitchers Beschreibung ein empirisches Problem, in dem Sinn, dass wir
+beobachtbare, hinreichende und notwendige Bedingungen brauchen, um auf
+eine kausale Beziehung zwischen zwei Ereignissen schliessen zu können
+[@Kitcher1989, 460]. Das heisst, entweder der Begriff der Kausalität
+selbst, oder zumindest eine Methodik des kausalen Schliessens muss auf
+beobachtbare Konditionen zurückgeführt werden, um dieses epistemische
+Problem zu lösen.
+
+Kitcher will auf den Begriff der Kausalität verzichten und
+aufzeigen, wie die Probleme der Asymmetrie und der irrelevanten
+Faktoren durch das Konzept der Vereinheitlichung gelöst werden können
+[@Kitcher1989, 430]. Kitcher vermutet jedoch einen engen Zusammenhang
+zwischen Vereinheitlichung und Kausalität. Er denkt, dass sein
+Programm der Erklärung durch Vereinheitlichung zur Kenntnis der
+kausalen Abhängigkeiten der Welt führt:
 
 > I have been trying to show that we can make sense of scientific
 > explanation and our view of the causal structure of nature without
@@ -139,7 +147,7 @@ Vorgehensweise hat den Vorteil eine empirische Definition der
 Kausalität zu liefern. Deshalb bieten sich Regularitätstheorien der
 Kausalität auch besonders für ihre Anwendung in Kitchers Programm an,
 in dem ebenfalls eine empirische Definition von Kausalität
-angestrebt wird.
+angestrebt wird [@Kitcher1989, 460].
 
 @Baumgartner2004 [44 ff] identifizieren Koinzidenzen als die
 wesentliche empirische Grundlage einer Kausaltheorie. Eine Koinzidenz
@@ -352,7 +360,7 @@ Darstellung. Nach Kitcher selber ist Prinzip (C) nämlich asymmetrisch
 und transitiv, also eine *strikte* partielle Ordnung [@Kitcher1989,
 479]. Im Gegensatz dazu fasse ich (C) hier nicht als strikt
 auf[^part]. Der Vorteil von Kitchers Darstellung ist, dass er es
-vermeidet Equivalenzbedingungen für Argumentmuster und darauf
+vermeidet Äquivalenzbedingungen für Argumentmuster und darauf
 aufbauend für Mengen von Argumentmuster festzulegen. Auf der anderen
 Seite lässt sich Prinzip (O) mit einer nicht strikten Ordnung
 einfacher formulieren.
