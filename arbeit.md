@@ -85,19 +85,19 @@ Ereignisses. [^vok]
 
 [^vok]: Ich übernehme das Vokabular von @Baumgartner2004 [36--40]. Das
     heisst Ereignisse werden in einem sehr allgemeinen Sinn
-    aufgefasst, welcher Zustände und Zustandveränderunge
+    aufgefasst, der Zustände und Zustandveränderunge
     gleichermassen miteinbezieht. Zudem kann sich je nach Kontext der
     Begriff Ereignis sowohl auf in Raum und Zeit lokalisierbare,
-    singuläre Ereignisse beziehen, wie auf Ereignistypen, welche auf
+    singuläre Ereignisse beziehen, wie auf Ereignistypen, die auf
     verschiedene singuläre Ereignisse zutreffen und deshalb nicht in
     Raum und Zeit lokalisierbar sind. Der Begriff Faktor bezieht sich
     jedoch ausschliesslich auf Ereignistypen.
 
     Ein Bündel ist eine Liste mehrerer logisch unabhängiger
-    Ereignistypen, welche zusammen eine komplexe Ursache bilden. Das
+    Ereignistypen, die zusammen eine komplexe Ursache bilden. Das
     heisst, die Instanzen eines Ursachenbündel sind Koinzidenzen [vgl
     @Baumgartner2004, 44--46] aller Ereignistypen im Bündel, also
-    Instanzen der gegebenen Ereignistypen, welche in geeigneter
+    Instanzen der gegebenen Ereignistypen, die in geeigneter
     räumlicher und zeitlicher nähe zueinander stattfinden.
 
 
@@ -160,7 +160,7 @@ Koinzidenzen nur Mengen von räumlich und zeitlich lokalisierbaren,
 also singuläre Ereignisse sind, oder ob auch eine blosse Liste von
 Ereignisstypen als "Koinzidenztyp" aufgefasst werden kann. Ich benutze
 im folgenden den Begriff Koinzidenz immer für Mengen von singulären
-Ereignissen, welche alle in geeigneter räumlicher und zeitlicher Nähe
+Ereignissen, die alle in geeigneter räumlicher und zeitlicher Nähe
 stattfinden. Der von Baumgartner und Graßhoff ebenfalls verwendete
 Begriff des Ereignisbündels soll für ein "Koinzidenztyp" stehen, das
 heisst, für eine Konjunktion von logisch unabhängigen Ereignistypen
@@ -984,7 +984,7 @@ Durch die in dieser Arbeit gezeigten Zusammenhänge sollte es möglich
 sein, Kitchers Behandlung von den sich dabei ergebenden Problemen auf
 eine Kausaltheorie der minimalen Theorien aufgebaut auf projizierbare
 Prädikate zu übertragen. Diese Kausaltheorie wird dadurch interessant
-für Personen, welche die Vorstellung von natürlichen Prädikaten nicht
+für Personen, die die Vorstellung von natürlichen Prädikaten nicht
 teilen. Selbst wenn man diese Vorstellung akzeptiert, verändert sich
 das Wissen darüber, was natürliche Eigenschaften sind. Kitchers
 Ausführungen könnten deshalb aufschlussreich zur Behandlung solcher
@@ -1087,7 +1087,7 @@ Argumentmuster $AX_1 \ra B$ in der zweiten Beschreibung.
 Dies gilt für alle, nach dem Algorithmus von @Baumgartner2004
 [297,298], umgeformten Kausalgraphen. Das Resultat des Algorithmus
 wird immer insgesamt mehr kausale Beziehungen behaupten, als der
-ursprüngliche Graph, welcher Kausalketten benutzt. Da die beiden
+ursprüngliche Graph, der Kausalketten benutzt. Da die beiden
 Graphen jedoch empirisch equivalent sind, werden die jeweiligen
 Argumentmuster jeweils immer nach Stringenz vergleichbar sein und der
 Graph mit Kausalketten deshalb immer besser vereinheitlicht als der
@@ -1373,7 +1373,7 @@ Mengen von Argumentmustern zulassen, enständen folgende Probleme:
 4.  Ein Menge von Argumentmuster $U$ in dem ein bestimmtes
     Argumentmuster $p$ aus $V$ aufgeteilt wird in $p_1$ und $p_2$, so
     dass $p \leq_S p_1$ und $p \leq_S p_2$ gilt, wäre besser
-    vereinheitlicht als $V$. Die Funktion $f: U \ra V$ welche $p_1$
+    vereinheitlicht als $V$. Die Funktion $f: U \ra V$, die $p_1$
     und $p_2$ auf $p$ abbildet, und alle anderen Argumentmuster auf
     sich selbst, würde dann nämlich den Bedingungen von (C1) genügen.
     Dies scheint im Widerspruch zu folgender nicht ganz eindeutigen
