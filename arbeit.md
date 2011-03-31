@@ -324,12 +324,13 @@ aufbauend für Mengen von Argumentmuster festzulegen. Auf der anderen
 Seite lässt sich Prinzip (O) mit einer nicht strikten Ordnung
 einfacher formulieren.
 
- Im Anhang befindet sich eine genauere Betrachtung dieser Prinzipien
-und Beweise für die im folgenden, von Kitcher übernommenen Behauptung
+Im Anhang befindet sich eine genauere Betrachtung dieser Prinzipien
+und Beweise für die folgenden von Kitcher übernommenen Behauptungen
 [@Kitcher1989, 479], es handle sich bei (T),(R) auf der einen Seite
-und (C) auf der anderen Seite um partielle Ordnungen. Hier werde ich
-nur für das eigentliche Theme dieser Arbeit wesentliche Aspekte von
-Kitchers Vereinheitlichungsbegriffs widergeben.
+und (C) auf der anderen Seite um partielle Ordnungen. Dort findet man
+auch eine ausführliche Begründung für die im folgenden wiedergegeben,
+für das eigentliche Thema dieser Arbeit wesentlichen Aspekte meiner
+Interpretation von Kitchers Vereinheitlichungsbegriffs.
 
 [^part]: In der Mathematik ist eine partielle Ordnung definiert als
     eine Relation $R$ auf einer Menge $M$, so dass die folgenden drei
@@ -393,17 +394,21 @@ erfüllt ist:
     als $V$ (C1).
 
 3.  $U$ erklärt mit mindestens so stringenter Argumentmuster eine
-    grössere Menge von Konsequenzen als $V$ (C2).[^erkl]
+    grössere Menge von Konsequenzen als $V$ (C2).
 
-[^erkl]: $U$ erklärt dabei eine Aussage $a$ genau dann, wenn es ein
-    Argumentmuster $p$ in $U$ zusammen mit einer mit $K$ vereinbaren
-    Instanz dieses Argumentmusters gibt, so dass die Aussage $a$ die
-    Konklusion dieser Instanz ist.
+$U$ erklärt dabei eine Aussage $a$ genau dann, wenn es ein
+Argumentmuster $p$ in $U$ zusammen mit einer mit $K$ vereinbaren
+Instanz dieses Argumentmusters gibt, so dass die Aussage $a$ die
+Konklusion dieser Instanz ist.
 
-Zudem genügt es zu wissen, dass ein Argumentmuster $p$ stringenter ist
-als ein Argumentmuster $q$, falls $p$ die gleiche Struktur wie $q$
-besitzt (also die gleichen schematischen Sätze mit der gleichen
-Klassifikation), und $p$ weniger Instanzen zulässt als $q$.
+Die Stringenzbedingungen sind so zu verstehen, dass jedem
+Argumentmuster in $U$ ein höchstens so stringentes Argumentmuster in
+$V$ zugeordnet werden muss. Diese Zuordnung darf jedem Argumentmuster
+aus $V$ höchstens ein Argumentmuster aus $U$ zuordnen.  Dabei ist ein
+Argumentmuster $p$ stringenter ist als ein Argumentmuster $q$, falls
+$p$ die gleiche Struktur wie $q$ besitzt (also die gleichen
+schematischen Sätze mit der gleichen Klassifikation), und $p$ weniger
+Instanzen zulässt als $q$.
 
 Die partielle Ordnung $\leq_C$ auf Mengen von Argumentmustern lässt
 sich auf Systematisierungen (also Mengen von Ableitungen) übertragen,
@@ -1172,7 +1177,7 @@ Argumentmuster aufeinaner abbilden. Insbesondere werden Argumente und
 Bilder der Funktionen nach ihrer Stringenz verglichen. $S$, $S'$ und
 $S^*$ sind jedoch Mengen von Ableitungen, die nicht mehr nach
 Stringenz vergleichbar sind. Ich gehe deshalb davon aus, dass dies ein
-Fehler in Kitchers Paper ist, und tatsächlich Funktionen zwischen den
+Fehler in Kitchers Text ist, und tatsächlich Funktionen zwischen den
 Mengen von Argumentmustern $U$, $U'$ und $U^*$ gemeint sind. Diese
 Interpretation ist auch konsistent mit Kitchers Formulierung von
 Prinzip (U), in der tatsächlich von Funktionen zwischen den Mengen von
@@ -1184,17 +1189,27 @@ gebe deshalb im folgenden die normalen mathematischen
 Definitionen dieser Begriffe, meine Interpretation von Kitchers
 Verwendung und eine Begründung von dieser Interpretation:
 
-Eine Funktion $f: A \ra B$, weist jedem Element $a$ aus der
-Defintionsmenge $A$ ein Element $f(a)$ der Zielmenge $B$ zu. Dieses Element
-$f(a)$ heisst Bild von $a$ unter $f$. Die Funktion $f$ ist injektiv
-falls jedes Element $b$ aus $B$ Bild von höchstens einem Element $a$
-aus $A$ ist, also folgender Zusammenhang gilt: $f(a) = f(b) \Ra a =
-b$. Die Funktion $f$ ist surjektiv falls jedes Element $b$ aus $B$
-Bild von mindestens einem Element $a$ ist, also die Bildmenge $\{f(a) |
-a \in A\}$ von $A$ unter $f$ gerade ganz $B$ ist. Zuguterletzt ist die
-Funktion $f$ bijektiv, falls sie injektiv und surjektiv ist, also
-jedes Element $b$ aus $B$ Bild von genau einem Element $a$ aus $A$
-ist.
+Eine **Funktion** $f: A \ra B$, weist jedem Element $a$ aus der
+**Defintionsmenge** $A$ ein Element $f(a)$ der **Zielmenge** $B$ zu. Dieses Element
+$f(a)$ heisst **Bild** von $a$ unter $f$. 
+
+Eine Funktion $f: A \ra B$ ist **injektiv** falls jedes Element $b$ aus $B$ Bild von
+höchstens einem Element $a$ aus $A$ ist, also folgender Zusammenhang
+gilt: $f(a) = f(b) \Ra a = b$.
+
+Eine Funktion $f: A \ra B$ ist **surjektiv** falls jedes Element $b$ aus $B$
+Bild von mindestens einem Element $a$ ist, also die Bildmenge $\{f(a)
+| a \in A\}$ von $A$ unter $f$ gerade ganz $B$ ist.
+
+Eine Funktion $f: A \ra B$ **bijektiv**, falls sie injektiv und
+surjektiv ist, also jedes Element $b$ aus $B$ Bild von genau einem
+Element $a$ aus $A$ ist.
+
+Die **Verknüpfung** $f \circ g: A \ra C$ zweier Funktionen $f: B \ra
+C$ und $g: A \ra B$ ist die Funktion von $A$ nach $C$ die entsteht,
+wenn auf ein Element $x \in A$ zuerst $g$ und dann $f$ angewendet
+wird. Das heisst $f \circ g(x) = f(g(x))$ für alle $x \in A$.
+
 
 Kitcher definiert diese drei Begriffe jedoch folgendermassen:
 
@@ -1214,7 +1229,7 @@ sie keine bijektive Funktion ist, also ein Element $b$ aus $B$
 existiert, das nicht Bild von irgend einem Element $a$ aus $A$
 ist. Ich werde deshalb im folgenden die Begriffe *echt injektiv* und
 *bijektiv* Anstatt der von Kitcher verwendeten Begriffe *injektiv* und
-*surjektiv* verwenden.  Zu guter letzt scheint Kitcher nur endliche
+*surjektiv* verwenden.  Zudem scheint Kitcher nur endliche
 Mengen von Argumentmuster in Betracht zu ziehen (die natürlich eine
 unendliche Menge von Instanzen haben können).
 
@@ -1245,7 +1260,7 @@ jedoch tatsächlich einfach zu zeigen, wie der folgende Beweis zeigt:
     $|U'|$ in $U'$: $|U| \leq |U'|$ und $|U'| \leq |U|$. Daraus folgt
     aber $|U| = |U'|$ und somit sind $f$ und $g$ bijektiv, da
     injektive Funktionen zwischen endlichen Mengen mit gleich vielen
-    Elementen immer bereits bijektiv sind. [^endl]
+    Elementen immer bereits bijektiv sind.
 
     Das heisst, $f$ und $g$ sind *nicht* echt injektiv, und es gibt
     ein Argumentmuster $p$ in $U'$, so dass dieses *echt* stringenter
@@ -1326,6 +1341,23 @@ Mengen von Argumentmustern zulassen, enständen folgende Probleme:
     sie nach Stringenz vergleichbar sind, sind diejenigen, die
     durch $f$ und $g$ aufeinander abgebildet werden.
 
+4.  Ein Menge von Argumentmuster $U$ in dem ein bestimmtes
+    Argumentmuster $p$ aus $V$ aufgeteilt wird in $p_1$ und $p_2$, so
+    dass $p \leq_S p_1$ und $p \leq_S p_2$ gilt, wäre besser
+    vereinheitlicht als $V$. Die Funktion $f: U \ra V$ welche $p_1$
+    und $p_2$ auf $p$ abbildet, und alle anderen Argumentmuster auf
+    sich selbst, würde dann nämlich den Bedingungen von (C1) genügen.
+    Dies scheint im Widerspruch zu folgender nicht ganz eindeutigen
+    Aussage von Kitcher über genau solch eine Situation:
+
+    > Now, of course, it begins to look as though the basis of S' will
+    > lose on the paucity of patterns but win on
+    > stringency. [@Kitcher1989, 481]
+
+	In dieser Aussage scheint Kitcher davon auszugehen, dass $U$ und
+	$V$ und ihre Instanzmengen $S'$ und $S$ nicht vergleichbar sind,
+	da sich zwei seiner gegebenen Kriterien widersprechen.
+
 Lässt man die Bedingung fallen, in (C1) seien nur echt injektive
 Funktionen zugelassen, und beschränkt sich zudem auf Mengen, die
 keine nach Stringenz vergleichbare Argumentmuster enthalten[^str], erhält
@@ -1341,12 +1373,15 @@ und $C(S') \subseteq C(S)$ und damit $C(S) = C(S')$. Damit ist wieder
 (C2) ausgeschlossen und es existieren Funktionen $f: U' \ra U$ und $g:
 U \ra U'$, die den Bedingungen von (C1) genügen. Gäbe es ein
 Argumentmuster $p$ in $U'$, so dass dieses echt stringenter als $f(p)$
-ist, dann wäre es auch echt stringenter als $g \circ f(p)$ in
-$U'$. Diesen Fall haben wir jedoch ausgeschlossen. Es gibt also keine
-solchen Argumentmuster und $g$ ist die Umkehrfunktion von $f$, d.h. $g
-\circ f(p) = p$ für alle $p$ in $U'$. In dem Fall haben $U$ und $U'$ genau
-gleich viele Elemente und es gilt jeweils $p = g \circ f(p) \leq_S f(p)
-\leq_S p$, woraus $p = f(p)$ folgt. $\leq_C$ ist also symmetrisch.
+ist, dann wäre es auch echt stringenter als $g \circ f(p)$ in $U'$ und
+daraus würde $g \circ f(p) \neq p$ folgen. $p \in U'$ und $g \circ
+f(p) \in U'$ sind damit aber zwei verschiedene nach Stringenz
+vergleichbare Argumentmuster in $U'$, einen  Fall den wir
+ausgeschlossen haben. Es gibt also keine solchen Argumentmuster und
+$g$ ist die Umkehrfunktion von $f$, d.h. $g \circ f(p) = p$ für alle
+$p$ in $U'$. In dem Fall haben $U$ und $U'$ genau gleich viele
+Elemente und es gilt jeweils $p = g \circ f(p) \leq_S f(p) \leq_S p$,
+woraus $p = f(p)$ folgt. $\leq_C$ ist also symmetrisch.
 
 [^str]: Dies ist legitim, weil Mengen von Argumentmuster $U$, die
 mehrere nach Stringenz vergleichbare Argumentmuster $p \leq_S q$
@@ -1358,6 +1393,16 @@ injektiv und erfüllt die Bedingungen von (C1). Zudem sind die
 Instanzen $I(q)$ von $q$ in den Instanzen $I(p)$ von $p$ enthalten,
 woraus auch folgt, dass die gleiche Systematisierunge $S$ von $U$ und
 $V$ generiert wird.
+
+Es ist klar, dass bei endlichen Mengen die Definitionsmenge einer echt
+injektiven Funktion echt weniger Elemente enthält als die Zielmenge, da
+jedem Element aus der Zielmenge höchstens ein Element aus der
+Definitionsmenge zugeordnet wird. Zudem haben Definitionsmengen von
+bijektiven Funktionen genau gleich viele Elemente wie deren
+Zielmengen. Mit meiner Interpretation, dass Kitcher nur endliche
+Mengen von Argumentmuster und nur injektive Funktionen zwischen diesen
+Mengen in Betracht zieht, ist also die im Haupttext verwendete
+Zusammenfassung von Kitchers Prinzip (C) korrekt.
 
 Literatur
 =========
