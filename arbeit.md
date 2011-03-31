@@ -144,28 +144,28 @@ angestrebt wird [@Kitcher1989, TODO].
 
 @Baumgartner2004 [44 ff] identifizieren Koinzidenzen als die
 wesentliche empirische Grundlage einer Kausaltheorie. Eine Koinzidenz
-ist nach Ihnen [@Baumgartner2004, 45] eine Konjunktion von logisch
-unabhängigen Ereignistypen, die gemeinsam, d.h. in geeigneter
-zeitlicher und räumlicher Nähe, instantiiert sind. Sie vermeiden es
-dabei bewusst, die geeignete zeitliche und räumliche Nähe absolut
-festzulegen, da diese vom untersuchten kausalen Prozess abhänging
-ist. Zudem vermeiden Sie, dass die einzelnen Ereignisse eines
-Ursachenbündels genau zur gleichen Zeit stattfinden müssen. Eine
+ist nach Ihnen eine Konjunktion von logisch unabhängigen
+Ereignistypen, die gemeinsam, d.h. in geeigneter zeitlicher und
+räumlicher Nähe, instantiiert sind [@Baumgartner2004, 45]. Sie
+vermeiden es dabei bewusst, die geeignete zeitliche und räumliche Nähe
+absolut festzulegen, da diese vom untersuchten kausalen Prozess
+abhänging ist. Zudem vermeiden Sie, dass die einzelnen Ereignisse
+eines Ursachenbündels genau zur gleichen Zeit stattfinden müssen. Eine
 empirisch ädequate Kausaltheorie muss im Minimum kompatible mit allen
 Beobachteten Koinzidenzen sein, und zudem eine kausale Erklärung von
 allen beobachteten Ereignissen liefern.
 
 Es ist nicht ganz eindeutig, ob nach @Baumgartner2004 Koinzidenzen nur
-räumlich und zeitlich lokalisierbare, also singuläre, Mengen von
-singulären Ereignisse sind, oder ob auch eine blosse Liste von
-Ereignisstypen als "Koinzidenztyp" aufgefasst werden kann. Ich benutze
-im folgenden den Begriff Koinzidenz immer für Mengen von singulären
-Ereignissen, welche alle in geeigneter räumlicher und zeitlicher
-Nähe stattfinden. Der von @Baumgartner2004 ebenfalls verwendete
-Begriff des Ereignisbündels soll für ein "Koinzidenztyp" stehen, das
-heisst, für eine Konjunktion von logisch unabhängigen Ereignistypen
-mit der zusätzlichen Bedingung, dass die Instanzen der Ereignistypen
-in geeigneter räumlicher und zeitlicher Nähe stattfinden müssen.
+Mengen von räumlich und zeitlich lokalisierbaren, also singuläre
+Ereignisse sind, oder ob auch eine blosse Liste von Ereignisstypen als
+"Koinzidenztyp" aufgefasst werden kann. Ich benutze im folgenden den
+Begriff Koinzidenz immer für Mengen von singulären Ereignissen, welche
+alle in geeigneter räumlicher und zeitlicher Nähe stattfinden. Der von
+@Baumgartner2004 ebenfalls verwendete Begriff des Ereignisbündels soll
+für ein "Koinzidenztyp" stehen, das heisst, für eine Konjunktion von
+logisch unabhängigen Ereignistypen mit der zusätzlichen Bedingung,
+dass die Instanzen der Ereignistypen in geeigneter räumlicher und
+zeitlicher Nähe stattfinden müssen.
 
 Eine Koinzidenz ist demnach genau dann eine Instanz von einem
 bestimmten Ereignisbündel, wenn in dieser Koinzidenz eine Instanz von
@@ -406,7 +406,7 @@ Grenze zu je zwei beliebigen Mengen von Argumentmustern existiert. Das
 heisst, gegeben zwei solcher Mengen $U$ und $U'$, existiert eine, oder
 mehrere, Mengen von Argumentmustern $U^*$, so dass sowohl $U \leq_C
 U^*$ und $U' \leq_C U^*$ gilt, wobei $A \leq_C B$ dafür steht, dass
-$A$ nach Prinizip (C) höchstens so vereinheitlicht ist wie $B$.[^latt]
+$A$ nach Prinizip (C) höchstens so vereinheitlicht ist wie $B$.
 
 Dies ist trivialerweise gegeben, falls $U$ und $U'$ vergleichbar sind,
 in dem wir $U^* = max(U,U')$ setzen. Falls $U$ und $U'$ jedoch nicht
@@ -453,15 +453,6 @@ dass jede Ableitung in $S$ eine Instanz von einem Argumentmuster in
 $U$ und jede Ableitung in $T$ eine Instanz von einem Argumentmuster in
 $V$ ist. $S$ ist genau dann besser Vereinheitlicht als $T$, wenn $V
 \leq_C U$ gilt.[^compl]
-
-
-[^latt]: Dies ist eine Bedingung die auch von Semi-Lattices erfüllt
-    wird. Zusätzlich muss in einem Semi-Lattice aber auch eine
-    eindeutige kleinste obere Schranke (Supremum) $a \vee b$ zu zwei
-    beliebigen Elementen $a,b \in M$ (vgl. Fussnote 1) existieren. Es
-    gilt, wie für jede obere Schranke, $a \leq a \vee b$ und $b \leq a
-    \vee b$. Zusätzlich gilt aber auch für jede weitere obere Schranke
-    $o$ von $a$ und $b$, dass $a \vee b \leq o$ gilt.
 
 [^compl]: An dieser Stelle verwendet Kitcher eine stärkere Version von
     seinem Prinzip (O). Er geht nämlich nicht nur davon aus, dass zu
@@ -1117,11 +1108,8 @@ Ereignisse der Welt zu erklären.
 
 APPENDIX
 
-Math. Beweise
-=============
-
 Die partielle Ordnung (T),(R)
------------------------------
+=============================
 
 Kitcher definiert mit Hilfe des Prinizips (T) eine partielle Ordnung
 auf Argumentmustern mit gleicher Struktur [@Kitcher1989, 479]. Demnach
@@ -1168,19 +1156,20 @@ reflexiv, aber nicht symmetrisch ist). Er vermeidet damit,
 Argumentmuster in der Weise gleichsetzen zu müssen, wie das hier
 geschieht.
 
-3. Angenommen, es gilt $p \leq_S q$ und $q \leq_S r$. Es gilt also
-$I(r) \subseteq I(q) \subseteq I(p)$, woraus auch $I(r) \subseteq
-I(p)$ folgt. Gilt eine oder beide der Ungleichungen wegen dem Prinzip
-(R), dann gilt auch $p \leq_S r$ nach (R), da alle schematischen
-Sätze von $p$ in $q$ und damit auch in $r$ enthalten sind. Wurde in
-beiden Fällen Prinzip (T) verwendet, hat $p$ die gleiche Struktur wie
-$q$ und damit auch wie $r$, und es gilt $p \leq_S r$ nach (T).
+3. Angenommen, es gilt $p \leq_S q$ und $q \leq_S r$. Daraus folgt
+nach Definition $I(r) \subseteq I(q) \subseteq I(p)$, woraus auch
+$I(r) \subseteq I(p)$ folgt. Gilt eine oder beide der Ungleichungen
+wegen dem Prinzip (R), dann gilt auch $p \leq_S r$ nach (R), da alle
+schematischen Sätze von $p$ in $q$ und damit auch in $r$ enthalten
+sind. Wurde in beiden Fällen Prinzip (T) verwendet, hat $p$ die
+gleiche Struktur wie $q$ und damit auch wie $r$, und es gilt $p \leq_S
+r$ nach (T).
 
 $\leq_S$ ist also eine partielle Ordnung auf der Menge aller
 Argumentmuster.
 
 Die strikte partielle Ordnung (C)
----------------------------------
+=================================
 
 Ich werde im folgenden (wie auch Kitcher) $U$, $U'$ und $U^*$ für
 Mengen von Argumentmustern sowie $S$, $S'$ und $S^*$ für die
@@ -1392,6 +1381,9 @@ Mengen von Argumentmustern zulassen, enständen folgende Probleme:
 	In dieser Aussage scheint Kitcher davon auszugehen, dass $U$ und
 	$V$ und ihre Instanzmengen $S'$ und $S$ nicht vergleichbar sind,
 	da sich zwei seiner gegebenen Kriterien widersprechen.
+
+Die partielle Ordnung $\leq_C$
+==============================
 
 Lässt man die Bedingung fallen, in (C1) seien nur echt injektive
 Funktionen zugelassen, und beschränkt sich zudem auf Mengen, die
