@@ -1082,6 +1082,8 @@ minimalen Theorien selbst. In beiden Fällen geht es darum, möglichst
 wenig kausale Argumentmuster zu verwenden, um möglichst viele bekannte
 Ereignisse der Welt zu erklären.
 
+APPENDIX
+
 Math. Beweise
 =============
 
@@ -1406,3 +1408,4 @@ Zusammenfassung von Kitchers Prinzip (C) korrekt.
 
 Literatur
 =========
+

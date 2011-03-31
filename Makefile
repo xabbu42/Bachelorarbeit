@@ -5,6 +5,9 @@ PANDOC=--standalone --number-sections --smart --parse-raw --include-in-header ./
 
 all: arbeit.pdf #notizen.pdf essay.pdf 
 
+arbeit.latex : arbeit.md Makefile header.tex literatur.bib
+	pandoc $(PANDOC) -t latex $< | perl -pne 's/APPENDIX/\\begin{appendix}/; s/\\end{document}/\\end{appendix}\n\\end{document}/;' > $@
+
 %.latex : %.md Makefile header.tex literatur.bib
 	pandoc $(PANDOC) -t latex $< > $@
 
