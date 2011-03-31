@@ -34,7 +34,7 @@ die Probleme der Asymmetrie und der irrelevanten Faktoren angemessen
 zu behandeln [@Kitcher1989, 420, 459].
 
 Kitcher selbst bevorzugt in dieser Frage den zweiten Weg. Er will also
-auf den Rückgriff auf Kausalität verzichten und aufzeigen, wie die
+auf den Begriff der Kausalität verzichten und aufzeigen, wie die
 Probleme der Asymmetrie und der irrelevanten Faktoren durch das
 Konzept der Vereinheitlichung gelöst werden können [@Kitcher1989,
 430]. Kitcher vermutet jedoch einen engen Zusammenhang zwischen
@@ -101,10 +101,10 @@ Ereignisses. [^vok]
     räumlicher und zeitlicher nähe zueinander stattfinden.
 
 In dieser Voraussetzung inbegriffen sind auch einige generelle
-Prinzipien über Kausalität, wie sie in [@Baumgartner2004, 68ff]
+Prinzipien über Kausalität, wie sie in @Baumgartner2004 [68ff]
 beschrieben werden. Es handelt sich dabei nur um eine erste
 Explikation vom Begriff der Kausalität, in dem Sinn, dass Kausalität
-im Minimum diesen Prinzipien folgen muss und noch nicht um eine
+im Minimum diesen Prinzipien folgen muss, und noch nicht um eine
 vollständige Theorie der Kausalität. Es ist der Anspruch von
 Baumgartner und Graßhoff, dass diese Prinzipien für jede Kausaltheorie
 gelten müssen, ansonsten handelt es sich nicht mehr um Kausalität im
@@ -224,9 +224,9 @@ darstellen, sondern müssen sowohl räumlich als auch zeitlich
 lokalisierbar sein [@Baumgartner2004, 37]. Diese Einschränkung
 überträgt sich natürlich auf Ereignistypen, die demnach nur auf
 räumlich und zeitlich lokalisierbare Ereignisse zutreffen dürfen.
-Demnach können beliebig weit von einander entfernte Ereignisse wie
+Demnach können beliebig weit von einander entfernte Ereignisse, wie
 z.B.  das Senden von Radiosignalen von einer Antenne und das
-Einschalten eines Radios nicht unter einem Begriff "Senden und
+Einschalten eines Radios, nicht unter einem Begriff "Senden und
 Einschalten" zusammengefasst werden. Der Begriff "Senden oder
 Einschalten" trifft jedoch sehr wohl nur auf zeitlich und räumlich
 lokalisierbare Ereignisse zu, nämlich entweder auf ein Senden von
@@ -272,15 +272,16 @@ nach Kitcher eine erste Definition von Vereinheitlichung:
 Sowohl diese Definition wie auch Friedmanns eigene Definition haben
 jedoch technische Schwierigkeiten, die nach @Kitcher1989 [432] in
 @Kitcher1976 und @Salmon1989 gezeigt wurden. Kitcher schlägt deshalb
-eine Erweiterung dieser Definition vor: Die Ableitungen einer
-Systematisierung $S$ werden in verschiedene Argumentmuster ("argument
-patterns") klassifiziert. Der Grad der Vereinheitlichung, den $S$
-erreicht, wird dann ausschliesslich aus Eigenschaften der
-Argumentmuster bestimmt. Diese Erweiterung ermöglicht es Kitcher den
-Fokus von Prämissen und der Konklusion auf die Ableitung selber zu
-verschieben. Neu sind die Ähnlichkeiten von an sich verschiedenen
-Ableitungen entscheidend für den Grad der Vereinheitlichung einer
-Systematisierung $S$ [vgl. @Kitcher1989, 432].
+eine Erweiterung dieser Definition vor: 
+
+Die Ableitungen einer Systematisierung $S$ werden in verschiedene
+Argumentmuster ("argument patterns") klassifiziert. Der Grad der
+Vereinheitlichung, den $S$ erreicht, wird dann ausschliesslich aus
+Eigenschaften der Argumentmuster bestimmt. Diese Erweiterung
+ermöglicht es Kitcher den Fokus von Prämissen und der Konklusion auf
+die Ableitung selber zu verschieben. Neu sind die Ähnlichkeiten von an
+sich verschiedenen Ableitungen entscheidend für den Grad der
+Vereinheitlichung einer Systematisierung $S$ [vgl. @Kitcher1989, 432].
 
 Nach @Kitcher1989 [432] besteht ein Argumentmuster aus drei Teilen:
 
@@ -376,8 +377,8 @@ Interpretation von Kitchers Vereinheitlichungsbegriffs.
     bekannten totalen Ordnungen (wie z.B. $\leq$ auf den reellen
     Zahlen) ausschliesslich dadurch, dass es nicht vergleichbare
     Elemente geben kann. Es ist also bei einer partiellen Ordnung $R$
-    möglich, dass es Elemente $a,b \in M$ gibt, so dass weder $aRb$
-    noch $bRa$ gilt.
+    möglich, dass es zwei verschiedene Elemente $a,b \in M$ gibt, so
+    dass weder $aRb$ noch $bRa$ gilt.
 
     Nach @Kitcher1989 [479] selber, ist (C) asymmetrisch und
     transitiv. Das bedeutet nach Kitcher definiert (C) eine strikte
@@ -396,10 +397,10 @@ Interpretation von Kitchers Vereinheitlichungsbegriffs.
     einfach ableiten. 
 
 Kitcher definiert also auf allen Mengen von Argumentmustern eine partielle
-Ordnung, mit Hilfe des Prinzips (C) [@Kitcher1989, 478--479]
+Ordnung, mit Hilfe des Prinzips (C) [@Kitcher1989, 478, 479]
 und der exakten Definition eines komparativen Stringenz-Begriffs
-(T),(R) [@Kitcher1989, 479, 480] (die wiederum eine partielle
-Ordnung aller Argumentmuster festlegt). Durch das Prinzip (O) drückt
+(T),(R) [@Kitcher1989, 479, 480], die wiederum eine partielle
+Ordnung aller Argumentmuster festlegt. Durch das Prinzip (O) drückt
 er die Hoffnung aus, dass mit dieser partiellen Ordnung eine obere
 Grenze zu je zwei beliebigen Mengen von Argumentmustern existiert. Das
 heisst, gegeben zwei solcher Mengen $U$ und $U'$, existiert eine, oder
@@ -739,7 +740,7 @@ einem Argumentmuster zu kombinieren, ist nicht zulässig:
 Eine Instanz eines solchen Argumentmusters müsste jeweils sowohl
 $\alpha$ als auch $\beta$ ausfüllen und nicht nur eines der
 beiden. Ein solches Argumentmuster wäre also nur auf überdeterminierte
-LEDS anwendbar, entgegen der Absicht, zwei alternative Ursachen in
+LEDs anwendbar, entgegen der Absicht, zwei alternative Ursachen in
 einem Argumentmuster zu kombinieren.
 
 In einem zweiten Versuch kann man nur eine Variable $\alpha$ benutzen,
@@ -752,14 +753,14 @@ bereits erwähnte folgende Argumentmuster:
 > richtigen Orientierung liegt, leuchtet. In der Situation $\alpha$
 > sind diese Bedingungen erfüllt. Also leuchtet die LED in $\alpha$.
 
-In @Kitcher1989 [482] dagegen wird von den verwendeten Prädikaten gefordert,
+@Kitcher1989 [482] fordert jedoch von den verwendeten Prädikaten,
 dass diese projizierbar sind. Beliebige logische Verknüpfungen von
 projizierbaren Prädikaten, also insbesondere eine Disjunktion
 verschiedener Ursachenbündel, ist im Allgemeinen nicht mehr
 projizierbar. Dieses Argumentmuster ist deshalb nicht zulässig.
 
 Ein sehr ähnliches Problem stellt sich auch bei der Kausaltheorie der
-minimalen Theorien. Die minimalen Theorie zum Leuchten von LED's: $SO
+minimalen Theorien. Die minimalen Theorie zum Leuchten von LEDs: $SO
 \vee LW \Ra W$ könnte man nämlich zu einer kleineren minimalen Theorie
 $AB \Ra W$ vereinfachen, in dem wir neue Prädikate $A$ und $B$
 einführen, die extensional mit $S \vee L$ und $O \vee W$
@@ -802,12 +803,12 @@ beliebige Systematisierung $S$, die die komplette Instantiierung
 einer generierenden Menge von Argumentmustern $U$ ist [vgl
 @Kitcher1989, 434]. Gehen wir zudem davon aus, $U$ enthalte die zu der
 *nicht* minimalen Theorie $AB \vee CD \vee EF \Ra W$ entsprechenden
-Argumentmuster. Das heisst in $U$ sind drei kausale Argumentmuster,
+Argumentmuster. Das heisst, in $U$ sind drei kausale Argumentmuster,
 die Ableitung von Instanzen von $W$ aus Instanzen der drei
 verschiedenen Ursachenbündel $AB$, $CD$ und $EF$ generieren. Da nach
 der Voraussetzung die angegebene Theorie nicht minimal notwendig ist,
 gibt es eine echte Teilmenge dieser drei Ursachenbündel, die immer
-noch notwendig für $W$ ist, in unserem Beispiel sei dies $AB \vee
+noch notwendig für $W$ ist. In unserem Beispiel sei dies $AB \vee
 CD$. In dem Fall generiert die entsprechende echte Teilmenge der drei
 kausalen Argumentmuster für jede Instanz von $W$ ein Argument. Gibt es
 nämlich eine Instanz von $W$, die durch diese Teilmenge von
@@ -922,12 +923,12 @@ Einschränkung der Resultate dieser Arbeit. Zumindest letzteres wird
 aber durch andere Kausaltheorien in Zweifel gezogen. 
 
 Sollte eine solche alternative Kausaltheorie überzeugen, erreicht man
-damit natürlich eine sehr stark vereinheitlichte Theorie, da in dem
-Fall im besten Fall ein Argumentmuster ausreicht um alle kausalen
-Abhängigkeiten mit Hilfe von projizierbaren Prädikaten zu
-beschreiben. Das Ziel Kitchers ist jedoch, ein empirischer Begriff von
-Vereinheitlichung und damit auch von Kausalität zu erreichen. Man kann
-deshalb davon ausgehen, dass nur empirische Begriffe projizierbar
+damit natürlich eine sehr stark vereinheitlichte Theorie, da mit einer
+solchen Kausaltheorie im besten Fall ein Argumentmuster ausreicht, um
+alle kausalen Abhängigkeiten mit Hilfe von projizierbaren Prädikaten
+zu beschreiben. Das Ziel Kitchers ist jedoch, ein empirischer Begriff
+von Vereinheitlichung und damit auch von Kausalität zu erreichen. Man
+kann deshalb davon ausgehen, dass nur empirische Begriffe projizierbar
 sind. Es gibt aber starke und begründete Zweifel daran, ob diese
 alternativen Kausaltheorien tatsächlich mit Hilfe von empirischen
 Begriffen formulierbar sind.
@@ -955,13 +956,6 @@ hat. Zudem können die verwendeten Begriffe der verschiedenen Ebenen
 nicht gemischt werden, da keine logischen Abhängigkeiten zwischen den
 Ereignistypen einer Koinzidenz bestehen dürfen.
 
-TODO: Gleichzeitig will er aber verhindern, dass sein Erklärungsbegriff
-voraussetzt, moderne und komplexe Theorien der Spezialwissenschaften
-zu kennen und zu verstehen, um Erklärungen von alltäglichen Phänomenen
-zu erkennen. Es sollte also möglich sein auch ohne genaue Kenntnis der
-involvierten Chemie und Physik, unnötige Zusätze wegzulassen
-[@Kitcher1989, TODO].
-
 Folgerungen
 ===========
 
@@ -981,7 +975,7 @@ Gemeinschaft sich für eine solche Menge entscheiden muss
 
 Durch die in dieser Arbeit gezeigten Zusammenhänge sollte es möglich
 sein, Kitchers Behandlung von den sich dabei ergebenden Problemen auf
-eine Kausaltheorie der minimalen Theorien aufgebaut auf projizierbare
+eine Kausaltheorie der minimalen Theorien basierend auf projizierbare
 Prädikate zu übertragen. Diese Kausaltheorie wird dadurch interessant
 für Personen, die die Vorstellung von natürlichen Prädikaten nicht
 teilen. Selbst wenn man diese Vorstellung akzeptiert, verändert sich
@@ -1065,12 +1059,10 @@ benötigt man insgesamt 3 Argumentmuster, wenn man die zusätzlichen
 Variablen für unbekannte Faktoren ausser acht lässt. Jeweils ein
 Argumentmuster um Instanzen von $C$ aus Instanzen von $A$ oder $B$
 abzuleiten, und ein drittes um Instanzen von $B$ aus Instanzen von $A$
-abzuleiten.
-
-Nach Kitchers ist demnach die erste Beschreibung der Situation
-vorzuziehen, da mit nur zwei Argumentmuster die gleiche Menge von
-Konsequenzen erklärt wird, solange wir zwei vergleichbare aber
-höchstens so stringente Argumentmuster in der zweiten
+abzuleiten. Nach Kitchers ist demnach die erste Beschreibung der
+Situation vorzuziehen, da mit nur zwei Argumentmuster die gleiche
+Menge von Konsequenzen erklärt wird, solange wir zwei vergleichbare
+aber höchstens so stringente Argumentmuster in der zweiten
 Beschreibung finden. Dies ist möglich, da Stringenz extensional
 definiert ist und es deshalb genügt, wenn in der Welt sich die
 Ausfüllinstruktionen entsprechend überschneiden, selbst wenn dies
