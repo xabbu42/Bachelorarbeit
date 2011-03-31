@@ -9,7 +9,7 @@ Kitcher verfolgt in seiner Arbeit "Explanatory unification and causal
 structure" [@Kitcher1989] das ambitiöse Ziel, der Begriff der
 Kausalität auf einen von ihm entwickelten Begriff der
 Vereinheitlichung zurückzuführen.  In dieser Arbeit werde ich
-versuchen, eine konkrete Fassung dieses von Kitcher nur angedeuteten
+versuchen, eine konkrete Fassung dieses von Kitcher nur skizzierten
 Programms zu entwickeln. Eine wichtige Grundlage dieser konkreten
 Fassung wird die Kausaltheorie der minimalen Theorien sein, wie sie
 von @Baumgartner2004 beschrieben werden. Es wird sich zeigen, dass
@@ -1066,10 +1066,10 @@ In dieser Arbeit habe ich mehrere starke Ähnlichkeiten zwischen
 Kitchers Vereinheitlichungstheorie der Erklärung und der Kausaltheorie
 der minimalen Theorien von Baumgartner und Grasshoff gezeigt. Mit
 einer geeigneten Interpretation von Kitchers Vereinheitlichungstheorie
-und einigen Voraussetzungen über Kausalität lässt sich zudem mit diesen
-Ähnlichkeiten die Kausaltheorie der minimalen Theorien direkt aus
-Kitchers Vereinheitlichungstheorie ableiten, indem Ursachen mit
-erklärenden Ereignissen gleichgesetzt werden.
+und einigen Voraussetzungen über Kausalität lässt sich zudem mit Hilfe
+von diesen Ähnlichkeiten die Kausaltheorie der minimalen Theorien
+direkt aus Kitchers Vereinheitlichungstheorie ableiten, indem Ursachen
+mit erklärenden Ereignissen gleichgesetzt werden.
 
 Dadurch wird die von Baumgartner und Grasshoff zusätzlich postulierte
 Auflösung des Kettenproblems auf die selbe Grundlage gestellt, wie die
