@@ -142,6 +142,38 @@ Kausalität auch besonders für ihre Anwendung in Kitchers Programm an,
 in dem ja ebenfalls eine empirische Definition von Kausalität
 angestrebt wird [@Kitcher1989, TODO].
 
+@Baumgartner2004 [44 ff] identifizieren Koinzidenzen als die
+wesentliche empirische Grundlage einer Kausaltheorie. Eine Koinzidenz
+ist nach Ihnen [@Baumgartner2004, 45] eine Konjunktion von logisch
+unabhängigen Ereignistypen, die gemeinsam, d.h. in geeigneter
+zeitlicher und räumlicher Nähe, instantiiert sind. Sie vermeiden es
+dabei bewusst, die geeignete zeitliche und räumliche Nähe absolut
+festzulegen, da diese vom untersuchten kausalen Prozess abhänging
+ist. Zudem vermeiden Sie, dass die einzelnen Ereignisse eines
+Ursachenbündels genau zur gleichen Zeit stattfinden müssen. Eine
+empirisch ädequate Kausaltheorie muss im Minimum kompatible mit allen
+Beobachteten Koinzidenzen sein, und zudem eine kausale Erklärung von
+allen beobachteten Ereignissen liefern.
+
+Es ist nicht ganz eindeutig, ob nach @Baumgartner2004 Koinzidenzen nur
+räumlich und zeitlich lokalisierbare, also singuläre, Mengen von
+singulären Ereignisse sind, oder ob auch eine blosse Liste von
+Ereignisstypen als "Koinzidenztyp" aufgefasst werden kann. Ich benutze
+im folgenden den Begriff Koinzidenz immer für Mengen von singulären
+Ereignissen, welche alle in geeigneter räumlicher und zeitlicher
+Nähe stattfinden. Der von @Baumgartner2004 ebenfalls verwendete
+Begriff des Ereignisbündels soll für ein "Koinzidenztyp" stehen, das
+heisst, für eine Konjunktion von logisch unabhängigen Ereignistypen
+mit der zusätzlichen Bedingung, dass die Instanzen der Ereignistypen
+in geeigneter räumlicher und zeitlicher Nähe stattfinden müssen.
+
+Eine Koinzidenz ist demnach genau dann eine Instanz von einem
+bestimmten Ereignisbündel, wenn in dieser Koinzidenz eine Instanz von
+jedem Ereignistyp im Ereignisbündel in geeigneter zeitlicher und
+räumlicher Nähe enthalten ist. Ein Ereignisbündel hat ausschliesslich
+Koinzidenzen als Instanzen. Ein Ursachenbündel ist ein Ereignisbündel,
+das Ursache einer gegeben Wirkung ist.
+
 Die minimale Theorie einer Wirkung $W$ ist eine Liste von
 Ereignisbündel, die folgende zwei Eigenschaften erfüllt:
 
@@ -193,14 +225,15 @@ darstellen, sondern müssen sowohl räumlich als auch zeitlich
 lokalisierbar sein [@Baumgartner2004, 37]. Diese Einschränkung
 überträgt sich natürlich auf Ereignistypen, die demnach nur auf
 räumlich und zeitlich lokalisierbare Ereignisse zutreffen dürfen.
-Demnach können von einander entfernte Ereignisse wie z.B.  das Senden
-von Radiosignalen von einer Antenne und das Einschalten eines Radios
-nicht unter einem Begriff "Senden und Einschalten" zusammengefasst
-werden. Der Begriff "Senden oder Einschalten" trifft jedoch sehr wohl
-nur auf zeitlich und räumlich lokalisierbare Ereignisse zu, nämlich
-entweder auf ein Senden von Radiosignalen an einem bestimmten Ort zu
-einer bestimmten Zeit, *oder* auf das Einschalten eines Radios an
-einem bestimmten Ort zu einer bestimmten Zeit.
+Demnach können beliebig weit von einander entfernte Ereignisse wie
+z.B.  das Senden von Radiosignalen von einer Antenne und das
+Einschalten eines Radios nicht unter einem Begriff "Senden und
+Einschalten" zusammengefasst werden. Der Begriff "Senden oder
+Einschalten" trifft jedoch sehr wohl nur auf zeitlich und räumlich
+lokalisierbare Ereignisse zu, nämlich entweder auf ein Senden von
+Radiosignalen an einem bestimmten Ort zu einer bestimmten Zeit, *oder*
+auf das Einschalten eines Radios an einem bestimmten Ort zu einer
+bestimmten Zeit.
 
 Wie wir gesehen haben, wird in der Kausalitätstheorie der minimalen
 Theorien zwischen direkter und indirekter Kausalität
