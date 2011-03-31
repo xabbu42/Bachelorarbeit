@@ -613,8 +613,8 @@ Argumentmuster die einzig richtigen nach der Theorie Kitchers sind:
 
 In einer starken Fassung unserer Voraussetzung folgt diese Aussage
 direkt. Wenn wir nämlich davon ausgehen, dass es nicht genügt, kausale
-Relevanzen zwischen Ereignistypen aufzuzählen, um die kausale
-Struktur der Welt vollständig zu erfassen, sondern es vielmehr auch
+Beziehungen zwischen einzelnen Ereignistypen aufzuzählen, um die kausale
+Struktur der Welt vollständig zu erfassen, sondern es vielmehr dazu auch
 notwendig ist, zusammengehörende Ursachenbündel zu beschreiben.
 
 In unserem Beispiel heisst das, dass die folgenden Aussagen noch nicht
