@@ -1079,10 +1079,10 @@ wenn dies nicht logisch aus den benutzten Formulierungen folgt.
 
 Da aber immer wenn $B$ auftritt, auch eine Ursache von $B$ auftreten
 muss, also entweder $AX_1$ oder $Y_B$ gegeben ist, ist das
-Argumentmuster $BX_2 \ra C$ genau so stringent wie das
-Argumentmuster $AX_1X_2 \ra C$ in der ersten Beschreibung und das
-Argumentmuster $AX_1 \ra B$ genau so stringent wie das gleiche
-Argumentmuster $AX_1 \ra B$ in der zweiten Beschreibung.
+Argumentmuster, das $C$ mit $BX_2$ erklärt, genau so stringent wie das
+Argumentmuster in der zweiten Beschreibung, das $C$ mit $AX_1X_2$
+erklärt. Zudem ist in beiden Varianten dasselbe Argumentmuster enthalten,
+das $B$ mit $AX_1$ erklärt.
 
 Dies gilt für alle nach dem Algorithmus von @Baumgartner2004 [297,298]
 umgeformten Kausalgraphen. Das Resultat des Algorithmus wird immer
