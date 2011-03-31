@@ -983,17 +983,17 @@ Gemeinschaft sich für eine solche Menge entscheiden muss
 Durch die in dieser Arbeit gezeigten Zusammenhänge sollte es möglich
 sein, Kitchers Behandlung von den sich dabei ergebenden Problemen auf
 eine Kausaltheorie der minimalen Theorien aufgebaut auf projizierbare
-Prädikate zu übertragen. Diese wird dadurch interessant für Personen,
-welche die Vorstellung von natürlichen Prädikaten nicht teilen. Selbst
-wenn man diese Vorstellung akzeptiert, verändert sich das Wissen
-darüber, was natürliche Eigenschaften sind. Kitchers Ausführungen
-könnten deshalb aufschlussreich zur Behandlung solcher radikaler
-kausaler Schlüsse sein.
+Prädikate zu übertragen. Diese Kausaltheorie wird dadurch interessant
+für Personen, welche die Vorstellung von natürlichen Prädikaten nicht
+teilen. Selbst wenn man diese Vorstellung akzeptiert, verändert sich
+das Wissen darüber, was natürliche Eigenschaften sind. Kitchers
+Ausführungen könnten deshalb aufschlussreich zur Behandlung solcher
+radikaler kausaler Schlüsse sein.
  
 Kettenproblem
 -------------
 
-Eine wesentliche neue Komponente, die durch die Einbettung der
+Eine wichtige neue Komponente, die durch die Einbettung der
 Kausaltheorie der minimalen Theorien in Kitchers
 Vereinheitlichungstheorie entsteht, ist dass hinreichende
 Ursachenbündel nicht nur relativ zu einer bestimmten Wirkung minimiert
@@ -1006,7 +1006,7 @@ wonach Faktorenverschränkungen immer kausal zu interpretieren sind
 [@Baumgartner2004, 306], in die Kausaltheorie der minimalen Theorien
 eingebettet. 
 
-@Baumgartner2004 definieren verschränkte Faktoren
+Baumgartner und Grasshoff definieren verschränkte Faktoren
 folgendermassen: 
 
 > Zwei Faktoren $P$ und $Q$ sind genau dann miteinander
@@ -1017,11 +1017,14 @@ folgendermassen:
 > Bedingungen von $P$ enthalten sind.
 
 Dieser Fall tritt immer auf, wenn $Q$ durch $P$ respektive $P$ durch
-$Q$ verursacht wird. Neben der Kausalkette haben jedoch auch
-verschränkte Epiphänomene genau die gleiche Koinzidenzgruppe. Das
-heisst, verschränkte Epiphänomene und Kausalketten lassen sich mit den
-bisherigen Mitteln der minimalen Theorien nicht unterscheiden.
-Dies bezeichnen @Baumgartner2004 [300] als das Kettenproblem.
+$Q$ verursacht wird. Neben der Kausalkette sind jedoch auch
+verschränkte Epiphänomene, also zwei Wirkungstypen der selben Ursache,
+die zudem noch verschränkt sind, mit den genau gleichen Koinzidenzen
+kompatibel. Das heisst, verschränkte Epiphänomene und Kausalketten
+lassen sich empirisch nicht unterscheiden und sind nach den bisher
+beschriebenen Bedingungen der minimalen Theorien gleichwertige kausale
+Interpretationen der beobachteten Koinzidenzen.  Dies bezeichnen
+@Baumgartner2004 [300] als das Kettenproblem.
 
 Sie lösen dieses Problem durch die Regel RIF, wonach
 Faktorenverschränkungen immer kausal zu interpretieren sind
@@ -1056,12 +1059,14 @@ mit folgenden ebenfalls minimalen Theorien: $AX_1 \vee Y_B \Ra B$,
 $AX_1X_2 \vee X_2Y_B \vee Y_C \Ra C$. In dem Fall sind $B$ und $C$
 Epiphänomene von $A$ und zusätzlich noch verschränkt, da alle
 Ursachenfaktoren in der minimalen Theorie von $B$ auch in der
-minimalen Theorie von $C$ vorkommen. Um diese alternative Situation
-jedoch in Argumentmuster zu erfassen, benötigt man insgesamt 3
-Argumentmuster, wenn man die zusätzlichen Variablen für unbekannte
-Kausalfaktoren ausser acht lässt. Jeweils ein Argumentmuster um
-Instanzen von $C$ aus Instanzen von $A$ oder $B$ abzuleiten, und ein
-drittes um Instanzen von $B$ aus Instanzen von $A$ abzuleiten.
+minimalen Theorie von $C$ vorkommen [@Baumgartner2004, 296].
+
+Um diese alternative Situation jedoch in Argumentmuster zu erfassen,
+benötigt man insgesamt 3 Argumentmuster, wenn man die zusätzlichen
+Variablen für unbekannte Kausalfaktoren ausser acht lässt. Jeweils ein
+Argumentmuster um Instanzen von $C$ aus Instanzen von $A$ oder $B$
+abzuleiten, und ein drittes um Instanzen von $B$ aus Instanzen von $A$
+abzuleiten.
 
 Nach Kitchers ist demnach die erste Beschreibung der Situation
 vorzuziehen, da mit nur zwei Argumentmuster die gleiche Menge von
