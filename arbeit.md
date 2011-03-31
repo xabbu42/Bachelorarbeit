@@ -138,8 +138,8 @@ Ereignistypen bestehen [vgl. @Baumgartner2004, 81,169]. Diese
 Vorgehensweise hat den Vorteil eine empirische Definition der
 Kausalität zu liefern. Deshalb bieten sich Regularitätstheorien der
 Kausalität auch besonders für ihre Anwendung in Kitchers Programm an,
-in dem ja ebenfalls eine empirische Definition von Kausalität
-angestrebt wird [@Kitcher1989, TODO].
+in dem ebenfalls eine empirische Definition von Kausalität
+angestrebt wird.
 
 @Baumgartner2004 [44 ff] identifizieren Koinzidenzen als die
 wesentliche empirische Grundlage einer Kausaltheorie. Eine Koinzidenz
@@ -332,10 +332,10 @@ mehrere gemeinsame Eigenschaften auszeichnen.
 Kitcher gibt keine abschliessende Beschreibung von projizierbaren
 Prädikaten. Wir wissen jedoch, dass die Unterscheidung von
 projizierbaren und nicht-projizierbaren Prädikaten relativ zu einer
-bestimmten Sprache $L$ ist [@Kitcher1989, TODO, 482], und dass im
+bestimmten Sprache $L$ ist [@Kitcher1989, 488], und dass im
 allgemeinen Konjunkte und Disjunkte von projizierbaren Prädikaten
-nicht wieder ein projizierbares Prädikat ergeben [@Kitcher1989, TODO,
-482].
+nicht wieder ein projizierbares Prädikat ergeben [@Kitcher1989, 482,
+488].
 
 Die Instanzen von Argumentmuster sind deduktive Argumente. Kitcher
 verteidigt diese Idealisierung, die er *deductive chauvinism* nennt,
