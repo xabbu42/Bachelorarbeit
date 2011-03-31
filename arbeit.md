@@ -107,7 +107,7 @@ beschrieben werden. Es handelt sich dabei nur um eine erste
 Explikation vom Begriff der Kausalität, in dem Sinn, dass Kausalität
 im Minimum diesen Prinzipien folgen muss und noch nicht um eine
 vollständige Theorie der Kausalität. Es ist der Anspruch von
-Baumgartner und Grasshof, dass diese Prinzipien für jede Kausaltheorie
+Baumgartner und Graßhoff, dass diese Prinzipien für jede Kausaltheorie
 gelten müssen, ansonsten handelt es sich nicht mehr um Kausalität im
 umgangssprachlichen Sinn [@Baumgartner2004, 68]. Ich werde diesen
 Anspruch hier übernehmen, weshalb ich die entsprechenden Prinzipien
@@ -155,17 +155,17 @@ empirisch ädequate Kausaltheorie muss im Minimum kompatible mit allen
 Beobachteten Koinzidenzen sein, und zudem eine kausale Erklärung von
 allen beobachteten Ereignissen liefern.
 
-Es ist nicht ganz eindeutig, ob nach @Baumgartner2004 Koinzidenzen nur
-Mengen von räumlich und zeitlich lokalisierbaren, also singuläre
-Ereignisse sind, oder ob auch eine blosse Liste von Ereignisstypen als
-"Koinzidenztyp" aufgefasst werden kann. Ich benutze im folgenden den
-Begriff Koinzidenz immer für Mengen von singulären Ereignissen, welche
-alle in geeigneter räumlicher und zeitlicher Nähe stattfinden. Der von
-@Baumgartner2004 ebenfalls verwendete Begriff des Ereignisbündels soll
-für ein "Koinzidenztyp" stehen, das heisst, für eine Konjunktion von
-logisch unabhängigen Ereignistypen mit der zusätzlichen Bedingung,
-dass die Instanzen der Ereignistypen in geeigneter räumlicher und
-zeitlicher Nähe stattfinden müssen.
+Es ist nicht ganz eindeutig, ob nach Baumgartner und Graßhoff
+Koinzidenzen nur Mengen von räumlich und zeitlich lokalisierbaren,
+also singuläre Ereignisse sind, oder ob auch eine blosse Liste von
+Ereignisstypen als "Koinzidenztyp" aufgefasst werden kann. Ich benutze
+im folgenden den Begriff Koinzidenz immer für Mengen von singulären
+Ereignissen, welche alle in geeigneter räumlicher und zeitlicher Nähe
+stattfinden. Der von Baumgartner und Graßhoff ebenfalls verwendete
+Begriff des Ereignisbündels soll für ein "Koinzidenztyp" stehen, das
+heisst, für eine Konjunktion von logisch unabhängigen Ereignistypen
+mit der zusätzlichen Bedingung, dass die Instanzen der Ereignistypen
+in geeigneter räumlicher und zeitlicher Nähe stattfinden müssen.
 
 Eine Koinzidenz ist demnach genau dann eine Instanz von einem
 bestimmten Ereignisbündel, wenn in dieser Koinzidenz eine Instanz von
@@ -485,14 +485,14 @@ Wie wir bereits gesehen haben, lassen sowohl die Kausaltheorie der
 minimalen Theorien wie auch Kitchers Vereinheitlichungstheorie nicht
 beliebige Prädikate zu, sondern schränken die erlaubten
 Prädikate ein, entweder auf solche die natürlichen Eigenschaften
-entsprechen bei Baumgartner und Grasshoff, oder auf sogenannte
+entsprechen bei Baumgartner und Graßhoff, oder auf sogenannte
 projizierbare Prädikate bei Kitcher. Während diese Begriffe einen sehr
 ähnlichen Zweck erfüllen, sie verhindern nämlich dass die
 entsprechenden Theorien durch geeignete logische Konstruktionen
 trivialisiert werden können, bauen sie auf einer komplett
 verschiedenen Ansicht über wissenschaftliche Erkenntnis auf.
 
-Baumgartner und Grasshof's Beschreibung von natürlichen Eigenschaften
+Baumgartner und Graßhoffs Beschreibung von natürlichen Eigenschaften
 [@Baumgartner2004, 38--39] impliziert die Sichtweise des
 wissenschaftlichen Realismus. Demnach bezeichnen die von der
 Wissenschaft verwendeten Prädikate real existierende Dinge in der
@@ -520,7 +520,7 @@ Wesentlich für das Ziel dieser Arbeit ist, dass trotz der komplett
 verschiedenen Hintergründe dieser Begriffe, dies für die Definition
 von Kausalität auf der einen Seite und die Definition von
 Vereinheitlichung auf der anderen Seite nicht benutzt wird. Weder
-Baumgartner und Grasshoff noch Kitcher greifen in ihren Theorien auf
+Baumgartner und Graßhoff noch Kitcher greifen in ihren Theorien auf
 spezifische Eigenschaften der ausgezeichneten Prädikate zurück. Sie
 benutzen nur, dass es eine Menge von ausgezeichneten Prädikaten gibt,
 und Konjuktionen und Disjunktionen von diesen Prädikaten im
@@ -777,7 +777,7 @@ Trotzdem ist dieser Schritt auch in der Kausaltheorien der minimalen
 Theorien nicht möglich, da die Prädikate Lannung und Wientierung
 keiner natürlichen Eigenschaft entsprechen. Hier erkennt man deutlich,
 warum die Begriffe der projizierbaren Prädikte bei Kitcher und der
-natürlichen Eigenschaften bei Baumgartner und Grasshoff zusammen
+natürlichen Eigenschaften bei Baumgartner und Graßhoff zusammen
 fallen müssen, damit die These dieser Arbeit gilt, obwohl die beiden
 Begriffe auf komplett verschiedenen Anschauungen der Wissenschaft
 aufbauen. Es ist nämlich genau dies die Bedingung, die den Grad
@@ -963,14 +963,14 @@ zu erkennen. Es sollte also möglich sein auch ohne genaue Kenntnis der
 involvierten Chemie und Physik, unnötige Zusätze wegzulassen
 [@Kitcher1989, TODO].
 
-Ergebnisse/Folgen
-=================
+Folgerungen
+===========
 
 Wissenschaftlicher Realismus und Instrumentalismus
 --------------------------------------------------
 
 Wie wir bereits mehrfach gesehen haben, gehen sowohl Kitcher wie auch
-Baumgartner und Grasshoff von einer Menge von ausgezeichneten
+Baumgartner und Graßhoff von einer Menge von ausgezeichneten
 Prädikaten aus, um gewisse logische Spielereien und Trivialisierungen
 zu vermeiden. Sie begründen diese ausgezeichneten Prädikate jedoch
 sehr verschieden. Inbesondere behandelt Kitcher gesondert die
@@ -1000,13 +1000,13 @@ Ursachenbündel nicht nur relativ zu einer bestimmten Wirkung minimiert
 werden müssen, sondern insgesamt für sämtliche kausal erklärten
 Ereignisse.
 
-Dadurch wird die von Baumgartner und Grasshoff vorgeschlagene Lösung des
+Dadurch wird die von Baumgartner und Graßhoff vorgeschlagene Lösung des
 Kettenproblems  [@Baumgartner2004, 295 ff], nämlich die Regel RIF,
 wonach Faktorenverschränkungen immer kausal zu interpretieren sind
 [@Baumgartner2004, 306], in die Kausaltheorie der minimalen Theorien
 eingebettet. 
 
-Baumgartner und Grasshoff definieren verschränkte Faktoren
+Baumgartner und Graßhoff definieren verschränkte Faktoren
 folgendermassen: 
 
 > Zwei Faktoren $P$ und $Q$ sind genau dann miteinander
@@ -1098,14 +1098,14 @@ Konklusion
 
 In dieser Arbeit habe ich mehrere starke Ähnlichkeiten zwischen
 Kitchers Vereinheitlichungstheorie der Erklärung und der Kausaltheorie
-der minimalen Theorien von Baumgartner und Grasshoff gezeigt. Mit
+der minimalen Theorien von Baumgartner und Graßhoff gezeigt. Mit
 einer geeigneten Interpretation von Kitchers Vereinheitlichungstheorie
 und einigen Voraussetzungen über Kausalität lässt sich zudem mit Hilfe
 von diesen Ähnlichkeiten die Kausaltheorie der minimalen Theorien
 direkt aus Kitchers Vereinheitlichungstheorie ableiten, indem Ursachen
 mit erklärenden Ereignissen gleichgesetzt werden.
 
-Dadurch wird die von Baumgartner und Grasshoff zusätzlich postulierte
+Dadurch wird die von Baumgartner und Graßhoff zusätzlich postulierte
 Auflösung des Kettenproblems auf die selbe Grundlage gestellt, wie die
 minimalen Theorien selbst. In beiden Fällen geht es darum, möglichst
 wenig kausale Argumentmuster zu verwenden, um möglichst viele bekannte
