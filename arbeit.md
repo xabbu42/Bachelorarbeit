@@ -23,7 +23,7 @@ Kitchers Programm
 Kitcher identifiziert zwei Hauptansätze, um die Probleme von Hempels
 *covering-law*-Modell der Erklärung zu lösen. In einem Ansatz wird auf
 den Begriff der Kausalität zurückgegriffen, im anderen auf den Begriff
-der Vereinheitlichung [@Kitcher1989, 419 und 430]. Im ersten Ansatz
+der Vereinheitlichung [@Kitcher1989, 419, 430]. Im ersten Ansatz
 ergibt sich eine sehr einfache Lösung zweier wichtiger Probleme
 Hempels, nämlich des Problems der Asymmetrie und des Problems der
 irrelevanten Faktoren. Allerdings handelt man sich damit laut
