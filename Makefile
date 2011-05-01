@@ -3,8 +3,8 @@ PANDOC=--standalone --table-of-contents --number-sections --smart --parse-raw --
 
 all: arbeit.pdf #notizen.pdf essay.pdf 
 
-arbeit.latex : arbeit.md Makefile literatur.bib templ.latex
-	pandoc $(PANDOC) --template templ.latex -t latex $< | perl -pne 's/APPENDIX/\\begin{appendix}/; s/\\end{document}/\\end{appendix}\n\\end{document}/;' > $@
+arbeit.latex : arbeit.md Makefile literatur.bib templ.tex
+	pandoc $(PANDOC) --template templ.tex -t latex $< | perl -pne 's/APPENDIX/\\begin{appendix}/; s/\\end{document}/\\end{appendix}\n\\end{document}/;' > $@
 
 %.latex : %.md Makefile header.tex literatur.bib
 	pandoc $(PANDOC) --include-in-header header.tex -t latex $< > $@
