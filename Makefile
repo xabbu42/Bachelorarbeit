@@ -1,15 +1,13 @@
 
-PANDOC=--standalone --table-of-contents --number-sections --smart --parse-raw --include-in-header ./header.tex --biblio literatur.bib --natbib
-
-.DELETE_ON_ERROR:
+PANDOC=--standalone --table-of-contents --number-sections --smart --parse-raw --biblio literatur.bib --natbib
 
 all: arbeit.pdf #notizen.pdf essay.pdf 
 
-arbeit.latex : arbeit.md Makefile header.tex literatur.bib
-	pandoc $(PANDOC) -t latex $< | perl -pne 's/APPENDIX/\\begin{appendix}/; s/\\end{document}/\\end{appendix}\n\\end{document}/;' > $@
+arbeit.latex : arbeit.md Makefile literatur.bib templ.latex
+	pandoc $(PANDOC) --template templ.latex -t latex $< | perl -pne 's/APPENDIX/\\begin{appendix}/; s/\\end{document}/\\end{appendix}\n\\end{document}/;' > $@
 
 %.latex : %.md Makefile header.tex literatur.bib
-	pandoc $(PANDOC) -t latex $< > $@
+	pandoc $(PANDOC) --include-in-header header.tex -t latex $< > $@
 
 %.pdf : %.latex Makefile literatur.bib
 	latexmk -quiet -pdf -f $< && touch $@
