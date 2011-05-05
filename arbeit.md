@@ -206,16 +206,27 @@ $W$, wenn $A$ entweder direkt oder indirekt kausal relevant für diese
 Wirkung ist [@Baumgartner2004, 105].
 
 @Baumgartner2004 [106 ff] führten folgende Notation für die minimale
-Theorie einer Wirkung $W$ ein: $ABX_1 \vee CDX_2 \vee Y \Ra W$.
-Die Variablen $X_1, X_2, Y$ stehen dabei als Platzhalter für weitere
-unbekannte oder uninteressante kausal relevante Faktoren. Nach
-@Baumgartner2004 [181] kann eine uns bekannte Theorie niemals
-sicher abgeschlossen werden. Dies wird formal durch diese Variablen
-erfasst. Da es sich dabei um ein epistemisches Problem handelt,
-das in unserem Kontext ignoriert werden kann, werde ich
-diese Variablen weglassen. Wir gehen also von einem perfekten
-Wissensstand aus, in dem wir unbekannte weitere kausal relevanten
-Faktoren ausschliessen können.
+Theorie einer Wirkung $W$ ein: $ABX_1 \vee CDX_2 \vee Y \Ra W$. In
+diesem Beispiel stehen $A$, $B$, $C$, $D$ und $W$ für bestimmte
+Ereignisstypen. Die Variablen $X_1, X_2$ sind Platzhalter für ein oder
+mehrere unbekannte oder uninteressante kausal relevante Faktoren,
+welche zusammen mit den entsprechenden bekannten und im Kontext
+interessanten kausal relevanten Faktoren auftretten müssen. $Y$
+schliesslich ist ein Platzhalter für ein oder mehrere unbekannte oder
+uninteressante alternative Ursachenbündel von $W$.  Insgesamt soll die
+Schreibweise ausdrücken, dass der Teil links vom Pfeil die minimale
+Theorie der Wirkung $W$ rechts vom Pfeil ist, wobei die einzelnen
+minimal hinreichenden Ursachenbündel durch $\vee$ voneinander getrennt
+sind.
+
+Nach @Baumgartner2004 [181] kann eine uns bekannte Theorie niemals
+sicher abgeschlossen werden. Dies wird formal durch die Platzhalter
+ausgedrückt. Da dies eine Konzession an ein epistemisches Problem ist, das in
+unserem Kontext ignoriert werden kann, werde ich diese Variablen
+weglassen. Wir gehen also von einem perfekten Wissensstand aus, in dem
+wir unbekannte weitere kausal relevanten Faktoren ausschliessen
+können. Alle angegebenen minimalen Theorien in desem Text sind demnach
+als *vollständige* minimale Theorien zu verstehen.
 
 In der Kausalitätstheorie der minimalen Theorien können Ereignistypen
 nicht beliebig extensional definiert werden. Das heisst, man kann
