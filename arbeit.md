@@ -1148,7 +1148,14 @@ ist ein Argumentmuster $p$ genau dann mindestens so stringent wie ein
 weiteres Argumentmuster $q$, wenn beide die gleiche Struktur besitzen
 und die Instanzen von $p$ eine Teilmenge der Instanzen von $q$
 sind. $p$ ist genau dann stringenter als $q$, wenn zusätzlich die
-Instanzen von $p$ eine echte Teilmenge der Instanzen von $q$ sind.
+Instanzen von $p$ eine echte Teilmenge der Instanzen von $q$
+sind. [^echt]
+
+[^echt]: Eine echte Teilmenge $U \subset M$ ist eine Menge $U$, welche
+in $M$ enthalten ist, aber nicht bereits ganz $M$ ist. Das heisst, es
+existiert ein Element $m \in M$, welches nicht in $U$ enthalten
+ist. Im Gegensatz dazu kann eine unechte Teilmenge $U \subseteq M$
+auch bereits ganz $M$ sein, so dass kein solches $m \in M$ existiert.
 
 Durch (R) erweitert er diese Definition auf Argumentmuster, mit sehr
 ähnlicher Struktur [@Kitcher1989, 480]. Gegeben zwei
