@@ -365,24 +365,45 @@ aufgefasst werden [@Kitcher1989, 449]. Daraus ergibt sich auch, dass
 aus Kitchers Vereinheitlichungstheorie keine probabilistische
 Kausaltheorie folgen kann [vgl @Baumgartner2004, 122 ff].
 
-Die im folgenden gegebene Version von Kitchers komparativem
-Vereinheitlichungsbegriff (C) entspricht nicht genau Kitchers eigenen
-Darstellung. Nach Kitcher selber ist Prinzip (C) nämlich asymmetrisch
-und transitiv, also eine *strikte* partielle Ordnung [@Kitcher1989,
-479]. Im Gegensatz dazu fasse ich (C) hier nicht als strikt
-auf[^part]. Der Vorteil von Kitchers Darstellung ist, dass er es
-vermeidet, Äquivalenzbedingungen für Argumentmuster und darauf
-aufbauend für Mengen von Argumentmustern festzulegen. Auf der anderen
-Seite lässt sich Prinzip (O) mit einer nicht strikten Ordnung
-einfacher formulieren.
+Im folgenden werde ich nur ein Ausschnitt von Kitchers
+Vereinheitlichungsbegriff wiedergeben, und diesen Ausschnitt zudem
+etwas vereinfachen, da dies für die These dieser Arbeit genügen
+wird. Im Anhang befindet sich eine genauere Analyse von Kitchers
+Vereinheitlichungsbegriff und eine Argumentation für meine
+Interpretation dieses Begriffs.
 
-Im Anhang befindet sich eine genauere Betrachtung dieser Prinzipien
-und Beweise für die folgenden von Kitcher übernommenen Behauptungen
-[@Kitcher1989, 479], es handle sich bei (T),(R) auf der einen Seite
-und (C) auf der anderen Seite um partielle Ordnungen. Dort findet man
-auch eine ausführliche Begründung für die im folgenden wiedergegeben
-für das eigentliche Thema dieser Arbeit wesentlichen Aspekte meiner
-Interpretation von Kitchers Vereinheitlichungsbegriffs.
+Kitcher definiert auf allen Mengen von Argumentmustern eine partielle
+Ordnung[^part] mit Hilfe des Prinzips (C) [@Kitcher1989, 478, 479] und
+der exakten Definition eines komparativen Stringenz-Begriffs (T),(R)
+[@Kitcher1989, 479, 480], die wiederum eine partielle Ordnung aller
+Argumentmuster festlegt.  Für unsere Zwecke reicht es aus, zu wissen,
+dass laut Prinzip (C) eine Menge von Argumentmustern $U$ besser
+vereinheitlicht ist als eine weitere Menge von Argumentmustern $V$,
+falls einer der folgenden Punkte erfüllt ist:
+
+1.  $U$ erklärt mit weniger, mindestens so stringente Argumentmustern
+    die gleiche oder grössere Menge von Konsequenzen als $V$ (C1).
+
+2.  $U$ erklärt mit genau so vielen, aber zum Teil stringenteren
+    Argumentmustern die gleiche oder grössere Menge von Konsequenzen
+    als $V$ (C1).
+
+3.  $U$ erklärt mit mindestens so stringente Argumentmustern eine
+    grössere Menge von Konsequenzen als $V$ (C2).
+
+$U$ erklärt dabei eine Aussage $a$ genau dann, wenn es ein
+Argumentmuster $p$ in $U$ zusammen mit einer mit $K$ vereinbaren
+Instanz dieses Argumentmusters gibt, so dass die Aussage $a$ die
+Konklusion dieser Instanz von $p$ ist.
+
+Die Stringenzbedingungen sind so zu verstehen, dass jedem
+Argumentmuster in $U$ ein höchstens so stringentes Argumentmuster in
+$V$ zugeordnet werden muss, wobei jedem Argumentmuster in $V$
+höchstens ein Argumentmuster aus $U$ zugeordnet werden darf. Ein
+Argumentmuster $p$ ist stringenter als ein Argumentmuster $q$, falls $p$
+die gleiche Struktur wie $q$ besitzt (also die gleichen schematischen
+Sätze mit der gleichen Klassifikation) und $p$ weniger Instanzen
+zulässt als $q$.
 
 [^part]: In der Mathematik ist eine partielle Ordnung definiert als
     eine Relation $R$ auf einer Menge $M$, so dass die folgenden drei
@@ -399,68 +420,18 @@ Interpretation von Kitchers Vereinheitlichungsbegriffs.
     möglich, dass es zwei verschiedene Elemente $a,b \in M$ gibt, so
     dass weder $aRb$ noch $bRa$ gilt.
 
-    Nach @Kitcher1989 [479] selber ist (C) asymmetrisch und
-    transitiv. Das bedeutet nach Kitcher definiert (C) eine strikte
-    partielle Ordnung $<_C$, die die folgenden drei
-    Bedingungen erfüllt:
-
-    1.  $a \nless_C a$ (Irreflexivität)
-    2.  $a <_C b \Ra b \nless_C a$ (Asymmetrie)
-    3.  $a <_C b$ und $b <_C c \Ra a <_C c$ (Transitivität)
-
-    Dieser Unterschied in der Darstellung von (C), den ich im
-    Anhang noch genauer behandeln werde, ist jedoch ohne
-    Bedeutung. Man kann nämlich entweder $a \leq_C b$ mit $a <_C b
-    \vee a = b$ identifizieren oder $a <_C b$ mit $a \leq_C b \wedge a
-    \neq b$, und die gegeben Eigenschaften lassen sich entsprechend
-    einfach ableiten. 
-
-Kitcher definiert also auf allen Mengen von Argumentmustern eine partielle
-Ordnung mit Hilfe des Prinzips (C) [@Kitcher1989, 478, 479]
-und der exakten Definition eines komparativen Stringenz-Begriffs
-(T),(R) [@Kitcher1989, 479, 480], die wiederum eine partielle
-Ordnung aller Argumentmuster festlegt. Durch das Prinzip (O) drückt
-er die Hoffnung aus, dass mit dieser partiellen Ordnung eine obere
-Grenze zu je zwei beliebigen Mengen von Argumentmustern existiert. Das
-heisst, gegeben zwei solcher Mengen $U$ und $U'$, existieren eine oder
-mehrere Mengen von Argumentmustern $U^*$, so dass sowohl $U \leq_C
-U^*$ und $U' \leq_C U^*$ gilt, wobei $A \leq_C B$ dafür steht, dass
-$A$ nach Prinzip (C) höchstens so vereinheitlicht ist wie $B$.
-
-Dies ist trivialerweise gegeben, falls $U$ und $U'$ vergleichbar sind,
-in dem wir $U^* = max(U,U')$ setzen. Falls $U$ und $U'$ jedoch nicht
+Durch das Prinzip (O) [@Kitcher1989, 478] drückt Kitcher die Hoffnung
+aus, dass mit dieser partiellen Ordnung eine obere Grenze zu je zwei
+beliebigen Mengen von Argumentmustern existiert. Das heisst, gegeben
+zwei solcher Mengen $U$ und $U'$, existieren eine oder mehrere Mengen
+von Argumentmustern $U^*$, so dass sowohl $U \leq_C U^*$ und $U'
+\leq_C U^*$ gilt, wobei $A \leq_C B$ dafür steht, dass $A$ nach
+Prinzip (C) höchstens so vereinheitlicht ist wie $B$.  Dies ist
+trivialerweise gegeben, falls $U$ und $U'$ vergleichbar sind, in dem
+wir $U^* = max(U,U')$ setzen. Falls $U$ und $U'$ jedoch nicht
 vergleichbar sind, garantiert uns dieses Prinzip die Existenz einer
 dritten Menge von Argumentmustern $U^*$, zugunsten dessen wir sowohl
 $U$ als auch $U'$ fallen lassen können.
-
-Für unsere Zwecke reicht es aus, zu wissen, dass laut Prinzip (C) eine
-Menge von Argumentmustern $U$ besser vereinheitlicht ist als eine
-weitere Menge von Argumentmustern $V$, falls einer der folgenden Punkte
-erfüllt ist:
-
-1.  $U$ erklärt mit weniger, mindestens so stringente Argumentmustern
-    die gleiche oder grössere Menge von Konsequenzen als $V$ (C1).
-
-2.  $U$ erklärt mit genau so vielen, aber zum Teil stringenteren
-    Argumentmustern die gleiche oder grössere Menge von Konsequenzen
-    als $V$ (C1).
-
-3.  $U$ erklärt mit mindestens so stringente Argumentmustern eine
-    grössere Menge von Konsequenzen als $V$ (C2).
-
-$U$ erklärt dabei eine Aussage $a$ genau dann, wenn es ein
-Argumentmuster $p$ in $U$ zusammen mit einer mit $K$ vereinbaren
-Instanz dieses Argumentmusters gibt, so dass die Aussage $a$ die
-Konklusion dieser Instanz ist.
-
-Die Stringenzbedingungen sind so zu verstehen, dass jedem
-Argumentmuster in $U$ ein höchstens so stringentes Argumentmuster in
-$V$ zugeordnet werden muss. Diese Zuordnung darf jedem Argumentmuster
-aus $V$ höchstens ein Argumentmuster aus $U$ zuordnen.  Dabei ist ein
-Argumentmuster $p$ stringenter als ein Argumentmuster $q$, falls
-$p$ die gleiche Struktur wie $q$ besitzt (also die gleichen
-schematischen Sätze mit der gleichen Klassifikation) und $p$ weniger
-Instanzen zulässt als $q$.
 
 Die partielle Ordnung $\leq_C$ auf Mengen von Argumentmustern lässt
 sich auf Systematisierungen (also Mengen von Ableitungen) übertragen,
@@ -1123,6 +1094,50 @@ wenige kausale Argumentmuster zu verwenden, um möglichst viele bekannte
 Ereignisse der Welt zu erklären.
 
 APPENDIX
+
+Vereinfachung von Kitchers Vereinheitlichungsbegriffs
+=====================================================
+
+Im Haupttext wurde eine partielle Ordnung $\leq_C$ auf Mengen
+von Argumentmustern $U$, $V$ verwendet, welche *nicht* strikt ist. Das heisst
+für $\leq_C$ und beliebige Mengen von Argumentmuster $U$, $V$ und $W$
+gelten folgende Gesetze:
+
+1.  $U \leq_C U$ (Reflexivität)
+2.  $U \leq_C V$ und $V \leq_C U \Ra U=V$ (Symmetrie)
+3.  $U \leq_C V$ und $V \leq_C W \Ra U \leq_C W$ (Transitivität)
+
+Diese partielle Ordnung unterscheidet sich von einer totalen Ordnung
+(wie z.B. $\leq$ auf den reellen Zahlen) ausschliesslich dadurch, dass
+es nicht vergleichbare Elemente geben kann. Es ist also bei unserer
+partiellen Ordnung $\leq_C$ möglich, dass es zwei verschiedene Mengen
+von Argumentmustern $U,V$ gibt, so dass weder $U \leq_C V$ noch $V
+\leq_C U$ gilt.
+
+Kitcher dagegen spricht implizit von einer strikten partiellen
+Ordnung, da nach ihm sein Prinzip (C) asymmetrisch und transitiv ist
+[@Kitcher1989, 479]. Im folgenden soll $<_C$ für Kitchers strikte
+partielle Ordnung (C) stehen. $<_C$ ist also wie auch $\leq_C$
+transitiv, im Gegensatz zu $\leq_C$ jedoch asymmetrisch.  Das heisst,
+für $<_C$ und beliebige Mengen von Argumentmuster $U$, $V$ und $W$
+gelten folgende Gesetze:
+
+1. $U \nless_C U$ (Irreflexivität)
+2. $U <_C V \Ra V \nless_C U$ (Asymmetrie)
+3. $U <_C V$ und $V <_C W \Ra U <_C W$ (Transitivität)
+
+Wie die verwendeten Symbole bereits andeuten, ist dies genau der
+selbe Unterschied der auch zwischen den bereits bekannten totalen Ordnungen
+$<$ und $\leq$ für die reellen Zahlen besteht.
+
+Der Vorteil von Kitchers Darstellung ist, dass er es vermeidet,
+Äquivalenzbedingungen für Argumentmuster und darauf aufbauend für
+Mengen von Argumentmustern festzulegen, wie dies in der folgenden
+Beschreibung von $\leq_C$ nötig sein wird. Auf der anderen Seite
+muss er Prinzip (O) und den Stringenzbegriff sehr vorsichtig
+definieren, um auf diese Äquivalenzbedingungen zu verzichten. Zudem
+werden die Beweise für die gemachten Behauptungen über die Ordnung (C)
+komplizierter.
 
 Die partielle Ordnung (T),(R)
 =============================
