@@ -1167,41 +1167,44 @@ ersetzt.
 Im folgenden schreibe ich $p \leq_S q$ dafür, dass $q$ mindestens so
 stringent ist wie $p$. Zudem sollen $I(p)$ für die Menge der Instanzen
 des Argumentmusters $p$ stehen. $p$, $q$ und $r$ stehen immer für
-beliebige Argumentmuster.
+beliebige Argumentmuster. Es handelt sich bei $\leq_S$ um eine
+partielle Ordnung auf Argumentmustern, wie der folgende Beweis zeigen
+soll:
 
 1. $p$ hat trivialerweise die gleich Struktur wie $p$ selber, und es
-gilt $I(p) \subseteq I(p)$. Nach (T) gilt also $p \leq_S p$ für alle
-Argumentmuster $p$.
+   gilt $I(p) \subseteq I(p)$. Nach (T) gilt also $p \leq_S p$ für
+   alle Argumentmuster $p$.
 
 2. Angenommen, es gilt $p \leq_S q$ und $q \leq_S p$. Demnach ist das
-Prinzip (R) ausgeschlossen, da nicht sowohl $p$ als auch $q$
-zusätzliche schematische Sätze enthalten können. Demnach haben $p$ und
-$q$ die exakt gleiche Struktur, und es gilt $I(q) \subseteq I(p)$ und
-$I(p) \subseteq I(q)$. Daraus folgt $I(p) = I(q)$. Bis auf
-unwesentliche Unterschiede in der Formulierung sind also alle
-Ausfüllinstruktionen von $p$ und $q$ für unsere Zwecke gleich. Genauer
-gesagt impliziert die Definition von $\leq_S$ eine extensionale
-Sichtweise der Ausfüllinstruktionen und aus $p \leq_S q$ und $q \leq_S
-p$ folgt dem entsprechend, dass die Ausfüllinstruktionen extensional
-äquivalent sind. Da nun $p$ und $q$ also die gleiche Struktur und
-extensional äquivalente Ausfüllinstruktionen haben, gilt $p = q$.[^1]
+   Prinzip (R) ausgeschlossen, da nicht sowohl $p$ als auch $q$
+   zusätzliche schematische Sätze enthalten können. Demnach haben $p$
+   und $q$ die exakt gleiche Struktur, und es gilt $I(q) \subseteq
+   I(p)$ und $I(p) \subseteq I(q)$. Daraus folgt $I(p) = I(q)$. Bis
+   auf unwesentliche Unterschiede in der Formulierung sind also alle
+   Ausfüllinstruktionen von $p$ und $q$ für unsere Zwecke
+   gleich. Genauer gesagt impliziert die Definition von $\leq_S$ eine
+   extensionale Sichtweise der Ausfüllinstruktionen und aus $p \leq_S
+   q$ und $q \leq_S p$ folgt dem entsprechend, dass die
+   Ausfüllinstruktionen extensional äquivalent sind. Da nun $p$ und
+   $q$ also die gleiche Struktur und extensional äquivalente
+   Ausfüllinstruktionen haben, gilt $p = q$.[^1]
 
 [^1]: Dieses Eingeständnis ist nötig, um $\leq_S$ und in der Folge
-$\leq_C$ als partielle Ordnung aufzufassen. Kitcher bezeichnet sein
-Prinzip (C) als strikte Ordnung und macht keine Angabe über den
-Stringenzbegriff (der demnach nach Kitcher wohl nur transitiv und
-reflexiv, aber nicht symmetrisch ist). Er vermeidet damit,
-Argumentmuster in der Weise gleichsetzen zu müssen, wie das hier
-geschieht.
+      $\leq_C$ als partielle Ordnung aufzufassen. Kitcher bezeichnet
+      sein Prinzip (C) als strikte Ordnung und macht keine Angabe über
+      den Stringenzbegriff (der demnach nach Kitcher wohl nur
+      transitiv und reflexiv, aber nicht symmetrisch ist). Er
+      vermeidet damit, Argumentmuster in der Weise gleichsetzen zu
+      müssen, wie das hier geschieht.
 
 3. Angenommen, es gilt $p \leq_S q$ und $q \leq_S r$. Daraus folgt
-nach Definition $I(r) \subseteq I(q) \subseteq I(p)$, woraus auch
-$I(r) \subseteq I(p)$ folgt. Gilt eine oder beide der Ungleichungen
-wegen dem Prinzip (R), dann gilt auch $p \leq_S r$ nach (R), da alle
-schematischen Sätze von $p$ in $q$ und damit auch in $r$ enthalten
-sind. Wurde in beiden Fällen Prinzip (T) verwendet, hat $p$ die
-gleiche Struktur wie $q$ und damit auch wie $r$, und es gilt $p \leq_S
-r$ nach (T).
+   nach Definition $I(r) \subseteq I(q) \subseteq I(p)$, woraus auch
+   $I(r) \subseteq I(p)$ folgt. Gilt eine oder beide der Ungleichungen
+   wegen dem Prinzip (R), dann gilt auch $p \leq_S r$ nach (R), da
+   alle schematischen Sätze von $p$ in $q$ und damit auch in $r$
+   enthalten sind. Wurde in beiden Fällen Prinzip (T) verwendet, hat
+   $p$ die gleiche Struktur wie $q$ und damit auch wie $r$, und es
+   gilt $p \leq_S r$ nach (T).
 
 $\leq_S$ ist also eine partielle Ordnung auf der Menge aller
 Argumentmuster.
@@ -1242,8 +1245,9 @@ Stringenz vergleichbar sind. Ich gehe deshalb davon aus, dass dies ein
 Fehler in Kitchers Text ist, und tatsächlich Funktionen zwischen den
 Mengen von Argumentmustern $U$, $U'$ und $U^*$ gemeint sind. Diese
 Interpretation ist auch konsistent mit Kitchers Formulierung von
-Prinzip (U), in der tatsächlich von Funktionen zwischen den Mengen von
-Argumentmustern $U$, $U'$ und $U^*$ die Rede ist.
+Prinzip (O) [@Kitcher1989, 478], in der tatsächlich von Funktionen
+zwischen den Mengen von Argumentmustern $U$, $U'$ und $U^*$ die Rede
+ist.
 
 Kitcher scheint auch die Begriffe injektiv, surjektiv und bijektiv
 nicht genau in ihrem normalen mathematischen Sinn zu gebrauchen. Ich
@@ -1252,16 +1256,16 @@ Definitionen dieser Begriffe, bevor ich meine Interpretation von
 Kitchers Verwendung darstelle und diese auch begründe.
 
 Eine **Funktion** $f: A \ra B$, weist jedem Element $a$ aus der
-**Definitionsmenge** $A$ ein Element $f(a)$ der **Zielmenge** $B$ zu. Dieses Element
-$f(a)$ heisst **Bild** von $a$ unter $f$. 
+**Definitionsmenge** $A$ ein Element $f(a)$ der **Zielmenge** $B$
+zu. Dieses Element $f(a)$ heisst **Bild** von $a$ unter $f$.
 
-Eine Funktion $f: A \ra B$ ist **injektiv** falls jedes Element $b$ aus $B$ Bild von
-höchstens einem Element $a$ aus $A$ ist, also folgender Zusammenhang
-gilt: $f(a) = f(b) \Ra a = b$.
+Eine Funktion $f: A \ra B$ ist **injektiv** falls jedes Element $b$
+aus $B$ Bild von höchstens einem Element $a$ aus $A$ ist, also
+folgender Zusammenhang gilt: $f(a) = f(b) \Ra a = b$.
 
-Eine Funktion $f: A \ra B$ ist **surjektiv** falls jedes Element $b$ aus $B$
-Bild von mindestens einem Element $a$ ist, also die Bildmenge $\{f(a)
-| a \in A\}$ von $A$ unter $f$ gerade ganz $B$ ist.
+Eine Funktion $f: A \ra B$ ist **surjektiv** falls jedes Element $b$
+aus $B$ Bild von mindestens einem Element $a$ ist, also die Bildmenge
+$\{f(a) | a \in A\}$ von $A$ unter $f$ gerade ganz $B$ ist.
 
 Eine Funktion $f: A \ra B$ ist **bijektiv**, falls sie injektiv und
 surjektiv ist, also jedes Element $b$ aus $B$ Bild von genau einem
@@ -1273,7 +1277,7 @@ wenn auf ein Element $x \in A$ zuerst $g$ und dann $f$ angewendet
 wird. Das heisst $f \circ g(x) = f(g(x))$ für alle $x \in A$.
 
 
-Kitcher definiert diese drei Begriffe jedoch folgendermassen:
+Kitcher definiert diese Begriffe jedoch folgendermassen:
 
 > (A bijection is a one-one mapping. A bijection from $A$ to a subset
 > of $B$ is an injection into $B$. A bijection that is onto B is a
@@ -1282,7 +1286,7 @@ Kitcher definiert diese drei Begriffe jedoch folgendermassen:
 Übertragen auf den normalen Sprachgebrauch ist diese Definition so zu
 verstehen, dass eine surjektive Funktion auch bereits bijektiv ist
 und Kitcher in den folgenden Definitionen immer nur injektive
-Funktionen betrachtet, was er auch damit zum Ausdruck bringt, das alle
+Funktionen betrachtet, was er auch damit zum Ausdruck bringt, dass alle
 Funktionen immer *one-one* sind. Ich gehe weiter davon aus, dass
 Kitcher in seiner Definition von injektiv von einer echten Teilmenge
 von $B$ spricht. Das heisst eine injektive Funktion $f: A \ra B$ ist
@@ -1403,7 +1407,7 @@ Mengen von Argumentmustern zulassen, entstünden folgende Probleme:
     sie nach Stringenz vergleichbar sind, sind diejenigen, die
     durch $f$ und $g$ aufeinander abgebildet werden.
 
-4.  Eine Menge von Argumentmustern $U$ in der ein bestimmtes
+4.  Eine Menge von Argumentmustern $U$, in der ein bestimmtes
     Argumentmuster $p$ aus $V$ aufgeteilt wird in $p_1$ und $p_2$, so
     dass $p \leq_S p_1$ und $p \leq_S p_2$ gilt, wäre besser
     vereinheitlicht als $V$. Die Funktion $f: U \ra V$, die $p_1$
