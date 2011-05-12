@@ -468,6 +468,113 @@ $V$ ist. $S$ ist genau dann besser vereinheitlicht als $T$, wenn $V
 Argumentation
 =============
 
+Ebenen von Theorien
+-------------------
+
+Sowohl Kitcher wie auch Baumgartner und Graßhoff gehen explizit auf
+das Phänomen ein, dass die selben Phänomene auf verschiedenen Ebenen
+betrachtet werden können. So kennen die meisten Menschen einen
+direkten kausalen Zusammenhang zwischen dem Einschalten einer
+Taschenlampe und deren Aufleuchten. Ein Elektroniker dagegen sieht den
+selben Prozess differenzierter, da er genau weiss unter welchen
+Bedingungen die LED in der Taschenlampe leuchtet und auch erkennt wie
+der Schalter diese Bedingungen zusammen mit der Konstruktion der
+Taschenlampe herstellt. Ein Physiker zuletzt kennt eine noch viel
+komplexere Beschreibung des selben Vorgangs, die in einer entsprechend
+komplexen Beschreibung des Leuchtens der Taschenlampe endet.
+
+Entscheidend ist, dass auf all diesen Ebenen wissenschaftliche
+Methodik und wissenschaftliches Denken anwendbar ist und zu gültigen
+Kausalschlüssen führt, selbst wenn die detailierteren Ebenen nicht
+bekannt sind. Es ist gültig und wissenschaftlich, einen direkten
+kausalen Zusammenhang zwischen dem Einschalten und dem Leuchten der
+Taschenlampe festzustellen, ohne die zugrundeliegenden Theorien aus
+der Elektronik zu kennen. Diese Bedingung akzeptieren sowohl
+Baumgartner und Graßhoff [@Baumgartner2004, TODO] wie auch Kitcher
+[@Kitcher1989, TODO].
+
+Baumgartner und Graßhoff auf der einen Seite und Kitcher auf der
+anderen Seite gehen jedoch sehr unterschiedlich mit diesen
+überdeckenden Theorien auf verschiedenen Ebenen um.
+
+Bei Baumgartner und Graßhoff werden die verschiedenen Ebenen auf denen
+kausale Schlüsse stattfinden können getrennt behandelt. Es gibt also
+nach @Baumgartner2004 [TODO] verschiedene, *getrennte* minimale
+Theorien, welche die gleichen Ereignisse unterschiedlich detailiert
+beschreiben.  Zum einen können die Begriffe auf den verschiedenen
+Ebenen nicht beliebig gemischt benutzt werden, da zwischen
+Ereignisstypen in einer Koinzidenz keine logischen Abhängigkeiten
+bestehen dürfen [@Baumgartner2004, TODO]. Zum anderen wird mit dem
+Prinzip der persistenten Relevanz [@Baumgartner2004, TODO]
+vorausgesetzt, dass die verschiedenen Ebenen sich nicht widersprechen.
+
+Bei Kitcher dagegen gibt es nur eine beste Systematisierung $E(K)$ von
+$K$, in der alle Schlüsse auf allen Ebenen enthalten sind. Zudem gibt
+es auch innere Ähnlichkeiten zwischen Argumentmustern selber, welche
+durch weitere allgemeinere Argumentmuster erfasst werden. Dieser
+Unterschied erklärt, wie wir noch sehen werden, einige
+Diskrepanzen zwischen der Vereinheitlichungstheorie von Kitcher und
+der Kausalitätstheorie der minimalen Theorien von Baumgartner und
+Graßhoff. Im folgenden Benutze ich also eine weiter vereinfachte
+Version von Kitchers Vereinheitlichungstheorie, in der nur die
+Ähnlichkeiten von Ableitungen mit Hilfe von Argumentmustern erfasst
+wird. Die Möglichkeit von inneren Ähnlichkeiten dieser Argumentmuster
+wiederum, welche nach Kitcher durch weitere Metaargumentmuster erfasst
+werden, werde ich jedoch ausschliessen.
+
+
+Logische Struktur von kausalen Argumentmuster
+---------------------------------------------
+
+Kitcher hat zum Ziel, den Fokus in seiner Vereinheitlichungstheorie
+weg von den Prämissen und der Konklusion hin zu der Struktur des
+Schlusses selbst zu bewegen. Im folgenden werden jedoch kausale
+Argumentmuster beschrieben, die explizit keine weitere Struktur als
+das angeben von hinreichenden Bedingungen haben. Dies scheint also mit
+Kitchers Vereinheitlichungstheorie im Widerspruch zu sein und
+entspricht auch nicht den Beispielen die Kitcher selbst in seiner
+Arbeit macht.
+
+Der Grund für diese unstrukturierten allgemeinen kausalen
+Argumentmuster liegt in der Voraussetzung, dass wir eine
+Regularitätstheorie der Kausalität entwickeln wollen. In dieser
+Voraussetzung ist mit eingeschlossen, dass es keine Eigenschaften in
+der Ursache gibt, die für eine Ableitung der Wirkung relevant wären,
+ausser, dass die Ursache hinreichend für die Wirkung ist. Insbesondere
+lässt sich die Wirkung nicht nur mit analytischen Methoden aus der
+Ursache ableiten und gibt es auch keine Eigenschaft, wie
+z.B. Energieaustausch, die singuläre Ereignisse als Ursachen und
+Wirkungen anderer Ereignisse auszeichnet.
+
+Zumindest der letzte Punkt wird durch andere Kausaltheorien in Zweifel
+gezogen. Sollte eine solche alternative Kausaltheorie überzeugen,
+erreicht man damit natürlich eine sehr stark vereinheitlichte Theorie,
+da mit ihr im besten Fall ein Argumentmuster ausreicht, um alle
+kausalen Abhängigkeiten mit Hilfe von projizierbaren Prädikaten zu
+beschreiben. Das Ziel Kitchers ist jedoch, einen empirischen Begriff
+von Vereinheitlichung und damit auch von Kausalität zu erreichen. Man
+kann deshalb davon ausgehen, dass nur empirische Begriffe projizierbar
+sind. Es gibt aber starke und begründete Zweifel daran, ob diese
+alternativen Kausaltheorien tatsächlich mit Hilfe von empirischen
+Begriffen formulierbar sind.  Viele davon wurden von Kitcher selbst in
+seiner Arbeit erläutert [vgl Kitcher1989, 461 ff].
+
+Um so mehr erstaunt es also, dass Kitcher zum einen davon ausgeht,
+dass sich die kausale Struktur der Welt in der am besten
+vereinheitlichten Systematisierung all unseres Wissens wiederspiegelt,
+auf der anderen Seite aber Vereinheitlichung empirisch *und* auf der
+Grundlage von *innerer* Ähnlichkeiten verschiedener Ableitungen
+definieren will. Wie im letzten Abschnitt gesehen, kann es auch nach
+Kitcher keine allgemeine innere Struktur von kausalen Argumentmustern
+geben. Die innere Struktur der von Kitcher gemachten Beispielen lässt
+sich deshalb immer auf eine zusätzliche Systematisierung von kausalen
+Argumentmuster selber oder auf einen Zusammenhang mit detailierteren
+Theorien auf einer anderen Ebene zurückführen. Da wir diesen Aspekt
+von Kitchers Vereinheitlichungstheorie jedoch an dieser Stelle
+weggelassen wird, reduziert sich auch Kitchers
+Vereinheitlichungstheorie auf die im folgenden entwickelten kausalen
+Argumentmuster mit einer sehr einfachen logischen Struktur.
+
 Projizierbare Prädikate und natürliche Eigenschaften
 ----------------------------------------------------
 
@@ -882,7 +989,7 @@ Stoffe. Nach Kitcher kann aber ein solcher Zusatz nach dem selben
 Prinzip der Einfachheit gestrichen werden, da er in der ganzen
 Argumentationskette nicht verwendet wird, also *idle* ist.
 
-In unserem Kontext betrachten wir nur ein Level von Argumentmustern,
+In unserem Kontext betrachten wir nur eine Ebene von Argumentmustern,
 nämlich kausale Argumentmuster mit Instanzen, die direkt
 singuläre Ereignisse mit Hilfe von hinreichenden Ursachen
 erklären. Eingeschränkt auf diese unterste Ebene scheint sich
@@ -902,28 +1009,6 @@ Argumentmusters, weil bereits das kleinere und einfachere
 Ursachenbündel hinreichend für das Leuchten ist, und das einfachere
 Argumentmuster ohne diesen Zusatz ist deshalb vorzuziehen.
 
-Ich setze an dieser Stelle voraus, dass es keine Eigenschaften in der
-Ursache gibt, die für eine Ableitung der Wirkung relevant wären,
-ausser, dass die Ursache hinreichend für die Wirkung ist. Insbesondere
-lässt sich die Wirkung nicht nur mit analytischen Methoden aus der
-Ursache ableiten und gibt es auch keine Eigenschaft, wie
-z.B. Energieaustausch, die singuläre Ereignisse als Ursachen und
-Wirkungen anderer Ereignisse auszeichnet. Diese Voraussetzung ist
-allen Regularitätstheorien gemein und deshalb keine weitere
-Einschränkung der Resultate dieser Arbeit. Zumindest letzteres wird
-aber durch andere Kausaltheorien in Zweifel gezogen. 
-
-Sollte eine solche alternative Kausaltheorie überzeugen, erreicht man
-damit natürlich eine sehr stark vereinheitlichte Theorie, da mit einer
-solchen Kausaltheorie im besten Fall ein Argumentmuster ausreicht, um
-alle kausalen Abhängigkeiten mit Hilfe von projizierbaren Prädikaten
-zu beschreiben. Das Ziel Kitchers ist jedoch, einen empirischen Begriff
-von Vereinheitlichung und damit auch von Kausalität zu erreichen. Man
-kann deshalb davon ausgehen, dass nur empirische Begriffe projizierbar
-sind. Es gibt aber starke und begründete Zweifel daran, ob diese
-alternativen Kausaltheorien tatsächlich mit Hilfe von empirischen
-Begriffen formulierbar sind.
-
 Demnach benutzt also jedes kausale Argumentmuster genau ein minimal
 hinreichendes Ursachenbündel, um die zu erklärende Wirkung abzuleiten,
 *solange allgemeinere Theorien nicht zusätzliche kausale Faktoren
@@ -934,18 +1019,6 @@ Definitionen von Ursache nach der Kausaltheorie der minimalen Theorien
 und nach Kitchers Programm sind also *mit unseren Voraussetzungen*
 exakt deckungsgleich.
 
-Die Kausaltheorie der minimalen Theorien ist durchaus in der Lage, mit
-kausalen Analysen auf verschiedenen Detailstufen umzugehen. So kann
-der elektrische Strom in der Sichtweise des Elektronikers eine direkte
-Ursache des Lichts sein, während der Physiker eine komplexe
-Kausalkette ausgehend vom unterschiedlichen Potential an den beiden
-Anschlüssen bis hin zur Emission von Licht in den Dioden sieht. In
-der Kausaltheorie der minimalen Theorien sind das kausale Graphen auf
-verschiedenen Ebenen und das Prinzip der persistenten Relevanz
-fordert, dass dies auf behauptete kausale Beziehungen keinen Einfluss
-hat. Zudem können die verwendeten Begriffe der verschiedenen Ebenen
-nicht gemischt werden, da keine logischen Abhängigkeiten zwischen den
-Ereignistypen einer Koinzidenz bestehen dürfen.
 
 Folgerungen
 ===========
