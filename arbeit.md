@@ -1133,11 +1133,12 @@ $<$ und $\leq$ für die reellen Zahlen besteht.
 Der Vorteil von Kitchers Darstellung ist, dass er es vermeidet,
 Äquivalenzbedingungen für Argumentmuster und darauf aufbauend für
 Mengen von Argumentmustern festzulegen, wie dies in der folgenden
-Beschreibung von $\leq_C$ nötig sein wird. Auf der anderen Seite
-muss er Prinzip (O) und den Stringenzbegriff sehr vorsichtig
-definieren, um auf diese Äquivalenzbedingungen zu verzichten. Zudem
-werden die Beweise für die gemachten Behauptungen über die Ordnung (C)
-komplizierter.
+Beschreibung von $\leq_C$ nötig sein wird. Auf der anderen Seite muss
+er Prinzip (O) und den Stringenzbegriff sehr vorsichtig definieren, um
+auf diese Äquivalenzbedingungen zu verzichten. Zudem werden die
+folgenden Beweise für die von Kitcher übernommenen Behauptungen über die
+Ordnung (C) komplizierter, die ja auf diese Definitionen
+aufbauen.
 
 Die partielle Ordnung (T),(R)
 =============================
