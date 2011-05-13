@@ -210,7 +210,7 @@ Theorie einer Wirkung $W$ ein: $ABX_1 \vee CDX_2 \vee Y \Ra W$. In
 diesem Beispiel stehen $A$, $B$, $C$, $D$ und $W$ für bestimmte
 Ereignisstypen. Die Variablen $X_1, X_2$ sind Platzhalter für ein oder
 mehrere unbekannte oder uninteressante kausal relevante Faktoren,
-welche zusammen mit den entsprechenden bekannten und im Kontext
+die zusammen mit den entsprechenden bekannten und im Kontext
 interessanten kausal relevanten Faktoren auftretten müssen. $Y$
 schliesslich ist ein Platzhalter für ein oder mehrere unbekannte oder
 uninteressante alternative Ursachenbündel von $W$.  Insgesamt soll die
@@ -499,7 +499,7 @@ verschiedenen Ebenen um.
 Bei Baumgartner und Graßhoff werden die verschiedenen Ebenen auf denen
 kausale Schlüsse stattfinden können getrennt behandelt. Es gibt also
 nach @Baumgartner2004 [53] verschiedene, *getrennte* minimale
-Theorien, welche die gleichen Ereignisse unterschiedlich detailiert
+Theorien, die die gleichen Ereignisse unterschiedlich detailiert
 beschreiben.  Zum einen können die Begriffe auf den verschiedenen
 Ebenen nicht beliebig gemischt benutzt werden, da zwischen
 Ereignisstypen in einer Koinzidenz keine logischen Abhängigkeiten
@@ -518,7 +518,7 @@ Baumgartner und Graßhoff. Im folgenden Benutze ich also eine weiter
 vereinfachte Version von Kitchers Vereinheitlichungstheorie, in der
 nur die Ähnlichkeiten von Ableitungen mit Hilfe von Argumentmustern
 erfasst wird. Die Möglichkeit von inneren Ähnlichkeiten dieser
-Argumentmuster wiederum, welche nach Kitcher durch weitere
+Argumentmuster wiederum, die nach Kitcher durch weitere
 allgemeinere Argumentmuster erfasst werden, werde ich jedoch
 ausschliessen.
 
@@ -1073,7 +1073,7 @@ Existenz einer natürlichen Sprache $L_N$ postulieren, in der genau
 natürliche Eigenschaften projizierbar sind und Vereinheitlichung im
 Sinne Kitchers anhand dieser ausgezeichneten Sprache betrachten.
 
-Auf der anderen Seite kann ein Instrumentalist, welcher die
+Auf der anderen Seite kann ein Instrumentalist, der die
 Existenz oder Erkennbarkeit von natürlichen Prädikaten anzweifelt,
 trotzdem die Kausaltheorie der minimalen Theorien verwenden, in dem er
 Kitchers Behandlung von Sprachwechsel auf die in dieser Arbeit
@@ -1207,7 +1207,7 @@ Vereinfachung von Kitchers Vereinheitlichungsbegriffs
 =====================================================
 
 Im Haupttext wurde eine partielle Ordnung $\leq_C$ auf Mengen
-von Argumentmustern $U$, $V$ verwendet, welche *nicht* strikt ist. Das heisst
+von Argumentmustern $U$, $V$ verwendet, die *nicht* strikt ist. Das heisst
 für $\leq_C$ und beliebige Mengen von Argumentmuster $U$, $V$ und $W$
 gelten folgende Gesetze:
 
@@ -1260,9 +1260,9 @@ sind. $p$ ist genau dann stringenter als $q$, wenn zusätzlich die
 Instanzen von $p$ eine echte Teilmenge der Instanzen von $q$
 sind. [^echt]
 
-[^echt]: Eine echte Teilmenge $U \subset M$ ist eine Menge $U$, welche
+[^echt]: Eine echte Teilmenge $U \subset M$ ist eine Menge $U$, die
 in $M$ enthalten ist, aber nicht bereits ganz $M$ ist. Das heisst, es
-existiert ein Element $m \in M$, welches nicht in $U$ enthalten
+existiert ein Element $m \in M$, das nicht in $U$ enthalten
 ist. Im Gegensatz dazu kann eine unechte Teilmenge $U \subseteq M$
 auch bereits ganz $M$ sein, so dass kein solches $m \in M$ existiert.
 
