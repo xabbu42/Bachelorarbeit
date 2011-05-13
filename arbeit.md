@@ -5,9 +5,9 @@
 Einleitung
 ==========
 
-Kitcher verfolgt in seiner Arbeit "Explanatory unification and causal
-structure" [@Kitcher1989] das ambitiöse Ziel, den Begriff der
-Kausalität auf einen von ihm entwickelten Begriff der
+Kitcher verfolgt in seiner Arbeit "Explanatory Unification and the
+Causal Structure of the World" [@Kitcher1989] das ambitiöse Ziel, den
+Begriff der Kausalität auf einen von ihm entwickelten Begriff der
 Vereinheitlichung zurückzuführen.  In dieser Arbeit werde ich
 versuchen, eine konkrete Fassung dieses von Kitcher nur skizzierten
 Programms zu entwickeln. Eine wichtige Grundlage dieser konkreten
@@ -184,13 +184,13 @@ das Ursache einer gegeben Wirkung ist.
 Die minimale Theorie einer Wirkung $W$ ist eine Liste von
 Ereignisbündeln, die folgende zwei Bedingungen erfüllt:
 
-1. Jedes einzelne Bündel ist minimal hinreichend für die Wirkung
+1. Jedes einzelne Bündel ist *minimal hinreichend* für die Wirkung
    $W$. Das heisst, auf jede Instanz des Bündels folgt eine Instanz
    der Wirkung, und dies gilt nicht mehr sobald ein beliebiger
    Ereignistyp aus dem Bündel entfernt wird [@Baumgartner2004,
    103,104].
 
-2. Die Liste der Bündel insgesamt ist minimal notwendig für die
+2. Die Liste der Bündel insgesamt ist *minimal notwendig* für die
    Wirkung $W$. Das heisst, jeder Instanz der Wirkung $W$ geht eine
    Instanz mindestens eines Ereignisbündel aus der Liste voraus, und
    dies gilt nicht mehr, sobald ein beliebiges Ereignisbündel aus der
