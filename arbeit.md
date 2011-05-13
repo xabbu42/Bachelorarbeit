@@ -488,7 +488,7 @@ Methodik und wissenschaftliches Denken anwendbar ist und zu gültigen
 Kausalschlüssen führt, selbst wenn die allgemeineren Ebenen nicht
 bekannt sind. Es ist gültig und wissenschaftlich, einen direkten
 kausalen Zusammenhang zwischen dem Einschalten und dem Leuchten der
-Taschenlampe festzustellen, ohne die zugrundeliegenden Theorien aus
+Taschenlampe festzustellen, ohne die zugrunde liegenden Theorien aus
 der Elektronik zu kennen. Diese Bedingung wird wahrscheinlich sowohl
 von Baumgartner und Graßhoff [@Baumgartner2004, 10, 53] als auch von
 Kitcher [vgl. @Kitcher1989, 436 und 469] akzeptiert.  Baumgartner und
@@ -499,7 +499,7 @@ verschiedenen Ebenen um.
 Bei Baumgartner und Graßhoff werden die verschiedenen Ebenen auf denen
 kausale Schlüsse stattfinden können getrennt behandelt. Es gibt also
 nach @Baumgartner2004 [53] verschiedene, *getrennte* minimale
-Theorien, die die gleichen Ereignisse unterschiedlich detailiert
+Theorien, die die gleichen Ereignisse unterschiedlich detailliert
 beschreiben.  Zum einen können die Begriffe auf den verschiedenen
 Ebenen nicht beliebig gemischt benutzt werden, da zwischen
 Ereignisstypen in einer Koinzidenz keine logischen Abhängigkeiten
@@ -563,7 +563,7 @@ seiner Arbeit erläutert [vgl Kitcher1989, 463ff].
 
 Um so mehr erstaunt es also, dass Kitcher zum einen davon ausgeht,
 dass sich die kausale Struktur der Welt in der am besten
-vereinheitlichten Systematisierung all unseres Wissens wiederspiegelt,
+vereinheitlichten Systematisierung all unseres Wissens widerspiegelt,
 auf der anderen Seite aber Vereinheitlichung empirisch und auf der
 Grundlage von innerer Ähnlichkeiten verschiedener Ableitungen
 definieren will. Wie im letzten Abschnitt gesehen, gibt es auch nach
