@@ -1026,27 +1026,60 @@ Folgerungen
 Wissenschaftlicher Realismus und Instrumentalismus
 --------------------------------------------------
 
-Wie wir bereits mehrfach gesehen haben, gehen sowohl Kitcher wie auch
-Baumgartner und Graßhoff von einer Menge von ausgezeichneten
+Wie wir bereits im Kapitel 6.3 gesehen haben, gehen sowohl Kitcher wie
+auch Baumgartner und Graßhoff von einer Menge von ausgezeichneten
 Prädikaten aus, um gewisse logische Spielereien und Trivialisierungen
 zu vermeiden. Sie begründen diese ausgezeichneten Prädikate jedoch
 sehr verschieden. Insbesondere behandelt Kitcher gesondert die
 Möglichkeit, dass durch eine neue wissenschaftliche Sprache $L'$ sich
-diese Menge verändern kann, respektive, dass mehrere alternative Mengen
-von ausgezeichneten Prädikaten existieren, und die wissenschaftliche
-Gemeinschaft sich für eine solche Menge entscheiden muss
-[vgl. @Kitcher1989, 488ff].
+diese Menge verändern kann, respektive, dass mehrere alternative
+Mengen von ausgezeichneten Prädikaten existieren, und die
+wissenschaftliche Gemeinschaft sich für eine solche Menge entscheiden
+muss [vgl. @Kitcher1989, 488ff].
 
-Durch die in dieser Arbeit gezeigten Zusammenhänge sollte es möglich
-sein, Kitchers Behandlung von den sich dabei ergebenden Problemen auf
-eine Kausaltheorie der minimalen Theorien basierend auf projizierbare
-Prädikate zu übertragen. Diese Kausaltheorie wird dadurch interessant
-für Personen, die die Vorstellung von natürlichen Prädikaten nicht
-teilen. Selbst wenn man diese Vorstellung akzeptiert, verändert sich
-das Wissen darüber, was natürliche Eigenschaften sind. Kitchers
-Ausführungen könnten deshalb aufschlussreich zur Behandlung solcher
-radikaler kausaler Schlüsse sein.
- 
+Diese Unterschiede in der Beschreibung der ausgezeichneten Prädikate
+implizieren eine sehr verschiedene Sichtweise der Wissenschaft und der
+wissenschaftlichen Sprache. Bei Baumgartner und Graßhoff entsprechen
+die benutzten Prädikate real existierenden Eigenschaften. Sie gehen
+demnach vom Standpunkt des wissenschaftlichen Realismus aus, wonach
+die in den wissenschaftlichen Theorien verwendeten Entitäten und damit
+auch deren Eigenschaften unabhängig von diesen Theorien
+existieren. Kitchers Beschreibung der projizierbaren Prädikate und
+deren Verwendung zum aufbau einer empirischen
+Vereinheitlichungstheorie scheinen eher eine instrumentalistische
+Sichtweise zu implizieren. So kann nach Kitcher eine neue Sprache
+entwickelt werden, wonach andere Prädikate projizierbar werden und
+damit andere Argumentmuster gültig. Diese neue Sprache muss nur zu
+einer besser vereinheitlichten, empirisch ädaquaten Systematisierung
+des gesamten Wissensschatzes $K$ führen, um die alte Sprache zu
+ersetzen.
+
+Im Kapitel 6.3 war der wesentliche Punkt, dass weder Baumgartner und
+Graßhoff noch Kitcher die genaue Begründung und Beschreibung der
+ausgezeichneten Prädikate in ihren Theorien verwenden, und diese
+deshalb für die These dieser Arbeit gleichgesetzt werden dürfen.
+Umgekehrt kann man aber auch die unterschiedliche Behandlung der
+ausgezeichneten Prädikate auf die jeweils andere Theorie übertragen,
+insofern man in diesen Punkten jeweils nicht mit den jeweiligen
+Authoren übereinstimmt.
+
+So ist eine Diskussion und Lösung der Probleme von natürlichen
+Prädikaten für einen wissenschaftlichen Realisten auf Kitchers
+Vereinheitlichungstheorie übertragbar, falls für diesen Kitchers
+Behandlung von Sprachwechsel nicht überzeugend ist. Er kann also die
+Existenz einer natürlichen Sprache $L_N$ postulieren, in der genau
+natürliche Eigenschaften projizierbar sind und Vereinheitlichung im
+Sinne Kitchers anhand dieser ausgezeichneten Sprache betrachten.
+
+Auf der anderen Seite kann ein Instrumentalist, welcher die
+Existenz oder Erkennbarkeit von natürlichen Prädikaten anzweifelt,
+trotzdem die Kausaltheorie der minimalen Theorien verwenden, in dem er
+Kitchers Behandlung von Sprachwechsel auf die in dieser Arbeit
+entwickelten kausalen Argumentmuster anwendet und damit eine
+Kausaltheorie der minimalen Theorien aufbauend auf projizierbare
+Prädikate in einer beliebigen Sprache $L$ entwickelt.
+
+
 Kettenproblem
 -------------
 
