@@ -149,7 +149,7 @@ Kausalität auch besonders für ihre Anwendung in Kitchers Programm an,
 in dem ebenfalls eine empirische Definition von Kausalität
 angestrebt wird [@Kitcher1989, 460].
 
-@Baumgartner2004 [44 ff] identifizieren Koinzidenzen als die
+@Baumgartner2004 [44ff] identifizieren Koinzidenzen als die
 wesentliche empirische Grundlage einer Kausaltheorie. Eine Koinzidenz
 ist eine Konjunktion von logisch unabhängigen Ereignistypen, die
 gemeinsam, d.h. in geeigneter zeitlicher und räumlicher Nähe,
@@ -205,7 +205,7 @@ Schlussendlich ist ein Faktor $A$ kausal relevant für eine Wirkung
 $W$, wenn $A$ entweder direkt oder indirekt kausal relevant für diese
 Wirkung ist [@Baumgartner2004, 105].
 
-@Baumgartner2004 [106 ff] führten folgende Notation für die minimale
+@Baumgartner2004 [106ff] führten folgende Notation für die minimale
 Theorie einer Wirkung $W$ ein: $ABX_1 \vee CDX_2 \vee Y \Ra W$. In
 diesem Beispiel stehen $A$, $B$, $C$, $D$ und $W$ für bestimmte
 Ereignisstypen. Die Variablen $X_1, X_2$ sind Platzhalter für ein oder
@@ -363,7 +363,7 @@ statistische Argumente nach Kitcher nur dann erklärend sein, wenn sie
 als Hinweis auf ein zugrundeliegendes unbekanntes deduktives Argument
 aufgefasst werden [@Kitcher1989, 449]. Daraus ergibt sich auch, dass
 aus Kitchers Vereinheitlichungstheorie keine probabilistische
-Kausaltheorie folgen kann [vgl @Baumgartner2004, 122 ff].
+Kausaltheorie folgen kann [vgl @Baumgartner2004, 122ff].
 
 Im folgenden werde ich nur ein Ausschnitt von Kitchers
 Vereinheitlichungsbegriff wiedergeben, und diesen Ausschnitt zudem
@@ -559,7 +559,7 @@ kann deshalb davon ausgehen, dass nur empirische Begriffe projizierbar
 sind. Es gibt aber starke und begründete Zweifel daran, ob diese
 alternativen Kausaltheorien tatsächlich mit Hilfe von empirischen
 Begriffen formulierbar sind.  Viele davon wurden von Kitcher selbst in
-seiner Arbeit erläutert [vgl Kitcher1989, 463 ff].
+seiner Arbeit erläutert [vgl Kitcher1989, 463ff].
 
 Um so mehr erstaunt es also, dass Kitcher zum einen davon ausgeht,
 dass sich die kausale Struktur der Welt in der am besten
@@ -1094,7 +1094,7 @@ werden müssen, sondern insgesamt für sämtliche kausal erklärten
 Ereignisse.
 
 Dadurch wird die von Baumgartner und Graßhoff vorgeschlagene Lösung des
-Kettenproblems  [@Baumgartner2004, 295 ff], nämlich die Regel RIF,
+Kettenproblems  [@Baumgartner2004, 295ff], nämlich die Regel RIF,
 wonach Faktorenverschränkungen immer kausal zu interpretieren sind
 [@Baumgartner2004, 306], in die Kausaltheorie der minimalen Theorien
 eingebettet. 
