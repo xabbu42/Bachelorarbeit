@@ -1,6 +1,6 @@
 % Minimale Theorien und Kitchers Vereinheitlichungstheorie
 % Nathan Gass
-% 31. März 2011
+% 13. Mai 2011
 
 Einleitung
 ==========
@@ -1041,12 +1041,12 @@ demnach vom Standpunkt des wissenschaftlichen Realismus aus, wonach
 die in den wissenschaftlichen Theorien verwendeten Entitäten und damit
 auch deren Eigenschaften unabhängig von diesen Theorien
 existieren. Kitchers Beschreibung der projizierbaren Prädikate und
-deren Verwendung zum aufbau einer empirischen
+deren Verwendung zum Aufbau einer empirischen
 Vereinheitlichungstheorie scheinen eher eine instrumentalistische
 Sichtweise zu implizieren. So kann nach Kitcher eine neue Sprache
 entwickelt werden, wonach andere Prädikate projizierbar werden und
 damit andere Argumentmuster gültig. Diese neue Sprache muss nur zu
-einer besser vereinheitlichten, empirisch ädaquaten Systematisierung
+einer besser vereinheitlichten, empirisch adäquaten Systematisierung
 des gesamten Wissensschatzes $K$ führen, um die alte Sprache zu
 ersetzen.
 
@@ -1057,7 +1057,7 @@ deshalb für die These dieser Arbeit gleichgesetzt werden dürfen.
 Umgekehrt kann man aber auch die unterschiedliche Behandlung der
 ausgezeichneten Prädikate auf die jeweils andere Theorie übertragen,
 insofern man in diesen Punkten jeweils nicht mit den jeweiligen
-Authoren übereinstimmt.
+Autoren übereinstimmt.
 
 So ist eine Diskussion und Lösung der Probleme von natürlichen
 Prädikaten für einen wissenschaftlichen Realisten auf Kitchers
