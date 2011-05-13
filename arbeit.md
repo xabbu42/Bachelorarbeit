@@ -491,10 +491,8 @@ kausalen Zusammenhang zwischen dem Einschalten und dem Leuchten der
 Taschenlampe festzustellen, ohne die zugrunde liegenden Theorien aus
 der Elektronik zu kennen. Diese Bedingung wird wahrscheinlich sowohl
 von Baumgartner und Graßhoff [@Baumgartner2004, 10, 53] als auch von
-Kitcher [vgl. @Kitcher1989, 436 und 469] akzeptiert.  Baumgartner und
-Graßhoff auf der einen Seite und Kitcher auf der anderen Seite gehen
-jedoch sehr unterschiedlich mit diesen überdeckenden Theorien auf
-verschiedenen Ebenen um.
+Kitcher [vgl. @Kitcher1989, 436 und 469] akzeptiert, aber auf sehr
+verschiedene Weise behandelt.
 
 Bei Baumgartner und Graßhoff werden die verschiedenen Ebenen auf denen
 kausale Schlüsse stattfinden können getrennt behandelt. Es gibt also
@@ -511,17 +509,12 @@ Bei Kitcher dagegen gibt es nur eine beste Systematisierung $E(K)$ von
 $K$, in der alle Schlüsse auf allen Ebenen enthalten sind. Zudem gibt
 es auch innere Ähnlichkeiten zwischen spezifischen Argumentmustern,
 die durch weitere allgemeinere Argumentmuster erfasst werden
-[vgl. @Kitcher1989, 484]. Wie wir noch sehen werden erklärt dieser
+[vgl. @Kitcher1989, 484]. Wie wir noch sehen werden, erklärt dieser
 Unterschied einige Diskrepanzen zwischen der Vereinheitlichungstheorie
 von Kitcher und der Kausalitätstheorie der minimalen Theorien von
-Baumgartner und Graßhoff. Im folgenden Benutze ich also eine weiter
+Baumgartner und Graßhoff. Im folgenden benutze ich deshalb eine weiter
 vereinfachte Version von Kitchers Vereinheitlichungstheorie, in der
-nur die Ähnlichkeiten von Ableitungen mit Hilfe von Argumentmustern
-erfasst wird. Die Möglichkeit von inneren Ähnlichkeiten dieser
-Argumentmuster wiederum, die nach Kitcher durch weitere
-allgemeinere Argumentmuster erfasst werden, werde ich jedoch
-ausschliessen.
-
+der Einfluss von allgemeineren Theorien ausgeschlossen wird.
 
 Logische Struktur von kausalen Argumentmuster
 ---------------------------------------------
@@ -1204,8 +1197,8 @@ Ereignisse der Welt zu erklären.
 
 APPENDIX
 
-Vereinfachung von Kitchers Vereinheitlichungsbegriffs
-=====================================================
+Vereinfachung von Kitchers Vereinheitlichungsbegriff
+====================================================
 
 Im Haupttext wurde eine partielle Ordnung $\leq_C$ auf Mengen
 von Argumentmustern $U$, $V$ verwendet, die *nicht* strikt ist. Das heisst
