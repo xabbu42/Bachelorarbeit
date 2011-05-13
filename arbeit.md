@@ -468,11 +468,11 @@ $V$ ist. $S$ ist genau dann besser vereinheitlicht als $T$, wenn $V
 Argumentation
 =============
 
-Ebenen von Theorien
--------------------
+Allgemeine und spezielle Theorien
+---------------------------------
 
 Sowohl Kitcher wie auch Baumgartner und Graßhoff gehen explizit
-darauauf ein, dass die selben Phänomene auf verschiedenen Ebenen
+darauf ein, dass die selben Phänomene auf verschiedenen Ebenen
 betrachtet werden können. So kennen die meisten Menschen einen
 direkten kausalen Zusammenhang zwischen dem Einschalten einer
 Taschenlampe und deren Aufleuchten. Ein Elektroniker dagegen sieht den
@@ -485,7 +485,7 @@ komplexen Beschreibung des Leuchtens der Taschenlampe endet.
 
 Entscheidend ist, dass auf all diesen Ebenen wissenschaftliche
 Methodik und wissenschaftliches Denken anwendbar ist und zu gültigen
-Kausalschlüssen führt, selbst wenn die detailierteren Ebenen nicht
+Kausalschlüssen führt, selbst wenn die allgemeineren Ebenen nicht
 bekannt sind. Es ist gültig und wissenschaftlich, einen direkten
 kausalen Zusammenhang zwischen dem Einschalten und dem Leuchten der
 Taschenlampe festzustellen, ohne die zugrundeliegenden Theorien aus
@@ -566,12 +566,13 @@ dass sich die kausale Struktur der Welt in der am besten
 vereinheitlichten Systematisierung all unseres Wissens wiederspiegelt,
 auf der anderen Seite aber Vereinheitlichung empirisch und auf der
 Grundlage von innerer Ähnlichkeiten verschiedener Ableitungen
-definieren will. Wie im letzten Abschnitt gesehen, kann es auch nach
-Kitcher keine allgemeine innere Struktur von kausalen Argumentmustern
-geben. Die innere Struktur der von Kitcher gemachten Beispielen lässt
-sich deshalb immer auf eine zusätzliche Systematisierung von kausalen
-Argumentmuster selber oder auf einen Zusammenhang mit Theorien auf
-einer anderen Ebene zurückführen. Da wir diesen Aspekt von Kitchers
+definieren will. Wie im letzten Abschnitt gesehen, gibt es auch nach
+Kitcher anscheinend keine *allgemeine* innere Struktur von kausalen
+Argumentmustern. Die innere Struktur der von Kitcher gemachten
+Beispielen lässt sich deshalb immer auf eine zusätzliche
+Vereinheitlichung der kausalen Argumentmuster selber oder auf einen
+Zusammenhang mit Theorien auf einer allgemeineren Ebene
+zurückführen. Da wir diesen Aspekt von Kitchers
 Vereinheitlichungstheorie jedoch weglassen wollen, reduziert sich auch
 Kitchers Vereinheitlichungstheorie auf die im folgenden entwickelten
 kausalen Argumentmuster mit einer sehr einfachen logischen Struktur.
