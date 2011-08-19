@@ -1,6 +1,3 @@
-% Minimale Theorien und Kitchers Vereinheitlichungstheorie
-% Nathan Gass
-% 13. Mai 2011
 
 Einleitung
 ==========
