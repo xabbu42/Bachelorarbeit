@@ -5,3 +5,4 @@ mendeley.xml
 *.log
 *.out
 *.pdf
+!arbeit.pdf
